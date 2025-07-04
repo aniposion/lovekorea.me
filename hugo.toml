@@ -1,0 +1,13 @@
+baseURL = "https://lovekorea.me/"
+languageCode = "ko-kr"
+title = "러브코리아 블로그"
+theme = "PaperMod"
+hasCJKLanguage = true
+defaultContentLanguage = "ko"
+
+[pagination]
+pagerSize = 10
+
+[params]
+ShowReadingTime = true
+ShowToc = true
