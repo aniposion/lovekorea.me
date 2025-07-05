@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lovekorea.me/categories/</loc>
     <lastmod>2025-07-04T22:21:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-07-04-how-to-make-kimchi/</loc>
+    <loc>https://lovekorea.me/posts/2025-07-04-how-to-make-kimchi/</loc>
     <lastmod>2025-07-04T22:21:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/k-food/</loc>
+    <loc>https://lovekorea.me/categories/k-food/</loc>
     <lastmod>2025-07-04T22:21:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lovekorea.me/posts/</loc>
     <lastmod>2025-07-04T22:21:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lovekorea.me/</loc>
     <lastmod>2025-07-04T22:21:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/k-travel/</loc>
+    <loc>https://lovekorea.me/categories/k-travel/</loc>
     <lastmod>2025-07-04T22:21:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-07-04-seoul-travel-guide/</loc>
+    <loc>https://lovekorea.me/posts/2025-07-04-seoul-travel-guide/</loc>
     <lastmod>2025-07-04T22:21:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-07-04-best-korean-drama-2025/</loc>
+    <loc>https://lovekorea.me/posts/2025-07-04-best-korean-drama-2025/</loc>
     <lastmod>2025-07-04T22:20:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/k-drama/</loc>
+    <loc>https://lovekorea.me/categories/k-drama/</loc>
     <lastmod>2025-07-04T22:20:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/k-music/</loc>
+    <loc>https://lovekorea.me/categories/k-music/</loc>
     <lastmod>2025-07-04T22:20:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-07-04-kpop-new-album/</loc>
+    <loc>https://lovekorea.me/posts/2025-07-04-kpop-new-album/</loc>
     <lastmod>2025-07-04T22:20:46+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lovekorea.me/tags/</loc>
   </url>
 </urlset>

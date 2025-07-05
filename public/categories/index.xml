@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 러브코리아 블로그</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://lovekorea.me/categories/</link>
     <description>Recent content in Categories on 러브코리아 블로그</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>ko-kr</language>
     <lastBuildDate>Fri, 04 Jul 2025 22:21:16 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lovekorea.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>K-Food</title>
-      <link>http://localhost:1313/categories/k-food/</link>
+      <link>https://lovekorea.me/categories/k-food/</link>
       <pubDate>Fri, 04 Jul 2025 22:21:16 +0000</pubDate>
-      <guid>http://localhost:1313/categories/k-food/</guid>
+      <guid>https://lovekorea.me/categories/k-food/</guid>
       <description></description>
     </item>
     <item>
       <title>K-Travel</title>
-      <link>http://localhost:1313/categories/k-travel/</link>
+      <link>https://lovekorea.me/categories/k-travel/</link>
       <pubDate>Fri, 04 Jul 2025 22:21:07 +0000</pubDate>
-      <guid>http://localhost:1313/categories/k-travel/</guid>
+      <guid>https://lovekorea.me/categories/k-travel/</guid>
       <description></description>
     </item>
     <item>
       <title>K-Drama</title>
-      <link>http://localhost:1313/categories/k-drama/</link>
+      <link>https://lovekorea.me/categories/k-drama/</link>
       <pubDate>Fri, 04 Jul 2025 22:20:57 +0000</pubDate>
-      <guid>http://localhost:1313/categories/k-drama/</guid>
+      <guid>https://lovekorea.me/categories/k-drama/</guid>
       <description></description>
     </item>
     <item>
       <title>K-Music</title>
-      <link>http://localhost:1313/categories/k-music/</link>
+      <link>https://lovekorea.me/categories/k-music/</link>
       <pubDate>Fri, 04 Jul 2025 22:20:46 +0000</pubDate>
-      <guid>http://localhost:1313/categories/k-music/</guid>
+      <guid>https://lovekorea.me/categories/k-music/</guid>
       <description></description>
     </item>
   </channel>
