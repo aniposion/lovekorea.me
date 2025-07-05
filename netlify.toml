@@ -1,0 +1,7 @@
+netlify.toml
+
+[[redirects]]
+  from = "https://www.lovekorea.me/*"
+  to = "https://lovekorea.me/:splat"
+  status = 301
+  force = true
