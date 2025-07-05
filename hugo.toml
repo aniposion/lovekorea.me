@@ -10,6 +10,14 @@ defaultContentLanguage = "en"
   pagerSize = 10
 
 [params]
+  ShowPostIcons = true
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+    heroImage = "/images/hero.jpg"
+
   author = "LoveKorea"
   description = "A blog for people around the world who love Korean culture"
   ShowReadingTime = true
@@ -20,10 +28,10 @@ defaultContentLanguage = "en"
   defaultTheme = "auto"
   disableThemeToggle = false
   DateFormat = "2006-01-02"
-
+  
   [params.homeInfoParams]
     Title = "Welcome to LoveKorea"
-    Content = "Discover Korean food, beauty, music, language, and more!"
+    Content = "Discover food, fashion, K-pop, drama, and everything about Korean culture!"
 
   [params.assets]
     disableFingerprinting = false
