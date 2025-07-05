@@ -1,6 +1,6 @@
 ---
 title: "seoul travel guide"
-date: 2025-07-05T17:20:59.623118
+date: 2025-07-05T17:39:45.619649
 draft: false
 categories:
   - k-travel
@@ -8,62 +8,50 @@ categories:
 
 ![seoul travel guide](/images/2025-07-05-seoul-travel-guide.jpg)
 
-# Your Ultimate Seoul Travel Guide: Discover the Magic of South Korea’s Vibrant Capital
+# Seoul Travel Guide: A Day in the City from a Local's View
 
-Hey there! So, you’re planning a trip to Seoul, huh? Well, buckle up because you’re in for a treat. As someone who’s wandered through the busy streets of this electrifying city, let me tell you, it’s got something for everyone. Whether you’re a history buff, a shopaholic, or a food lover, Seoul has you covered.
+Hey there! So, last week I had a blast showing my Belgian friend Colin around Seoul. We'd met during my college days, and when he told me he was visiting, I just knew I had to give him a day to remember in this bustling city.
 
-## Arriving in Seoul
-![Arriving in Seoul](/images/2025-07-05-seoul-travel-guide-h2-1.jpg)
-
-
-### The First Step: Getting to the City
-
-You’ll probably land at Incheon International Airport, which—believe me—is as impressive as everyone's been saying. When I first landed, honestly, I was a bit overwhelmed by how vast it felt, but it’s super efficient. From there, the Airport Railroad Express (AREX) is a straightforward choice to get into the heart of Seoul. If you’re anything like me and run on coffee, there are plenty of spots to grab a quick latte before you hit the city.
-
-### Navigating the City: A Small Adventure
-
-The Seoul Metro is your best friend here. It’s so comprehensive that I felt like I could spend my whole trip underground! But seriously, it’s affordable and easy to use. Just make sure to get a T-money card, which you can top up as you go. Real talk—don’t be a hero like me and try to navigate without it... it’s a lifesaver.
-
-## Where to Stay
-![Where to Stay](/images/2025-07-05-seoul-travel-guide-h2-2.jpg)
+## Meeting at Jonggak: Where the Journey Begins
+![Meeting at Jonggak: Where the Journey Begins](/images/2025-07-05-seoul-travel-guide-h2-1.jpg)
 
 
-### Cozy Corners: Where to Sleep
+Our day kicked off at Jonggak Station. I remember standing by the bustling crowd waiting for Colin. Honestly... I was a bit nervous. Would he love Seoul as much as I do? But then, we met up and headed straight to **Bosingak**. Just hearing the bell's story was, honestly, a moment that kind of makes you appreciate how tradition and modernity coexist here.
 
-Accommodations in Seoul range from budget to luxury. If you’re into the bustling vibe, Hongdae is vibrant and full of life. You’ll hear music blaring from cafes and see performers lining the street, and truth be told, it’s a little slice of energetic heaven. Alternatively, Gangnam is a bit more upscale if chic and shiny is more your style.
-
-### My Unique Experience
-
-I stayed at a guesthouse in Bukchon Hanok Village. One of those traditional Korean homes with its warm wooden floors... and wow, was it an atmosphere! Waking up to the quiet of those ancient streets felt like I was stepping back in time. The downside? Maybe the mornings were just a tad too quiet if you’re used to city noise, but I found it relaxing.
-
-## Exploring the Sights
-![Exploring the Sights](/images/2025-07-05-seoul-travel-guide-h2-3.jpg)
+## Wandering Through Insadong and Bukchon
+![Wandering Through Insadong and Bukchon](/images/2025-07-05-seoul-travel-guide-h2-2.jpg)
 
 
-### History and Culture
+From Bosingak, we wandered over to **Insadong**, a place that's basically a paradise for anyone looking to dive into Korean culture. Walking through its alleyways, with art and craft shops on either side, you get that feeling... you know, like you're stepping back in time, but also seeing Seoul's modern day personality.
 
-Start with Gyeongbokgung Palace. I know, everyone says this, but seriously, it’s majestic. Watching the changing of the guard ceremony gave me goosebumps. You can almost feel the whispers of history around you.
+And Bukchon, oh my… that's a feast for the eyes. Those hanoks (traditional Korean houses) have such a charm about them that I might have to move there someday! 😂 It's like every corner has a story to tell.
 
-### Modern Marvels
-
-Don’t miss out on the dynamic Dongdaemun Design Plaza. Even if you’re not into architecture, it looks... kind of like a spaceship landed in the middle of the city, which is pretty wild. Just make sure you’ve charged your camera—those Instagram shots aren’t going to take themselves!
-
-## Food and Fun
-![Food and Fun](/images/2025-07-05-seoul-travel-guide-h2-4.jpg)
+## A Taste of Korea: Naengmyeon and Mandu
+![A Taste of Korea: Naengmyeon and Mandu](/images/2025-07-05-seoul-travel-guide-h2-3.jpg)
 
 
-### A Taste of Seoul
+Walking made us quite hungry. So, I treated Colin to **Naengmyeon** and some **Mandu**. Now, naengmyeon, if you haven't tried it yet, is a cold noodle dish that's perfect, especially when you're overheating from all the walking. Colin was a bit unsure at first (I mean, cold noodles?!), but he admitted it was surprisingly refreshing.
 
-If you’re in Korea, you have to try street food. Tteokbokki, the spicy rice cakes, are a personal favorite. They’re super addictive and, well, maybe not the best for my decision not to eat past midnight—but hey, that’s part of the travel experience!
+While munching, we got talking about the global spread of Korean cuisine. Colin joked about starting a Korean food truck back home. Who knows? Maybe it's time Korea takes over Belgium one mandu at a time!
 
-### Nightlife
-
-The night doesn’t end early in Seoul. Karaoke, or noraebang, is a must. Whether you sound like a K-pop star or not, it’s hilarious fun after a few drinks. Who knew belting out 'Gangnam Style' with strangers could be... strangely bonding?
-
-## Final Thoughts
-![Final Thoughts](/images/2025-07-05-seoul-travel-guide-h2-5.jpg)
+## Evening BBQ and Somaek with Emily
+![Evening BBQ and Somaek with Emily](/images/2025-07-05-seoul-travel-guide-h2-4.jpg)
 
 
-Seoul is a city that lives and breathes excitement. There’s so much I still haven’t explored, and to be honest, I can’t wait for my next trip… even if I’m still a bit clueless about some things. But that’s the beauty of travel, right? Always something new to discover, and always a few surprises along the way.
+As the day was wrapping up, we joined my friend Emily for some good ol' **pork BBQ** followed by *somaek* (soju and beer combo). Now, if anyone wants to experience Seoul like a local, this is the way to do it. The sizzling pork and the laughter over drinks – it's moments like these that make life here so vibrant.
 
-So pack your bags, grab this guide, and prepare for an unforgettable adventure. Annyeong!
+## Mastering Seoul's Public Transport
+![Mastering Seoul's Public Transport](/images/2025-07-05-seoul-travel-guide-h2-5.jpg)
+
+
+Ah, and a side note for anyone planning a visit: navigating Seoul's maze of transportation could seem daunting at first, but trust me, it's super convenient once you get the hang of it. We used the *Kakao Bus* and *Taxi app* to hop from one place to another effortlessly. It's as simple as plugging in your destination, and off you go.
+
+The buses and subways are integrated with automated info systems. Honestly, it's like the city does half the thinking for you. So don't worry, you won't find yourself stranded in the middle of nowhere, promise!
+
+## Ending Thoughts
+![Ending Thoughts](/images/2025-07-05-seoul-travel-guide-h2-6.jpg)
+
+
+In the end, even though Colin and I come from different corners of the world, navigating Seoul together brought this refreshing perspective. You start seeing the familiar through someone else's eyes, and it's like falling in love with the city all over again. Seoul, with its endless blend of the old and the new, never disappoints.
+
+If you ever find yourself here, just immerse yourself and maybe take a friend's advice: the best way to see Seoul is to get pleasantly lost. 😊
