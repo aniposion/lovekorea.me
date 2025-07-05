@@ -25,15 +25,6 @@ defaultContentLanguage = "en"
   [params.assets]
     disableFingerprinting = false
 
-  [params.socialIcons]
-    [[params.socialIcons]]
-      name = "GitHub"
-      url = "https://github.com/yourusername"
-
-    [[params.socialIcons]]
-      name = "Instagram"
-      url = "https://instagram.com/yourpage"
-
 [menu]
   [[menu.main]]
     name = "Home"
