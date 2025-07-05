@@ -1,6 +1,6 @@
 ---
 title: "how to make kimchi"
-date: 2025-07-04T21:58:20.833509
+date: 2025-07-04T22:13:40.566984
 draft: false
 categories:
   - k-food
@@ -8,41 +8,51 @@ categories:
 
 ![how to make kimchi](/images/2025-07-04-how-to-make-kimchi.jpg)
 
-# How to Make Kimchi
+# 손쉽게 만드는 맛있는 김치 레시피
 
-## Introduction
+안녕하세요, 여러분! 요즘 '김치를 직접 만들어보고 싶어요'라는 이야기를 많이 듣는데요. 사실 제가 김치를 처음 만들었을 때, 정말 긴장했었어요. 그래서 오늘은 제가 매번 만들어 먹는 김치 레시피를 여러분과 공유하려고 해요. 진짜 어렵지 않으니까 걱정 말고 시작해 봅시다!
 
-Kimchi, a staple in Korean cuisine, is not only delicious but also packed with probiotics and nutrients. In this guide, we will walk you through the process of making traditional kimchi at home.
+## 김치 재료 준비하기
 
-## Ingredients
+김치를 만들기 전에, 먼저 준비해야 할 재료들부터 알아볼게요. 필요한 재료는 다음과 같아요.
 
-- 1 napa cabbage
-- 1 cup of Korean radish, julienned
-- 1/2 cup of Korean salted shrimp
-- 1/3 cup of fish sauce
-- 1/2 cup of Korean red chili pepper flakes
-- 1/4 cup of sugar
-- 1/4 cup of minced garlic
-- 1/4 cup of minced ginger
-- Green onions, chopped
-- Carrots, julienned
+- 배추: 1포기
+- 굵은 소금: 약간
+- 고춧가루: 1컵
+- 생강: 1조각
+- 마늘: 10쪽
+- 양파: 1개
+- 멸치액젓: 1컵
+- 설탕: 2큰술
+- 쪽파: 한 주먹
+- 무: 1/4개 
 
-## Steps
+배추는 저는 가급적 좋은 걸 사려고 하는 편이에요. 배추가 신선해야 김치가 더 맛있더라고요.
 
-1. **Prepare the Cabbage**: Cut the napa cabbage in half lengthwise, then chop it into bite-sized pieces. Sprinkle salt between the leaves and let it sit for a few hours.
+## 김치 절이는 방법
 
-2. **Rinse and Drain**: Rinse the cabbage thoroughly to remove excess salt. Squeeze out any excess water and set it aside.
+배추를 절일 때는 조금 손이 많이 가긴 하지만, 요령만 알면 괜찮아요.
 
-3. **Make the Kimchi Paste**: In a bowl, combine the Korean salted shrimp, fish sauce, red chili pepper flakes, sugar, garlic, and ginger. Mix well to create a paste.
+1. *배추 자르기*: 배추를 길게 반으로 자르고 흐르는 물에 잘 씻어주세요.
+2. *소금 절이기*: 배춧잎 사이사이에 굵은 소금을 뿌려주세요. 이때 소금이 골고루 스며들도록 살짝 눌러주는 게 좋아요.
+3. *절이기*: 약 2~3시간 동안 절여주시면 돼요. 중간중간 배추를 뒤집어 주세요. 배추가 잘 절여졌다면 부드럽게 휘어질 거예요.
 
-4. **Mix Ingredients**: Add the radish, green onions, and carrots to the paste, and mix until well combined.
+## 양념 만들기
 
-5. **Coat the Cabbage**: Coat each piece of cabbage with the kimchi paste, ensuring it is evenly distributed.
+양념이 맛있어야 김치가 진짜 맛있잖아요?
 
-6. **Fermentation**: Place the kimchi in a clean, airtight container, pressing down to remove air bubbles. Let it ferment at room temperature for a day or two, then refrigerate.
+- *양념 재료 손질*: 생강, 마늘, 양파를 잘게 다집니다. 저는 살짝 곱게 다져야 양념이 잘 어우러져서 좋더라고요.
+- *양념 혼합*: 큰 그릇에 고춧가루, 다진 생강, 마늘, 양파, 멸치액젓, 설탕을 넣고 잘 섞어주세요.
 
-7. **Enjoy**: Your homemade kimchi is now ready to be enjoyed! Serve it as a side dish, in stews, or fried rice for a burst of flavor.
+## 김치에 양념 넣기
 
-## Conclusion
+이제 절인 배추에 양념을 발라줄 차례에요. 배추 잎 사이사이에 양념을 잘 발라주세요. 쪽파와 무도 함께 넣으면 좋습니다.
 
-Making kimchi at home is a rewarding experience that allows you to customize the flavors to your liking. Get creative with your ingredients and spice levels to create a kimchi that suits your taste buds. Start fermenting your own batch today and enjoy the health benefits of this iconic Korean dish!
+## 김치 숙성하기
+
+양념 바른 김치는 숨을 좀 쉬도록 하루 정도 실온에서 놔두고, 이후에 냉장고에 보관하면 됩니다. 처음 만들면 김치가 아주 신선하고 아삭하게 느껴질 거예요. 시간이 지날수록 맛이 익어가니, 점점 달라지는 맛을 느껴보세요.
+
+## 마무리
+이렇게 집에서 쉽게 김치를 만들어 볼 수 있어요. 솔직히 처음엔 어설플 수도 있지만, 두세 번 만들어보면 금방 익숙해질 거예요. 저는 아직도 새로운 양념 조합을 시도해보면서 더 맛있는 김치를 만들어보려 애쓰고 있답니다. 여러분도 도전해보세요!
+
+맛있는 김치로 행복한 밥상 차리세요! 다음에 더 재미있는 레시피로 만나요~
