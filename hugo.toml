@@ -16,16 +16,12 @@ defaultContentLanguage = "en"
   ShowShareButtons = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
-    heroImage = "/images/hero.jpg"
+  heroImage = "/images/hero.jpg"
 
   author = "LoveKorea"
   description = "A blog for people around the world who love Korean culture"
-  ShowReadingTime = true
-  ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
   ShowToc = true
-  defaultTheme = "auto"
   disableThemeToggle = false
   DateFormat = "2006-01-02"
   
