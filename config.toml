@@ -1,27 +1,12 @@
 baseURL = "https://lovekorea.me/"
-languageCode = "ko-kr"
+languageCode = "en-us"
 title = "Love Korea"
-theme = "PaperMod"  # 테마 이름에 맞게 수정
+theme = "PaperMod"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
 paginate = 10
 
-[menu]
+[params]
+  description = "A blog for K-culture lovers. Discover Korean food, beauty, drama, and more!"
+  keywords = ["Korean culture", "Korean food", "K-beauty", "K-dramas", "Learn Korean", "K-pop", "Visit Korea"]
 
-[[menu.main]]
-  name = "K-FOOD"
-  url = "/k-food/"
-  weight = 1
-
-[[menu.main]]
-  name = "K-Beauty"
-  url = "/k-beauty/"
-  weight = 2
-
-[[menu.main]]
-  name = "K-Music"
-  url = "/k-music/"
-  weight = 3
-
-[[menu.main]]
-  name = "K-Drama"
-  url = "/k-drama/"
-  weight = 4
