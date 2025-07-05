@@ -3,34 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-07-04T22:21:16+00:00</lastmod>
+    <lastmod>2025-07-05T17:40:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-07-05-how-to-make-kimchi/</loc>
+    <lastmod>2025-07-05T17:40:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/k-food/</loc>
+    <lastmod>2025-07-05T17:40:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-05T17:40:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-05T17:40:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/k-travel/</loc>
+    <lastmod>2025-07-05T17:39:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-07-05-seoul-travel-guide/</loc>
+    <lastmod>2025-07-05T17:39:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-07-05-best-korean-drama-2025/</loc>
+    <lastmod>2025-07-05T17:39:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/k-drama/</loc>
+    <lastmod>2025-07-05T17:39:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/k-music/</loc>
+    <lastmod>2025-07-05T17:38:58+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-07-05-kpop-new-album/</loc>
+    <lastmod>2025-07-05T17:38:58+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-07-04-how-to-make-kimchi/</loc>
     <lastmod>2025-07-04T22:21:16+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/k-food/</loc>
-    <lastmod>2025-07-04T22:21:16+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-04T22:21:16+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-04T22:21:16+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/k-travel/</loc>
-    <lastmod>2025-07-04T22:21:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-07-04-seoul-travel-guide/</loc>
     <lastmod>2025-07-04T22:21:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-07-04-best-korean-drama-2025/</loc>
     <lastmod>2025-07-04T22:20:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/k-drama/</loc>
-    <lastmod>2025-07-04T22:20:57+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/k-music/</loc>
-    <lastmod>2025-07-04T22:20:46+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025-07-04-kpop-new-album/</loc>
     <lastmod>2025-07-04T22:20:46+00:00</lastmod>
