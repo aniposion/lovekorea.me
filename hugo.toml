@@ -1,13 +1,56 @@
 baseURL = "https://lovekorea.me/"
-languageCode = "ko-kr"
-title = "러브코리아 블로그"
+languageCode = "en"
+title = "LoveKorea Blog"
 theme = "PaperMod"
-hasCJKLanguage = true
-defaultContentLanguage = "ko"
-
-[pagination]
-pagerSize = 10
+enableRobotsTXT = true
+paginate = 10
+defaultContentLanguage = "en"
 
 [params]
-ShowReadingTime = true
-ShowToc = true
+  author = "LoveKorea"
+  description = "A blog for people around the world who love Korean culture"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  DateFormat = "2006-01-02"
+
+  [params.homeInfoParams]
+    Title = "Welcome to LoveKorea"
+    Content = "Discover Korean food, beauty, music, language, and more!"
+
+  [params.assets]
+    disableFingerprinting = false
+
+  [params.socialIcons]
+    [[params.socialIcons]]
+      name = "GitHub"
+      url = "https://github.com/yourusername"
+
+    [[params.socialIcons]]
+      name = "Instagram"
+      url = "https://instagram.com/yourpage"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
