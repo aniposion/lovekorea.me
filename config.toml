@@ -10,3 +10,18 @@ paginate = 10
   description = "A blog for K-culture lovers. Discover Korean food, beauty, drama, and more!"
   keywords = ["Korean culture", "Korean food", "K-beauty", "K-dramas", "Learn Korean", "K-pop", "Visit Korea"]
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
