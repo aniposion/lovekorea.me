@@ -3,8 +3,11 @@ languageCode = "en"
 title = "LoveKorea Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
-paginate = 10
+
 defaultContentLanguage = "en"
+
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "LoveKorea"
