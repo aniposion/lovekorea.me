@@ -3,7 +3,6 @@ title: "Surviving EDC Korea 2025: The Ultimate EDM Experience in Incheon"
 date: 2025-07-09T16:01:53.245355
 draft: false
 comments: true
-ShowPostNavLinks: false
 categories:
   - k-music
 ---
