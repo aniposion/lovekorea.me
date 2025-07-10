@@ -6,3 +6,24 @@
   data-page-title="{{ .Title }}">
 ></div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<!-- ✅ 댓글창 textarea 자동 높이 조정 -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const observer = new MutationObserver(() => {
+      const textarea = document.querySelector('#cusdis_thread textarea');
+      if (textarea) {
+        textarea.style.overflow = 'hidden';
+        textarea.style.resize = 'none';
+
+        textarea.addEventListener('input', () => {
+          textarea.style.height = 'auto';
+          textarea.style.height = textarea.scrollHeight + 'px';
+        });
+
+        observer.disconnect();
+      }
+    });
+
+    observer.observe(document.body, { childList: true, subtree: true });
+  });
+</script>
