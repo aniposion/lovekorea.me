@@ -23,7 +23,10 @@ defaultContentLanguage = "en"
 
   [params.homeInfoParams]
     Title = "Welcome to LoveKorea"
-    Content = "Discover Korean food, beauty, music, language, and more!"
+    Content = "Discover food, fashion, K-pop, drama, and everything about Korean culture!"
+    ShowButton = true
+    ButtonText = "Explore Now"
+    ButtonLink = "/categories"
 
   [params.assets]
     disableFingerprinting = false

@@ -20,4 +20,42 @@
     background-color: #f0f0f0;
     border-radius: 6px;
   }
+  .hero {
+    background-color: #f7f7f7; /* 연회색 배경 */
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .hero-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .hero h1 {
+    font-size: 2.8rem;
+    font-weight: bold;
+    color: #e60023; /* 포인트 컬러 */
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    color: #444;
+    margin-bottom: 30px;
+  }
+  
+  .hero-button {
+    display: inline-block;
+    background-color: #e60023;
+    color: #fff;
+    padding: 12px 28px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+  }
+  
+  .hero-button:hover {
+    background-color: #c7001e;
+  }
   
