@@ -6,62 +6,55 @@
     <description>Recent content in Categories on LoveKorea Blog</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Jul 2025 22:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 11:42:15 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Architecture and Travel</title>
-      <link>http://localhost:1313/categories/architecture-and-travel/</link>
-      <pubDate>Sat, 05 Jul 2025 22:29:27 +0000</pubDate>
-      <guid>http://localhost:1313/categories/architecture-and-travel/</guid>
+      <title>K-Fashion</title>
+      <link>http://localhost:1313/categories/k-fashion/</link>
+      <pubDate>Fri, 18 Jul 2025 11:42:15 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-fashion/</guid>
       <description></description>
     </item>
     <item>
-      <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
-      <pubDate>Sat, 05 Jul 2025 22:26:26 +0000</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <title>K-Beauty</title>
+      <link>http://localhost:1313/categories/k-beauty/</link>
+      <pubDate>Thu, 17 Jul 2025 17:09:26 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-beauty/</guid>
       <description></description>
     </item>
     <item>
-      <title>Food &amp; Travel</title>
-      <link>http://localhost:1313/categories/food--travel/</link>
-      <pubDate>Sat, 05 Jul 2025 22:22:45 +0000</pubDate>
-      <guid>http://localhost:1313/categories/food--travel/</guid>
+      <title>K-Travel</title>
+      <link>http://localhost:1313/categories/k-travel/</link>
+      <pubDate>Tue, 15 Jul 2025 19:04:46 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-travel/</guid>
       <description></description>
     </item>
     <item>
-      <title>Beauty</title>
-      <link>http://localhost:1313/categories/beauty/</link>
-      <pubDate>Sat, 05 Jul 2025 22:21:46 +0000</pubDate>
-      <guid>http://localhost:1313/categories/beauty/</guid>
+      <title>K-Food</title>
+      <link>http://localhost:1313/categories/k-food/</link>
+      <pubDate>Mon, 14 Jul 2025 09:08:37 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-food/</guid>
       <description></description>
     </item>
     <item>
-      <title>Travel &amp; Culture</title>
-      <link>http://localhost:1313/categories/travel--culture/</link>
-      <pubDate>Sat, 05 Jul 2025 22:20:41 +0000</pubDate>
-      <guid>http://localhost:1313/categories/travel--culture/</guid>
+      <title>K-Lifestyle</title>
+      <link>http://localhost:1313/categories/k-lifestyle/</link>
+      <pubDate>Fri, 11 Jul 2025 12:53:37 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-lifestyle/</guid>
       <description></description>
     </item>
     <item>
-      <title>Beauty &amp; Skincare</title>
-      <link>http://localhost:1313/categories/beauty--skincare/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/beauty--skincare/</guid>
+      <title>K-Tech</title>
+      <link>http://localhost:1313/categories/k-tech/</link>
+      <pubDate>Thu, 10 Jul 2025 16:13:40 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-tech/</guid>
       <description></description>
     </item>
     <item>
-      <title>Entertainment</title>
-      <link>http://localhost:1313/categories/entertainment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/entertainment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food and Culture</title>
-      <link>http://localhost:1313/categories/food-and-culture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/food-and-culture/</guid>
+      <title>K-Music</title>
+      <link>http://localhost:1313/categories/k-music/</link>
+      <pubDate>Wed, 09 Jul 2025 16:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-music/</guid>
       <description></description>
     </item>
   </channel>
