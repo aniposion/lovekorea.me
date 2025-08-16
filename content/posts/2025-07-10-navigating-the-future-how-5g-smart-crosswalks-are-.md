@@ -4,6 +4,11 @@ date: 2025-07-10T16:13:40.380849
 draft: false
 categories:
   - k-tech
+cover:
+    image: "/images/navigating-the-future-how-5g-smart-crosswalks-are-.webp"
+    alt: "navigating-the-future-how-5g-smart-crosswalks-are-.webp"
+    caption: "navigating-the-future-how-5g-smart-crosswalks-are-.webp"
+    relative: true
 ---
 ![Navigating the future how 5g smart crosswalks are ](/images/navigating-the-future-how-5g-smart-crosswalks-are-.webp)
 

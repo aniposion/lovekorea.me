@@ -4,6 +4,11 @@ date: 2025-07-12T11:07:27.568507
 draft: false
 categories:
   - k-beauty
+cover:
+    image: "/images/discovering-cool-the-rise-of-cooling-aftershave-in.webp"
+    alt: "discovering-cool-the-rise-of-cooling-aftershave-in.webp"
+    caption: "discovering-cool-the-rise-of-cooling-aftershave-in.webp"
+    relative: true
 ---
 ![Discovering cool the rise of cooling aftershave in](/images/discovering-cool-the-rise-of-cooling-aftershave-in.webp)
 

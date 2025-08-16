@@ -4,6 +4,11 @@ date: 2025-07-14T09:08:37.465639
 draft: false
 categories:
   - k-food
+cover:
+    image: "/images/exploring-the-2025-patbingsu-craze-my-sweet-summer.webp"
+    alt: "2025 patbingsu craze my sweet summer"
+    caption: "2025 patbingsu craze my sweet summer"
+    relative: true
 ---
 ![Exploring the 2025 patbingsu craze my sweet summer](/images/exploring-the-2025-patbingsu-craze-my-sweet-summer.webp)
 

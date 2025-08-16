@@ -4,6 +4,11 @@ date: 2025-07-17T17:09:26.638548
 draft: false
 categories:
   - k-beauty
+cover:
+    image: "/images/unlocking-the-secret-to-pore-perfection-my-korean-.webp"
+    alt: "Unlocking the secret to pore perfection my korean"
+    caption: "Unlocking the secret to pore perfection my korean"
+    relative: true
 ---
 ![Unlocking the secret to pore perfection my korean ](/images/unlocking-the-secret-to-pore-perfection-my-korean-.webp)
 

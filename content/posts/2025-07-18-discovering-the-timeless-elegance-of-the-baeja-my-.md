@@ -4,6 +4,11 @@ date: 2025-07-18T11:42:15.613603
 draft: false
 categories:
   - k-fashion
+cover:
+    image: "/images/discovering-the-timeless-elegance-of-the-baeja-my-.webp"
+    alt: "Baeja traditional Korean clothing"
+    caption: "Elegant summer outfit"
+    relative: true
 ---
 ![Discovering the timeless elegance of the baeja my ](/images/discovering-the-timeless-elegance-of-the-baeja-my-.webp)
 

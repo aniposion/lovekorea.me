@@ -4,6 +4,11 @@ date: 2025-07-11T12:53:37.593518
 draft: false
 categories:
   - k-lifestyle
+cover:
+    image: "/images/discovering-seouls-han-river-pools-a-splishsplash-.webp"
+    alt: "discovering-seouls-han-river-pools-a-splishsplash-.webp"
+    caption: "discovering-seouls-han-river-pools-a-splishsplash-.webp"
+    relative: true
 ---
 ![Discovering seouls han river pools a splishsplash ](/images/discovering-seouls-han-river-pools-a-splishsplash-.webp)
 

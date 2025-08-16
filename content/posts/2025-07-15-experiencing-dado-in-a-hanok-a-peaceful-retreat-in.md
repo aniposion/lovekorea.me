@@ -4,6 +4,11 @@ date: 2025-07-15T19:04:46.127861
 draft: false
 categories:
   - k-travel
+cover:
+    image: "/images/experiencing-dado-in-a-hanok-a-peaceful-retreat-in.webp"
+    alt: "experiencing-dado-in-a-hanok-a-peaceful-retreat-in"
+    caption: "experiencing-dado-in-a-hanok-a-peaceful-retreat-in"
+    relative: true
 ---
 ![Experiencing dado in a hanok a peaceful retreat in](/images/experiencing-dado-in-a-hanok-a-peaceful-retreat-in.webp)
 

@@ -4,6 +4,11 @@ date: 2025-07-09T17:15:01.822805
 draft: false
 categories:
   - k-lifestyle
+cover:
+    image: "/images/my-first-ride-on-the-korean-waves-a-surfing-advent.webp"
+    alt: "my-first-ride-on-the-korean-waves-a-surfing-advent.webp"
+    caption: "my-first-ride-on-the-korean-waves-a-surfing-advent.webp"
+    relative: true
 ---
 ![My first ride on the korean waves a surfing advent](/images/my-first-ride-on-the-korean-waves-a-surfing-advent.webp)
 

@@ -20,6 +20,9 @@ defaultContentLanguage = "en"
   defaultTheme = "auto"
   disableThemeToggle = false
   DateFormat = "2006-01-02"
+  ShowCodeCopyButtons  = true
+  ShowCover  = true
+  ShowSummaryCover  = true
 
   [params.homeInfoParams]
     Title = "Welcome to LoveKorea"

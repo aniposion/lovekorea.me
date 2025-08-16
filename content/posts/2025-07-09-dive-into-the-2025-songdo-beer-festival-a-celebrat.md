@@ -4,6 +4,12 @@ date: 2025-07-09T14:45:43.646804
 draft: false
 categories:
   - k-lifestyle
+cover:
+    image: "/images/dive-into-the-2025-songdo-beer-festival-a-celebrat.webp"
+    alt: "Dive into the 2025 songdo beer festival a celebrat"
+    caption: "songdo beer festival"
+    relative: true
+---
 ---
 ![Dive into the 2025 songdo beer festival a celebrat](/images/dive-into-the-2025-songdo-beer-festival-a-celebrat.webp)
 

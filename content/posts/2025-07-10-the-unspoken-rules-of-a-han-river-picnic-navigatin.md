@@ -4,6 +4,11 @@ date: 2025-07-10T14:08:13.101150
 draft: false
 categories:
   - k-lifestyle
+cover:
+    image: "/images/the-unspoken-rules-of-a-han-river-picnic-navigatin.webp"
+    alt: "the-unspoken-rules-of-a-han-river-picnic-navigatin.webp"
+    caption: "the-unspoken-rules-of-a-han-river-picnic-navigatin.webp"
+    relative: true
 ---
 ![The unspoken rules of a han river picnic navigatin](/images/the-unspoken-rules-of-a-han-river-picnic-navigatin.webp)
 

@@ -5,6 +5,11 @@ draft: false
 comments: true
 categories:
   - k-music
+cover:
+    image: "/images/surviving-edc-korea-2025-the-ultimate-edm-experien.webp"
+    alt: "surviving-edc-korea-2025-the-ultimate-edm-experien.webp"
+    caption: "surviving-edc-korea-2025-the-ultimate-edm-experien.webp"
+    relative: true
 ---
 ![Surviving edc korea 2025 the ultimate edm experien](/images/surviving-edc-korea-2025-the-ultimate-edm-experien.webp)
 

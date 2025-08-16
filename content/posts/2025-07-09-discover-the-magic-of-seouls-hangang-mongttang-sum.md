@@ -4,6 +4,12 @@ date: 2025-07-09T11:37:18.001167
 draft: false
 categories:
   - k-travel
+cover:
+    image: "/images/discover-the-magic-of-seouls-hangang-mongttang-sum.webp"
+    alt: "the magic of seouls hanriver mongttang sum"
+    caption: "magic of seouls hanriver"
+    relative: true
+---
 ---
 ![Discover the magic of seouls hangang mongttang sum](/images/discover-the-magic-of-seouls-hangang-mongttang-sum.webp)
 
