@@ -9,6 +9,7 @@ cover:
   alt: "Discovering 2025s hottest korean beauty gems"
   caption: "Discovering 2025s hottest korean beauty gems"
   relative: true
+ShowToc: true
 ---
 ![Discovering 2025s hottest korean beauty gems](/images/discovering-2025s-hottest-korean-beauty-gems.webp)
 

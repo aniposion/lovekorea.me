@@ -9,6 +9,7 @@ cover:
     alt: "2025 patbingsu craze my sweet summer"
     caption: "2025 patbingsu craze my sweet summer"
     relative: true
+ShowToc: true
 ---
 ![Exploring the 2025 patbingsu craze my sweet summer](/images/exploring-the-2025-patbingsu-craze-my-sweet-summer.webp)
 

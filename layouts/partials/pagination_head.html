@@ -1,0 +1,4 @@
+{{ with .Paginator }}
+  {{ if .HasPrev }}<link rel="prev" href="{{ .Prev.URL }}">{{ end }}
+  {{ if .HasNext }}<link rel="next" href="{{ .Next.URL }}">{{ end }}
+{{ end }}

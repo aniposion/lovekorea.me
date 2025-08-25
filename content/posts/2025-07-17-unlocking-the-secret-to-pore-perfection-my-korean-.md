@@ -9,6 +9,7 @@ cover:
     alt: "Unlocking the secret to pore perfection my korean"
     caption: "Unlocking the secret to pore perfection my korean"
     relative: true
+ShowToc: true
 ---
 ![Unlocking the secret to pore perfection my korean ](/images/unlocking-the-secret-to-pore-perfection-my-korean-.webp)
 

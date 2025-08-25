@@ -1,0 +1,21 @@
+<article class="lk-card">
+    <a class="lk-thumb" href="{{ .RelPermalink }}">
+      {{ with .Params.cover.image }}
+        <img src="{{ . | absURL }}" alt="{{ . | default $.Title }}" loading="lazy" decoding="async">
+      {{ end }}
+    </a>
+    <div class="lk-card-body">
+      <h2 class="lk-card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <div class="lk-card-meta">
+        <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
+        <span>· {{ .ReadingTime }} min read</span>
+      </div>
+      <p class="lk-card-desc">{{ .Summary | plainify | truncate 140 }}</p>
+      {{ with .Params.tags }}
+        <div class="lk-tags">
+          {{ range first 3 . }}<a class="lk-tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </article>
+  

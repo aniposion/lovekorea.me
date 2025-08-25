@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on LoveKorea Blog</title>
+    <link>https://lovekorea.me/categories/</link>
+    <description>Recent content in Categories on LoveKorea Blog</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Aug 2025 17:46:32 +0000</lastBuildDate>
+    <atom:link href="https://lovekorea.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K-Fashion</title>
+      <link>https://lovekorea.me/categories/k-fashion/</link>
+      <pubDate>Sat, 16 Aug 2025 17:46:32 +0000</pubDate>
+      <guid>https://lovekorea.me/categories/k-fashion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Beauty</title>
+      <link>https://lovekorea.me/categories/k-beauty/</link>
+      <pubDate>Sat, 16 Aug 2025 17:40:44 +0000</pubDate>
+      <guid>https://lovekorea.me/categories/k-beauty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Travel</title>
+      <link>https://lovekorea.me/categories/k-travel/</link>
+      <pubDate>Tue, 15 Jul 2025 19:04:46 +0000</pubDate>
+      <guid>https://lovekorea.me/categories/k-travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Food</title>
+      <link>https://lovekorea.me/categories/k-food/</link>
+      <pubDate>Mon, 14 Jul 2025 09:08:37 +0000</pubDate>
+      <guid>https://lovekorea.me/categories/k-food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Lifestyle</title>
+      <link>https://lovekorea.me/categories/k-lifestyle/</link>
+      <pubDate>Fri, 11 Jul 2025 12:53:37 +0000</pubDate>
+      <guid>https://lovekorea.me/categories/k-lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Tech</title>
+      <link>https://lovekorea.me/categories/k-tech/</link>
+      <pubDate>Thu, 10 Jul 2025 16:13:40 +0000</pubDate>
+      <guid>https://lovekorea.me/categories/k-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Music</title>
+      <link>https://lovekorea.me/categories/k-music/</link>
+      <pubDate>Wed, 09 Jul 2025 16:12:00 +0000</pubDate>
+      <guid>https://lovekorea.me/categories/k-music/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

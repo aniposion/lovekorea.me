@@ -1,0 +1,19 @@
+{{/* 마크다운 이미지 렌더러: srcset + lazy */}}
+{{ $src := .Destination | safeURL }}
+{{ $alt := .Text | default $.Page.Title }}
+{{ $img := resources.Get (strings.TrimPrefix "/" $src) }}
+{{ if $img }}
+  {{ $w480  := $img.Fit "480x"  }}
+  {{ $w800  := $img.Fit "800x"  }}
+  {{ $w1200 := $img.Fit "1200x" }}
+  <img
+    src="{{ $w800.RelPermalink }}"
+    srcset="{{ $w480.RelPermalink }} 480w, {{ $w800.RelPermalink }} 800w, {{ $w1200.RelPermalink }} 1200w"
+    sizes="(max-width: 768px) 92vw, 800px"
+    alt="{{ $alt }}"
+    loading="lazy"
+    decoding="async"
+  />
+{{ else }}
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async" />
+{{ end }}

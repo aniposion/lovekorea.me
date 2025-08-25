@@ -9,6 +9,7 @@ cover:
     alt: "discovering-cool-the-rise-of-cooling-aftershave-in.webp"
     caption: "discovering-cool-the-rise-of-cooling-aftershave-in.webp"
     relative: true
+ShowToc: true
 ---
 ![Discovering cool the rise of cooling aftershave in](/images/discovering-cool-the-rise-of-cooling-aftershave-in.webp)
 

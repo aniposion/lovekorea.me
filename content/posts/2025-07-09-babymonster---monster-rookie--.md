@@ -9,7 +9,8 @@ cover:
     alt: "BABYMONSTER 데뷔 앨범 ‘Monster Rookie’ 완벽 분석"
     caption: "BABYMONSTER"
     relative: true
----
+ShowToc: true
+
 ---
 ![Babymonster   monster rookie  ](/images/babymonster---monster-rookie--.webp)
 

@@ -9,7 +9,7 @@ cover:
     alt: "the magic of seouls hanriver mongttang sum"
     caption: "magic of seouls hanriver"
     relative: true
----
+ShowToc: true
 ---
 ![Discover the magic of seouls hangang mongttang sum](/images/discover-the-magic-of-seouls-hangang-mongttang-sum.webp)
 

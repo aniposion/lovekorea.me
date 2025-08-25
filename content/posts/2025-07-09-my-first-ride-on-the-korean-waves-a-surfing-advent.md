@@ -9,6 +9,8 @@ cover:
     alt: "my-first-ride-on-the-korean-waves-a-surfing-advent.webp"
     caption: "my-first-ride-on-the-korean-waves-a-surfing-advent.webp"
     relative: true
+ShowToc: true
+
 ---
 ![My first ride on the korean waves a surfing advent](/images/my-first-ride-on-the-korean-waves-a-surfing-advent.webp)
 

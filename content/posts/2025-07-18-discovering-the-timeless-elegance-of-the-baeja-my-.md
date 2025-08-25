@@ -9,6 +9,7 @@ cover:
     alt: "Baeja traditional Korean clothing"
     caption: "Elegant summer outfit"
     relative: true
+ShowToc: true
 ---
 ![Discovering the timeless elegance of the baeja my ](/images/discovering-the-timeless-elegance-of-the-baeja-my-.webp)
 

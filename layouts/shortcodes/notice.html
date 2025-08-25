@@ -1,0 +1,5 @@
+<div class="lk-note {{ .Get "type" | default "info" }}">
+    <strong>{{ .Get "title" | default "Note" }}</strong>
+    <div>{{ .Inner | markdownify }}</div>
+  </div>
+  
