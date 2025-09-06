@@ -10,13 +10,12 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date()); 
   gtag('config', 'G-2RHGK56598');
-</script>
-<link rel="stylesheet" href="/css/custom.css"><meta name="description" content="Discover Korean food, beauty, music, language, and more!"><link rel="canonical" href="http://localhost:1313/posts/">
+</script><meta name="description" content="Discover Korean food, beauty, music, language, and more!"><link rel="canonical" href="http://localhost:1313/posts/">
 <meta property="og:locale" content="en">
 
 <meta property="og:locale:alternate" content="en">
 
-<link crossorigin="anonymous" href="/assets/css/stylesheet.36819bea596090d8b48cf10d9831382996197aa7e4fc86f792f7c08c9ca4d23b.css" integrity="sha256-NoGb6llgkNi0jPENmDE4KZYZeqfk/Ib3kvfAjJyk0js=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d072faff40f3f4053ca662cc536aa4a3261a9f356c7804753353b23cc783a423.css" integrity="sha256-0HL6/0Dz9AU8pmLMU2qkoyYanzVseAR1M1OyPMeDpCM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -67,88 +66,26 @@
 </noscript>
 </head>
 
-<body class="list" id="top"><!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>LoveKorea</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-    }
-
-    header {
-      background-color: #ffffff;
-      border-bottom: 1px solid #eaeaea;
-      padding: 10px 40px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .site-title {
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: #e60023;  
-      text-decoration: none;
-    }
-
-    nav ul {
-      display: flex;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-
-    nav li {
-      margin-left: 30px;
-    }
-
-    nav a {
-      text-decoration: none;
-      color: #333;
-      font-weight: 500;
-      transition: color 0.3s;
-    }
-
-    nav a:hover {
-      color: #e60023;
-    }
-
-    @media (max-width: 768px) {
-      header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-      nav ul {
-        flex-direction: column;
-        width: 100%;
-        margin-top: 10px;
-      }
-      nav li {
-        margin: 8px 0;
-      }
-    }
-  </style>
-</head>
-<body>
-
-  <header>
+<body class="list" id="top"><header class="site-header">
+  <div class="header-inner">
+    
     <a href="/" class="site-title">LoveKorea</a>
-    <nav>
-      <ul>
+
+    
+    <nav class="main-nav" aria-label="Main">
+      <ul style="font-size:24px;">
         
           <li><a href="/">Home</a></li>
         
           <li><a href="/categories/">Categories</a></li>
         
-          <li><a href="/tags/">Tags</a></li>
-        
           <li><a href="/about/">About</a></li>
         
       </ul>
+    </nav>
+
+    
+    <div class="header-right">
       <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js" defer></script>
 <div id="search"></div>
@@ -158,13 +95,117 @@
   });
 </script>
 
-    </nav>
-  </header>
+    </div>
+  </div>
+</header>
 
-</body>
-</html>
+<style>
+  :root {
+    --header-pad-x: 40px;
+    --header-pad-y: 10px;
+    --header-border: #eaeaea;
+    --brand: #e60023;
+  }
+
+   
+  .site-header{
+    position: sticky;   
+    top: 0;
+    z-index: 9999;
+    background: #fff;
+    border-bottom: 1px solid var(--header-border);
+  }
+
+   
+  .header-inner{
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 20px;
+    padding: var(--header-pad-y) var(--header-pad-x);
+  }
+
+  .site-title{
+    justify-self: start;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--brand);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .main-nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size:24px;
+  }
+
+  .main-nav a{
+  position: relative;        
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color .2s ease;
+  padding-bottom: 4px;       
+}
+
+.main-nav a::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--brand);
+  transition: width .3s ease;
+}
+
+.main-nav a:hover{
+  color: var(--brand);
+}
+
+.main-nav a:hover::after{
+  width: 100%;
+}
+
+
+  .header-right{
+    justify-self: end;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+   
+  @media (max-width: 768px){
+    .header-inner{
+      grid-template-columns: 1fr;    
+      gap: 10px;
+    }
+
+    .site-title{
+      justify-self: center;          
+    }
+
+    .header-right{
+      justify-self: center;          
+    }
+
+    .main-nav ul{
+      gap: 18px;
+      flex-wrap: wrap;               
+       
+    }
+  }
+</style>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a></div>
+<header class="page-header">
+
   <h1>
     Welcome to LoveKorea
   </h1>
@@ -172,6 +213,7 @@
     Discover Korean food, beauty, music, language, and more!
   </div>
 </header>
+<div class="posts-grid">
 
 <article class="post-entry"> 
 <figure class="entry-cover">
@@ -182,30 +224,11 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Discovering Korean Summer Fashion: When Hanbok Meets Modern Style Hey there! Have you ever taken a stroll through a summer street in Korea and thought, “Wow, that outfit is stunning but there’s something different about it?” I recently found myself captivated by this exact thought, and little did I know, it was due to the infusion of traditional hanbok elements into contemporary summer fashion. Yep, hanbok! The graceful and vibrant attire traditionally worn in Korea.
+    <p>Discovering Korean Summer Fashion: When Hanbok Meets Modern Style Hey there! Have you ever taken a stroll through a summer street in Korea and thought, “Wow, that outfit is stunning but there’s something different about it?” I recently found myself captivated by this exact thought, and little did I know, it was due to the infusion of traditional hanbok elements into contemporary summer fashion. Yep, hanbok! The graceful and vibrant attire traditionally worn in Korea.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2025-08-16 17:46:32.589064 +0000 UTC'>2025-08-16</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;LoveKorea</footer>
   <a class="entry-link" aria-label="post link to Discovering Korean Summer Fashion: When Hanbok Meets Modern Style" href="http://localhost:1313/posts/2025-08-16-discovering-korean-summer-fashion-when-hanbok-meet/"></a>
-</article>
-
-<article class="post-entry"> 
-<figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/images/discovering-2025s-hottest-korean-beauty-gems.webp" alt="Discovering 2025s hottest korean beauty gems">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Discovering 2025&#39;s Hottest Korean Beauty Gems
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>
-Discovering 2025’s Hottest Korean Beauty Gems Hey there, beauty explorers! 🌼 Ever find yourself wondering what’s brewing in the world of K-beauty this year? Well, I’ve been diving deep into some of the latest trends and products that have captured both my imagination and my heart.
-My Love Affair with Eco-Friendly Beauty First things first—sustainability is everywhere. Seriously, who would’ve thought that I’d find myself excited over things like biodegradable packaging and refillable containers? But here we are! Korean beauty brands have really upped their game, crafting concoctions that are good for both your skin and our lovely planet. And honestly, it feels pretty great to know that the products I’m using are helping reduce my carbon footprint. Are you as obsessed with this trend as I am?
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-08-16 17:40:44.034542 +0000 UTC'>2025-08-16</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;LoveKorea</footer>
-  <a class="entry-link" aria-label="post link to Discovering 2025&#39;s Hottest Korean Beauty Gems" href="http://localhost:1313/posts/2025-08-16-discovering-2025s-hottest-korean-beauty-gems/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -217,8 +240,7 @@ My Love Affair with Eco-Friendly Beauty First things first—sustainability is e
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Discovering the Timeless Elegance of the Baeja: My Summer Style Adventure Hey friends! 🌞 Have you ever stumbled upon a piece of clothing that you didn’t really expect to fall in love with? Last weekend, I had the chance to try on a ‘배자’ (baeja) in the simmering summer heat of Seoul, and it was quite the experience!
+    <p>Discovering the Timeless Elegance of the Baeja: My Summer Style Adventure Hey friends! 🌞 Have you ever stumbled upon a piece of clothing that you didn’t really expect to fall in love with? Last weekend, I had the chance to try on a ‘배자’ (baeja) in the simmering summer heat of Seoul, and it was quite the experience!
 What Is a Baeja, Anyway? ...</p>
   </div>
   <footer class="entry-footer"><span title='2025-07-18 11:42:15.613603 +0000 UTC'>2025-07-18</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;LoveKorea</footer>
@@ -234,8 +256,7 @@ What Is a Baeja, Anyway? ...</p>
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Unlocking the Secret to Pore Perfection: My Korean Herbal Skincare Journey Let’s chat about something I’m sure many of us can relate to: those pesky pores! We’ve all been there, staring into the mirror, wishing they were a bit less prominent. Recently, I dove deep into the world of Korean herbal cosmetics, hoping to find a secret elixir to tighten these tiny gateways on our skin.
+    <p>Unlocking the Secret to Pore Perfection: My Korean Herbal Skincare Journey Let’s chat about something I’m sure many of us can relate to: those pesky pores! We’ve all been there, staring into the mirror, wishing they were a bit less prominent. Recently, I dove deep into the world of Korean herbal cosmetics, hoping to find a secret elixir to tighten these tiny gateways on our skin.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2025-07-17 17:09:26.638548 +0000 UTC'>2025-07-17</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;LoveKorea</footer>
@@ -251,8 +272,7 @@ Unlocking the Secret to Pore Perfection: My Korean Herbal Skincare Journey Let�
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Experiencing Dado in a Hanok: A Peaceful Retreat into Korean Tradition I never imagined that a simple tea ceremony could offer such a profound sense of peace. But there I was, sitting in the warm embrace of a traditional hanok, savoring every sip of my tea as if it was a soothing balm for the soul.
+    <p>Experiencing Dado in a Hanok: A Peaceful Retreat into Korean Tradition I never imagined that a simple tea ceremony could offer such a profound sense of peace. But there I was, sitting in the warm embrace of a traditional hanok, savoring every sip of my tea as if it was a soothing balm for the soul.
 Enter the World of Hanoks ...</p>
   </div>
   <footer class="entry-footer"><span title='2025-07-15 19:04:46.127861 +0000 UTC'>2025-07-15</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;LoveKorea</footer>
@@ -268,8 +288,7 @@ Enter the World of Hanoks ...</p>
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Exploring the 2025 Patbingsu Craze: My Sweet Summer Adventure Hey there! If you’re anything like me, summer in Korea is synonymous with one cool delight: patbingsu. 😍 Recently, I took a little culinary tour to discover what’s new in the patbingsu scene for 2025, and let me tell you, it’s more exciting (and delicious) than ever!
+    <p>Exploring the 2025 Patbingsu Craze: My Sweet Summer Adventure Hey there! If you’re anything like me, summer in Korea is synonymous with one cool delight: patbingsu. 😍 Recently, I took a little culinary tour to discover what’s new in the patbingsu scene for 2025, and let me tell you, it’s more exciting (and delicious) than ever!
 Fusion Flavors: A World in a Bowl ...</p>
   </div>
   <footer class="entry-footer"><span title='2025-07-14 09:08:37.465639 +0000 UTC'>2025-07-14</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;LoveKorea</footer>
@@ -285,8 +304,7 @@ Fusion Flavors: A World in a Bowl ...</p>
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Discovering Cool: The Rise of Cooling Aftershave in Korean Men’s Grooming I never thought I’d be writing about aftershave, to be honest. But here I am, diving into the icy depths of cooling aftershaves — a trend that’s taking the Korean men’s grooming scene by storm. Have you ever considered how refreshing a soothing, cooling splash would feel after a close shave? I hadn’t either until I stumbled upon a little bottle promising to transform my post-shave irritation into a spa-like experience. Intrigued? Let’s explore this chill trend together.
+    <p>Discovering Cool: The Rise of Cooling Aftershave in Korean Men’s Grooming I never thought I’d be writing about aftershave, to be honest. But here I am, diving into the icy depths of cooling aftershaves — a trend that’s taking the Korean men’s grooming scene by storm. Have you ever considered how refreshing a soothing, cooling splash would feel after a close shave? I hadn’t either until I stumbled upon a little bottle promising to transform my post-shave irritation into a spa-like experience. Intrigued? Let’s explore this chill trend together.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2025-07-12 11:07:27.568507 +0000 UTC'>2025-07-12</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;LoveKorea</footer>
@@ -302,8 +320,7 @@ Discovering Cool: The Rise of Cooling Aftershave in Korean Men’s Grooming I ne
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Discovering Seoul’s Han River Pools: A Splish-Splash Review for 2025 Hey there, fellow summer enthusiasts! ☀️
+    <p>Discovering Seoul’s Han River Pools: A Splish-Splash Review for 2025 Hey there, fellow summer enthusiasts! ☀️
 If you’re anything like me, the thought of finding a refreshing escape from the sweltering heat of a Korean summer sends little waves of joy through your brain. And what better way to do that than to dip into one of Seoul’s beloved Han River outdoor swimming pools? I recently decided I’d compare a few, and, oh boy, do I have some thoughts (and a bit of chlorine) to share!
 ...</p>
   </div>
@@ -320,8 +337,7 @@ If you’re anything like me, the thought of finding a refreshing escape from th
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-Navigating the Future: How 5G Smart Crosswalks Are Changing Korea’s Streets Hey friends,
+    <p>Navigating the Future: How 5G Smart Crosswalks Are Changing Korea’s Streets Hey friends,
 So, I was out for a stroll the other day here in Seoul and, while waiting at a crosswalk, I noticed something pretty cool. The crosswalk started lighting up in a crazy intelligent way, and I couldn’t help but think, “What’s this all about?” Curious me had to dig deeper — and turns out, it’s part of an exciting technology overhaul: 5G-based smart crosswalks.
 ...</p>
   </div>
@@ -338,13 +354,30 @@ So, I was out for a stroll the other day here in Seoul and, while waiting at a c
     </h2>
   </header>
   <div class="entry-content">
-    <p>
-The Unspoken Rules of a Han River Picnic: Navigating Waste Separation Have you ever wandered along the Han River with a picnic basket in one hand and pure anticipation in the other? If not, let me tell you, it’s an experience you shouldn’t miss. But here’s the kicker – enjoying the picturesque beauty of Seoul’s Han River parks comes with a unique set of responsibilities. Let’s dive into what you should know, especially about waste disposal, because nobody wants to be that person, right?
+    <p>The Unspoken Rules of a Han River Picnic: Navigating Waste Separation Have you ever wandered along the Han River with a picnic basket in one hand and pure anticipation in the other? If not, let me tell you, it’s an experience you shouldn’t miss. But here’s the kicker – enjoying the picturesque beauty of Seoul’s Han River parks comes with a unique set of responsibilities. Let’s dive into what you should know, especially about waste disposal, because nobody wants to be that person, right?
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2025-07-10 14:08:13.10115 +0000 UTC'>2025-07-10</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;LoveKorea</footer>
   <a class="entry-link" aria-label="post link to The Unspoken Rules of a Han River Picnic: Navigating Waste Separation" href="http://localhost:1313/posts/2025-07-10-the-unspoken-rules-of-a-han-river-picnic-navigatin/"></a>
 </article>
+
+<article class="post-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="http://localhost:1313/images/my-first-ride-on-the-korean-waves-a-surfing-advent.webp" alt="my-first-ride-on-the-korean-waves-a-surfing-advent.webp">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">My First Ride on the Korean Waves: A Surfing Adventure in Yangyang
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>My First Ride on the Korean Waves: A Surfing Adventure in Yangyang Ever thought about surfing in Korea? Honestly, it was never on my bucket list—until recently. That’s right, I decided to join the wave-riding fun this summer in Yangyang, Gangwon Province, and it turned out to be quite the splash!
+Why Yangyang, You Ask? ...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-07-09 17:15:01.822805 +0000 UTC'>2025-07-09</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;LoveKorea</footer>
+  <a class="entry-link" aria-label="post link to My First Ride on the Korean Waves: A Surfing Adventure in Yangyang" href="http://localhost:1313/posts/2025-07-09-my-first-ride-on-the-korean-waves-a-surfing-advent/"></a>
+</article>
+
+</div>
 <footer class="page-footer">
   <nav class="pagination">
     <a class="next" href="http://localhost:1313/posts/page/2/">Next&nbsp;&nbsp;»
@@ -354,13 +387,9 @@ The Unspoken Rules of a Han River Picnic: Navigating Waste Separation Have you e
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">LoveKorea Blog</a></span> · 
+        <span>&copy; 2025 <a href="http://localhost:1313/">LoveKorea Blog</a></span>
 
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
+
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
@@ -408,18 +437,6 @@ The Unspoken Rules of a Han River Picnic: Navigating Waste Separation Have you e
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>

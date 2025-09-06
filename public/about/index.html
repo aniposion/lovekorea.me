@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>About | Love Korea</title>
+<link rel="icon" href="/favicon.ico">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Poppins:wght@600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+--brand: #e60023;
+--text: #1a1a1a;
+--muted: #666;
+--bg: #fdfdfd;
+--card-bg: #ffffff;
+--border-color: #eaeaea;
+--shadow: 0px 8px 24px rgba(0, 0, 0, 0.05);
+--font-display: 'Poppins', sans-serif;
+--font-body: 'Noto Sans KR', sans-serif;
+}
+body {
+margin: 0;
+font-family: var(--font-body);
+color: var(--text);
+background: var(--bg);
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.container {
+max-width: 1100px;
+margin: 0 auto;
+padding: 0 24px;
+}
+header {
+position: sticky;
+top: 0;
+z-index: 50;
+background: rgba(255, 255, 255, 0.85);
+backdrop-filter: blur(10px);
+border-bottom: 1px solid var(--border-color);
+}
+.nav {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 18px 0;
+}
+.logo {
+color: var(--brand);
+font-weight: 800;
+font-size: 22px;
+text-decoration: none;
+font-family: var(--font-display);
+}
+.nav-links a {
+color: #333;
+text-decoration: none;
+margin-left: 24px;
+font-weight: 700;
+transition: color 0.3s;
+}
+.nav-links a:hover {
+color: var(--brand);
+}
+.hero {
+text-align: center;
+padding: 120px 0;
+background: linear-gradient(180deg, var(--bg), #f7f7f9);
+}
+.hero h1 {
+font-family: var(--font-display);
+font-size: 56px;
+line-height: 1.2;
+margin: 0 0 18px;
+color: var(--text);
+}
+.hero h1 .highlight {
+color: var(--brand);
+}
+.hero p {
+color: var(--muted);
+font-size: 20px;
+max-width: 760px;
+margin: 0 auto;
+line-height: 1.7;
+}
+.section {
+padding: 80px 0;
+}
+.grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+gap: 30px;
+}
+.card {
+background: var(--card-bg);
+border: 1px solid var(--border-color);
+border-radius: 16px;
+padding: 30px;
+box-shadow: var(--shadow);
+transition: transform 0.3s, box-shadow 0.3s;
+}
+.card:hover {
+transform: translateY(-8px);
+}
+.card h2 {
+font-family: var(--font-display);
+font-size: 24px;
+margin: 0 0 15px;
+color: var(--brand);
+}
+.card p, .card ul {
+margin: 0;
+color: #444;
+line-height: 1.8;
+}
+.card ul {
+padding-left: 20px;
+}
+.story-section {
+text-align: center;
+}
+.story-section h2 {
+font-size: 36px;
+font-family: var(--font-display);
+margin-bottom: 20px;
+}
+.story-section p {
+font-size: 18px;
+color: var(--muted);
+max-width: 800px;
+margin: 0 auto 40px;
+}
+.cta-section {
+background: var(--text);
+color: #fff;
+padding: 80px 0;
+text-align: center;
+border-radius: 20px;
+margin: 80px auto;
+}
+.cta-section h2 {
+font-family: var(--font-display);
+font-size: 38px;
+margin: 0 0 15px;
+}
+.cta-section p {
+max-width: 600px;
+margin: 0 auto 30px;
+opacity: 0.9;
+}
+.btn {
+display: inline-block;
+padding: 14px 28px;
+border-radius: 12px;
+text-decoration: none;
+font-weight: 700;
+font-family: var(--font-body);
+transition: all 0.3s;
+}
+.btn.primary {
+background: var(--brand);
+color: #fff;
+}
+.btn.primary:hover {
+background: #c2001e;
+transform: scale(1.05);
+}
+footer {
+padding: 40px 0;
+color: #777;
+font-size: 14px;
+text-align: center;
+border-top: 1px solid var(--border-color);
+margin-top: 60px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<div class="container">
+<nav class="nav">
+<a href="/" class="logo">LoveKorea</a>
+<div class="nav-links">
+<a href="/">Home</a>
+<a href="/categories/">Categories</a>
+<a href="/tags/">Tags</a>
+</div>
+</nav>
+</div>
+</header>
+
+<main>
+<section class="hero">
+<div class="container">
+<h1>Beyond the <span class="highlight">Hype</span>. <br>This is Real Korea.</h1>
+<p>We move past the trends to explore the true heart of Korea. We bring authentic stories in food, beauty, culture, and daily life directly to you.</p>
+</div>
+</section>
+
+<section class="section story-section">
+    <div class="container">
+        <h2>Our Story</h2>
+        <p>Love Korea is more than just an information channel. Based in the U.S. and Korea, our team came together out of a deep passion for K-culture and real-life experience to discover and share the genuine value that lies beyond the trends. Our goal is to let you feel, learn, and experience the real Korea, no matter where you are.</p>
+    </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="grid">
+      <div class="card">
+        <h2>Our Mission</h2>
+        <p>To help global readers discover and connect with the best of Korea through honest storytelling, practical guides, and community-driven insights.</p>
+      </div>
+      <div class="card">
+        <h2>What We Explore</h2>
+        <ul>
+          <li>In-depth guides on skincare routines and ingredients</li>
+          <li>Insider food spots and seasonal travel guides</li>
+          <li>Practical language tips and travel etiquette</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>Who We Are</h2>
+        <p>A team of content creators, writers, and cultural researchers based in the U.S. and Korea. We focus on real-life experiences, not just passing trends.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+    <section class="cta-section">
+        <h2>Ready to Dive In?</h2>
+        <p>The diverse world of Love Korea awaits. Start exploring our most exciting categories right now.</p>
+        <a class="btn primary" href="/categories/">Explore All Posts</a>
+    </section>
+</div>
+
+</main>
+
+<footer>
+<div class="container">
+© 2025 Love Korea · Made with ❤
+</div>
+</footer>
+
+</body>
+</html>

@@ -10,15 +10,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date()); 
   gtag('config', 'G-2RHGK56598');
-</script>
-<link rel="stylesheet" href="/css/custom.css"><meta name="description" content="
-My First Ride on the Korean Waves: A Surfing Adventure in Yangyang Ever thought about surfing in Korea? Honestly, it was never on my bucket list—until recently. That’s right, I decided to join the wave-riding fun this summer in Yangyang, Gangwon Province, and it turned out to be quite the splash!
+</script><meta name="description" content="My First Ride on the Korean Waves: A Surfing Adventure in Yangyang Ever thought about surfing in Korea? Honestly, it was never on my bucket list—until recently. That’s right, I decided to join the wave-riding fun this summer in Yangyang, Gangwon Province, and it turned out to be quite the splash!
 Why Yangyang, You Ask? "><link rel="canonical" href="http://localhost:1313/posts/2025-07-09-my-first-ride-on-the-korean-waves-a-surfing-advent/">
 <meta property="og:locale" content="en">
 
 <meta property="og:locale:alternate" content="en">
 
-<link crossorigin="anonymous" href="/assets/css/stylesheet.36819bea596090d8b48cf10d9831382996197aa7e4fc86f792f7c08c9ca4d23b.css" integrity="sha256-NoGb6llgkNi0jPENmDE4KZYZeqfk/Ib3kvfAjJyk0js=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d072faff40f3f4053ca662cc536aa4a3261a9f356c7804753353b23cc783a423.css" integrity="sha256-0HL6/0Dz9AU8pmLMU2qkoyYanzVseAR1M1OyPMeDpCM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -82,88 +80,26 @@ Why Yangyang, You Ask? "><link rel="canonical" href="http://localhost:1313/posts
 </noscript>
 </head>
 
-<body class="" id="top"><!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>LoveKorea</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-    }
-
-    header {
-      background-color: #ffffff;
-      border-bottom: 1px solid #eaeaea;
-      padding: 10px 40px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-
-    .site-title {
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: #e60023;  
-      text-decoration: none;
-    }
-
-    nav ul {
-      display: flex;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-
-    nav li {
-      margin-left: 30px;
-    }
-
-    nav a {
-      text-decoration: none;
-      color: #333;
-      font-weight: 500;
-      transition: color 0.3s;
-    }
-
-    nav a:hover {
-      color: #e60023;
-    }
-
-    @media (max-width: 768px) {
-      header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-      nav ul {
-        flex-direction: column;
-        width: 100%;
-        margin-top: 10px;
-      }
-      nav li {
-        margin: 8px 0;
-      }
-    }
-  </style>
-</head>
-<body>
-
-  <header>
+<body class="" id="top"><header class="site-header">
+  <div class="header-inner">
+    
     <a href="/" class="site-title">LoveKorea</a>
-    <nav>
-      <ul>
+
+    
+    <nav class="main-nav" aria-label="Main">
+      <ul style="font-size:24px;">
         
           <li><a href="/">Home</a></li>
         
           <li><a href="/categories/">Categories</a></li>
         
-          <li><a href="/tags/">Tags</a></li>
-        
           <li><a href="/about/">About</a></li>
         
       </ul>
+    </nav>
+
+    
+    <div class="header-right">
       <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js" defer></script>
 <div id="search"></div>
@@ -173,28 +109,127 @@ Why Yangyang, You Ask? "><link rel="canonical" href="http://localhost:1313/posts
   });
 </script>
 
-    </nav>
-  </header>
+    </div>
+  </div>
+</header>
 
-</body>
-</html>
+<style>
+  :root {
+    --header-pad-x: 40px;
+    --header-pad-y: 10px;
+    --header-border: #eaeaea;
+    --brand: #e60023;
+  }
+
+   
+  .site-header{
+    position: sticky;   
+    top: 0;
+    z-index: 9999;
+    background: #fff;
+    border-bottom: 1px solid var(--header-border);
+  }
+
+   
+  .header-inner{
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 20px;
+    padding: var(--header-pad-y) var(--header-pad-x);
+  }
+
+  .site-title{
+    justify-self: start;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--brand);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .main-nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size:24px;
+  }
+
+  .main-nav a{
+  position: relative;        
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color .2s ease;
+  padding-bottom: 4px;       
+}
+
+.main-nav a::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--brand);
+  transition: width .3s ease;
+}
+
+.main-nav a:hover{
+  color: var(--brand);
+}
+
+.main-nav a:hover::after{
+  width: 100%;
+}
+
+
+  .header-right{
+    justify-self: end;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+   
+  @media (max-width: 768px){
+    .header-inner{
+      grid-template-columns: 1fr;    
+      gap: 10px;
+    }
+
+    .site-title{
+      justify-self: center;          
+    }
+
+    .header-right{
+      justify-self: center;          
+    }
+
+    .main-nav ul{
+      gap: 18px;
+      flex-wrap: wrap;               
+       
+    }
+  }
+</style>
 <main class="main">
 
 <article class="post-single">
   <header class="post-header">
-    <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/posts/">Welcome to LoveKorea</a></div>
+    
     <h1 class="post-title entry-hint-parent">
       My First Ride on the Korean Waves: A Surfing Adventure in Yangyang
     </h1>
     <div class="post-meta"><span title='2025-07-09 17:15:01.822805 +0000 UTC'>2025-07-09</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;LoveKorea
 
 </div>
-  </header> 
-<figure class="entry-cover">
-        <img loading="eager" src="http://localhost:1313/images/my-first-ride-on-the-korean-waves-a-surfing-advent.webp" alt="my-first-ride-on-the-korean-waves-a-surfing-advent.webp">
-        <figcaption>my-first-ride-on-the-korean-waves-a-surfing-advent.webp</figcaption>
-</figure><div class="toc">
-    <details >
+  </header><div class="toc">
+    <details open>
         <summary accesskey="c" title="(Alt + C)">
             <span class="details">Table of Contents</span>
         </summary>
@@ -221,29 +256,71 @@ Why Yangyang, You Ask? "><link rel="canonical" href="http://localhost:1313/posts
     </details>
 </div>
 
-  <div class="post-content"><p><img alt="My first ride on the korean waves a surfing advent" loading="lazy" src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent.webp"></p>
+  <div class="post-content"><p>
+
+
+
+
+  <img src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent.webp" alt="My first ride on the korean waves a surfing advent" loading="lazy" decoding="async" />
+
+</p>
 <h1 id="my-first-ride-on-the-korean-waves-a-surfing-adventure-in-yangyang">My First Ride on the Korean Waves: A Surfing Adventure in Yangyang<a hidden class="anchor" aria-hidden="true" href="#my-first-ride-on-the-korean-waves-a-surfing-adventure-in-yangyang">#</a></h1>
 <p>Ever thought about surfing in Korea? Honestly, it was never on my bucket list—until recently. That&rsquo;s right, I decided to join the wave-riding fun this summer in Yangyang, Gangwon Province, and it turned out to be quite the splash!</p>
 <h2 id="why-yangyang-you-ask">Why Yangyang, You Ask?<a hidden class="anchor" aria-hidden="true" href="#why-yangyang-you-ask">#</a></h2>
-<p><img alt="My first ride on the korean waves a surfing advent h2 1" loading="lazy" src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-1.webp"></p>
+<p>
+
+
+
+
+  <img src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-1.webp" alt="My first ride on the korean waves a surfing advent h2 1" loading="lazy" decoding="async" />
+
+</p>
 <p>Yangyang is often referred to as the surfing capital of Korea, and no wonder! It&rsquo;s got everything a beginner like me could ask for—beginner-friendly beaches, enthusiastic instructors, and of course, the perfect atmosphere for surfing newbies. If you’re thinking about giving surfing a shot, this might just be your place. I mean, it&rsquo;s hard to resist the allure of learning something new while surrounded by stunning coastal views, right?</p>
 <h2 id="getting-geared-up-for-my-lesson">Getting Geared Up for My Lesson<a hidden class="anchor" aria-hidden="true" href="#getting-geared-up-for-my-lesson">#</a></h2>
-<p><img alt="My first ride on the korean waves a surfing advent h2 2" loading="lazy" src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-2.webp"></p>
+<p>
+
+
+
+
+  <img src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-2.webp" alt="My first ride on the korean waves a surfing advent h2 2" loading="lazy" decoding="async" />
+
+</p>
 <p>Arriving at the beach, I was honestly a bit nervous. What if I just couldn&rsquo;t get the hang of it? But the instructors put my worries to rest pretty quickly. First things first—safety! Oh, and let me tell you, they’ve got it all covered. From understanding the ocean&rsquo;s conditions to learning emergency procedures, I felt well-prepared even before stepping onto the board.</p>
 <p>They started us off with some theory and essential stretches (trust me, limbering up is a big deal). Everything was provided: surfboards, wetsuits—the whole package. No need to stress about gear, which was a nice surprise I didn’t expect.</p>
 <h2 id="riding-the-waves-or-trying-to">Riding the Waves… Or Trying To<a hidden class="anchor" aria-hidden="true" href="#riding-the-waves-or-trying-to">#</a></h2>
-<p><img alt="My first ride on the korean waves a surfing advent h2 3" loading="lazy" src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-3.webp"></p>
+<p>
+
+
+
+
+  <img src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-3.webp" alt="My first ride on the korean waves a surfing advent h2 3" loading="lazy" decoding="async" />
+
+</p>
 <p>Let me tell you, standing on that board for the first time feels like a small victory—even if it only lasts a few seconds. My first attempts mostly involved tumbling into the water (honestly, who knew water could taste so salty?), but eventually, I managed a few shaky, glorious rides on the waves.</p>
 <p>Was it tough? Oh, definitely. But the joy of catching that first wave—even if it’s minuscule—was totally worth every splash and fall. Have you ever done something that made you feel this exhilarated, even when you stumbled? It’s a feeling I wish everyone could experience.</p>
 <h2 id="what-i-learned">What I Learned<a hidden class="anchor" aria-hidden="true" href="#what-i-learned">#</a></h2>
-<p><img alt="My first ride on the korean waves a surfing advent h2 4" loading="lazy" src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-4.webp"></p>
+<p>
+
+
+
+
+  <img src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-4.webp" alt="My first ride on the korean waves a surfing advent h2 4" loading="lazy" decoding="async" />
+
+</p>
 <ul>
 <li><strong>Stay Hydrated:</strong> I’m convinced the sea breeze can magically sap your energy, so having some water handy kept me going.</li>
 <li><strong>Sunscreen is a Lifesaver:</strong> Even if it’s cloudy, trust me, that SPF is non-negotiable.</li>
 <li><strong>Embrace Fun (and Fails):</strong> The best moments often come from laughing off your wipeouts. Plus, it makes for the best stories to tell later.</li>
 </ul>
 <h2 id="would-i-go-back">Would I Go Back?<a hidden class="anchor" aria-hidden="true" href="#would-i-go-back">#</a></h2>
-<p><img alt="My first ride on the korean waves a surfing advent h2 5" loading="lazy" src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-5.webp"></p>
+<p>
+
+
+
+
+  <img src="/images/my-first-ride-on-the-korean-waves-a-surfing-advent-h2-5.webp" alt="My first ride on the korean waves a surfing advent h2 5" loading="lazy" decoding="async" />
+
+</p>
 <p>Absolutely, yes! Even if you’re just a curious soul like me or someone seeking a new hobby, surfing in Korea offers a unique mix of challenge and fun. Plus, each wipeout brings you one step closer to catching the perfect wave.</p>
 <p>So, would you consider taking a surfing lesson in Korea? Or have you already tried it elsewhere? I’d love to hear your thoughts or funny stories in the comments below!</p>
 
@@ -272,13 +349,9 @@ Why Yangyang, You Ask? "><link rel="canonical" href="http://localhost:1313/posts
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">LoveKorea Blog</a></span> · 
+        <span>&copy; 2025 <a href="http://localhost:1313/">LoveKorea Blog</a></span>
 
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
+
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
@@ -326,18 +399,6 @@ Why Yangyang, You Ask? "><link rel="canonical" href="http://localhost:1313/posts
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 <script>
