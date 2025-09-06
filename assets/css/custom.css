@@ -139,4 +139,35 @@
   .lk-note.warn{background:rgba(245,158,11,.08);border-color:rgba(245,158,11,.22);}
   .lk-note.danger{background:rgba(239,68,68,.08);border-color:rgba(239,68,68,.22);}
   .lk-note strong{display:block;margin-bottom:6px}
-  
+  /* Grid wrapper */
+.posts-grid{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem; /* 카드 간격 */
+}
+
+/* md 이상에서 2열 */
+@media (min-width: 768px){
+  .posts-grid{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* 카드가 그리드 셀 높이를 꽉 채우도록 */
+.post-entry,
+.first-entry,
+.tag-entry{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 첫 글(특대) 효과를 없애고 모두 동일 크기 원한다면 이 줄을 활성화 */
+/* .first-entry{ grid-column: auto !important; } */
+
+/* 표지/본문이 카드 안에서 잘 정렬되도록(테마에 맞춰 필요시 조정) */
+.post-entry .entry-header,
+.post-entry .entry-content,
+.post-entry .entry-footer{
+  margin-top: 0.5rem;
+}
