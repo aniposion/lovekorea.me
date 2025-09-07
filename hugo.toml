@@ -3,34 +3,49 @@ languageCode = "en"
 title = "LoveKorea Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
-
 defaultContentLanguage = "en"
 
 [pagination]
   pagerSize = 10
 
 [params]
-  ShowPostIcons = true
-  ShowBreadCrumbs = true
-  ShowReadingTime = true
-  ShowShareButtons = true
-  ShowCodeCopyButtons = true
-  defaultTheme = "auto"
-  heroImage = "/images/hero.jpg"
-
   author = "LoveKorea"
   description = "A blog for people around the world who love Korean culture"
+  ShowReadingTime = true
+  ShowShareButtons = true
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
   ShowToc = true
+  defaultTheme = "auto"
   disableThemeToggle = false
   DateFormat = "2006-01-02"
-  
+  ShowCodeCopyButtons = true
+  ShowCover = true
+  ShowSummaryCover = true
+  disableSpecial1stPost = true
+  TocOpen = true
+  comments = "giscus"
+
   [params.homeInfoParams]
     Title = "Welcome to LoveKorea"
-    Content = "Discover food, fashion, K-pop, drama, and everything about Korean culture!"
 
   [params.assets]
     disableFingerprinting = false
+    css = ["css/custom.css"]
+
+  [params.related]
+    useRelatedContent = false
+    maxItems = 3
+    fillWithLatest = true
+
+# giscus 설정은 [params] 블록과 같은 최상위 레벨
+[params.giscus]
+  repo = "aniposion/lovekorea_comments"
+  repoId = "R_kgDOPraKJQ"
+  category = "General"
+  categoryId = "DIC_kwDOPraKJc4CvGBN"
+  mapping = "pathname"
+  lang = "en"
 
 [menu]
   [[menu.main]]
@@ -43,8 +58,24 @@ defaultContentLanguage = "en"
     url = "/categories/"
     weight = 2
 
-
   [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 3
+
+[related]
+  threshold = 0
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name = "categories"
+    weight = 120
+
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+
+  [[related.indices]]
+    name = "date"
+    weight = 10

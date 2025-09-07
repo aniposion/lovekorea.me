@@ -187,3 +187,57 @@ flex-direction: column;
   width: 100% !important;
   margin: 0 !important;
 }
+
+/* ===== Related posts =================================================== */
+.lk-related{margin:1.75rem 0 2rem}
+.lk-related__title{font-size:1.125rem;font-weight:700;margin:0 0 .75rem}
+.lk-related__grid{
+  list-style:none; margin:0; padding:0;
+  display:grid; gap:1rem;
+  grid-template-columns:1fr;
+}
+@media (min-width: 640px){ .lk-related__grid{ grid-template-columns:repeat(2,1fr) } }
+@media (min-width: 960px){ .lk-related__grid{ grid-template-columns:repeat(3,1fr) } }
+
+.lk-related__card{
+  background:var(--entry, #fff);
+  border:1px solid var(--border, #e5e7eb);
+  border-radius:.75rem;
+  overflow:hidden;
+  transition:transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+}
+.lk-related__card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 6px 14px rgba(0,0,0,.08);
+  border-color:rgba(0,0,0,.08);
+}
+.lk-related__link{ display:block; padding:.875rem .95rem; text-decoration:none; color:inherit }
+.lk-related__thumb{
+  width:100%; height:150px; object-fit:cover; display:block;
+  border-bottom:1px solid var(--border, #e5e7eb);
+  margin:-.875rem -.95rem .75rem;      /* 카드 상단으로 꽉 차게 */
+}
+.lk-related__heading{
+  font-size:1rem; line-height:1.35; margin:0 0 .35rem; font-weight:700;
+  display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:2; overflow:hidden;
+}
+.lk-related__meta{ font-size:.875rem; color:var(--secondary, #6b7280); margin:0 }
+
+/* ===== Share buttons =================================================== */
+.lk-share{ margin:1.5rem 0 0 }
+.lk-share__title{ font-size:1.125rem; font-weight:700; margin:0 0 .75rem }
+.lk-share__list{ list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:.5rem }
+.lk-share__btn{
+  display:inline-block; border:1px solid var(--border, #e5e7eb);
+  background:var(--entry, #fff); color:var(--content, #111827);
+  padding:.45rem .7rem; border-radius:.6rem; font-size:.9rem; text-decoration:none;
+  transition:transform .12s ease, background .12s ease, border-color .12s ease;
+}
+.lk-share__btn:hover{ transform:translateY(-1px); border-color:rgba(0,0,0,.12) }
+@media (prefers-color-scheme: dark){
+  .lk-related__card:hover{ border-color:rgba(255,255,255,.16) }
+  .lk-share__btn:hover{ border-color:rgba(255,255,255,.18) }
+}
+
+
+.post-comments { margin-top: 2rem; }

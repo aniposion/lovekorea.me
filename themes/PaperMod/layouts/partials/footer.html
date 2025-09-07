@@ -125,3 +125,22 @@
     });
 </script>
 {{- end }}
+
+<script>
+    function setGiscusTheme(theme){
+      const iframe = document.querySelector('iframe.giscus-frame');
+      if (!iframe) return;
+      iframe.contentWindow.postMessage({ giscus: { setConfig: { theme } } }, 'https://giscus.app');
+    }
+  
+    // PaperMod 토글 버튼이 #theme-toggle 라는 가정 (버튼 id에 맞게 바꿔주세요)
+    const btn = document.getElementById('theme-toggle');
+    if (btn){
+      btn.addEventListener('click', function(){
+        // 현재 상태를 읽어서 반대로 설정 (프로젝트의 테마 토글 로직에 맞게 조정)
+        const isDark = document.documentElement.classList.contains('dark');
+        setTimeout(()=> setGiscusTheme(isDark ? 'dark' : 'light'), 0);
+      });
+    }
+  </script>
+  

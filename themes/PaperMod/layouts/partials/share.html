@@ -1,0 +1,28 @@
+{{- /* layouts/partials/share.html */ -}}
+{{- $u := .Permalink -}}
+{{- $t := .Title | htmlEscape -}}
+{{- $via := site.Params.share.via | default "" -}}
+
+<section class="lk-share" aria-label="Share this article">
+    <h2 class="lk-share__title">Share this article</h2>
+    <ul class="lk-share__list">
+      <li><a class="lk-share__btn" href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener nofollow">X.com</a></li>
+      <li><a class="lk-share__btn" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener nofollow">Facebook</a></li>
+      <li><a class="lk-share__btn" href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlquery }}" target="_blank" rel="noopener nofollow">LinkedIn</a></li>
+      <li><a class="lk-share__btn" href="https://www.reddit.com/submit?url={{ .Permalink | urlquery }}&title={{ .Title | urlquery }}" target="_blank" rel="noopener nofollow">Reddit</a></li>
+      <li><a class="lk-share__btn" href="https://api.whatsapp.com/send?text={{ printf "%s %s" .Title .Permalink | urlquery }}" target="_blank" rel="noopener nofollow">WhatsApp</a></li>
+      <li><button class="lk-share__btn" type="button" onclick="copyShareLink('{{ .Permalink }}')">Copy Link</button></li>
+    </ul>
+  </section>
+
+  <script>
+    function copyShareLink(url){
+      if (navigator.share) { navigator.share({ title: document.title, url }).catch(()=>{}); return; }
+      navigator.clipboard?.writeText(url).then(()=>{
+        const n=document.createElement('div');
+        n.textContent='Link copied!';
+        n.style.cssText='position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:8px 12px;border-radius:8px;font-size:14px;z-index:9999;opacity:.95';
+        document.body.appendChild(n); setTimeout(()=>n.remove(),1200);
+      });
+    }
+  </script>

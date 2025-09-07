@@ -1,0 +1,65 @@
+{{- /* layouts/partials/related-posts.html (no-sort, reverse order, type-safe) */ -}}
+{{- $p := . -}}
+{{- $s := newScratch -}}
+{{- $s.SetInMap "seen" $p.Permalink true -}}  {{/* 현재 글은 제외 */}}
+
+{{- $cats := $p.Params.categories | default (slice) -}}
+{{- $rel := slice -}}
+{{- $max := 3 -}}
+
+{{- /* 1) 같은 카테고리 교집합에서 최신순(역순)으로 채우기 */ -}}
+{{- if gt (len $cats) 0 -}}
+  {{- range site.RegularPages.ByDate -}}
+    {{- if ge (len $rel) $max -}}{{- break -}}{{- end -}}
+    {{- $pcats := .Params.categories | default (slice) -}}
+    {{- if and (ne .Permalink $p.Permalink) (gt (len (intersect $pcats $cats)) 0) -}}
+      {{- $seen := index ($s.Get "seen") .Permalink -}}
+      {{- if not $seen -}}
+        {{- $rel = $rel | append . -}}
+        {{- $s.SetInMap "seen" .Permalink true -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* 2) 부족하면 최신순 전체에서 보충 (중복/자기자신 제외) */ -}}
+{{- if lt (len $rel) $max -}}
+  {{- range site.RegularPages.ByDate -}}
+    {{- if ge (len $rel) $max -}}{{- break -}}{{- end -}}
+    {{- if ne .Permalink $p.Permalink -}}
+      {{- $seen := index ($s.Get "seen") .Permalink -}}
+      {{- if not $seen -}}
+        {{- $rel = $rel | append . -}}
+        {{- $s.SetInMap "seen" .Permalink true -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $rel) 0 -}}
+<section class="lk-related" aria-labelledby="lk-related-heading">
+    <h2 id="lk-related-heading" class="lk-related__title">Related posts</h2>
+  
+    <ol class="lk-related__grid">
+      {{- range $rel -}}
+      <li class="lk-related__card">
+        <a class="lk-related__link" href="{{ .RelPermalink }}" title="{{ .Title }}">
+          {{/* 썸네일 (있으면 노출) */}}
+          {{- $img := "" -}}
+          {{- with .Params.images }}{{ $img = index . 0 }}{{ end -}}
+          {{- with $img -}}
+            <img class="lk-related__thumb" src="{{ . }}" alt="" loading="lazy">
+          {{- end -}}
+  
+          <h3 class="lk-related__heading">{{ .Title }}</h3>
+          <p class="lk-related__meta">
+            {{ .Date.Format "2006-01-02" }}
+            {{ with .Params.categories }} · {{ index . 0 }}{{ end }}
+          </p>
+        </a>
+      </li>
+      {{- end -}}
+    </ol>
+  </section>
+  
+{{- end -}}

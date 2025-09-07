@@ -6,13 +6,27 @@
     <description>Recent content in Categories on LoveKorea Blog</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Aug 2025 17:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 18:49:53 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>K-Fashion</title>
       <link>http://localhost:1313/categories/k-fashion/</link>
-      <pubDate>Sat, 16 Aug 2025 17:46:32 +0000</pubDate>
+      <pubDate>Sat, 06 Sep 2025 18:49:53 +0000</pubDate>
       <guid>http://localhost:1313/categories/k-fashion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Food</title>
+      <link>http://localhost:1313/categories/k-food/</link>
+      <pubDate>Sat, 06 Sep 2025 18:29:36 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Music</title>
+      <link>http://localhost:1313/categories/k-music/</link>
+      <pubDate>Sat, 06 Sep 2025 18:25:21 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-music/</guid>
       <description></description>
     </item>
     <item>
@@ -30,13 +44,6 @@
       <description></description>
     </item>
     <item>
-      <title>K-Food</title>
-      <link>http://localhost:1313/categories/k-food/</link>
-      <pubDate>Mon, 14 Jul 2025 09:08:37 +0000</pubDate>
-      <guid>http://localhost:1313/categories/k-food/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>K-Lifestyle</title>
       <link>http://localhost:1313/categories/k-lifestyle/</link>
       <pubDate>Fri, 11 Jul 2025 12:53:37 +0000</pubDate>
@@ -48,13 +55,6 @@
       <link>http://localhost:1313/categories/k-tech/</link>
       <pubDate>Thu, 10 Jul 2025 16:13:40 +0000</pubDate>
       <guid>http://localhost:1313/categories/k-tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>K-Music</title>
-      <link>http://localhost:1313/categories/k-music/</link>
-      <pubDate>Wed, 09 Jul 2025 16:12:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/k-music/</guid>
       <description></description>
     </item>
   </channel>

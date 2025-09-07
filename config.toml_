@@ -25,14 +25,28 @@ defaultContentLanguage = "en"
   ShowSummaryCover  = true
   disableSpecial1stPost = true
   TocOpen = true
+  comments = "giscus"          # 사용할 댓글 엔진
 
   [params.homeInfoParams]
     Title = "Welcome to LoveKorea"
- 
 
   [params.assets]
     disableFingerprinting = false
     css = ["css/custom.css"]
+
+  [params.related]
+    useRelatedContent = false   # true → Hugo Related Content 사용
+    maxItems = 3
+    fillWithLatest = true       # 부족할 때 최신글로 채우기
+
+# ✅ giscus 설정은 [params] 블록 바깥, 최상위에 둡니다
+[params.giscus]
+  repo = "aniposion/lovekorea_comments"          # giscus에서 받은 값
+  repoId = "R_kgDOPraKJQ"
+  category = "General"
+  categoryId = "DIC_kwDOPraKJc4CvGBN"
+  mapping = "pathname"         # url 경로 기준 매핑 (권장)
+  lang = "ko"                  # 또는 "en"
 
 [menu]
   [[menu.main]]
@@ -50,3 +64,19 @@ defaultContentLanguage = "en"
     url = "/about/"
     weight = 3
 
+[related]                   # useRelatedContent=true일 때만 필요
+  threshold = 0
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name = "categories"
+    weight = 120
+
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+
+  [[related.indices]]
+    name = "date"
+    weight = 10

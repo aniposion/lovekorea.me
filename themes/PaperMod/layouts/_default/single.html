@@ -41,6 +41,11 @@
     {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
+  
+  <!-- giscus comments -->
+
+  {{ partial "comments-giscus.html" . }}
+
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
@@ -52,6 +57,13 @@
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
+
+    {{/* 기존 prev/next 네비게이션 블록 바로 아래에 */}}
+    {{ partial "related-posts.html" . }}
+
+    
+    {{ partial "share.html" . }}
+
     <!--
     {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
     {{- partial "share_icons.html" . -}}
@@ -59,9 +71,7 @@
     -->
   </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
+
 </article>
 
 {{- end }}{{/* end main */}}
