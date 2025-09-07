@@ -6,8 +6,15 @@
     <description>Recent content in Categories on LoveKorea Blog</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Sep 2025 18:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 10:02:44 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K-Travel</title>
+      <link>http://localhost:1313/categories/k-travel/</link>
+      <pubDate>Sun, 07 Sep 2025 10:02:44 +0000</pubDate>
+      <guid>http://localhost:1313/categories/k-travel/</guid>
+      <description></description>
+    </item>
     <item>
       <title>K-Fashion</title>
       <link>http://localhost:1313/categories/k-fashion/</link>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/categories/k-beauty/</link>
       <pubDate>Thu, 17 Jul 2025 17:09:26 +0000</pubDate>
       <guid>http://localhost:1313/categories/k-beauty/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>K-Travel</title>
-      <link>http://localhost:1313/categories/k-travel/</link>
-      <pubDate>Tue, 15 Jul 2025 19:04:46 +0000</pubDate>
-      <guid>http://localhost:1313/categories/k-travel/</guid>
       <description></description>
     </item>
     <item>

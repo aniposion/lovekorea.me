@@ -27,6 +27,9 @@
     {{ .Description | markdownify }}
   </div>
   {{- end }}
+
+
+
 </header>
 {{- end }}
 
@@ -50,6 +53,10 @@
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "hero.html" . }}
 {{- end }}
+<audio controls preload="metadata" style="width:100%;max-width:640px; justify-items:center;margin:0 auto;">
+  <source src='{{ "media/music/Sometime.mp3" | relURL }}' type="audio/mpeg">
+  브라우저가 오디오 태그를 지원하지 않습니다.
+</audio>
 
 {{- $term := .Data.Term }}
 <div class="posts-grid">
