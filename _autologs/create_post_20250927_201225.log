@@ -1,0 +1,3 @@
+usage: create_post.py [-h] [--topic TOPIC] [--mark-done]
+                      [--engine {google,dalle3}] [--max-images MAX_IMAGES]
+create_post.py: error: unrecognized arguments: way from Incheon Airport to Seoul city center
