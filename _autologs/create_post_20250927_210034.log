@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\uesr\dev\scripts\create_post.py", line 399, in <module>
+    ok, title = process_single_topic(kw, image_engine=args.engine, max_images=args.max_images)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\uesr\dev\scripts\create_post.py", line 332, in process_single_topic
+    print(f"\n\n\U0001f680\U0001f680\U0001f680 Start post generation for: '{keyword}' \U0001f680\U0001f680\U0001f680")
+UnicodeEncodeError: 'cp949' codec can't encode character '\U0001f680' in position 4: illegal multibyte sequence
