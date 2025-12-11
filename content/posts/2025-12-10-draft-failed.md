@@ -1,6 +1,6 @@
 ---
-title: "Draft - 한국에서 저렴하게 쇼핑하는 방법"
-date: 2025-12-10T20:37:34.998060
+title: "Draft - 강릉에서의 힐링 커피 여행"
+date: 2025-12-10T20:54:25.035564
 draft: true
 slug: "draft-failed"
 description: "Auto-generated draft (failed validation)."
@@ -11,8 +11,8 @@ tags:
   - draft
 cover:
   image: ""
-  alt: "Draft - 한국에서 저렴하게 쇼핑하는 방법"
-  caption: "Draft - 한국에서 저렴하게 쇼핑하는 방법"
+  alt: "Draft - 강릉에서의 힐링 커피 여행"
+  caption: "Draft - 강릉에서의 힐링 커피 여행"
   relative: true
 ---
 
