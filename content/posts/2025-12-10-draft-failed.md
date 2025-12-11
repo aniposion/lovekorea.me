@@ -1,6 +1,6 @@
 ---
-title: "Draft - 강릉에서의 힐링 커피 여행"
-date: 2025-12-10T20:54:25.035564
+title: "Draft - 서울의 야경 명소 추천"
+date: 2025-12-10T21:02:45.403274
 draft: true
 slug: "draft-failed"
 description: "Auto-generated draft (failed validation)."
@@ -11,8 +11,8 @@ tags:
   - draft
 cover:
   image: ""
-  alt: "Draft - 강릉에서의 힐링 커피 여행"
-  caption: "Draft - 강릉에서의 힐링 커피 여행"
+  alt: "Draft - 서울의 야경 명소 추천"
+  caption: "Draft - 서울의 야경 명소 추천"
   relative: true
 ---
 
