@@ -1,5 +1,5 @@
 ---
-title: "2023 Budget Travel Guide to Seoul's Famous Districts: Hongdae, Itaewon, Gangnam"
+title: "2025 Budget Travel Guide to Seoul's Famous Districts: Hongdae, Itaewon, Gangnam"
 date: 2025-12-10T23:06:12.148726
 slug: "seoul-famous-districts-guide"
 description: "Explore Hongdae, Itaewon, and Gangnam in Seoul with our budget-friendly guide. Discover local hotspots, tips, and prices for an unforgettable experience!"
@@ -7,10 +7,10 @@ categories: ["k-travel"]
 tags: ["seoul", "hongdae", "itaewon", "gangnam", "travel", "budget"]
 cover:
   image: "/images/seoul-famous-districts-guide-cover.webp"
-  alt: "2023 Budget Travel Guide to Seoul's Famous Districts: Hongdae, Itaewon, Gangnam"
+  alt: "2025 Budget Travel Guide to Seoul's Famous Districts: Hongdae, Itaewon, Gangnam"
   relative: true
 ---
-# 2023 Budget Travel Guide to Seoul's Famous Districts: Hongdae, Itaewon, Gangnam
+# 2025 Budget Travel Guide to Seoul's Famous Districts: Hongdae, Itaewon, Gangnam
 
 ::: tip 💡 Planning your trip?
 For this topic (**서울 유명 동네 소개: 홍대, 이태원, 강남**), check current **hotel & tour deals** before you lock your dates.
