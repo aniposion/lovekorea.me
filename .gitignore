@@ -1,0 +1,11 @@
+# Python scripts (local automation, not deployed)
+# *.py
+# *.bat
+
+# But track tools for CI
+!tools/*.py
+!create_post.py
+
+public/
+resources/
+.hugo_build.lock
