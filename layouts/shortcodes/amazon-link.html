@@ -1,0 +1,61 @@
+{{/*
+  Amazon Affiliate Link Shortcode
+  
+  This shortcode ensures Amazon links are compliant with Amazon Associates ToS:
+  - Direct link to Amazon (no redirects)
+  - Proper nofollow/sponsored attributes
+  - Tracking via tag parameter
+  
+  Usage:
+    {{< amazon-link asin="B08N5WRWNW" tag="yourtag-20" >}}Product Name{{< /amazon-link >}}
+    {{< amazon-link url="https://amazon.com/dp/..." >}}Product Name{{< /amazon-link >}}
+    {{< amazon-link asin="B08N5WRWNW" tag="yourtag-20" text="Check Price on Amazon" />}}
+  
+  Parameters:
+    - asin: Amazon Standard Identification Number (required if url not provided)
+    - url: Full Amazon URL (required if asin not provided)
+    - tag: Your Amazon Associates tracking tag (recommended)
+    - text: Link text (alternative to inner content)
+    - domain: Amazon domain (default: amazon.com)
+*/}}
+
+{{ $asin := .Get "asin" }}
+{{ $url := .Get "url" }}
+{{ $tag := .Get "tag" | default "" }}
+{{ $text := .Get "text" | default .Inner }}
+{{ $domain := .Get "domain" | default "amazon.com" }}
+
+{{ if not $text }}
+  {{ $text = "View on Amazon" }}
+{{ end }}
+
+{{ $finalUrl := "" }}
+
+{{ if $url }}
+  {{/* Use provided URL, append tag if not present */}}
+  {{ if and $tag (not (strings.Contains $url "tag=")) }}
+    {{ if strings.Contains $url "?" }}
+      {{ $finalUrl = printf "%s&tag=%s" $url $tag }}
+    {{ else }}
+      {{ $finalUrl = printf "%s?tag=%s" $url $tag }}
+    {{ end }}
+  {{ else }}
+    {{ $finalUrl = $url }}
+  {{ end }}
+{{ else if $asin }}
+  {{/* Build URL from ASIN */}}
+  {{ if $tag }}
+    {{ $finalUrl = printf "https://www.%s/dp/%s?tag=%s" $domain $asin $tag }}
+  {{ else }}
+    {{ $finalUrl = printf "https://www.%s/dp/%s" $domain $asin }}
+  {{ end }}
+{{ else }}
+  {{/* Error: neither asin nor url provided */}}
+  <span style="color: red; font-weight: bold;">[ERROR: amazon-link requires either 'asin' or 'url' parameter]</span>
+  {{ return }}
+{{ end }}
+
+<a href="{{ $finalUrl }}" 
+   target="_blank" 
+   rel="nofollow sponsored noopener" 
+   class="amazon-affiliate-link">{{ $text | safeHTML }}</a>

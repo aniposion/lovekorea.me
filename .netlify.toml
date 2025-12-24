@@ -1,7 +1,10 @@
 # netlify.toml
 [build]
-  command = "hugo --minify && npx pagefind --site public --output-path static/pagefind"
+  command = "python tools/lint_monetization.py && hugo --minify && npx pagefind --site public --output-path static/pagefind"
   publish = "public"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
 
 [[headers]]
   for = "/*"

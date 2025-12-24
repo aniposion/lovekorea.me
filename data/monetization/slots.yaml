@@ -1,0 +1,154 @@
+# =============================================================================
+# Monetization Slots Configuration
+# =============================================================================
+# Each slot defines an affiliate offer that can be rendered via {{< offer >}}
+#
+# ⚠️ COMPLIANCE NOTES:
+# - Amazon links MUST be direct amazon.com URLs (no /go/ redirects!)
+# - Each provider may have specific disclosure requirements
+# - Update ACTIVE_SLOTS in create_post.py when adding/removing slots
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Tour & Activity Deals (Klook, Viator, GetYourGuide)
+# -----------------------------------------------------------------------------
+KOREA_TOUR_DEALS:
+  provider: klook
+  title: "Korea Tours & Day Trips"
+  subtitle: "Compare prices across 500+ experiences"
+  url: "https://www.klook.com/en-US/search/result/?keyword=korea"
+  cta: "Compare Tours →"
+  disclaimer: "Prices vary by date and availability"
+
+KOREA_HOTEL_DEALS:
+  provider: booking
+  title: "Korea Hotels & Accommodations"
+  subtitle: "Best price guarantee on most bookings"
+  url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135"
+  cta: "Check Hotel Prices →"
+  disclaimer: "Free cancellation on most rooms"
+
+KOREA_DMZ_TOUR:
+  provider: klook
+  title: "DMZ & JSA Tours"
+  subtitle: "Book 2-3 days in advance (sells out fast)"
+  url: "https://www.klook.com/en-US/search/result/?keyword=dmz+tour"
+  cta: "Book DMZ Tour →"
+
+KOREA_PALACE_TOUR:
+  provider: klook
+  title: "Seoul Palace Tours"
+  subtitle: "Gyeongbokgung, Changdeokgung & more"
+  url: "https://www.klook.com/en-US/search/result/?keyword=seoul+palace"
+  cta: "See Palace Tours →"
+
+KOREA_KPOP_TOUR:
+  provider: klook
+  title: "K-Pop Experiences"
+  subtitle: "Dance classes, studio tours, fan activities"
+  url: "https://www.klook.com/en-US/search/result/?keyword=kpop+korea"
+  cta: "Explore K-Pop Tours →"
+
+KOREA_DAYTRIP:
+  provider: klook
+  title: "Day Trips from Seoul"
+  subtitle: "Nami Island, Jeonju, Busan & more"
+  url: "https://www.klook.com/en-US/search/result/?keyword=seoul+day+trip"
+  cta: "Browse Day Trips →"
+
+KOREA_FOOD_TOUR:
+  provider: klook
+  title: "Korean Food Tours"
+  subtitle: "Street food, cooking classes, market tours"
+  url: "https://www.klook.com/en-US/search/result/?keyword=korea+food+tour"
+  cta: "Find Food Tours →"
+
+# -----------------------------------------------------------------------------
+# Amazon Affiliate Products
+# ⚠️ IMPORTANT: URLs must be DIRECT Amazon links (Associates Program Policy)
+# -----------------------------------------------------------------------------
+AMZ_TRAVEL_ESSENTIALS:
+  provider: amazon
+  title: "Korea Travel Essentials"
+  subtitle: "Adapters, WiFi, power banks & more"
+  url: "https://www.amazon.com/s?k=korea+travel+essentials"
+  cta: "Shop on Amazon →"
+  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
+
+AMZ_KSTYLE_FEATURED:
+  provider: amazon
+  title: "K-Beauty & K-Style Picks"
+  subtitle: "Trending Korean beauty and fashion"
+  url: "https://www.amazon.com/s?k=korean+beauty"
+  cta: "Shop K-Beauty →"
+  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
+
+AMZ_KOREA_ADAPTER:
+  provider: amazon
+  title: "Korea Power Adapter (Type C/F)"
+  subtitle: "Essential for charging your devices"
+  url: "https://www.amazon.com/s?k=korea+power+adapter+type+c"
+  cta: "Buy Adapter →"
+  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
+
+AMZ_PORTABLE_WIFI:
+  provider: amazon
+  title: "Portable WiFi & SIM Cards"
+  subtitle: "Stay connected throughout Korea"
+  url: "https://www.amazon.com/s?k=korea+portable+wifi"
+  cta: "Get WiFi Device →"
+  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
+
+AMZ_POWER_BANK:
+  provider: amazon
+  title: "Travel Power Banks"
+  subtitle: "Keep your phone charged all day"
+  url: "https://www.amazon.com/s?k=travel+power+bank+20000mah"
+  cta: "Shop Power Banks →"
+  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
+
+AMZ_KBEAUTY_MASKS:
+  provider: amazon
+  title: "Korean Sheet Masks"
+  subtitle: "Top-rated K-beauty skincare"
+  url: "https://www.amazon.com/s?k=korean+sheet+mask"
+  cta: "Shop Sheet Masks →"
+  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
+
+# -----------------------------------------------------------------------------
+# Hotel-specific slots
+# -----------------------------------------------------------------------------
+KOREA_HOTEL_LUXURY:
+  provider: booking
+  title: "Luxury Hotels in Korea"
+  subtitle: "5-star experiences in Seoul & Busan"
+  url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&class=5"
+  cta: "Browse Luxury Hotels →"
+
+KOREA_HOTEL_MIDRANGE:
+  provider: booking
+  title: "Mid-Range Hotels"
+  subtitle: "Great value with excellent locations"
+  url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&class=3,4"
+  cta: "Find Mid-Range Hotels →"
+
+KOREA_HOTEL_BUDGET:
+  provider: booking
+  title: "Budget-Friendly Stays"
+  subtitle: "Hostels, guesthouses & affordable options"
+  url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&class=1,2"
+  cta: "See Budget Options →"
+
+KOREA_HANOK_STAY:
+  provider: booking
+  title: "Traditional Hanok Stays"
+  subtitle: "Experience Korean heritage accommodation"
+  url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&ss=hanok"
+  cta: "Find Hanok Stays →"
+
+KOREA_BUSAN_HOTEL:
+  provider: booking
+  title: "Busan Beach Hotels"
+  subtitle: "Haeundae & Gwangalli beachfront"
+  url: "https://www.booking.com/searchresults.html?dest_type=city&dest_id=-713889"
+  cta: "Browse Busan Hotels →"

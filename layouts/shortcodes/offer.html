@@ -1,0 +1,145 @@
+{{/*
+  Offer Shortcode - Affiliate Link with Compliance & GA4 Tracking
+  
+  Features:
+  - Internal links: same tab, no rel
+  - External affiliate links: target=_blank, rel="nofollow sponsored noopener"
+  - Slot can be disabled with data field: active: false
+  - Amazon provider: shows Amazon-specific disclosure
+  - Mini disclosure below button (FTC compliance)
+  - GA4 tracking via data attributes
+  
+  Usage:
+    {{< offer slot="KOREA_TOUR_DEALS" pos="mid" >}}
+  
+  ⚠️ COMPLIANCE:
+  - Amazon links MUST be direct (no /go/ redirects)
+  - Amazon disclosure EXACT text required
+*/}}
+
+{{- $slotKey := .Get "slot" | default "" -}}
+{{- $pos := .Get "pos" | default "mid" -}}
+
+{{- if not $slotKey -}}
+  {{- /* no slot -> render nothing */ -}}
+{{- else -}}
+
+  {{- $slots := (site.Data.monetization.slots | default dict) -}}
+  {{- $s := (index $slots $slotKey) -}}
+
+  {{- if not $s -}}
+    {{- /* unknown slot -> render nothing (avoid "coming soon" spam) */ -}}
+  {{- else -}}
+
+    {{- /* active gating - slot can be disabled in slots.yaml */ -}}
+    {{- $active := true -}}
+    {{- if isset $s "active" -}}
+      {{- $active = $s.active -}}
+    {{- end -}}
+
+    {{- if $active -}}
+
+      {{- $url := ($s.url | default "") -}}
+      {{- if not $url -}}
+        {{- /* no url -> render nothing */ -}}
+      {{- else -}}
+
+        {{- $isExternal := or (hasPrefix $url "http://") (hasPrefix $url "https://") -}}
+        {{- $isAmazon := eq $s.provider "amazon" -}}
+
+        {{- $target := "" -}}
+        {{- $rel := "" -}}
+        {{- if $isExternal -}}
+          {{- $target = "_blank" -}}
+          {{- $rel = "nofollow sponsored noopener" -}}
+        {{- end -}}
+
+        {{- /* page type for tracking */ -}}
+        {{- $pageType := "post" -}}
+        {{- if eq .Page.Section "deals" -}}
+          {{- $pageType = "deals" -}}
+        {{- else if eq .Page.Type "hub" -}}
+          {{- $pageType = "hub" -}}
+        {{- else if .Page.IsHome -}}
+          {{- $pageType = "home" -}}
+        {{- end -}}
+
+        {{- /* slug for performance tracking */ -}}
+        {{- $slug := .Page.Params.slug | default (.Page.File.BaseFileName | default "unknown") -}}
+
+        <div class="offer-box offer-{{ $s.provider }}" data-slot="{{ $slotKey }}">
+          <div class="offer-title"><strong>{{ $s.title }}</strong></div>
+
+          {{- with $s.subtitle -}}
+            <div class="offer-subtitle">{{ . }}</div>
+          {{- end -}}
+
+          {{- with $s.disclaimer -}}
+            <div class="offer-disclaimer">{{ . }}</div>
+          {{- end -}}
+
+          <a
+            class="offer-link"
+            href="{{ $url }}"
+            {{- if $target }} target="{{ $target }}"{{ end }}
+            {{- if $rel }} rel="{{ $rel }}"{{ end }}
+            data-affiliate="1"
+            data-provider="{{ $s.provider }}"
+            data-slot="{{ $slotKey }}"
+            data-pos="{{ $pos }}"
+            data-page-type="{{ $pageType }}"
+            data-page-path="{{ .Page.RelPermalink }}"
+            data-slug="{{ $slug }}"
+          >
+            {{ $s.cta | default "Check Deals →" }}
+          </a>
+
+          {{- /* Inline mini disclosure below button */ -}}
+          <div class="offer-mini-disclosure">
+            {{- if $isAmazon -}}
+              As an Amazon Associate I earn from qualifying purchases.
+            {{- else -}}
+              {{ $s.mini_disclosure | default "We may earn a commission at no extra cost to you." }}
+            {{- end -}}
+          </div>
+        </div>
+
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<style>
+.offer-box {
+  background: var(--code-bg, #f8f9fa);
+  border: 1px solid var(--border, #e9ecef);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+.offer-box.offer-amazon { border-left: 3px solid #ff9900; }
+.offer-box.offer-klook { border-left: 3px solid #ff5722; }
+.offer-box.offer-booking { border-left: 3px solid #003580; }
+.offer-title { font-size: 1rem; margin-bottom: 0.5rem; }
+.offer-subtitle { font-size: 0.85rem; color: var(--secondary, #6c757d); margin-bottom: 0.5rem; }
+.offer-disclaimer { font-size: 0.75rem; color: var(--secondary, #6c757d); font-style: italic; margin-bottom: 0.75rem; }
+.offer-link {
+  display: inline-block;
+  background: var(--primary, #007bff);
+  color: #fff !important;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.offer-link:hover { background: var(--primary-dark, #0056b3); }
+.offer-box.offer-amazon .offer-link { background: #ff9900; }
+.offer-box.offer-amazon .offer-link:hover { background: #e88a00; }
+.offer-mini-disclosure {
+  font-size: 0.7rem;
+  color: var(--secondary, #888);
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+.dark .offer-box { background: var(--entry, #1e1e1e); border-color: var(--border, #333); }
+</style>

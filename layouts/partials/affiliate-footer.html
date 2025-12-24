@@ -1,0 +1,61 @@
+{{/*
+  Site-wide Affiliate Footer Disclosure
+  
+  Include in your footer template:
+    {{ partial "affiliate-footer.html" . }}
+  
+  This partial displays FTC-compliant disclosures based on active affiliate programs.
+  Amazon Associates disclosure is shown when Amazon slots are configured.
+*/}}
+
+{{ $slots := site.Data.monetization.slots }}
+{{ $hasAmazon := false }}
+{{ $hasOther := false }}
+
+{{/* Check for active Amazon slots */}}
+{{ range $key, $slot := $slots }}
+  {{ if hasPrefix $key "AMZ_" }}
+    {{ $hasAmazon = true }}
+  {{ else }}
+    {{ $hasOther = true }}
+  {{ end }}
+{{ end }}
+
+{{ if or $hasAmazon $hasOther }}
+<div class="affiliate-footer-disclosure">
+  <p class="disclosure-text">
+    {{ if $hasOther }}
+    <span>This site may contain affiliate links. We may earn a commission at no extra cost to you.</span>
+    {{ end }}
+    
+    {{ if $hasAmazon }}
+    <span class="amazon-disclosure"><strong>As an Amazon Associate I earn from qualifying purchases.</strong></span>
+    {{ end }}
+  </p>
+</div>
+
+<style>
+.affiliate-footer-disclosure {
+  padding: 1rem;
+  margin-top: 2rem;
+  border-top: 1px solid var(--border, #eee);
+  font-size: 0.8rem;
+  color: var(--secondary, #666);
+  text-align: center;
+}
+
+.affiliate-footer-disclosure .disclosure-text {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.affiliate-footer-disclosure .amazon-disclosure {
+  display: block;
+  margin-top: 0.25rem;
+}
+
+.dark .affiliate-footer-disclosure {
+  border-top-color: var(--border, #333);
+}
+</style>
+{{ end }}

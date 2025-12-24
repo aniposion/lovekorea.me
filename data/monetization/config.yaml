@@ -1,0 +1,64 @@
+# Monetization Compliance Configuration
+# =====================================
+# This file defines the compliance rules for affiliate marketing disclosures.
+
+# Amazon Associates Configuration
+amazon:
+  # The exact disclosure text required by Amazon Associates Program
+  required_disclosure: "As an Amazon Associate I earn from qualifying purchases"
+  
+  # Domains that are considered Amazon affiliate links
+  domains:
+    - amazon.com
+    - amazon.co.uk
+    - amazon.de
+    - amazon.fr
+    - amazon.co.jp
+    - amazon.ca
+    - amzn.to
+    - amzn.com
+  
+  # Forbidden redirect patterns (Amazon ToS violation)
+  # Amazon requires direct links, not masked redirects
+  forbidden_redirects:
+    - /go/
+    - /redirect/
+    - /out/
+    - /link/
+    - /r/
+
+# FTC Disclosure Configuration
+ftc:
+  # General affiliate disclosure patterns (any of these is acceptable)
+  disclosure_patterns:
+    - "This post may contain affiliate links"
+    - "This article may contain affiliate links"
+    - "This page may contain affiliate links"
+    - "Affiliate Disclosure"
+    - "*Disclosure*"
+  
+  # Maximum number of lines from content start for disclosure placement
+  max_lines_from_top: 30
+
+# Providers that require their own specific disclosures
+providers:
+  amazon:
+    disclosure_required: true
+    disclosure_text: "As an Amazon Associate I earn from qualifying purchases"
+  
+  # Add other affiliate networks here as needed
+  # cj:
+  #   disclosure_required: false
+  # 
+  # shareasale:
+  #   disclosure_required: false
+
+# Lint behavior
+lint:
+  # If true, warnings will also fail the build
+  warnings_as_errors: false
+  
+  # Files/patterns to exclude from linting
+  exclude:
+    - "_index.md"
+    - "about.md"
