@@ -6,11 +6,11 @@ description: "Compare Itaewon & Hongdae pub crawl prices, what’s included, and
 categories: ["k-travel"]
 tags: ["itaewon", "hongdae", "pub crawl", "seoul nightlife", "foreigner friendly", "bar hopping", "club entry", "korea travel", "tour booking"]
 cover:
-  image: "Foreigners"
+  image: "/images/itaewon-hongdae-pub-crawl-tours-how-to-book-prices-h2-1.webp"
   alt: "Top 7 Itaewon & Hongdae Pub Crawl Tours (Foreigners): Prices & How to Book (2026)"
   relative: true
 monetize:
-  intent: "/images/itaewon-hongdae-pub-crawl-tours-how-to-book-prices-h2-1.webp"
+  intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
   slots:
     top: []
