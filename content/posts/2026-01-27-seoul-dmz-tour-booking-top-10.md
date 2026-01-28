@@ -6,7 +6,7 @@ description: "Compare the best Seoul DMZ tours with typical prices, ticket inclu
 categories: ["k-travel"]
 tags: ["dmz tour", "seoul day trip", "korea dmz", "how to book", "tour prices", "imjingak", "third tunnel", "dora observatory", "korea travel"]
 cover:
-  image: "2026"
+  image: "/images/seoul-dmz-tour-booking-top-10-h2-0.webp"
   alt: "Top 10 Seoul DMZ Tours: How to Book, Tickets & Prices (2026)"
   relative: true
 monetize:
