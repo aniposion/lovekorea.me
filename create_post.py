@@ -140,6 +140,39 @@ def clean_markdown_response(text: str) -> str:
         return match.group(1).strip()
     return text
 
+def prepend_block(md: str, block: str) -> str:
+    """Always prepend a block to the top of markdown."""
+    if not block:
+        return md or ""
+    return block.strip() + "\n\n" + (md or "").lstrip()
+
+
+def strip_first_h1(md: str) -> str:
+    """
+    Remove the first Markdown H1 line (# ...) to avoid duplicate H1
+    when the Hugo theme already renders .Title as H1.
+    """
+    if not md:
+        return ""
+    lines = md.splitlines()
+    out = []
+    removed = False
+    for line in lines:
+        if (not removed) and line.startswith("# "):
+            removed = True
+            continue
+        out.append(line)
+    return "\n".join(out).lstrip()
+
+
+def extract_first_image_url(md: str) -> str:
+    """Extract first markdown image URL: ![alt](url)"""
+    if not md:
+        return ""
+    m = re.search(r'!\[[^\]]*\]\(([^)]+)\)', md)
+    return (m.group(1).strip() if m else "")
+
+
 
 def convert_to_webp_with_alt(input_path, output_dir, alt_text=None, quality=85):
     if not input_path:
@@ -158,6 +191,10 @@ def convert_to_webp_with_alt(input_path, output_dir, alt_text=None, quality=85):
         print(f"❌ WebP Conversion Error: {e}")
         return None
 
+    if not webp_path.exists():
+        print(f"❌ WebP file not found after save: {webp_path}")
+        return None
+    
     if not alt_text:
         alt_text = input_path.stem
     return f'![{alt_text}](/images/{webp_filename})'
@@ -623,6 +660,14 @@ def _generate_with_google_banana(prompt: str, filename_base: str) -> Optional[Pa
     print("⚠️ Nano Banana did not return any image bytes.")
     return None
 
+def sanitize_ai_artifacts(md: str) -> str:
+    if not md:
+        return ""
+    # 흔한 AI 메타 문구 제거/완화
+    md = re.sub(r"\byour summary supports\b.*?(?:\n|$)", "", md, flags=re.IGNORECASE)
+    md = re.sub(r"\baccording to the research summary\b.*?(?:\n|$)", "", md, flags=re.IGNORECASE)
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    return md.strip()
 
 def generate_image(topic: str, filename_base: str, alt: str) -> str:
     full_prompt = create_dynamic_image_prompt(topic)
@@ -631,8 +676,10 @@ def generate_image(topic: str, filename_base: str, alt: str) -> str:
     if saved_path:
         tag = convert_to_webp_with_alt(saved_path, HUGO_IMAGE_DIR, alt)
         if tag:
+            print(f"✅ [Image] OK: {filename_base} -> {tag}")
             return tag
-    print(f"❌ Failed to generate image for {filename_base}")
+
+    print(f"❌ [Image] Failed: {filename_base} (topic={topic})")
     return ""
 
 
@@ -1165,18 +1212,46 @@ def _yaml_block_monetize(m: Dict[str, Any]) -> str:
     return "\n".join(block)
 
 
+def normalize_cover_url(url: str) -> str:
+    """
+    Normalize cover image URL for Hugo front matter.
+    If cover.relative = true, prefer path without leading slash: images/xxx.webp
+    """
+    u = (url or "").strip()
+    if not u:
+        return ""
+    # if markdown image used /images/..., strip leading slash
+    if u.startswith("/"):
+        u = u.lstrip("/")
+    return u
+
+
 def save_post(bundle: Dict[str, Any], final_md: str, cover_md: str):
     slug = bundle.get("slug", "post")
     seo_title = bundle.get("seo_title", "Korea Travel Guide").replace('"', "'")
     meta_desc = bundle.get("meta_description", "").replace('"', "'")
     category = bundle.get("category", "k-travel")
-    tags = bundle.get("tags", [])
+    tags = bundle.get("tags", []) or []
 
+    # 1) cover_md (generated cover tag)에서 url 추출
     cover_url = ""
     if cover_md:
         m = re.search(r"\((.*?)\)", cover_md)
         if m:
-            cover_url = m.group(1)
+            cover_url = (m.group(1) or "").strip()
+
+    # 2) ✅ fallback: 본문 첫 이미지 URL을 커버로 사용
+    if not cover_url:
+        cover_url = extract_first_image_url(final_md)
+
+    # 3) ✅ 최종 정규화 (relative: true에 맞춤)
+    cover_url = normalize_cover_url(cover_url)
+
+    # 4) 디버그 로그 (왜 비는지 바로 확인 가능)
+    if not cover_url:
+        print("⚠️ [Cover] cover_url is EMPTY. (cover generation failed + no image in content)")
+    else:
+        print(f"✅ [Cover] cover_url = {cover_url}")
 
     monetize_block = ""
     if ENABLE_MONETIZATION:
@@ -1199,7 +1274,7 @@ def save_post(bundle: Dict[str, Any], final_md: str, cover_md: str):
         fm_lines.append(monetize_block)
     fm_lines.append("---")
 
-    fm = "\n".join(fm_lines) + "\n" + final_md + "\n"
+    fm = "\n".join(fm_lines) + "\n" + (final_md or "").rstrip() + "\n"
 
     path = HUGO_CONTENT_DIR / f"{datetime.now().strftime('%Y-%m-%d')}-{slug}.md"
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -1288,7 +1363,13 @@ if __name__ == "__main__":
         top_parts.append(cta_top)
 
     top_block = "\n\n".join([p for p in top_parts if p])
+    
     content_md = insert_after_h1(content_md, top_block)
+    # ✅ 1) 중복 H1 방지: 콘텐츠의 첫 H1 제거 (테마가 H1 뿌린다고 가정)
+    content_md = strip_first_h1(content_md)
+
+    # ✅ 2) H1 없이도 무조건 상단 블록 삽입
+    content_md = prepend_block(content_md, top_block)
 
     # 6) FAQ + 하단 CTA
     if "faq" in bundle:
@@ -1313,6 +1394,9 @@ if __name__ == "__main__":
         content_md = inject_offers(content_md, bundle.get("monetize") or {})
 
     final_content = content_md
+    final_content = sanitize_ai_artifacts(final_content)
+
+
 
     # 10) 저장
     save_post(bundle, final_content, cover_tag)
