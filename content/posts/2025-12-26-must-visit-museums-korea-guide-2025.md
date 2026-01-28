@@ -6,7 +6,7 @@ description: "A complete guide to Korea’s must-visit museums with practical ti
 categories: ["k-travel"]
 tags: ["korea museums", "seoul museums", "museum guide", "korean culture", "travel tips", "free museums", "family travel", "rainy day", "itinerary", "jecheon"]
 cover:
-  image: "Tips for First-Time Visitors"
+  image: "/images/must-visit-museums-korea-guide-2025-h2-0.webp"
   alt: "2025 Complete Guide to Must-Visit Museums in Korea (Tips for First-Time Visitors)"
   relative: true
 monetize:

@@ -6,7 +6,7 @@ description: "Complete guide to Jeju’s best drive courses with route highlight
 categories: ["k-travel"]
 tags: ["jeju", "jeju drive", "road trip", "coastal road", "hallasan", "seogwipo", "aewol", "itinerary", "travel tips"]
 cover:
-  image: "2025"
+  image: "/images/jeju-best-driving-routes-guide-h2-0.webp"
   alt: "Top 3 Jeju Island Driving Routes: Complete Guide & Tips (2025)"
   relative: true
 monetize:

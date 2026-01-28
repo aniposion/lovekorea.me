@@ -6,7 +6,7 @@ description: "2026 guide comparing Incheon Airport limousine bus tickets vs T-mo
 categories: ["k-travel"]
 tags: ["incheon airport", "limousine bus", "tmoney", "seoul transport", "airport transfer", "fare tips", "luggage travel", "subway guide", "korea travel"]
 cover:
-  image: "Cost, Time, Convenience"
+  image: "/images/incheon-airport-limousine-bus-ticket-vs-tmoney-guide-h2-0.webp"
   alt: "2026 Complete Guide: Incheon Airport Limousine Bus Tickets vs T-money (Cost, Time, Convenience)"
   relative: true
 monetize:

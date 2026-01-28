@@ -6,7 +6,7 @@ description: "Complete guide to Seoul’s top 10 hotels with tips on choosing be
 categories: ["k-travel"]
 tags: ["seoul hotels", "myeongdong", "hongdae", "gangnam", "hotel guide", "where to stay", "subway tips", "budget travel", "korea itinerary"]
 cover:
-  image: "Myeongdong vs Hongdae vs Gangnam"
+  image: "/images/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide-h2-0.webp"
   alt: "Seoul Hotel Guide: Top 10 Stays (Myeongdong vs Hongdae vs Gangnam) + Tips"
   relative: true
 monetize:

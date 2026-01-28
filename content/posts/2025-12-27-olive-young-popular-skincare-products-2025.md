@@ -6,7 +6,7 @@ description: "Discover where to buy the best Olive Young skincare in Korea, with
 categories: ["k-beauty"]
 tags: ["olive young", "k-beauty", "skincare", "korea shopping", "moisturizer", "ampoule", "cica", "ceramide", "sale tips"]
 cover:
-  image: "2025"
+  image: "/images/olive-young-popular-skincare-products-2025-h2-0.webp"
   alt: "Top 7 Olive Young Skincare Products (2025): Best Picks, Prices & Where to Buy"
   relative: true
 monetize:

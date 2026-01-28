@@ -5,7 +5,7 @@ draft: false
 categories:
   - k-travel
 cover:
-  image: "/images/discovering-inner-peace-my-templestay-experience-i.webp"
+  image: "/images/discovering-inner-peace-my-templestay-experience-i-h2-1.webp"
   alt: "Discovering inner peace my templestay experience i"
   caption: "Discovering inner peace my templestay experience i"
   relative: true
