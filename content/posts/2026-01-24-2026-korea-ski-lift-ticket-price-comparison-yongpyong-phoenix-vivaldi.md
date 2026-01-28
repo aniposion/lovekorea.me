@@ -6,7 +6,7 @@ description: "2026 guide to Korea ski lift ticket prices (Jan–Feb): Yongpyong 
 categories: ["k-travel"]
 tags: ["korea ski", "lift ticket", "yongpyong", "phoenix park", "vivaldi park", "jan feb", "night skiing", "rental gear", "seollal travel"]
 cover:
-  image: "Yongpyong vs Phoenix vs Vivaldi"
+  image: "/images/2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi-h2-0.webp"
   alt: "2026 Complete Guide to Korea Ski Resort Lift Ticket Prices (Yongpyong vs Phoenix vs Vivaldi)"
   relative: true
 monetize:

@@ -10,7 +10,7 @@ cover:
   alt: "Top 7 Itaewon & Hongdae Pub Crawl Tours (Foreigners): Prices & How to Book (2026)"
   relative: true
 monetize:
-  intent: "/images/itaewon-hongdae-pub-crawl-tours-how-to-book-prices-h2-0.webp"
+  intent: "/images/itaewon-hongdae-pub-crawl-tours-how-to-book-prices-h2-1.webp"
   verticals: ["hotel", "tour", "amazon"]
   slots:
     top: []
