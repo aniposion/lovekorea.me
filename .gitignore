@@ -4,8 +4,10 @@
 
 # But track tools for CI
 !tools/*.py
-!create_post.py
+create_post.py
 
 public/
 resources/
 .hugo_build.lock
+.env
+dev/.env
