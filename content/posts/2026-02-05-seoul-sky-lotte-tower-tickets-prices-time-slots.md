@@ -6,9 +6,9 @@ description: "See Seoul Sky ticket prices by time slot, how to book online vs on
 categories: ["k-travel"]
 tags: ["seoul sky", "lotte tower", "observatory", "tickets", "seoul travel", "time slots", "fast pass", "sunset", "discounts"]
 cover:
-  image: "Lotte World Tower"
+  image: "images/seoul-sky-lotte-tower-tickets-prices-time-slots-cover.webp"
   alt: "Seoul Sky (Lotte World Tower) 2026 Tickets & Prices by Time Slot: How to Book"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
@@ -27,20 +27,6 @@ monetize:
 ## Before you dive in
 
 ![Before you dive in](/images/seoul-sky-lotte-tower-tickets-prices-time-slots-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-> **Quick Info**
-> - 📍 Area: Jamsil, Songpa-gu (Lotte World Tower)
-> - 🕒 Best time: Sunset to night (magic hour), weekdays for fewer crowds
-> - 💰 Budget: ₩27,000–₩62,000 per person (typical tickets + Fast Pass)
-> - 🚇 Getting there: Subway Line 2/8 Jamsil Station Exit 1 or 2 (walk ~5 min)
-> - 👥 Best for: First-time Seoul visitors, couples (night view), photographers
-> - ✅ TL;DR: Book online early for popular sunset slots; adult ₩31,000, child ₩27,000, Fast Pass ₩62,000; last entry 9–10pm depending on day.
-
-## Before you dive in
-
-![Before you dive in](/images/seoul-sky-lotte-tower-tickets-prices-time-slots-h2-1.webp)
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 

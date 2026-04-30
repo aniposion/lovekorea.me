@@ -30,20 +30,6 @@ monetize:
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 
-> **Quick Info**
-> - 📍 Area: South Korea (Seoul, major cities; best selection at Olive Young & department stores)
-> - 🕒 Best time: Year-round; easiest shopping during seasonal sales (spring/fall) and duty-free promos
-> - 💰 Budget: Mid-range KRW 30,000–50,000; premium KRW 50,000–90,000+
-> - 🚇 Getting there: Subway to Olive Young flagships, malls, and department stores; online delivery widely available
-> - 👥 Best for: Travelers building a Korean base routine, office workers needing quick touch-ups, first-time K-beauty shoppers
-> - ✅ TL;DR: Choose cushion for portability and natural touch-ups; choose foundation for higher coverage and finish control (matte/glow). Match by skin type and keep tools clean.
-
-## Before you dive in
-
-![Before you dive in](/images/cushion-vs-foundation-korean-makeup-h2-1.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
 Korean base makeup is famous for looking like *skin*, not a mask—smooth, even, softly lit, and believable up close. If you’ve ever stood in an Olive Young aisle (or scrolled a Korean beauty app at midnight) wondering whether you should buy a cushion or a foundation, you’re not alone. In Korea, both are everyday staples, but they’re used differently depending on lifestyle, skin type, and the exact “finish” you’re chasing: velvety matte, dewy glow, or that elusive semi-matte “blur” that still looks alive.
 
 This guide compares cushion vs foundation through a very Korean lens—how people actually choose in 2026, where to buy in Korea, what price ranges to expect (including refills and sets), and how to apply either option for the modern “Korean skin” look. You’ll also find practical tips to avoid common tourist mistakes like buying the wrong undertone, skipping patch tests, or letting a cushion puff turn into a bacteria sponge.

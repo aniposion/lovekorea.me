@@ -1,154 +1,193 @@
 # =============================================================================
 # Monetization Slots Configuration
 # =============================================================================
-# Each slot defines an affiliate offer that can be rendered via {{< offer >}}
+# Each slot defines an offer rendered via {{< offer slot="..." >}}.
 #
-# ⚠️ COMPLIANCE NOTES:
-# - Amazon links MUST be direct amazon.com URLs (no /go/ redirects!)
-# - Each provider may have specific disclosure requirements
-# - Update ACTIVE_SLOTS in create_post.py when adding/removing slots
+# Compliance notes:
+# - Amazon links must be direct amazon.com URLs. Do not route them through /go/.
+# - Keep Amazon slots inactive until the Associates account and tracking tag are ready.
+# - External affiliate links render with rel="nofollow sponsored noopener".
 # =============================================================================
 
-# -----------------------------------------------------------------------------
-# Tour & Activity Deals (Klook, Viator, GetYourGuide)
-# -----------------------------------------------------------------------------
+# Tour and activity deals
 KOREA_TOUR_DEALS:
+  active: true
   provider: klook
   title: "Korea Tours & Day Trips"
-  subtitle: "Compare prices across 500+ experiences"
+  subtitle: "Compare popular Korea tours, passes, and day trips."
   url: "https://www.klook.com/en-US/search/result/?keyword=korea"
-  cta: "Compare Tours →"
-  disclaimer: "Prices vary by date and availability"
-
-KOREA_HOTEL_DEALS:
-  provider: booking
-  title: "Korea Hotels & Accommodations"
-  subtitle: "Best price guarantee on most bookings"
-  url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135"
-  cta: "Check Hotel Prices →"
-  disclaimer: "Free cancellation on most rooms"
+  cta: "Compare Tours"
+  disclaimer: "Prices vary by date and availability."
 
 KOREA_DMZ_TOUR:
+  active: true
   provider: klook
   title: "DMZ & JSA Tours"
-  subtitle: "Book 2-3 days in advance (sells out fast)"
+  subtitle: "Book ahead because weekend dates can sell out."
   url: "https://www.klook.com/en-US/search/result/?keyword=dmz+tour"
-  cta: "Book DMZ Tour →"
+  cta: "Check DMZ Tours"
 
 KOREA_PALACE_TOUR:
+  active: true
   provider: klook
   title: "Seoul Palace Tours"
-  subtitle: "Gyeongbokgung, Changdeokgung & more"
+  subtitle: "Gyeongbokgung, Changdeokgung, hanbok, and guided history walks."
   url: "https://www.klook.com/en-US/search/result/?keyword=seoul+palace"
-  cta: "See Palace Tours →"
+  cta: "See Palace Tours"
 
 KOREA_KPOP_TOUR:
+  active: true
   provider: klook
   title: "K-Pop Experiences"
-  subtitle: "Dance classes, studio tours, fan activities"
+  subtitle: "Dance classes, studio tours, fan activities, and themed walks."
   url: "https://www.klook.com/en-US/search/result/?keyword=kpop+korea"
-  cta: "Explore K-Pop Tours →"
+  cta: "Explore K-Pop Tours"
 
 KOREA_DAYTRIP:
+  active: true
   provider: klook
   title: "Day Trips from Seoul"
-  subtitle: "Nami Island, Jeonju, Busan & more"
+  subtitle: "Nami Island, Jeonju, Suwon, Busan, and other easy add-ons."
   url: "https://www.klook.com/en-US/search/result/?keyword=seoul+day+trip"
-  cta: "Browse Day Trips →"
+  cta: "Browse Day Trips"
 
 KOREA_FOOD_TOUR:
+  active: true
   provider: klook
   title: "Korean Food Tours"
-  subtitle: "Street food, cooking classes, market tours"
+  subtitle: "Street food walks, cooking classes, and market tours."
   url: "https://www.klook.com/en-US/search/result/?keyword=korea+food+tour"
-  cta: "Find Food Tours →"
+  cta: "Find Food Tours"
 
-# -----------------------------------------------------------------------------
-# Amazon Affiliate Products
-# ⚠️ IMPORTANT: URLs must be DIRECT Amazon links (Associates Program Policy)
-# -----------------------------------------------------------------------------
-AMZ_TRAVEL_ESSENTIALS:
-  provider: amazon
-  title: "Korea Travel Essentials"
-  subtitle: "Adapters, WiFi, power banks & more"
-  url: "https://www.amazon.com/s?k=korea+travel+essentials"
-  cta: "Shop on Amazon →"
-  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
+# Hotel deals
+KOREA_HOTEL_DEALS:
+  active: true
+  provider: booking
+  title: "Korea Hotels & Accommodations"
+  subtitle: "Compare hotels, guesthouses, and stays across South Korea."
+  url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135"
+  cta: "Check Hotel Prices"
+  disclaimer: "Free cancellation depends on the room and rate selected."
 
-AMZ_KSTYLE_FEATURED:
-  provider: amazon
-  title: "K-Beauty & K-Style Picks"
-  subtitle: "Trending Korean beauty and fashion"
-  url: "https://www.amazon.com/s?k=korean+beauty"
-  cta: "Shop K-Beauty →"
-  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
-
-AMZ_KOREA_ADAPTER:
-  provider: amazon
-  title: "Korea Power Adapter (Type C/F)"
-  subtitle: "Essential for charging your devices"
-  url: "https://www.amazon.com/s?k=korea+power+adapter+type+c"
-  cta: "Buy Adapter →"
-  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
-
-AMZ_PORTABLE_WIFI:
-  provider: amazon
-  title: "Portable WiFi & SIM Cards"
-  subtitle: "Stay connected throughout Korea"
-  url: "https://www.amazon.com/s?k=korea+portable+wifi"
-  cta: "Get WiFi Device →"
-  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
-
-AMZ_POWER_BANK:
-  provider: amazon
-  title: "Travel Power Banks"
-  subtitle: "Keep your phone charged all day"
-  url: "https://www.amazon.com/s?k=travel+power+bank+20000mah"
-  cta: "Shop Power Banks →"
-  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
-
-AMZ_KBEAUTY_MASKS:
-  provider: amazon
-  title: "Korean Sheet Masks"
-  subtitle: "Top-rated K-beauty skincare"
-  url: "https://www.amazon.com/s?k=korean+sheet+mask"
-  cta: "Shop Sheet Masks →"
-  disclaimer: "As an Amazon Associate we earn from qualifying purchases"
-
-# -----------------------------------------------------------------------------
-# Hotel-specific slots
-# -----------------------------------------------------------------------------
 KOREA_HOTEL_LUXURY:
+  active: true
   provider: booking
   title: "Luxury Hotels in Korea"
-  subtitle: "5-star experiences in Seoul & Busan"
+  subtitle: "Five-star stays in Seoul, Busan, Jeju, and major city centers."
   url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&class=5"
-  cta: "Browse Luxury Hotels →"
+  cta: "Browse Luxury Hotels"
 
 KOREA_HOTEL_MIDRANGE:
+  active: true
   provider: booking
   title: "Mid-Range Hotels"
-  subtitle: "Great value with excellent locations"
+  subtitle: "Reliable locations with better value for longer trips."
   url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&class=3,4"
-  cta: "Find Mid-Range Hotels →"
+  cta: "Find Mid-Range Hotels"
 
 KOREA_HOTEL_BUDGET:
+  active: true
   provider: booking
   title: "Budget-Friendly Stays"
-  subtitle: "Hostels, guesthouses & affordable options"
+  subtitle: "Hostels, guesthouses, capsule hotels, and simple city stays."
   url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&class=1,2"
-  cta: "See Budget Options →"
+  cta: "See Budget Options"
 
 KOREA_HANOK_STAY:
+  active: true
   provider: booking
   title: "Traditional Hanok Stays"
-  subtitle: "Experience Korean heritage accommodation"
+  subtitle: "Heritage accommodation in Seoul, Jeonju, Gyeongju, and beyond."
   url: "https://www.booking.com/searchresults.html?dest_type=country&dest_id=135&ss=hanok"
-  cta: "Find Hanok Stays →"
+  cta: "Find Hanok Stays"
 
 KOREA_BUSAN_HOTEL:
+  active: true
   provider: booking
   title: "Busan Beach Hotels"
-  subtitle: "Haeundae & Gwangalli beachfront"
+  subtitle: "Haeundae, Gwangalli, and Nampo-dong stays for different budgets."
   url: "https://www.booking.com/searchresults.html?dest_type=city&dest_id=-713889"
-  cta: "Browse Busan Hotels →"
+  cta: "Browse Busan Hotels"
+
+# Amazon product slots
+# Set active: true only after adding an approved Associates tag to each URL.
+AMZ_TRAVEL_ESSENTIALS:
+  active: false
+  provider: amazon
+  title: "Korea Travel Essentials"
+  subtitle: "Adapters, portable chargers, packing gear, and flight basics."
+  url: "https://www.amazon.com/s?k=korea+travel+essentials"
+  cta: "View Travel Essentials"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_KSTYLE_FEATURED:
+  active: false
+  provider: amazon
+  title: "K-Beauty & K-Style Picks"
+  subtitle: "Popular Korean beauty and style products."
+  url: "https://www.amazon.com/s?k=korean+beauty"
+  cta: "View K-Beauty Picks"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_KOREA_ADAPTER:
+  active: false
+  provider: amazon
+  title: "Korea Power Adapter"
+  subtitle: "Type C/F plug support for South Korea."
+  url: "https://www.amazon.com/s?k=korea+power+adapter+type+c"
+  cta: "View Adapters"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_PORTABLE_WIFI:
+  active: false
+  provider: amazon
+  title: "Portable WiFi & SIM Gear"
+  subtitle: "Connectivity options for travelers."
+  url: "https://www.amazon.com/s?k=korea+portable+wifi"
+  cta: "View WiFi Options"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_POWER_BANK:
+  active: false
+  provider: amazon
+  title: "Travel Power Banks"
+  subtitle: "Keep phones charged during long sightseeing days."
+  url: "https://www.amazon.com/s?k=travel+power+bank+20000mah"
+  cta: "View Power Banks"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_TRAVEL_BACKPACK:
+  active: false
+  provider: amazon
+  title: "Lightweight Travel Backpacks"
+  subtitle: "Day bags for city walks, markets, and short trips."
+  url: "https://www.amazon.com/s?k=lightweight+travel+backpack"
+  cta: "View Backpacks"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_WALKING_SHOES:
+  active: false
+  provider: amazon
+  title: "Comfortable Walking Shoes"
+  subtitle: "Useful for Seoul hills, subway transfers, and long museum days."
+  url: "https://www.amazon.com/s?k=comfortable+walking+shoes+travel"
+  cta: "View Walking Shoes"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_KBEAUTY_MASKS:
+  active: false
+  provider: amazon
+  title: "Korean Sheet Masks"
+  subtitle: "K-beauty skincare basics for flights and travel recovery."
+  url: "https://www.amazon.com/s?k=korean+sheet+mask"
+  cta: "View Sheet Masks"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."
+
+AMZ_KOREAN_SUNSCREEN:
+  active: false
+  provider: amazon
+  title: "Korean Sunscreen"
+  subtitle: "Lightweight daily sunscreen options popular in K-beauty routines."
+  url: "https://www.amazon.com/s?k=korean+sunscreen"
+  cta: "View Sunscreens"
+  disclaimer: "Inactive until an approved Amazon Associates tag is configured."

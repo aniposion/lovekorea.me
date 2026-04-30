@@ -12,12 +12,18 @@
 {{ $hasAmazon := false }}
 {{ $hasOther := false }}
 
-{{/* Check for active Amazon slots */}}
+{{/* Check for active slots only. */}}
 {{ range $key, $slot := $slots }}
-  {{ if hasPrefix $key "AMZ_" }}
-    {{ $hasAmazon = true }}
-  {{ else }}
-    {{ $hasOther = true }}
+  {{ $active := true }}
+  {{ if isset $slot "active" }}
+    {{ $active = $slot.active }}
+  {{ end }}
+  {{ if $active }}
+    {{ if hasPrefix $key "AMZ_" }}
+      {{ $hasAmazon = true }}
+    {{ else }}
+      {{ $hasOther = true }}
+    {{ end }}
   {{ end }}
 {{ end }}
 

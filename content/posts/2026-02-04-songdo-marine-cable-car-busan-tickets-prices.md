@@ -30,20 +30,6 @@ monetize:
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 
-> **Quick Info**
-> - 📍 Area: Busan, Songdo Beach ↔ Amnam Park (Songlim Park boarding area)
-> - 🕒 Best time: Late afternoon to sunset for views; early morning for fewer crowds and clearer visibility
-> - 💰 Budget: ₩9,000–₩20,000 per person depending on cabin type and one-way/round-trip
-> - 🚇 Getting there: Best by public transit/taxi; parking can be limited near the station
-> - 👥 Best for: Couples, families, photographers, first-time Busan visitors
-> - ✅ TL;DR: Choose Air Cruise for value or Crystal Cruise for thrill; round-trip is usually better value if you’ll return the same way—book ahead on weekends/holidays.
-
-## Before you dive in
-
-![Before you dive in](/images/songdo-marine-cable-car-busan-tickets-prices-h2-1.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
 If you’re building a Busan itinerary that balances “easy city sightseeing” with “wow, I’m really in a coastal port city,” **Songdo Marine Cable Car (부산 송도 해상케이블카)** is one of the simplest upgrades you can make. In less than 10 minutes you’re gliding over the ocean between **Songdo Beach (송도해수욕장)** and **Amnam Park (암남공원)**—with views that feel far more dramatic than the effort required.
 
 But the ticket options can be confusing if you haven’t ridden before: **Air Cruise vs Crystal Cruise**, **one-way vs round-trip**, and the question every traveler asks at the kiosk: *Is round-trip actually worth it, or should I buy one-way and do something different on the return?*

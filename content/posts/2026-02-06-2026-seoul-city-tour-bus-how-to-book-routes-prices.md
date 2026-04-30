@@ -30,20 +30,6 @@ monetize:
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 
-> **Quick Info**
-> - 📍 Area: Seoul (central highlights: Gwanghwamun, palaces, Namsan, Myeongdong)
-> - 🕒 Best time: Spring & fall (Apr–Jun, Sep–Nov); weekdays for fewer crowds
-> - 💰 Budget: KRW 15,000–20,000 per adult for 1-day pass (route-dependent) + attraction fees
-> - 🚇 Getting there: Best paired with subway; start near major hubs (e.g., downtown/Gwanghwamun area)
-> - 👥 Best for: First-time visitors, short-stay travelers, families, anyone wanting efficient sightseeing
-> - ✅ TL;DR: Check route/timetable, book online early on weekends/peak season, arrive 10–15 min early, and plan photo stops for open-top seats.
-
-## Before you dive in
-
-![Before you dive in](/images/2026-seoul-city-tour-bus-how-to-book-routes-prices-h2-1.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
 Seoul is a city that rewards slow travel—but it can also be surprisingly spread out once you start mixing royal palaces, mountain viewpoints, shopping districts, and modern landmarks into one itinerary. That’s exactly why the Seoul City Tour Bus remains a go-to option for first-timers, short-stay travelers, families, and anyone who wants an efficient “big picture” day in the capital.
 
 In this guide, I’ll break down the **2026 Seoul City Tour Bus 예약 방법 + 노선/가격 정리** in practical terms: where to book, how routes typically differ, how to check operating updates, what prices usually look like (using **price ranges, as of 2026**), and the common mistakes that can turn an easy sightseeing day into a stressful one.

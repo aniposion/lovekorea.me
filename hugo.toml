@@ -1,16 +1,23 @@
 baseURL = "https://lovekorea.me/"
 languageCode = "en"
-title = "LoveKorea Blog"
+title = "LoveKorea"
 theme = "PaperMod"
 enableRobotsTXT = true
 defaultContentLanguage = "en"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [pagination]
   pagerSize = 10
 
 [params]
   author = "LoveKorea"
-  description = "A blog for people around the world who love Korean culture"
+  description = "Practical Korea travel, K-beauty, shopping, culture, ticket, and itinerary guides for visitors planning a smarter trip to South Korea."
+  keywords = ["Korea travel", "South Korea itinerary", "K-beauty", "Korean culture", "Seoul tickets", "Busan travel", "Jeju travel"]
+  images = ["images/lovekorea-og.png"]
+  mainSections = ["posts"]
+  ogLocale = "en_US"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -27,16 +34,26 @@ defaultContentLanguage = "en"
   comments = "giscus"
 
   [params.homeInfoParams]
-    Title = "Welcome to LoveKorea"
+    Title = "LoveKorea"
 
   [params.assets]
     disableFingerprinting = false
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png"
+    safari_pinned_tab = "safari-pinned-tab.svg"
+    theme_color = "#e60023"
+    msapplication_TileColor = "#e60023"
     css = ["css/custom.css"]
 
   [params.related]
     useRelatedContent = false
     maxItems = 3
     fillWithLatest = true
+
+  [params.schema]
+    publisherType = "Organization"
 
 # giscus 설정은 [params] 블록과 같은 최상위 레벨
 [params.giscus]
@@ -59,9 +76,19 @@ defaultContentLanguage = "en"
     weight = 2
 
   [[menu.main]]
+    name = "Deals"
+    url = "/deals/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 4
+
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 5
 
 [related]
   threshold = 0

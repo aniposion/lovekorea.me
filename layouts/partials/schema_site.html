@@ -1,15 +1,14 @@
-<script type="application/ld+json">
-    {
-     "@context":"https://schema.org",
-     "@type":"WebSite",
-     "url":"{{ .Site.BaseURL }}",
-     "name":"{{ .Site.Title }}",
-     "inLanguage":"{{ .Site.Language.Lang }}",
-     "potentialAction":{
-       "@type":"SearchAction",
-       "target":"{{ .Site.BaseURL }}search/?q={query}",
-       "query-input":"required name=query"
-     }
-    }
-    </script>
-    
+{{- $logo := "lovekorea-logo.svg" | absURL -}}
+{{- $publisher := dict "@type" "Organization" "name" "LoveKorea" "url" .Site.BaseURL "logo" (dict "@type" "ImageObject" "url" $logo) -}}
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "url" .Site.BaseURL
+  "name" .Site.Title
+  "alternateName" (slice "Love Korea" "LoveKorea Blog")
+  "description" (.Site.Params.description | plainify)
+  "inLanguage" .Site.Language.Lang
+  "publisher" $publisher
+  "potentialAction" (dict "@type" "SearchAction" "target" (printf "%ssearch/?q={query}" .Site.BaseURL) "query-input" "required name=query")
+-}}
+<script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>

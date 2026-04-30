@@ -1,48 +1,32 @@
 ---
 title: "Korea Travel Deals & Recommendations"
-description: "Curated deals for Korea tours, hotels, and travel essentials. Compare prices and book with confidence."
+description: "Curated Korea tour, hotel, and travel essential recommendations with booking tips, comparison links, and compliance-friendly disclosures."
 layout: "list"
 type: "deals"
 ---
 
 # Korea Travel Deals Hub
 
-Welcome to our curated collection of Korea travel deals! We've hand-picked the best tours, accommodations, and travel essentials to help you plan an amazing trip to Korea.
+Use this hub to compare Korea tours, accommodations, and trip-planning essentials before you book.
 
-{{< affiliate-disclosure type="full" >}}
+{{< affiliate-disclosure >}}
 
 ## Browse by Category
 
-<div class="deals-grid">
+- [Tours & Experiences](/deals/korea-tours/): Day trips, guided tours, K-pop experiences, and cultural activities across Korea.
+- [Hotels & Stays](/deals/korea-hotels/): Budget stays, mid-range hotels, hanok guesthouses, and luxury options.
+- [Travel Essentials](/deals/korea-essentials/): Adapters, connectivity, walking gear, sunscreen, and packing basics.
 
-### 🎫 [Tours & Experiences](/deals/korea-tours/)
-Day trips, guided tours, K-pop experiences, and cultural activities across Korea.
+## Featured Comparisons
 
-### 🏨 [Hotels & Stays](/deals/korea-hotels/)
-From budget-friendly hostels to luxury hotels in Seoul, Busan, and beyond.
+{{< offer slot="KOREA_TOUR_DEALS" pos="hub" >}}
 
-### 🎒 [Travel Essentials](/deals/korea-essentials/)
-Must-have items for your Korea trip: adapters, portable WiFi, travel gear, and more.
+{{< offer slot="KOREA_HOTEL_DEALS" pos="hub" >}}
 
-</div>
+## How We Choose Links
 
----
+- We prefer reputable booking platforms with clear cancellation terms.
+- We separate informational guidance from affiliate or sponsored links.
+- We keep Amazon product slots inactive until an approved Associates tag is configured.
 
-## Why Book Through Our Recommendations?
-
-- **Verified deals** – We only feature reputable platforms
-- **Real savings** – Compare prices before you commit  
-- **Free cancellation** – Most bookings offer flexible cancellation
-- **Support our blog** – Your bookings help us create more free content
-
----
-
-## Latest Featured Deals
-
-{{< offer slot="KOREA_TOUR_DEALS" pos="mid" >}}
-
-{{< offer slot="KOREA_HOTEL_DEALS" pos="mid" >}}
-
----
-
-*Prices and availability change frequently. Click through to see current rates.*
+Prices and availability change frequently. Click through to see current rates.

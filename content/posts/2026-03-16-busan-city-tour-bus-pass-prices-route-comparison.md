@@ -30,20 +30,6 @@ monetize:
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 
-> **Quick Info**
-> - 📍 Area: Busan, South Korea
-> - 🕒 Best time: Spring (Apr–Jun) and fall (Sep–Nov); clear views for the open-top deck
-> - 💰 Budget: Mid-range: pass + attraction fees + snacks (expect extra costs beyond the pass)
-> - 🚇 Getting there: Hop-on hop-off open-top bus with loop routes; combine with subway/taxi for gaps
-> - 👥 Best for: First-time visitors, short stays (1–2 days), families, travelers who want easy landmark hopping
-> - ✅ TL;DR: Choose a route based on your must-see stops, buy the right-day pass, start early, and plan hop-off times so you don’t miss the next loop.
-
-## Before you dive in
-
-![Before you dive in](/images/busan-city-tour-bus-pass-prices-route-comparison-h2-1.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
 Busan is a city that rewards curiosity—beaches, cliffside temples, street markets, colorful hillside neighborhoods, and waterfront views that look different every hour of the day. The catch is distance: many of Busan’s “must-sees” are spread out, and first-time visitors often lose time juggling subway transfers, bus apps, and walking routes.
 
 That’s exactly why the **Busan City Tour Bus** is so popular. It’s designed for travelers who want to **cover major sights efficiently** without turning their day into a logistics exercise. With **Hop-on Hop-off flexibility**, **multi-language audio guides (including English)**, and the fun factor of an **open-top double-decker** experience, it’s a practical (and surprisingly scenic) way to move around.

@@ -6,9 +6,9 @@ description: "Book Jeju’s best activities—snorkeling, surfing, and Udo subma
 categories: ["k-travel"]
 tags: ["jeju", "jeju tours", "snorkeling", "surfing", "submarine tour", "udo", "beach activities", "tickets", "prices"]
 cover:
-  image: "Snorkeling, Surfing, Submarine"
+  image: "images/jeju-activity-top-10-tours-prices-tickets-cover.webp"
   alt: "Jeju Activity Top 10 Tours (Snorkeling, Surfing, Submarine): Prices & Tickets (2026)"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
@@ -27,20 +27,6 @@ monetize:
 ## Before you dive in
 
 ![Before you dive in](/images/jeju-activity-top-10-tours-prices-tickets-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-> **Quick Info**
-> - 📍 Area: Jeju Island (East: Gimnyeong, Seongsan/Seopjikoji, Udo; South: Jungmun; North: Iho Tewoo)
-> - 🕒 Best time: Snorkeling: Jun–Aug; Surfing: Jun–Aug & Sep–Nov; Submarine: year-round (weather-dependent)
-> - 💰 Budget: KRW 10,000–30,000 (snorkel rental); KRW 50,000–70,000 (2-hr surf lesson); KRW 50,000–60,000 (submarine)
-> - 🚇 Getting there: Rental car recommended; buses possible but add buffer time for fixed tour slots
-> - 👥 Best for: Beginners, families (submarine), couples, solo travelers who want easy-to-book sea experiences
-> - ✅ TL;DR: Reserve 1–2 weeks ahead in peak season. Gimnyeong for easy water activities, Jungmun/Iho for surf lessons, Udo for the iconic submarine.
-
-## Before you dive in
-
-![Before you dive in](/images/jeju-activity-top-10-tours-prices-tickets-h2-1.webp)
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 

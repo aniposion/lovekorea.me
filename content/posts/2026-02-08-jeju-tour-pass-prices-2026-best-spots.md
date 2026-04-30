@@ -30,20 +30,6 @@ monetize:
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 
-> **Quick Info**
-> - 📍 Area: Jeju Island, South Korea
-> - 🕒 Best time: Spring (Mar–May) and fall (Sep–Nov) for mild weather and fewer crowds
-> - 💰 Budget: Mid-range: plan for pass + meals + fuel/tolls; higher in summer peak due to car and activity demand
-> - 🚇 Getting there: Rental car recommended; book early in peak season
-> - 👥 Best for: First-timers, families, travelers doing multiple paid attractions/activities in 1–3 days
-> - ✅ TL;DR: Jeju Tour Pass bundles rental car + attraction/experience discounts; best value when you plan multiple ticketed spots and reserve early in peak season.
-
-## Before you dive in
-
-![Before you dive in](/images/jeju-tour-pass-prices-2026-best-spots-h2-1.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
 Jeju is one of those destinations where your itinerary can swing wildly depending on two things: how you get around and how many paid attractions/activities you plan to do. That’s why the **Jeju Tour Pass (제주 투어 패스)** has become such a popular shortcut for travelers—especially first-timers who want to bundle the essentials and spend less time juggling separate bookings.
 
 This post breaks down **Jeju Tour Pass prices (2026)** using **safe price ranges (not exact numbers)**, explains what’s typically included, and helps you decide which style of pass makes sense for your trip. You’ll also find **must-visit spots commonly associated with pass-style bundles**, plus sample itineraries for **1–3 days** across the **East/West/South** of the island.

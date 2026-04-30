@@ -19,8 +19,8 @@ For this topic (**서울 유명 동네 소개: 홍대, 이태원, 강남**), che
 - Look for weekday-only discounts
 - Book cancellable options first, then refine later
 
-> Later, replace this with your affiliate link:
-> [Find deals for this area](/go/travel-deals)
+> Use this internal comparison hub before booking:
+> [Find deals for this area](/deals/)
 :::
 
 
@@ -168,6 +168,6 @@ If this guide helped you plan your trip, take the next step:
 - Compare **local tours / day trips** (English support)
 - Look for **transport passes** that bundle trains, buses, or attractions
 
-> Placeholder affiliate link (replace in Hugo template or Markdown):
-> [Book your Korea trip here](/go/book-korea)
+> Internal comparison hub:
+> [Book your Korea trip here](/deals/)
 

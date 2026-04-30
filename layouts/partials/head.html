@@ -5,7 +5,12 @@
 
 
 {{- /* Title */ -}}
-<title>LoveKorea Blog | Korean Food · K-Beauty · Language & Culture Guides</title>
+{{- $siteTitle := site.Title -}}
+{{- $pageTitle := $siteTitle -}}
+{{- if not .IsHome -}}
+  {{- $pageTitle = printf "%s | %s" .Title $siteTitle -}}
+{{- end -}}
+<title>{{ replace ($pageTitle | plainify | htmlUnescape) "&" "&amp;" | safeHTML }}</title>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2RHGK56598"></script>
 <script>
@@ -47,14 +52,14 @@
 {{- if site.Params.analytics.naver.SiteVerificationTag }}
 <meta name="naver-site-verification" content="{{ site.Params.analytics.naver.SiteVerificationTag }}">
 {{- end }}
-<meta property="og:locale" content="{{ .Site.Language.Lang }}">
+<meta property="og:locale" content="{{ site.Params.ogLocale | default .Site.Language.Lang }}">
+<meta name="geo.region" content="KR">
+<meta name="geo.placename" content="South Korea">
+<meta name="geo.position" content="36.5;127.8">
+<meta name="ICBM" content="36.5, 127.8">
 {{ range .AllTranslations }}
 <meta property="og:locale:alternate" content="{{ .Lang }}">
 {{ end }}
-
-<meta property="og:image" content="https://lovekorea.me/images/discovering-korean-summer-fashion-when-hanbok-meet.webp">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
 
 {{- /* Styles */}}
 
@@ -125,22 +130,6 @@
 {{- range .AllTranslations -}}
 <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
 {{ end -}}
-
-{{ if .IsPage }}
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": {{ .Title | jsonify }},
-    "datePublished": "{{ .PublishDate | default .Date }}",
-    "dateModified": "{{ .Lastmod | default (.PublishDate | default .Date) }}",
-    "inLanguage": "{{ .Site.Language.Lang }}",
-    "author": [{"@type":"Person","name":"LoveKorea"}],
-    "image": {{ with .Params.cover.image }}[{{ . | absURL | jsonify }}]{{ else }}[]{{ end }},
-    "mainEntityOfPage": {"@type":"WebPage","@id": {{ .Permalink | jsonify }}}
-}
-</script>
-{{ end }}
 
 <noscript>
     <style>

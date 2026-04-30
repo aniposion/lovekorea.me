@@ -30,20 +30,6 @@ monetize:
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 
-> **Quick Info**
-> - 📍 Area: Jeju Island (Jungmun Saekdal Beach, Hamdeok Beach)
-> - 🕒 Best time: Sep–Nov for fewer crowds; Jun–Aug requires early booking
-> - 💰 Budget: KRW 40,000–120,000 per person depending on group/private & inclusions
-> - 🚇 Getting there: Rental car easiest; buses/taxis work but allow extra time for gear
-> - 👥 Best for: Beginners booking first-time lessons, couples, small groups, solo travelers
-> - ✅ TL;DR: Jungmun is the most structured/official surf spot; Hamdeok is convenient in the north. Compare inclusions (board/wetsuit), class size, and cancellation rules before booking.
-
-## Before you dive in
-
-![Before you dive in](/images/jeju-surf-lessons-jungmun-hamdeok-prices-how-to-book-h2-1.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
 Jeju is one of those destinations where “beach day” can turn into a full-on lifestyle moment—salt on your skin, board under your arm, and the satisfaction of catching your first real wave. Surfing has become one of the most popular activities on the island, and two beaches show up again and again in trip plans: **Jungmun Saekdal Beach (중문색달해수욕장)** on the south coast and **Hamdeok Beach (함덕해수욕장)** on the north-east.
 
 If you’re trying to choose between them for your first surf lesson (or your first in Jeju), this guide focuses on what actually helps you decide: **how booking works, typical price ranges, what’s included, when to reserve, and what mistakes to avoid**—so you can spend less time guessing and more time in the water.

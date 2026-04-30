@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import base64
 import mimetypes
 import pandas as pd
 from PIL import Image
@@ -17,7 +18,11 @@ from google.genai import types
 # 0. 전역 설정
 # ==============================================================================
 MIN_WORDS = 1500
-OPENAI_MODEL = "gpt-5.2"
+OPENAI_MODEL = "gpt-5.5"
+OPENAI_IMAGE_MODEL = "gpt-image-2"
+OPENAI_IMAGE_SIZE = "1536x1024"
+OPENAI_IMAGE_QUALITY = "medium"
+GEMINI_IMAGE_MODEL = "gemini-3-pro-image-preview"
 MAX_IMAGES_PER_POST = 4
 
 # 수익화(affiliate) 기능 ON/OFF
@@ -105,6 +110,12 @@ HUGO_IMAGE_DIR = Path("C:/Users/uesr/myblog/static/images")
 
 load_dotenv(dotenv_path=BASE_PROJECT_DIR / ".env")
 
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", OPENAI_MODEL)
+OPENAI_IMAGE_MODEL = os.getenv("OPENAI_IMAGE_MODEL", OPENAI_IMAGE_MODEL)
+OPENAI_IMAGE_SIZE = os.getenv("OPENAI_IMAGE_SIZE", OPENAI_IMAGE_SIZE)
+OPENAI_IMAGE_QUALITY = os.getenv("OPENAI_IMAGE_QUALITY", OPENAI_IMAGE_QUALITY)
+GEMINI_IMAGE_MODEL = os.getenv("GEMINI_IMAGE_MODEL", GEMINI_IMAGE_MODEL)
+
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
@@ -171,6 +182,16 @@ def extract_first_image_url(md: str) -> str:
         return ""
     m = re.search(r'!\[[^\]]*\]\(([^)]+)\)', md)
     return (m.group(1).strip() if m else "")
+
+
+def is_image_url(url: str) -> bool:
+    """Return True for image paths/URLs that Hugo can safely render."""
+    u = (url or "").strip()
+    if not u:
+        return False
+    if not (u.startswith(("images/", "/images/", "http://", "https://"))):
+        return False
+    return bool(re.search(r"\.(?:webp|jpe?g|png|gif|avif)(?:[?#].*)?$", u, re.IGNORECASE))
 
 
 
@@ -515,7 +536,7 @@ Focus on:
 - pitfalls, common mistakes, or things people often regret
 """
         response = clientOpenAI.responses.create(
-            model="gpt-4o",
+            model=OPENAI_MODEL,
             input=prompt,
             tools=[
                 {
@@ -608,10 +629,40 @@ def _save_binary_file(path: Path, data: bytes):
         f.write(data)
 
 
+def _generate_with_openai_image(prompt: str, filename_base: str) -> Optional[Path]:
+    print(f"[OpenAI Image] Generating: {filename_base} ({OPENAI_IMAGE_MODEL})...")
+    try:
+        result = clientOpenAI.images.generate(
+            model=OPENAI_IMAGE_MODEL,
+            prompt=prompt,
+            size=OPENAI_IMAGE_SIZE,
+            quality=OPENAI_IMAGE_QUALITY,
+            output_format="png",
+            n=1,
+        )
+
+        if not result.data:
+            print("OpenAI image response had no data.")
+            return None
+
+        image_b64 = getattr(result.data[0], "b64_json", None)
+        if not image_b64:
+            print("OpenAI image response had no b64_json payload.")
+            return None
+
+        path = HUGO_IMAGE_DIR / f"{filename_base}.png"
+        _save_binary_file(path, base64.b64decode(image_b64))
+        return path
+
+    except Exception as e:
+        print(f"OpenAI Image Error: {e}")
+        return None
+
+
 def _generate_with_google_banana(prompt: str, filename_base: str) -> Optional[Path]:
     print(f"🍌 [Nano Banana] Generating: {filename_base}...")
     try:
-        model = "gemini-3-pro-image-preview"
+        model = GEMINI_IMAGE_MODEL
 
         contents = [
             types.Content(
@@ -671,7 +722,9 @@ def sanitize_ai_artifacts(md: str) -> str:
 
 def generate_image(topic: str, filename_base: str, alt: str) -> str:
     full_prompt = create_dynamic_image_prompt(topic)
-    saved_path = _generate_with_google_banana(full_prompt, filename_base)
+    saved_path = _generate_with_openai_image(full_prompt, filename_base)
+    if not saved_path:
+        saved_path = _generate_with_google_banana(full_prompt, filename_base)
 
     if saved_path:
         tag = convert_to_webp_with_alt(saved_path, HUGO_IMAGE_DIR, alt)
@@ -1234,15 +1287,17 @@ def save_post(bundle: Dict[str, Any], final_md: str, cover_md: str):
     tags = bundle.get("tags", []) or []
 
     # 1) cover_md (generated cover tag)에서 url 추출
-    cover_url = ""
-    if cover_md:
-        m = re.search(r"\((.*?)\)", cover_md)
-        if m:
-            cover_url = (m.group(1) or "").strip()
+    cover_url = extract_first_image_url(cover_md)
+    if cover_url and not is_image_url(cover_url):
+        print(f"?좑툘 [Cover] Ignoring invalid cover URL from generated tag: {cover_url}")
+        cover_url = ""
 
     # 2) ✅ fallback: 본문 첫 이미지 URL을 커버로 사용
     if not cover_url:
         cover_url = extract_first_image_url(final_md)
+        if cover_url and not is_image_url(cover_url):
+            print(f"?좑툘 [Cover] Ignoring invalid fallback cover URL: {cover_url}")
+            cover_url = ""
 
     # 3) ✅ 최종 정규화 (relative: true에 맞춤)
     cover_url = normalize_cover_url(cover_url)
@@ -1268,7 +1323,7 @@ def save_post(bundle: Dict[str, Any], final_md: str, cover_md: str):
         "cover:",
         f'  image: "{cover_url}"',
         f'  alt: "{seo_title}"',
-        "  relative: true",
+        "  relative: false",
     ]
     if monetize_block:
         fm_lines.append(monetize_block)
@@ -1364,7 +1419,6 @@ if __name__ == "__main__":
 
     top_block = "\n\n".join([p for p in top_parts if p])
     
-    content_md = insert_after_h1(content_md, top_block)
     # ✅ 1) 중복 H1 방지: 콘텐츠의 첫 H1 제거 (테마가 H1 뿌린다고 가정)
     content_md = strip_first_h1(content_md)
 

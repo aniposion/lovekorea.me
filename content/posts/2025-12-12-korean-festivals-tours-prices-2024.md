@@ -31,8 +31,8 @@ If you're thinking about **한국의 지역 축제와 행사 소개**, check cur
 - Compare DIY vs package prices in one place
 - Lock in cancellable options while you read this guide
 
-> (Affiliate placeholder)
-> 👉 [Check Korea tour & pass deals](/go/korea-tours)
+> (Deals note)
+> 👉 [Check Korea tour & pass deals](/deals/korea-tours/)
 
 
 
@@ -186,6 +186,6 @@ Instead of just closing the tab, take one small step now:
 - Check if any **city passes or discount cards** include these spots
 - Save 5–20% simply by booking online in advance
 
-> (Affiliate placeholder)
-> 👉 [See current Korea deals](/go/korea-deals)
+> (Deals note)
+> 👉 [See current Korea deals](/deals/)
 

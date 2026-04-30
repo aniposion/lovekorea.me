@@ -6,9 +6,9 @@ description: "Compare KORAIL Pass prices, learn how to book and reserve seats, a
 categories: ["k-travel"]
 tags: ["korail pass", "korea trains", "ktx tickets", "train booking", "rail pass", "seat reservation", "korea itinerary", "travel budget", "foreign tourists"]
 cover:
-  image: "2026"
+  image: "images/korail-pass-prices-how-to-book-cover.webp"
   alt: "KORAIL Pass Prices & How to Book (2026): Korea Rail Pass Tickets Guide"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
@@ -27,20 +27,6 @@ monetize:
 ## Before you dive in
 
 ![Before you dive in](/images/korail-pass-prices-how-to-book-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-> **Quick Info**
-> - 📍 Area: South Korea nationwide (KORAIL-operated lines: Seoul, Busan, Gyeongju, Jeonju and more)
-> - 🕒 Best time: Spring (Mar–May) and Autumn (Sep–Nov); book earlier for holidays and weekends
-> - 💰 Budget: From ~96,000 KRW (youth 2-day) to ~210,000 KRW (adult 5-day), plus optional fees not covered
-> - 🚇 Getting there: KTX/ITX/Mugunghwa on KORAIL routes (seat reservations still required for many trains)
-> - 👥 Best for: Foreign tourists visiting 2+ cities, rail-heavy itineraries, peak-season travelers who can reserve early
-> - ✅ TL;DR: Buy the KORAIL Pass online, activate for your travel dates, then reserve seats ASAP—especially KTX—because the pass doesn’t guarantee a seat.
-
-## Before you dive in
-
-![Before you dive in](/images/korail-pass-prices-how-to-book-h2-1.webp)
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 

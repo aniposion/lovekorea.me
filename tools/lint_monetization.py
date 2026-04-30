@@ -52,6 +52,7 @@ AMAZON_DISCLOSURE_PATTERN = r"As an Amazon Associate I earn from qualifying purc
 
 # General FTC disclosure patterns
 FTC_DISCLOSURE_PATTERNS = [
+    r"\{\{<\s*affiliate-disclosure\b",
     r"This post may contain affiliate links",
     r"This article may contain affiliate links",
     r"This page may contain affiliate links",
@@ -97,7 +98,9 @@ class Violation:
     severity: str = "ERROR"  # ERROR, WARNING, INFO
 
     def __str__(self):
-        return f"[{self.severity}] {self.file}:{self.line_number} - {self.rule}: {self.message}"
+        text = f"[{self.severity}] {self.file}:{self.line_number} - {self.rule}: {self.message}"
+        encoding = sys.stdout.encoding or "utf-8"
+        return text.encode(encoding, errors="replace").decode(encoding)
 
 
 @dataclass
@@ -133,14 +136,14 @@ def load_slots_config(slots_file: Path) -> Dict[str, Dict[str, Any]]:
         return {}
     
     if not slots_file.exists():
-        print(f"  ⚠️ Slots file not found: {slots_file}")
+        print(f"  WARNING: Slots file not found: {slots_file}")
         return {}
     
     try:
         with open(slots_file, 'r', encoding='utf-8') as f:
             return yaml.safe_load(f) or {}
     except Exception as e:
-        print(f"  ⚠️ Error loading slots file: {e}")
+        print(f"  WARNING: Error loading slots file: {e}")
         return {}
 
 
@@ -154,6 +157,14 @@ def get_slot_url(slot_key: str, slots_config: Dict[str, Dict[str, Any]]) -> Opti
     """Get URL for a slot key."""
     slot = slots_config.get(slot_key, {})
     return slot.get("url")
+
+
+def is_slot_active(slot_key: str, slots_config: Dict[str, Dict[str, Any]]) -> bool:
+    """Inactive slots are placeholders and should not trigger disclosure checks."""
+    slot = slots_config.get(slot_key, {})
+    if not slot:
+        return True
+    return bool(slot.get("active", True))
 
 
 # ============================================================================
@@ -330,6 +341,9 @@ def lint_file(file_path: Path, slots_config: Dict[str, Dict[str, Any]], verbose:
     amazon_slots = []
     
     for line_num, slot_key in shortcodes:
+        if not is_slot_active(slot_key, slots_config):
+            continue
+
         provider = get_slot_provider(slot_key, slots_config)
         url = get_slot_url(slot_key, slots_config) or ""
         
@@ -351,9 +365,9 @@ def lint_file(file_path: Path, slots_config: Dict[str, Dict[str, Any]], verbose:
                 result.violations.extend(url_violations)
     
     if verbose and shortcodes:
-        print(f"  📦 Found {len(shortcodes)} offer shortcodes in {file_path.name}")
+        print(f"  Found {len(shortcodes)} offer shortcodes in {file_path.name}")
         if amazon_slots:
-            print(f"     ↳ {len(amazon_slots)} Amazon slots")
+            print(f"     -> {len(amazon_slots)} Amazon slots")
     
     # -------------------------------------------------------------------------
     # 2. Check for forbidden redirect patterns in content
@@ -438,7 +452,7 @@ def print_summary(results: List[LintResult], verbose: bool = False) -> Tuple[int
     total_slots = sum(len(r.slots_used) for r in results)
     
     print("\n" + "=" * 70)
-    print("📊 MONETIZATION COMPLIANCE LINT REPORT")
+    print("MONETIZATION COMPLIANCE LINT REPORT")
     print("=" * 70)
     print(f"  Files scanned:           {total_files}")
     print(f"  Offer shortcodes found:  {total_slots}")
@@ -449,20 +463,20 @@ def print_summary(results: List[LintResult], verbose: bool = False) -> Tuple[int
     print("=" * 70)
     
     if error_count > 0:
-        print("\n❌ ERRORS (must fix before deploy):\n")
+        print("\nERRORS (must fix before deploy):\n")
         for result in results:
             for v in result.violations:
                 if v.severity == "ERROR":
                     print(f"  {v}")
     
     if warning_count > 0 and verbose:
-        print("\n⚠️  WARNINGS:\n")
+        print("\nWARNINGS:\n")
         for result in results:
             for v in result.violations:
                 if v.severity == "WARNING":
                     print(f"  {v}")
     elif warning_count > 0:
-        print(f"\n⚠️  {warning_count} warnings (use --verbose to see details)")
+        print(f"\n{warning_count} warnings (use --verbose to see details)")
     
     print()
     
@@ -502,7 +516,7 @@ def main():
     if args.content_dirs:
         scan_dirs.extend(args.content_dirs)
     
-    print("🔍 Starting Monetization Compliance Lint...")
+    print("Starting Monetization Compliance Lint...")
     print(f"   Scanning: {', '.join(str(d) for d in scan_dirs)}")
     
     # Load slots configuration
@@ -514,7 +528,7 @@ def main():
     md_files = find_markdown_files(scan_dirs)
     
     if not md_files:
-        print("⚠️  No markdown files found to lint.")
+        print("WARNING: No markdown files found to lint.")
         return 0
     
     print(f"   Found {len(md_files)} markdown files\n")
@@ -532,14 +546,14 @@ def main():
     
     # Determine exit code
     if args.warnings_as_errors and warning_count > 0:
-        print("❌ Build failed: Warnings treated as errors (-W flag)")
+        print("Build failed: Warnings treated as errors (-W flag)")
         return 1
     
     if error_count > 0:
-        print("❌ Build failed: Compliance errors found")
+        print("Build failed: Compliance errors found")
         return 1
     
-    print("✅ All compliance checks passed!")
+    print("All compliance checks passed!")
     return 0
 
 

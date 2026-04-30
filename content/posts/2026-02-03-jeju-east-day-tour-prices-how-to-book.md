@@ -30,20 +30,6 @@ monetize:
 
 If any part of this guide feels useful, take 10 seconds to bookmark it.
 
-> **Quick Info**
-> - 📍 Area: Jeju Island (East: Seongsan/Seopjikoji/Udo)
-> - 🕒 Best time: Spring (Mar–May) and fall (Sep–Nov); avoid peak summer crowds if possible
-> - 💰 Budget: KRW 50,000–100,000 per person (typical group tour); private charter varies by vehicle/hours
-> - 🚇 Getting there: Tour bus/van + Udo ferry (weather-dependent); hotel pickup may be offered in some products
-> - 👥 Best for: First-time Jeju visitors, travelers without a car, short-stay itineraries, families wanting easy logistics
-> - ✅ TL;DR: Most East Jeju day tours bundle Seongsan + Seopjikoji + Udo in ~9–10 hours; expect ~5–10만원 and book early in peak season.
-
-## Before you dive in
-
-![Before you dive in](/images/jeju-east-day-tour-prices-how-to-book-h2-1.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
 Jeju’s east coast is one of those rare places where a single day can feel like a highlight reel: a UNESCO-listed volcanic crater at Seongsan Ilchulbong (Sunrise Peak), bright blue water and low-key beach towns on Udo Island, and the cinematic coastal cliffs of Seopjikoji. The catch is logistics—bus gaps, ferry timing, weather changes, and long taxi rides can quickly turn “easy day trip” into “why did we do this?”
 
 That’s why **Jeju East day tours** (제주 동쪽 일일투어) remain popular in 2026: they bundle transportation, time-saving routing, and (often) a guide into one bookable plan. Below is a practical, decision-first guide to **who these tours fit best, what they typically include, how much they cost (using ranges as of 2026/2027), what’s extra, and how to avoid booking mistakes**—especially for the core trio: **Seongsan + Udo + Seopjikoji**.
