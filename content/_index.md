@@ -1,6 +1,6 @@
 ---
-title: "Welcome to LoveKorea"
+title: "LoveKorea"
 layout: "list"
 view: "card"
-description: "Discover Korean food, beauty, music, language, and more!"
+description: "Korea, curated for curious travelers: practical guides to Seoul, Busan, Jeju, K-beauty, shopping, culture, tickets, and everyday finds."
 ---

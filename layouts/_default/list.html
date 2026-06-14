@@ -2,39 +2,23 @@
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
-{{- else }} {{/* if not profileMode */}}
+{{- else }}
 
 {{- if not .IsHome | and .Title }}
-<header class="page-header">
+<header class="page-header lk-page-header">
   {{- partial "breadcrumbs.html" . }}
-  <h1>
-    {{ .Title }}
-    {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param "ShowRssButtonInSectionTermList") }}
-    {{- with .OutputFormats.Get "rss" }}
-    <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-        stroke-linecap="round" stroke-linejoin="round" height="23">
-        <path d="M4 11a9 9 0 0 1 9 9" />
-        <path d="M4 4a16 16 0 0 1 16 16" />
-        <circle cx="5" cy="19" r="1" />
-      </svg>
-    </a>
-    {{- end }}
-    {{- end }}
-  </h1>
+  <p class="lk-kicker">LoveKorea Guide Shelf</p>
+  <h1>{{ .Title }}</h1>
   {{- if .Description }}
   <div class="post-description">
     {{ .Description | markdownify }}
   </div>
   {{- end }}
-
-
-
 </header>
 {{- end }}
 
 {{- if .Content }}
-<div class="post-content">
+<div class="post-content lk-page-intro">
   {{- if not (.Param "disableAnchoredHeadings") }}
   {{- partial "anchored_headings.html" .Content -}}
   {{- else }}{{ .Content }}{{ end }}
@@ -42,90 +26,84 @@
 {{- end }}
 
 {{- $pages := union .RegularPages .Sections }}
-
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "hero.html" . }}
+<section class="lk-section-heading" aria-labelledby="lk-latest-title">
+  <p class="lk-kicker">Recently Curated</p>
+  <h2 id="lk-latest-title">Latest Korea field notes</h2>
+  <p>Trip planning, beauty shopping, booking shortcuts, and small discoveries from Korea.</p>
+</section>
 {{- end }}
-<audio controls preload="metadata" style="width:100%;max-width:640px; justify-items:center;margin:0 auto;">
-  <source src='{{ "media/music/Sometime.mp3" | relURL }}' type="audio/mpeg">
-  브라우저가 오디오 태그를 지원하지 않습니다.
-</audio>
 
-{{- $term := .Data.Term }}
-<div class="posts-grid">
+<div class="posts-grid lk-post-grid">
 {{- range $index, $page := $paginator.Pages }}
+  {{- $categories := .Params.categories }}
+  {{- $eyebrow := "LoveKorea Guide" }}
+  {{- with $categories }}{{- $eyebrow = (replace (humanize (index . 0)) "K " "K-") }}{{- end }}
+  {{- $summary := .Description | default (.Summary | plainify | htmlUnescape) }}
+  {{- $intent := "" }}
+  {{- with .Params.monetize.intent }}{{- $intent = . }}{{- end }}
 
-{{- $class := "post-entry" }}
-
-{{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
-{{- $class = "first-entry" }}
-{{- else if $term }}
-{{- $class = "post-entry tag-entry" }}
-{{- end }}
-
-<article class="{{ $class }}">
-  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">
-      {{- .Title }}
-      {{- if .Draft }}
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
-        </svg>
-      </span>
+  <article class="lk-editorial-card{{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }} lk-editorial-card--feature{{ end }}">
+    <a class="lk-editorial-card__media" href="{{ .RelPermalink }}" aria-label="Read {{ .Title | plainify }}">
+      {{- with .Params.cover.image }}
+        <img src="{{ . | relURL }}" alt="{{ $page.Title | plainify }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}" decoding="async">
+      {{- else }}
+        <span class="lk-editorial-card__fallback">LoveKorea</span>
       {{- end }}
-    </h2>
-  </header>
-  {{- if (ne (.Param "hideSummary") true) }}
-  <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-  </div>
-  {{- end }}
-  {{- if not (.Param "hideMeta") }}
-  <footer class="entry-footer">
-    {{- partial "post_meta.html" . -}}
-  </footer>
-  {{- end }}
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
-</article>
+    </a>
+    <div class="lk-editorial-card__body">
+      <div class="lk-editorial-card__eyebrow">
+        <span>{{ $eyebrow }}</span>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      </div>
+      <h2 class="lk-editorial-card__title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+      {{- if ne (.Param "hideSummary") true }}
+      <p class="lk-editorial-card__summary">{{ $summary | plainify | truncate 165 }}</p>
+      {{- end }}
+      <div class="lk-editorial-card__meta">
+        <span>{{ .ReadingTime }} min read</span>
+        {{- with $intent }}<span>{{ . | humanize }}</span>{{- end }}
+      </div>
+      {{- with .Params.tags }}
+      <div class="lk-editorial-card__tags" aria-label="Tags">
+        {{- range first 3 . }}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{- end }}
+      </div>
+      {{- end }}
+      <a class="lk-editorial-card__cta" href="{{ .RelPermalink }}">Read guide</a>
+    </div>
+  </article>
 {{- end }}
-
 </div>
 
 {{- if gt $paginator.TotalPages 1 }}
-<footer class="page-footer">
-  <nav class="pagination">
+<footer class="page-footer lk-page-footer">
+  <nav class="pagination" aria-label="Pagination">
     {{- if $paginator.HasPrev }}
     <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
-      «&nbsp;{{ i18n "prev_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}
-      {{- end }}
+      Previous{{- if (.Param "ShowPageNums") }} {{ sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}{{- end }}
     </a>
     {{- end }}
     {{- if $paginator.HasNext }}
     <a class="next" href="{{ $paginator.Next.URL | absURL }}">
-      {{- i18n "next_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}
-      {{- end }}&nbsp;»
+      Next{{- if (.Param "ShowPageNums") }} {{ add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}{{- end }}
     </a>
     {{- end }}
   </nav>
 </footer>
 {{- end }}
 
-{{- end }}{{/* end profileMode */}}
+{{- end }}
 
-{{- end }}{{- /* end main */ -}}
+{{- end }}

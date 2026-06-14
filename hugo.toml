@@ -13,7 +13,7 @@ defaultContentLanguage = "en"
 
 [params]
   author = "LoveKorea"
-  description = "Practical Korea travel, K-beauty, shopping, culture, ticket, and itinerary guides for visitors planning a smarter trip to South Korea."
+  description = "Curated Korea travel, K-beauty, shopping, culture, ticket, and itinerary guides for U.S. travelers who want practical choices with an editor's eye."
   keywords = ["Korea travel", "South Korea itinerary", "K-beauty", "Korean culture", "Seoul tickets", "Busan travel", "Jeju travel"]
   images = ["images/lovekorea-og.png"]
   mainSections = ["posts"]
@@ -43,8 +43,8 @@ defaultContentLanguage = "en"
     favicon32x32 = "favicon-32x32.png"
     apple_touch_icon = "apple-touch-icon.png"
     safari_pinned_tab = "safari-pinned-tab.svg"
-    theme_color = "#e60023"
-    msapplication_TileColor = "#e60023"
+    theme_color = "#c8463a"
+    msapplication_TileColor = "#c8463a"
     css = ["css/custom.css"]
 
   [params.related]
