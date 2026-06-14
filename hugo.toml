@@ -13,7 +13,7 @@ defaultContentLanguage = "en"
 
 [params]
   author = "LoveKorea"
-  description = "Curated Korea travel, K-beauty, shopping, culture, ticket, and itinerary guides for U.S. travelers who want practical choices with an editor's eye."
+  description = "Practical Korea travel, K-beauty, shopping, culture, ticket, and itinerary guides for U.S. travelers comparing prices, routes, stores, and booking options."
   keywords = ["Korea travel", "South Korea itinerary", "K-beauty", "Korean culture", "Seoul tickets", "Busan travel", "Jeju travel"]
   images = ["images/lovekorea-og.png"]
   mainSections = ["posts"]

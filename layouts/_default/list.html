@@ -7,7 +7,7 @@
 {{- if not .IsHome | and .Title }}
 <header class="page-header lk-page-header">
   {{- partial "breadcrumbs.html" . }}
-  <p class="lk-kicker">LoveKorea Guide Shelf</p>
+  <p class="lk-kicker">Guide Library</p>
   <h1>{{ .Title }}</h1>
   {{- if .Description }}
   <div class="post-description">
@@ -36,9 +36,9 @@
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "hero.html" . }}
 <section class="lk-section-heading" aria-labelledby="lk-latest-title">
-  <p class="lk-kicker">Recently Curated</p>
-  <h2 id="lk-latest-title">Latest Korea field notes</h2>
-  <p>Trip planning, beauty shopping, booking shortcuts, and small discoveries from Korea.</p>
+  <p class="lk-kicker">Latest Guides</p>
+  <h2 id="lk-latest-title">Recent Korea planning notes</h2>
+  <p>Practical updates on trip planning, beauty shopping, booking choices, and places worth checking before you go.</p>
 </section>
 {{- end }}
 
