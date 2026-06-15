@@ -1,341 +1,630 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>About | Love Korea</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>About | LoveKorea</title>
+<meta name="description" content="LoveKorea is an independent Korea guide for U.S. readers comparing travel, beauty, food, shopping, and culture choices with practical context.">
 <link rel="icon" href="/favicon.ico">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Poppins:wght@600;800&display=swap" rel="stylesheet">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <style>
-:root{
---brand: #e60023;
---text: #1a1a1a;
---muted: #666;
---bg: #fdfdfd;
---card-bg: #ffffff;
---border-color: #eaeaea;
---shadow: 0px 8px 24px rgba(0, 0, 0, 0.05);
---font-display: 'Poppins', sans-serif;
---font-body: 'Noto Sans KR', sans-serif;
+:root {
+  --lk-ink: #10131a;
+  --lk-muted: #5e5a52;
+  --lk-paper: #fffaf0;
+  --lk-bg: #e9e4d8;
+  --lk-border: #cfc3b2;
+  --lk-red: #b51f32;
+  --lk-green: #0f4c45;
+  --lk-blue: #1746a2;
+  --lk-yellow: #b56b16;
+  --lk-charcoal: #10131a;
 }
+
+* {
+  box-sizing: border-box;
+  letter-spacing: 0;
+}
+
 body {
-margin: 0;
-font-family: var(--font-body);
-color: var(--text);
-background: var(--bg);
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-}
-.container {
-max-width: 1100px;
-margin: 0 auto;
-padding: 0 24px;
+  margin: 0;
+  background: var(--lk-bg);
+  color: var(--lk-ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  text-rendering: optimizeLegibility;
 }
 
-.hero {
-text-align: center;
-padding: 120px 0;
-background: linear-gradient(180deg, var(--bg), #f7f7f9);
+a {
+  color: inherit;
 }
-.hero h1 {
-font-family: var(--font-display);
-font-size: 56px;
-line-height: 1.2;
-margin: 0 0 18px;
-color: var(--text);
-}
-.hero h1 .highlight {
-color: var(--brand);
-}
-.hero p {
-color: var(--muted);
-font-size: 20px;
-max-width: 760px;
-margin: 0 auto;
-line-height: 1.7;
-}
-.section {
-padding: 80px 0;
-}
-.grid {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-gap: 30px;
-}
-.card {
-background: var(--card-bg);
-border: 1px solid var(--border-color);
-border-radius: 16px;
-padding: 30px;
-box-shadow: var(--shadow);
-transition: transform 0.3s, box-shadow 0.3s;
-}
-.card:hover {
-transform: translateY(-8px);
-}
-.card h2 {
-font-family: var(--font-display);
-font-size: 24px;
-margin: 0 0 15px;
-color: var(--brand);
-}
-.card p, .card ul {
-margin: 0;
-color: #444;
-line-height: 1.8;
-}
-.card ul {
-padding-left: 20px;
-}
-.story-section {
-text-align: center;
-}
-.story-section h2 {
-font-size: 36px;
-font-family: var(--font-display);
-margin-bottom: 20px;
-}
-.story-section p {
-font-size: 18px;
-color: var(--muted);
-max-width: 800px;
-margin: 0 auto 40px;
-}
-.cta-section {
-background: var(--text);
-color: #fff;
-padding: 80px 0;
-text-align: center;
-border-radius: 20px;
-margin: 80px auto;
-}
-.cta-section h2 {
-font-family: var(--font-display);
-font-size: 38px;
-margin: 0 0 15px;
-}
-.cta-section p {
-max-width: 600px;
-margin: 0 auto 30px;
-opacity: 0.9;
-}
-.btn {
-display: inline-block;
-padding: 14px 28px;
-border-radius: 12px;
-text-decoration: none;
-font-weight: 700;
-font-family: var(--font-body);
-transition: all 0.3s;
-}
-.btn.primary {
-background: var(--brand);
-color: #fff;
-}
-.btn.primary:hover {
-background: #c2001e;
-transform: scale(1.05);
-}
-footer {
-padding: 40px 0;
-color: #777;
-font-size: 14px;
-text-align: center;
-border-top: 1px solid var(--border-color);
-margin-top: 60px;
-}
-  :root {
-    --header-pad-x: 40px;
-    --header-pad-y: 10px;
-    --header-border: #eaeaea;
-    --brand: #e60023;
-  }
 
-   
-  .site-header{
-    position: sticky;   
-    top: 0;
-    z-index: 9999;
-    background: #fff;
-    border-bottom: 1px solid var(--header-border);
-  }
+.lk-site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(16, 19, 26, 0.96);
+  border-bottom: 1px solid rgba(255, 250, 240, 0.14);
+  backdrop-filter: blur(14px);
+}
 
-   
-  .header-inner{
-    display: grid;
-    grid-template-columns: 1fr auto 1fr;
-    align-items: center;
-    gap: 20px;
-    padding: var(--header-pad-y) var(--header-pad-x);
-  }
+.lk-curation-bar {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  padding: 8px 18px;
+  background: #7b1825;
+  color: #fffaf0;
+  border-bottom: 1px solid rgba(255, 250, 240, 0.14);
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
 
-  .site-title{
-    justify-self: start;
-    font-size: 1.5rem !important;
-    font-weight: 700;
-    color: var(--brand);
-    text-decoration: none;
-    white-space: nowrap;
-  }
-
-  .main-nav ul{
-    display: flex;
-    align-items: center;
-    justify-content: center;  
-    gap: 30px;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    font-size:24px;
-  }
-
-  .main-nav a{
-  position: relative;        
+.lk-curation-bar a {
+  color: #fffaf0;
+  font-weight: 700;
   text-decoration: none;
-  color: #333;
-  font-weight: 500;
-  transition: color .2s ease;
-  padding-bottom: 4px;       
 }
 
-.main-nav a::after{
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 0;
-  height: 2px;
-  background-color: var(--brand);
-  transition: width .3s ease;
+.lk-curation-bar a:hover {
+  text-decoration: underline;
 }
 
-.main-nav a:hover{
-  color: var(--brand);
+.lk-header-inner {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 28px;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 14px 24px;
 }
 
-.main-nav a:hover::after{
-  width: 100%;
+.lk-site-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
 }
 
+.lk-site-logo {
+  width: 36px;
+  height: 36px;
+}
 
-  .header-right{
-    justify-self: end;
-    display: flex;
-    align-items: center;
-    gap: 10px;
+.lk-site-title {
+  color: #fffaf0;
+  font-size: 1.35rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.lk-main-nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lk-main-nav a,
+.lk-header-shop {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  color: #d7d0c2;
+  font-size: 0.94rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.lk-main-nav a:hover,
+.lk-main-nav a[aria-current="page"],
+.lk-header-shop:hover {
+  background: rgba(255, 250, 240, 0.1);
+  color: #fffaf0;
+}
+
+.lk-header-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.lk-about-main {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 30px 24px 64px;
+}
+
+.lk-kicker {
+  margin: 0 0 10px;
+  color: var(--lk-red);
+  font-size: 0.76rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.lk-about-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+  gap: 32px;
+  align-items: stretch;
+  padding: 32px;
+  background: var(--lk-paper);
+  border: 1px solid #b8aa97;
+  border-radius: 8px;
+  box-shadow: 0 18px 40px rgba(16, 19, 26, 0.08);
+}
+
+.lk-about-copy {
+  display: flex;
+  min-height: 370px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.lk-about-copy h1 {
+  max-width: 760px;
+  margin: 0;
+  color: var(--lk-ink);
+  font-size: 2.85rem;
+  line-height: 1.07;
+}
+
+.lk-about-copy p {
+  max-width: 660px;
+  margin: 18px 0 0;
+  color: var(--lk-muted);
+  font-size: 1.06rem;
+  line-height: 1.75;
+}
+
+.lk-about-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 26px;
+}
+
+.lk-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.lk-button--primary {
+  background: var(--lk-red);
+  color: #fffdfa;
+}
+
+.lk-button--secondary {
+  border: 1px solid var(--lk-charcoal);
+  color: var(--lk-ink);
+}
+
+.lk-button:hover {
+  transform: translateY(-1px);
+}
+
+.lk-about-panel {
+  display: grid;
+  align-content: stretch;
+  gap: 12px;
+}
+
+.lk-about-stamp {
+  display: grid;
+  min-height: 196px;
+  place-items: center;
+  padding: 28px;
+  background: var(--lk-charcoal);
+  border-radius: 8px;
+  color: #fffaf0;
+}
+
+.lk-about-stamp img {
+  width: 116px;
+  height: 116px;
+}
+
+.lk-about-note {
+  display: grid;
+  gap: 10px;
+  padding: 20px;
+  background: var(--lk-green);
+  border: 1px solid rgba(255, 250, 240, 0.16);
+  border-radius: 8px;
+  color: #fffaf0;
+}
+
+.lk-about-note strong {
+  font-size: 1.05rem;
+}
+
+.lk-about-note span {
+  color: #ded4c2;
+  line-height: 1.65;
+}
+
+.lk-section {
+  margin-top: 18px;
+}
+
+.lk-section-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--lk-border);
+}
+
+.lk-section-header h2 {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.lk-section-header p {
+  max-width: 520px;
+  margin: 0;
+  color: var(--lk-muted);
+  line-height: 1.65;
+}
+
+.lk-principle-grid,
+.lk-topic-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.lk-principle-card,
+.lk-topic-card,
+.lk-roadmap {
+  border: 1px solid var(--lk-border);
+  border-radius: 8px;
+  background: var(--lk-paper);
+  box-shadow: 0 10px 24px rgba(16, 19, 26, 0.05);
+}
+
+.lk-principle-card {
+  padding: 22px;
+}
+
+.lk-principle-card strong {
+  display: block;
+  color: var(--lk-red);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+}
+
+.lk-principle-card h3 {
+  margin: 12px 0 8px;
+  font-size: 1.12rem;
+}
+
+.lk-principle-card p {
+  margin: 0;
+  color: var(--lk-muted);
+  line-height: 1.65;
+}
+
+.lk-topic-card {
+  display: grid;
+  grid-template-columns: 46px 1fr;
+  gap: 14px;
+  align-items: start;
+  padding: 18px;
+  text-decoration: none;
+}
+
+.lk-topic-card:hover {
+  background: var(--lk-charcoal);
+  color: #fffaf0;
+}
+
+.lk-topic-card:hover small {
+  color: #ded4c2;
+}
+
+.lk-topic-icon {
+  display: inline-flex;
+  width: 46px;
+  height: 46px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background: var(--lk-blue);
+  color: #fffaf0;
+}
+
+.lk-topic-card:nth-child(2) .lk-topic-icon {
+  background: var(--lk-red);
+}
+
+.lk-topic-card:nth-child(3) .lk-topic-icon {
+  background: var(--lk-yellow);
+}
+
+.lk-topic-card:nth-child(4) .lk-topic-icon {
+  background: var(--lk-green);
+}
+
+.lk-topic-card:nth-child(5) .lk-topic-icon {
+  background: var(--lk-charcoal);
+}
+
+.lk-topic-icon svg {
+  width: 23px;
+  height: 23px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2;
+}
+
+.lk-topic-card strong {
+  display: block;
+  font-size: 1rem;
+}
+
+.lk-topic-card small {
+  display: block;
+  margin-top: 4px;
+  color: var(--lk-muted);
+  line-height: 1.55;
+}
+
+.lk-roadmap {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  gap: 24px;
+  margin-top: 16px;
+  padding: 26px;
+  background: var(--lk-charcoal);
+  color: #fffaf0;
+}
+
+.lk-roadmap h2 {
+  margin: 0;
+  font-size: 1.45rem;
+}
+
+.lk-roadmap p {
+  margin: 12px 0 0;
+  color: #ded4c2;
+  line-height: 1.7;
+}
+
+.lk-roadmap ul {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lk-roadmap li {
+  padding: 12px 14px;
+  border: 1px solid rgba(255, 250, 240, 0.16);
+  border-radius: 8px;
+  color: #f8f0dd;
+}
+
+.lk-footer {
+  padding: 32px 24px;
+  border-top: 1px solid var(--lk-border);
+  color: var(--lk-muted);
+  font-size: 0.9rem;
+}
+
+.lk-footer-inner {
+  display: flex;
+  max-width: 1180px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.lk-footer a {
+  font-weight: 800;
+  text-decoration: none;
+}
+
+@media (max-width: 900px) {
+  .lk-header-inner,
+  .lk-about-hero,
+  .lk-roadmap {
+    grid-template-columns: 1fr;
   }
 
-   
-  @media (max-width: 768px){
-    .header-inner{
-      grid-template-columns: 1fr;    
-      gap: 10px;
-    }
-
-    .site-title{
-      justify-self: center;          
-    }
-
-    .header-right{
-      justify-self: center;          
-    }
-
-    .main-nav ul{
-      gap: 18px;
-      flex-wrap: wrap;               
-       
-    }
+  .lk-header-actions,
+  .lk-main-nav ul {
+    justify-content: flex-start;
   }
-</style>
+
+  .lk-principle-grid,
+  .lk-topic-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lk-about-copy {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .lk-curation-bar,
+  .lk-footer-inner,
+  .lk-section-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .lk-header-inner {
+    gap: 12px;
+    padding: 12px 18px;
+  }
+
+  .lk-main-nav ul {
+    flex-wrap: wrap;
+  }
+
+  .lk-about-main {
+    padding: 18px 18px 48px;
+  }
+
+  .lk-about-hero {
+    padding: 22px;
+  }
+
+  .lk-about-copy h1 {
+    font-size: 2.22rem;
+  }
+
+  .lk-about-copy p {
+    font-size: 1rem;
+  }
+}
 </style>
 </head>
-<body class="list" id="top">
-  <header class="site-header">
-    <div class="header-inner">
-      
-      <a href="/" class="site-title">LoveKorea</a>
-  
-      
-      <nav class="main-nav" aria-label="Main">
-        <ul style="font-size:24px;">
-          
-            <li><a href="/">Home</a></li>
-          
-            <li><a href="/categories/">Categories</a></li>
-          
-            <li><a href="/about/">About</a></li>
-          
-        </ul>
-      </nav>
-  
-      
-      <div class="header-right">
-        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-  <script src="/pagefind/pagefind-ui.js" defer></script>
-  <div id="search"></div>
-  <script defer>
-    window.addEventListener('DOMContentLoaded', () => {
-      new PagefindUI({ element: "#search", showSubResults: true });
-    });
-  </script>
-  
-      </div>
-    </div>
-  </header>
+<body>
+<header class="lk-site-header">
+  <div class="lk-curation-bar">
+    <span>Korea travel, shopping, and culture notes for U.S. readers</span>
+    <a href="/deals/">Compare booking links</a>
+  </div>
 
-<main>
-<section class="hero">
-<div class="container">
-<h1>Beyond the <span class="highlight">Hype</span>. <br>This is Real Korea.</h1>
-<p>We move past the trends to explore the true heart of Korea. We bring authentic stories in food, beauty, culture, and daily life directly to you.</p>
-</div>
-</section>
+  <div class="lk-header-inner">
+    <a href="/" class="lk-site-brand" aria-label="LoveKorea home">
+      <img src="/lovekorea-logo.svg" alt="" class="lk-site-logo" width="36" height="36">
+      <span class="lk-site-title">LoveKorea</span>
+    </a>
 
-<section class="section story-section">
-    <div class="container">
-        <h2>Our Story</h2>
-        <p>Love Korea is more than just an information channel. Based in the U.S. and Korea, our team came together out of a deep passion for K-culture and real-life experience to discover and share the genuine value that lies beyond the trends. Our goal is to let you feel, learn, and experience the real Korea, no matter where you are.</p>
-    </div>
-</section>
+    <nav class="lk-main-nav" aria-label="Main">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/categories/">Categories</a></li>
+        <li><a href="/deals/">Deals</a></li>
+        <li><a href="/search/">Search</a></li>
+        <li><a href="/about/" aria-current="page">About</a></li>
+      </ul>
+    </nav>
 
-<section class="section">
-  <div class="container">
-    <div class="grid">
-      <div class="card">
-        <h2>Our Mission</h2>
-        <p>To help global readers discover and connect with the best of Korea through honest storytelling, practical guides, and community-driven insights.</p>
-      </div>
-      <div class="card">
-        <h2>What We Explore</h2>
-        <ul>
-          <li>In-depth guides on skincare routines and ingredients</li>
-          <li>Insider food spots and seasonal travel guides</li>
-          <li>Practical language tips and travel etiquette</li>
-        </ul>
-      </div>
-      <div class="card">
-        <h2>Who We Are</h2>
-        <p>A team of content creators, writers, and cultural researchers based in the U.S. and Korea. We focus on real-life experiences, not just passing trends.</p>
-      </div>
+    <div class="lk-header-actions">
+      <a class="lk-header-shop" href="https://yoitzi.com/" target="_blank" rel="noopener">Yoitzi</a>
     </div>
   </div>
-</section>
+</header>
 
-<div class="container">
-    <section class="cta-section">
-        <h2>Ready to Dive In?</h2>
-        <p>The diverse world of Love Korea awaits. Start exploring our most exciting categories right now.</p>
-        <a class="btn primary" href="/">Explore All Posts</a>
-    </section>
-</div>
+<main class="lk-about-main">
+  <section class="lk-about-hero">
+    <div class="lk-about-copy">
+      <p class="lk-kicker">Independent Korea Guide</p>
+      <h1>Practical Korea context for people who want more than a pretty list.</h1>
+      <p>LoveKorea helps U.S. readers compare Korea travel, K-beauty, food, shopping, and culture choices before they book, buy, or build an itinerary.</p>
+      <div class="lk-about-actions">
+        <a class="lk-button lk-button--primary" href="/posts/">Read latest guides</a>
+        <a class="lk-button lk-button--secondary" href="/deals/">Compare deals</a>
+      </div>
+    </div>
 
+    <div class="lk-about-panel" aria-label="LoveKorea editorial note">
+      <div class="lk-about-stamp">
+        <img src="/lovekorea-logo.svg" alt="LoveKorea LK mark" width="116" height="116">
+      </div>
+      <div class="lk-about-note">
+        <strong>What we are building</strong>
+        <span>A cleaner bridge between Korea inspiration and actual decisions: routes, prices, timing, product types, booking context, and local shopping notes.</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="lk-section">
+    <div class="lk-section-header">
+      <h2>Editorial Approach</h2>
+      <p>We write for readers who love Korean culture but still need the practical details that make a trip, routine, or purchase easier to judge.</p>
+    </div>
+
+    <div class="lk-principle-grid">
+      <article class="lk-principle-card">
+        <strong>01</strong>
+        <h3>Specific over generic</h3>
+        <p>Guides compare options, prices, routes, store context, timing, and tradeoffs instead of repeating broad travel advice.</p>
+      </article>
+      <article class="lk-principle-card">
+        <strong>02</strong>
+        <h3>Useful before beautiful</h3>
+        <p>We care about the details people check right before making a decision: booking windows, location fit, refund friction, and value.</p>
+      </article>
+      <article class="lk-principle-card">
+        <strong>03</strong>
+        <h3>Culture with context</h3>
+        <p>Korea changes quickly. We explain what is trendy, what is practical, and what may feel different for first-time visitors.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="lk-section">
+    <div class="lk-section-header">
+      <h2>What We Cover</h2>
+      <p>The site is organized around the questions readers usually ask after the first spark of interest.</p>
+    </div>
+
+    <div class="lk-topic-grid">
+      <a class="lk-topic-card" href="/categories/travel/">
+        <span class="lk-topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 16.5 20 7l-5 13-3-6-6-1.5Z"></path></svg></span>
+        <span><strong>Travel</strong><small>Routes, tickets, city planning, day trips, and seasonal timing.</small></span>
+      </a>
+      <a class="lk-topic-card" href="/categories/k-beauty/">
+        <span class="lk-topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M9 3h6v4H9z"></path><path d="M8 7h8v14H8z"></path><path d="M10.5 12h3"></path></svg></span>
+        <span><strong>K-Beauty</strong><small>Product types, store strategy, routines, refills, and skin-fit notes.</small></span>
+      </a>
+      <a class="lk-topic-card" href="/categories/food/">
+        <span class="lk-topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M7 3v8"></path><path d="M4 3v8"></path><path d="M4 7h3"></path><path d="M14 3v18"></path><path d="M14 3c4 2 5 6 2 9"></path></svg></span>
+        <span><strong>Food</strong><small>Cafes, markets, local dishes, reservations, and neighborhood picks.</small></span>
+      </a>
+      <a class="lk-topic-card" href="/categories/style/">
+        <span class="lk-topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 4 4 7l3 4"></path><path d="M16 4l4 3-3 4"></path><path d="M8 4h8v17H8z"></path></svg></span>
+        <span><strong>Style</strong><small>Shopping districts, seasonal notes, sizing, and trend context.</small></span>
+      </a>
+      <a class="lk-topic-card" href="/deals/">
+        <span class="lk-topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M20 13 11 4H4v7l9 9z"></path><path d="M7.5 7.5h.01"></path></svg></span>
+        <span><strong>Deals</strong><small>Booking links, comparison notes, and value checks before checkout.</small></span>
+      </a>
+    </div>
+  </section>
+
+  <section class="lk-roadmap">
+    <div>
+      <p class="lk-kicker">Yoitzi Connection</p>
+      <h2>Built to connect content and shopping later.</h2>
+      <p>LoveKorea will stay editorial first. As Yoitzi grows, the connection should make discovery easier without turning guides into generic product pages.</p>
+    </div>
+    <ul>
+      <li>Guide readers from article context to relevant products or booking options.</li>
+      <li>Keep comparison notes visible so recommendations feel accountable.</li>
+      <li>Use shopping links where they help a decision, not where they interrupt reading.</li>
+    </ul>
+  </section>
 </main>
 
-<footer>
-<div class="container">
-© 2025 Love Korea · Made with ❤
-</div>
+<footer class="lk-footer">
+  <div class="lk-footer-inner">
+    <span>Copyright 2026 LoveKorea. Independent Korea guides for U.S. readers.</span>
+    <a href="/">Back to home</a>
+  </div>
 </footer>
-
 </body>
 </html>
