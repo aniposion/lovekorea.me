@@ -24,6 +24,49 @@ OPENAI_IMAGE_SIZE = "1536x1024"
 OPENAI_IMAGE_QUALITY = "medium"
 GEMINI_IMAGE_MODEL = "gemini-3-pro-image-preview"
 MAX_IMAGES_PER_POST = 4
+KEYWORDS_PER_MONTH = 50
+
+TOPIC_MIX: List[Dict[str, Any]] = [
+    {
+        "pillar": "k-beauty",
+        "label": "K-Beauty / Skincare",
+        "category": "k-beauty",
+        "intent": "shopping",
+        "count": 25,
+        "brief": "ingredient-led skincare, Olive Young, sunscreens, cushion/foundation, routines, product comparisons",
+    },
+    {
+        "pillar": "learn-korean",
+        "label": "Learn Korean / Korean Slang",
+        "category": "learn-korean",
+        "intent": "info",
+        "count": 13,
+        "brief": "Korean phrases, slang, honorifics, K-drama expressions, texting abbreviations, pronunciation tips",
+    },
+    {
+        "pillar": "k-food",
+        "label": "Korean Food at Home",
+        "category": "k-food",
+        "intent": "info",
+        "count": 8,
+        "brief": "Korean pantry ingredients, instant noodles, sauces, home BBQ, convenience-store food, beginner recipes",
+    },
+    {
+        "pillar": "k-culture",
+        "label": "Korean Lifestyle / Culture Explainers",
+        "category": "k-lifestyle",
+        "intent": "info",
+        "count": 4,
+        "brief": "nunchi, jeong, etiquette, social culture, K-pop/K-drama fan terms, modern Korean lifestyle context",
+    },
+]
+
+TOPIC_MIX_BY_PILLAR = {item["pillar"]: item for item in TOPIC_MIX}
+ALLOWED_CATEGORIES = {
+    "k-beauty", "k-drama", "k-fashion", "k-food", "k-lifestyle", "k-movie",
+    "k-music", "k-news", "k-tech", "k-travel", "k-trends", "learn-korean",
+}
+ALLOWED_INTENTS = {"booking", "shopping", "info"}
 
 # 수익화(affiliate) 기능 ON/OFF
 ENABLE_MONETIZATION = True
@@ -926,15 +969,39 @@ def inject_offers(content_md: str, monetize: Dict[str, Any]) -> str:
 # ==============================================================================
 # 5. 콘텐츠 생성
 # ==============================================================================
-def create_blog_bundle(keyword: str, research: str) -> Dict[str, Any]:
+def create_blog_bundle(
+    keyword: str,
+    research: str,
+    target_category: str = "",
+    target_pillar: str = "",
+    target_intent: str = "",
+) -> Dict[str, Any]:
     print("✍️ [Step 1] Planning (intent-based)...")
+    target_category = target_category if target_category in ALLOWED_CATEGORIES else ""
+    target_pillar = target_pillar if target_pillar in TOPIC_MIX_BY_PILLAR else ""
+    target_intent = target_intent if target_intent in ALLOWED_INTENTS else ""
+    target_context = ""
+    if target_pillar or target_category or target_intent:
+        target_context = f"""
+=== TARGET TOPIC LANE ===
+- target_pillar: {target_pillar or "infer from topic"}
+- target_category: {target_category or "infer from topic"}
+- target_intent: {target_intent or "infer from topic"}
+
+Use this target lane unless the topic clearly contradicts it. Do not turn non-travel
+topics into travel booking guides.
+"""
+
     plan_prompt = f"""
-You are planning a Korea travel/lifestyle blog post with clear user intent.
+You are planning a LoveKorea blog post with clear user intent.
+The site covers Korean beauty, language, food, lifestyle, entertainment, and culture.
 
 Topic (Korean): "{keyword}"
 
 Research summary:
 {research}
+
+{target_context}
 
 === STEP 1: DETERMINE INTENT ===
 First, determine the user intent based on the topic:
@@ -986,8 +1053,8 @@ Return ONE JSON object with these keys:
      - "Best {{topic}} Recommendations"
    * IF intent="info", MUST include:
      - "Complete Guide to {{topic}}"
-     - "Tips for First-Time Visitors"
-     - "What to Know Before You Go"
+     - "Tips for Beginners"
+     - "Common Mistakes to Avoid"
 
 Return ONLY the JSON object. No explanation.
 """
@@ -997,6 +1064,12 @@ Return ONLY the JSON object. No explanation.
         messages=[{"role": "user", "content": plan_prompt}],
     )
     plan = json.loads(resp_plan.choices[0].message.content)
+    if target_category:
+        plan["category"] = target_category
+    if target_intent:
+        plan["intent"] = target_intent
+    if target_pillar:
+        plan["topic_pillar"] = target_pillar
 
     # monetize 자동 추론(최소 MVP)
     plan["monetize"] = infer_monetize(plan.get("category", ""))
@@ -1025,7 +1098,8 @@ Return ONLY the JSON object. No explanation.
 """
 
     write_prompt = f"""
-Write a long-form blog post in English for a Korea travel & lifestyle blog.
+Write a long-form blog post in English for LoveKorea, a practical Korean culture,
+beauty, food, language, and lifestyle blog.
 
 Title: {plan.get('seo_title')}
 Topic (Korean): {keyword}
@@ -1041,8 +1115,8 @@ Use this outline. Treat each item as an H2 heading (## ...):
 Requirements:
 - Start with "# {plan.get('seo_title')}" as the H1 title.
 - Minimum {MIN_WORDS} words.
-- Each H2 section should help with decision-making:
-  - where to book, how much it costs, which option is cheaper, what to avoid.
+- Each H2 section should help with decision-making or practical understanding:
+  - what to choose, how to use it, what it means, what to avoid, or where to buy if relevant.
 - Use price RANGES with "as of {CURRENT_YEAR}" phrasing, not exact prices.
 - Only include specific numbers if directly supported by research summary.
 - Naturally include soft CTAs in text (e.g., "check current prices", "compare deals") but do NOT add actual URLs.
@@ -1177,7 +1251,186 @@ Last month's top performing keywords (by affiliate clicks):
     return result
 
 
-def generate_blog_keywords(today_str: str) -> List[str]:
+def topic_mix_prompt_lines() -> str:
+    lines = []
+    for item in TOPIC_MIX:
+        lines.append(
+            f"- {item['label']}: exactly {item['count']} topics "
+            f"(category={item['category']}, intent={item['intent']}). Focus: {item['brief']}"
+        )
+    return "\n".join(lines)
+
+
+def infer_topic_pillar_from_keyword(keyword: str) -> str:
+    text = (keyword or "").lower()
+    beauty_markers = [
+        "beauty", "skincare", "skin", "makeup", "cosmetic", "sunscreen",
+        "pdrn", "spicule", "olive young", "cushion", "foundation",
+        "선크림", "스킨", "화장품", "쿠션", "파운데이션", "올리브영",
+    ]
+    korean_markers = [
+        "korean phrase", "korean slang", "learn korean", "hangul", "grammar",
+        "honorific", "k-drama expression", "한국어", "문법", "속어", "반말",
+        "존댓말", "한글", "표현", "발음",
+    ]
+    food_markers = [
+        "food", "recipe", "ramen", "noodle", "kimchi", "gochujang",
+        "doenjang", "bbq", "snack", "sauce", "라면", "김치", "고추장",
+        "된장", "쌈장", "레시피", "간식", "소스",
+    ]
+    culture_markers = [
+        "culture", "etiquette", "nunchi", "jeong", "k-pop", "k-drama",
+        "fan", "lifestyle", "문화", "예절", "눈치", "정", "회식",
+        "케이팝", "드라마", "팬덤",
+    ]
+
+    marker_map = [
+        ("k-beauty", beauty_markers),
+        ("learn-korean", korean_markers),
+        ("k-food", food_markers),
+        ("k-culture", culture_markers),
+    ]
+    for pillar, markers in marker_map:
+        if any(marker in text for marker in markers):
+            return pillar
+    return "k-beauty"
+
+
+def normalize_keyword_rows(raw: Any) -> List[Dict[str, str]]:
+    if isinstance(raw, dict):
+        raw_items = raw.get("topics") or raw.get("keywords") or []
+    else:
+        raw_items = raw or []
+
+    rows: List[Dict[str, str]] = []
+    for item in raw_items:
+        if isinstance(item, str):
+            keyword = item.strip()
+            pillar = infer_topic_pillar_from_keyword(keyword)
+            mix = TOPIC_MIX_BY_PILLAR.get(pillar, TOPIC_MIX_BY_PILLAR["k-beauty"])
+            category = mix["category"]
+            intent = mix["intent"]
+        elif isinstance(item, dict):
+            keyword = str(item.get("keyword", "")).strip()
+            pillar = str(item.get("pillar") or item.get("topic_pillar") or "").strip()
+            if pillar not in TOPIC_MIX_BY_PILLAR:
+                pillar = infer_topic_pillar_from_keyword(keyword)
+            mix = TOPIC_MIX_BY_PILLAR[pillar]
+            category = str(item.get("category") or item.get("target_category") or mix["category"]).strip()
+            intent = str(item.get("intent") or item.get("target_intent") or mix["intent"]).strip()
+        else:
+            continue
+
+        if not keyword:
+            continue
+        if category not in ALLOWED_CATEGORIES:
+            category = TOPIC_MIX_BY_PILLAR[pillar]["category"]
+        if intent not in ALLOWED_INTENTS:
+            intent = TOPIC_MIX_BY_PILLAR[pillar]["intent"]
+
+        rows.append({
+            "keyword": keyword,
+            "topic_pillar": pillar,
+            "target_category": category,
+            "target_intent": intent,
+        })
+
+    return rows
+
+
+def rebalance_keyword_rows(rows: List[Dict[str, str]]) -> List[Dict[str, str]]:
+    """Keep the configured monthly ratio even if the model returns extra rows."""
+    unique_rows: List[Dict[str, str]] = []
+    seen = set()
+    for row in rows:
+        key = row["keyword"].casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        unique_rows.append(row)
+
+    balanced: List[Dict[str, str]] = []
+    for item in TOPIC_MIX:
+        pillar_rows = [row for row in unique_rows if row["topic_pillar"] == item["pillar"]]
+        balanced.extend(pillar_rows[: item["count"]])
+
+    if len(balanced) < KEYWORDS_PER_MONTH:
+        used = {row["keyword"].casefold() for row in balanced}
+        for row in unique_rows:
+            if row["keyword"].casefold() not in used:
+                balanced.append(row)
+                used.add(row["keyword"].casefold())
+            if len(balanced) >= KEYWORDS_PER_MONTH:
+                break
+
+    return balanced[:KEYWORDS_PER_MONTH]
+
+
+def add_keyword_metadata_columns(df: pd.DataFrame) -> pd.DataFrame:
+    if "keyword" not in df.columns:
+        return df
+
+    if "done" in df.columns and df["done"].dtype == object:
+        df["done"] = df["done"].fillna(False).apply(
+            lambda v: str(v).strip().lower() in {"true", "1", "yes", "y"}
+        )
+
+    if "topic_pillar" not in df.columns:
+        df["topic_pillar"] = df["keyword"].apply(infer_topic_pillar_from_keyword)
+        print("  Added missing column: topic_pillar")
+
+    if "target_category" not in df.columns:
+        df["target_category"] = df["topic_pillar"].apply(
+            lambda p: TOPIC_MIX_BY_PILLAR.get(p, TOPIC_MIX_BY_PILLAR["k-beauty"])["category"]
+        )
+        print("  Added missing column: target_category")
+
+    if "target_intent" not in df.columns:
+        df["target_intent"] = df["topic_pillar"].apply(
+            lambda p: TOPIC_MIX_BY_PILLAR.get(p, TOPIC_MIX_BY_PILLAR["k-beauty"])["intent"]
+        )
+        print("  Added missing column: target_intent")
+
+    df["topic_pillar"] = df["topic_pillar"].fillna("").apply(
+        lambda p: p if p in TOPIC_MIX_BY_PILLAR else "k-beauty"
+    )
+    df["target_category"] = df["target_category"].fillna("").apply(
+        lambda c: c if c in ALLOWED_CATEGORIES else "k-beauty"
+    )
+    df["target_intent"] = df["target_intent"].fillna("").apply(
+        lambda i: i if i in ALLOWED_INTENTS else "info"
+    )
+    return df
+
+
+def select_next_keyword_row(df: pd.DataFrame) -> pd.Series:
+    df = add_keyword_metadata_columns(df)
+    remaining = df[df["done"] == False]
+    if remaining.empty:
+        raise ValueError("No remaining keywords")
+
+    done_df = df[df["done"] == True]
+    done_counts = done_df["topic_pillar"].value_counts().to_dict() if "topic_pillar" in done_df else {}
+
+    candidates = []
+    for item in TOPIC_MIX:
+        pillar = item["pillar"]
+        pillar_remaining = remaining[remaining["topic_pillar"] == pillar]
+        if pillar_remaining.empty:
+            continue
+        completion_ratio = done_counts.get(pillar, 0) / max(item["count"], 1)
+        candidates.append((completion_ratio, -item["count"], pillar, pillar_remaining))
+
+    if not candidates:
+        return remaining.sample(1).iloc[0]
+
+    candidates.sort(key=lambda x: (x[0], x[1], x[2]))
+    chosen_pillar = candidates[0][2]
+    print(f"Topic mix target: selecting from {chosen_pillar}")
+    return candidates[0][3].sample(1).iloc[0]
+
+
+def generate_blog_keywords_legacy(today_str: str) -> List[str]:
     """
     키워드 생성 - 지난달 성과 데이터를 반영하여 '더 돈 되는' 키워드 생성.
     """
@@ -1228,6 +1481,73 @@ Return JSON ONLY:
         return json.loads(resp.choices[0].message.content).get("keywords", [])
     except Exception as e:
         print(f"❌ Keyword generation error: {e}")
+        return []
+
+
+def generate_blog_keywords(today_str: str) -> List[Dict[str, str]]:
+    """
+    Generate a balanced monthly topic queue.
+    Target mix: K-Beauty 50%, Learn Korean 25%, K-Food 15%, Culture 10%.
+    """
+    print("Generating keywords with topic mix...")
+
+    perf = load_last_month_performance()
+    perf_context = perf.get("summary", "")
+
+    prompt = f"""
+Generate {KEYWORDS_PER_MONTH} Korean blog topics (in Korean) for an English LoveKorea blog.
+Date: {today_str}
+
+The site is shifting away from travel-only content into practical Korean culture,
+beauty, food, and language guides for global readers.
+
+=== REQUIRED MONTHLY TOPIC MIX ===
+{topic_mix_prompt_lines()}
+
+=== LAST MONTH'S PERFORMANCE DATA ===
+{perf_context if perf_context else "No previous data available. Follow the required monthly topic mix exactly."}
+
+=== KEYWORD REQUIREMENTS ===
+- K-Beauty: product comparison, ingredients, routines, Olive Young, skin concerns, where to buy.
+- Learn Korean: slang, expressions, honorifics, pronunciation, K-drama/K-pop phrases.
+- Korean Food at Home: pantry ingredients, instant noodles, sauces, snacks, beginner recipes.
+- Culture Explainers: social etiquette, fan terms, lifestyle concepts, Korean words with cultural meaning.
+- Include a mix of "best", "guide", "explained", "vs", "how to use", "mistakes", and "{CURRENT_YEAR}" angles.
+- Topics should be specific enough to become one complete article.
+
+Avoid:
+- Travel booking/tour/pass/hotel topics unless they are only background examples.
+- News/celebrity gossip.
+- Overly generic topics.
+- Duplicate ideas with only tiny wording changes.
+
+Return JSON ONLY:
+{{
+  "topics": [
+    {{
+      "keyword": "Korean topic in Korean",
+      "pillar": "k-beauty | learn-korean | k-food | k-culture",
+      "category": "one allowed Hugo category",
+      "intent": "shopping | info"
+    }}
+  ]
+}}
+"""
+    try:
+        resp = clientOpenAI.chat.completions.create(
+            model=OPENAI_MODEL,
+            response_format={"type": "json_object"},
+            messages=[{"role": "user", "content": prompt}],
+        )
+        payload = json.loads(resp.choices[0].message.content)
+        rows = rebalance_keyword_rows(normalize_keyword_rows(payload))
+        print("Keyword topic mix:")
+        for item in TOPIC_MIX:
+            count = sum(1 for row in rows if row["topic_pillar"] == item["pillar"])
+            print(f"  - {item['pillar']}: {count}/{item['count']}")
+        return rows
+    except Exception as e:
+        print(f"Keyword generation error: {e}")
         return []
 
 
@@ -1285,6 +1605,8 @@ def save_post(bundle: Dict[str, Any], final_md: str, cover_md: str):
     meta_desc = bundle.get("meta_description", "").replace('"', "'")
     category = bundle.get("category", "k-travel")
     tags = bundle.get("tags", []) or []
+    topic_pillar = (bundle.get("topic_pillar") or "").replace('"', "'")
+    target_intent = (bundle.get("intent") or "").replace('"', "'")
 
     # 1) cover_md (generated cover tag)에서 url 추출
     cover_url = extract_first_image_url(cover_md)
@@ -1319,6 +1641,8 @@ def save_post(bundle: Dict[str, Any], final_md: str, cover_md: str):
         f'slug: "{slug}"',
         f'description: "{meta_desc}"',
         f'categories: ["{category}"]',
+        f'topic_pillar: "{topic_pillar}"',
+        f'target_intent: "{target_intent}"',
         f"tags: {json.dumps(tags, ensure_ascii=False)}",
         "cover:",
         f'  image: "{cover_url}"',
@@ -1359,6 +1683,14 @@ if __name__ == "__main__":
                 "slug": [""] * len(keywords),            # 발행된 포스트 slug
                 "published_date": [""] * len(keywords),  # 발행일
             })
+            df = pd.DataFrame(keywords)
+            df["done"] = False
+            df["click_count"] = 0
+            df["top_slot"] = ""
+            df["best_pos"] = ""
+            df["slug"] = ""
+            df["published_date"] = ""
+            df = add_keyword_metadata_columns(df)
             df.to_csv(csv_path, index=False, encoding="utf-8-sig")
             print(f"📝 Created new keyword CSV with performance columns: {csv_path}")
         else:
@@ -1379,14 +1711,18 @@ if __name__ == "__main__":
                 df[col] = default
                 print(f"  📊 Added missing column: {col}")
 
+    df = add_keyword_metadata_columns(df)
     remaining = df[df["done"] == False]
     if remaining.empty:
         print("✅ All keywords for this month have been processed.")
         raise SystemExit(0)
 
-    row = remaining.sample(1)
-    target_keyword = row.iloc[0]["keyword"]
-    idx = row.index[0]
+    row = select_next_keyword_row(df)
+    target_keyword = row["keyword"]
+    target_category = row.get("target_category", "")
+    target_pillar = row.get("topic_pillar", "")
+    target_intent = row.get("target_intent", "")
+    idx = row.name
 
     print(f"\n🚀 Processing: {target_keyword}")
 
@@ -1394,7 +1730,13 @@ if __name__ == "__main__":
     research_data = research_with_ai(target_keyword)
 
     # 3) 플랜 + 본문 작성
-    bundle = create_blog_bundle(target_keyword, research_data)
+    bundle = create_blog_bundle(
+        target_keyword,
+        research_data,
+        target_category=target_category,
+        target_pillar=target_pillar,
+        target_intent=target_intent,
+    )
 
     # 4) 단어 수 부족 시 확장
     if count_words(bundle.get("content", "")) < MIN_WORDS:
