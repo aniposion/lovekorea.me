@@ -8,7 +8,7 @@ topic_pillar: "k-food"
 target_intent: "info"
 tags: ["korean convenience store", "k-food", "cup ramen", "samgak gimbap", "korean snacks", "korea food", "travel food"]
 cover:
-  image: "images/korean-convenience-store-food-combos-cover.png"
+  image: "images/korean-convenience-store-food-combos-cover.webp"
   alt: "Korean convenience store food combos with cup ramen, samgak gimbap, string cheese, and snacks"
   relative: false
 monetize:
@@ -28,7 +28,7 @@ monetize:
 
 ## Before you dive in
 
-![Korean convenience store food combos](/images/korean-convenience-store-food-combos-cover.png)
+![Korean convenience store food combos with cup ramen, samgak gimbap, tteokbokki, tea, and string cheese](/images/korean-convenience-store-food-combos-cover.webp)
 
 Korean convenience stores are not just places to buy water and phone chargers. For many travelers, they become the easiest introduction to everyday Korean food: cup ramen at midnight, triangle rice balls before a train ride, ready-made dosirak meals, banana milk after spicy noodles, and seasonal snacks that feel like tiny souvenirs.
 
@@ -59,6 +59,8 @@ The key is balance. Korean convenience store food becomes much better when you t
 That simple structure prevents the most common mistake: buying only spicy, salty, crunchy foods and feeling tired halfway through.
 
 ## Combo 1: Cup Ramen + Samgak Gimbap
+
+![Cup ramen and samgak gimbap at a Korean convenience store window counter](/images/korean-convenience-store-food-combos-h2-1.webp)
 
 This is the gateway combo. If you only try one Korean convenience store meal, make it cup ramen plus samgak gimbap.
 
@@ -93,6 +95,8 @@ Do not overdo it on your first try. Cheese makes the meal richer, but it can als
 
 ## Combo 3: Tteokbokki Cup + Kimbap Roll
 
+![Tteokbokki cup with kimbap and milk drink at a Korean convenience store table](/images/korean-convenience-store-food-combos-h2-2.webp)
+
 Tteokbokki cups are chewy rice cakes in a sweet-spicy sauce. They are fun, filling, and very Korean, but they can feel one-note if eaten alone. Pairing tteokbokki with kimbap fixes that.
 
 The rice and seaweed in kimbap give the sauce somewhere to go. You can dip the kimbap into the tteokbokki sauce, alternate bites, or use the kimbap as the mild part of the meal.
@@ -107,6 +111,8 @@ Good pairings include:
 If you are sensitive to spice, avoid stacking spicy tteokbokki with spicy kimbap and spicy ramen in the same meal. It sounds fun until the third bite.
 
 ## Combo 4: Dosirak + Instant Soup
+
+![Korean convenience store dosirak lunchbox with tea, boiled egg, spoon, and chopsticks](/images/korean-convenience-store-food-combos-h2-3.webp)
 
 Dosirak means lunchbox. Convenience store dosirak meals usually include rice, protein, and several small sides. They can be heated in-store and are a good choice when you want something closer to a real meal.
 
