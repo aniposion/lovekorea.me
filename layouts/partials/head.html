@@ -1,7 +1,17 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{{- $isProduction := or hugo.IsProduction (eq site.Params.env "production") -}}
+{{- $isTagArchive := hasPrefix .RelPermalink "/tags/" -}}
+{{- $isSearchPage := or (eq .Layout "search") (eq .RelPermalink "/search/") -}}
+{{- $robotsNoIndex := or (.Params.robotsNoIndex | default false) $isTagArchive $isSearchPage -}}
+{{- if not $isProduction }}
+<meta name="robots" content="noindex, nofollow">
+{{- else if $robotsNoIndex }}
+<meta name="robots" content="noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+{{- else }}
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+{{- end }}
 
 
 {{- /* Title */ -}}

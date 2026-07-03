@@ -1,5 +1,25 @@
-# [[redirects]]
-# from = "/*"
-# to = "https://lovekorea.me/:splat"
-# status = 301
-# force = true
+[build]
+  command = "python tools/lint_monetization.py && hugo --environment production --minify && python tools/audit_indexing_policy.py && npx pagefind --site public --output-path public/pagefind"
+  publish = "public"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+  HUGO_ENV = "production"
+  HUGO_ENVIRONMENT = "production"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+
+[[headers]]
+  for = "/**/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/**/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
