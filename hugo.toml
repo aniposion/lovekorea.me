@@ -55,6 +55,17 @@ defaultContentLanguage = "en"
   [params.schema]
     publisherType = "Organization"
 
+  [params.ads]
+    enabled = false
+    provider = "adsense"
+    publisherId = ""
+    testMode = true
+
+    [params.ads.slots]
+      post-top = ""
+      post-mid = ""
+      post-bottom = ""
+
 # giscus 설정은 [params] 블록과 같은 최상위 레벨
 [params.giscus]
   repo = "aniposion/lovekorea_comments"

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the 2025 Patbingsu Craze: My Sweet Summer Adventure"
 date: 2025-07-14T09:08:37.465639
-draft: false
+draft: true
 categories:
   - k-food
 cover:

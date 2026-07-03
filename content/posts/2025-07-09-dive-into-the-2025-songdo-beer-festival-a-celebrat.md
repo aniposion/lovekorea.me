@@ -1,7 +1,7 @@
 ---
 title: "Dive Into the 2025 Songdo Beer Festival: A Celebration Not to Miss!"
 date: 2025-07-09T14:45:43.646804
-draft: false
+draft: true
 categories:
   - k-lifestyle
 cover:

@@ -1,7 +1,7 @@
 ---
 title: "BABYMONSTER 데뷔 앨범 ‘Monster Rookie’ 완벽 분석"
 date: 2025-07-09T16:12:00.656410
-draft: false
+draft: true
 categories:
   - k-music
 cover:

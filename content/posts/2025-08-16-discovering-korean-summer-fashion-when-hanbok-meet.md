@@ -1,7 +1,7 @@
 ---
 title: "Discovering Korean Summer Fashion: When Hanbok Meets Modern Style"
 date: 2025-08-16T17:46:32.589064
-draft: false
+draft: true
 categories:
   - k-fashion
 cover:

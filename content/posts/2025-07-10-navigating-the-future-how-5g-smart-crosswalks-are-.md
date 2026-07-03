@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future: How 5G Smart Crosswalks Are Changing Korea's Streets"
 date: 2025-07-10T16:13:40.380849
-draft: false
+draft: true
 categories:
   - k-tech
 cover:

@@ -21,6 +21,11 @@
 </script>
 <script defer src="/js/affiliate-tracking.js"></script>
 
+{{- $ads := site.Params.ads | default dict -}}
+{{- if and ($ads.enabled | default false) (eq ($ads.provider | default "adsense") "adsense") ($ads.publisherId | default "") }}
+<script async crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ $ads.publisherId }}"></script>
+{{- end }}
+
 {{- /* Meta */}}
 {{- if .IsHome -}}
   {{ with site.Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}

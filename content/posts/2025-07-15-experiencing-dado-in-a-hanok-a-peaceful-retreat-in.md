@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Dado in a Hanok: A Peaceful Retreat into Korean Tradition"
 date: 2025-07-15T19:04:46.127861
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

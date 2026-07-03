@@ -28,5 +28,6 @@ Use this hub to compare Korea tours, accommodations, and trip-planning essential
 - We prefer reputable booking platforms with clear cancellation terms.
 - We separate informational guidance from affiliate or sponsored links.
 - We keep Amazon product slots inactive until an approved Associates tag is configured.
+- We explain monetized links in the [Affiliate Disclosure](/affiliate-disclosure/).
 
 Prices and availability change frequently. Click through to see current rates.

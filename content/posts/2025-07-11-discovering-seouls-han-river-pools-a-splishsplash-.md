@@ -1,7 +1,7 @@
 ---
 title: "Discovering Seoul's Han River Pools: A Splish-Splash Review for 2025"
 date: 2025-07-11T12:53:37.593518
-draft: false
+draft: true
 categories:
   - k-lifestyle
 cover:

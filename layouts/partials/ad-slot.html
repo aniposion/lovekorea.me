@@ -1,0 +1,24 @@
+{{- $ads := site.Params.ads | default dict -}}
+{{- $enabled := and ($ads.enabled | default false) ($ads.publisherId | default "") -}}
+{{- if $enabled -}}
+  {{- $slotKey := .slot | default "post-mid" -}}
+  {{- $slotIds := $ads.slots | default dict -}}
+  {{- $slotId := index $slotIds $slotKey | default "" -}}
+  {{- if $slotId -}}
+    <aside class="lk-ad-slot lk-ad-slot-{{ $slotKey }}" aria-label="Advertisement">
+      <div class="lk-ad-label">Advertisement</div>
+      {{- if eq ($ads.provider | default "adsense") "adsense" -}}
+        <ins
+          class="adsbygoogle"
+          style="display:block"
+          data-ad-client="{{ $ads.publisherId }}"
+          data-ad-slot="{{ $slotId }}"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      {{- end -}}
+    </aside>
+  {{- end -}}
+{{- end -}}

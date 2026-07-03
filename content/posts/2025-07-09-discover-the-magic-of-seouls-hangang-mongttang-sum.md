@@ -1,7 +1,7 @@
 ---
 title: "Discover the Magic of Seoul's Hangang Mongttang Summer Festival: Top 5 Free Performances You Can't Miss!"
 date: 2025-07-09T11:37:18.001167
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

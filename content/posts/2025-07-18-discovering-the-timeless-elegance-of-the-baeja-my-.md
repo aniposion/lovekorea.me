@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Timeless Elegance of the Baeja: My Summer Style Adventure"
 date: 2025-07-18T11:42:15.613603
-draft: false
+draft: true
 categories:
   - k-fashion
 cover:

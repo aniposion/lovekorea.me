@@ -24,6 +24,8 @@ monetize:
 > - 👥 Best for: First-time Busan visitors, couples, families, city tour travelers, and ocean-view photo lovers
 > - ✅ TL;DR: For most visitors, book or buy an Air Cruise round-trip for value or a Crystal Cruise round-trip for the glass-floor experience. Online tickets may be usable from the next day only, so buy on-site for same-day visits.
 
+{{< affiliate-disclosure >}}
+
 ## Before you dive in
 
 ![Before you dive in](/images/busan-songdo-cable-car-tickets-prices-h2-0.webp)

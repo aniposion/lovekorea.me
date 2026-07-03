@@ -1,7 +1,7 @@
 ---
 title: "Catching Korean Drama's Autumn Fashion Vibes"
 date: 2025-09-06T18:49:53.443386
-draft: false
+draft: true
 categories:
   - k-fashion
 cover:

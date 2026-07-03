@@ -1,7 +1,7 @@
 ---
 title: "My First Ride on the Korean Waves: A Surfing Adventure in Yangyang"
 date: 2025-07-09T17:15:01.822805
-draft: false
+draft: true
 categories:
   - k-lifestyle
 cover:

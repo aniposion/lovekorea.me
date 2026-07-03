@@ -19,4 +19,28 @@
   }
   .offer-link:hover{ opacity: .9; }
   .offer-missing{ opacity: .7; }
-  
+
+.lk-ad-slot {
+  display: block;
+  min-height: 250px;
+  margin: 1.75rem 0;
+  padding: 0.75rem;
+  border: 1px solid var(--border, #e9ecef);
+  border-radius: 6px;
+  background: var(--code-bg, #f8f9fa);
+  text-align: center;
+}
+
+.lk-ad-label {
+  margin-bottom: 0.5rem;
+  color: var(--secondary, #777);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+.dark .lk-ad-slot {
+  background: var(--entry, #1e1e1e);
+  border-color: var(--border, #333);
+}
+

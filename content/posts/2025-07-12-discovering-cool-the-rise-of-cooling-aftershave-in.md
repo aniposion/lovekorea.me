@@ -1,7 +1,7 @@
 ---
 title: "Discovering Cool: The Rise of Cooling Aftershave in Korean Men's Grooming"
 date: 2025-07-12T11:07:27.568507
-draft: false
+draft: true
 categories:
   - k-beauty
 cover:
