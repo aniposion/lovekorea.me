@@ -4,6 +4,13 @@ description: "Compare Korea tours for 2026: DMZ, Seoul palace tours, K-pop exper
 slug: "korea-tours"
 type: "deals"
 layout: "single"
+weight: 10
+deal_label: "Tours & tickets"
+deal_focus: ["DMZ", "city passes", "day trips", "food tours"]
+cover:
+  image: "images/seoul-night-view-tours-booking-top-10-cover.webp"
+  alt: "Seoul night tour bus and ticket booking guide"
+  relative: false
 ---
 
 # Best Korea Tours & Day Trips 2026

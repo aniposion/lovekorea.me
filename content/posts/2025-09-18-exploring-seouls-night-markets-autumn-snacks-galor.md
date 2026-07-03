@@ -1,7 +1,7 @@
 ---
 title: "Exploring Seoul's Night Markets: Autumn Snacks Galore"
 date: 2025-09-18T20:34:16.492873
-draft: false
+draft: true
 categories:
   - k-food
 cover:

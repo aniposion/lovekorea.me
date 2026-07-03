@@ -347,6 +347,12 @@ Go early on weekdays, avoid Seollal peak days, pre-purchase online when possible
 
 Bring proper layers, waterproof gloves, face covering/neck gaiter, and check rented gear condition (bindings, boots fit). Warm up and stay within your skill level.
 
+## Related guides
+
+- [KORAIL Pass prices and booking tips](/posts/korea-ktx-korail-pass-prices-2026/)
+- [Korea hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
+- [Korea travel deals and booking hub](/deals/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

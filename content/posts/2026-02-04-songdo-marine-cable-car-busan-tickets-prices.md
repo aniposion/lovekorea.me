@@ -315,6 +315,12 @@ Yes. The price difference between round-trip and one-way is small enough that ro
 
 Infants under 36 months ride free. Child tickets apply roughly from 36 months to 13 years, and adult tickets are for ages 14+.
 
+## Related guides
+
+- [Busan City Tour Bus routes and prices](/posts/busan-city-tour-bus-pass-prices-route-comparison/)
+- [Haeundae yacht tour prices and booking tips](/posts/haeundae-busan-yacht-tour-how-to-book-prices/)
+- [Busan Gamcheon Culture Village tours](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

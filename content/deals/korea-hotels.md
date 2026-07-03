@@ -4,6 +4,13 @@ description: "Find where to stay in Korea in 2026: luxury hotels, mid-range city
 slug: "korea-hotels"
 type: "deals"
 layout: "single"
+weight: 20
+deal_label: "Hotels & stays"
+deal_focus: ["Myeongdong", "Hongdae", "Gangnam", "Busan"]
+cover:
+  image: "images/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide-cover.webp"
+  alt: "Seoul hotel neighborhood comparison guide"
+  relative: false
 ---
 
 # Best Korea Hotels & Accommodations 2026

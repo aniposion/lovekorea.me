@@ -322,6 +322,12 @@ Sun–Thu: 10:30am–10:00pm (last entry 9:00pm). Fri–Sat and the day before p
 
 Yes—Seoul Sky visitors can receive up to 2 hours of free parking at Lotte World Tower Mall parking, but you must validate/authenticate your ticket.
 
+## Related guides
+
+- [Seoul night view tours and prices](/posts/seoul-night-view-tours-booking-top-10/)
+- [Han River cruise tickets and booking tips](/posts/han-river-cruise-seoul-prices-tickets-how-to-book/)
+- [Seoul City Tour Bus tickets and routes](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

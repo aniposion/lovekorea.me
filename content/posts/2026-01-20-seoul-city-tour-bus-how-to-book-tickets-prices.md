@@ -315,6 +315,12 @@ Weekdays: first 9:30, last 16:50, about every 40 minutes. Weekends/holidays: fir
 
 Food and drinks are not allowed onboard. An audio guide is available in 12 languages. In rain, ponchos may be provided or service may switch to an indoor vehicle.
 
+## Related guides
+
+- [Seoul City Tour Bus routes and prices](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+- [Seoul night view tours and prices](/posts/seoul-night-view-tours-booking-top-10/)
+- [Han River cruise tickets and booking tips](/posts/han-river-cruise-seoul-prices-tickets-how-to-book/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

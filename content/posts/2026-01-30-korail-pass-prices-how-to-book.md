@@ -355,6 +355,12 @@ Typically, once activated/used, it’s non-refundable. Confirm refund/change rul
 
 Yes. The pass is personal and name-matched—carry your passport (or the ID required by the seller) to avoid issues during checks.
 
+## Related guides
+
+- [KORAIL Pass prices and KTX booking guide](/posts/korea-ktx-korail-pass-prices-2026/)
+- [Incheon Airport limousine bus vs T-money](/posts/incheon-airport-limousine-bus-ticket-vs-tmoney-guide/)
+- [Korea eSIM vs SIM card airport pickup](/posts/korea-esim-sim-incheon-airport-price-guide/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

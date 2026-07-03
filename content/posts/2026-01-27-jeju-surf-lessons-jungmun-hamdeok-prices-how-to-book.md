@@ -333,6 +333,12 @@ Many schools take a deposit or full prepayment. Refunds depend on lead time and 
 
 Both can work, but many beginners prefer schools that clearly state beginner-friendly boards, safety briefing, and small class sizes. Choose based on your hotel location (south for Jungmun, north/east for Hamdeok) and forecasted conditions.
 
+## Related guides
+
+- [Jeju activity tours and tickets](/posts/jeju-activity-top-10-tours-prices-tickets/)
+- [Jeju Tour Pass prices and booking options](/posts/jeju-tour-pass-prices-2026-best-spots/)
+- [Jeju rental car booking and insurance guide](/posts/jeju-rental-car-booking-insurance-license-price-comparison/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

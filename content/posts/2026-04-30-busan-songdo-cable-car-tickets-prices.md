@@ -1,13 +1,13 @@
 ---
-title: "2026 Busan Songdo Marine Cable Car Tickets, Prices & Packages Guide"
+title: "Busan Songdo Cable Car Tickets 2026: Prices, Packages & Booking Tips"
 date: 2026-04-30T07:54:32.918531
 slug: "busan-songdo-cable-car-tickets-prices"
-description: "Compare 2026 Busan Songdo Marine Cable Car prices, booking options, packages, discounts, and best tours before you buy tickets, with parking and timing tips."
+description: "Compare Busan Songdo Cable Car ticket prices, packages, booking options, discounts, parking tips, and the best time slots before you go."
 categories: ["k-travel"]
 tags: ["busan travel", "songdo", "cable car", "tickets", "prices", "packages", "city tour", "korea travel"]
 cover:
   image: "images/busan-songdo-cable-car-tickets-prices-cover.webp"
-  alt: "2026 Busan Songdo Marine Cable Car Tickets, Prices & Packages Guide"
+  alt: "Busan Songdo Cable Car Tickets 2026: Prices, Packages & Booking Tips"
   relative: false
 monetize:
   intent: "booking"
@@ -279,6 +279,12 @@ On busy weekends or holidays, consider Speedy Cruise if minimizing waiting time 
 
 Most first-time visitors should buy a round-trip ticket unless they have a planned walking, taxi, or bus route from Amnam Park. A one-way ticket only covers one direction and can make the return route inconvenient.
 
+## Related guides
+
+- [Songdo Marine Cable Car round-trip vs one-way](/posts/songdo-marine-cable-car-busan-tickets-prices/)
+- [Busan City Tour Bus pass prices and routes](/posts/busan-city-tour-bus-pass-prices-route-comparison/)
+- [SEA LIFE Busan Aquarium tickets and discounts](/posts/sea-life-busan-aquarium-tickets-how-to-book-prices/)
+- [Busan beaches and seafood guide](/posts/top-beaches-seafood-busan-tours/)
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

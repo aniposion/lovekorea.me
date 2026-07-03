@@ -1,7 +1,7 @@
 ---
 title: "Discovering Korea's Muddy Wonders: My 서해안 갯벌 Experience"
 date: 2025-09-11T08:14:28.108866
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

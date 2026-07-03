@@ -282,6 +282,12 @@ Yes. The central heritage zone is walkable, and buses/taxis connect to Bulguksa 
 
 Summer: breathable clothing, sun protection, water, and bug spray. Winter: warm layers and gloves for outdoor sites. Spring/fall: light jacket and comfortable walking shoes for long museum-and-ruins days.
 
+## Related guides
+
+- [Korea famous temple guide](/posts/korea-famous-temples-guide/)
+- [Korea museum guide](/posts/must-visit-museums-korea-guide-2025/)
+- [Korean day trips and booking tips](/posts/korean-day-trips-guide-2024/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

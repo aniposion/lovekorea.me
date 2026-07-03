@@ -1,7 +1,7 @@
 ---
 title: "Future Cities: Discovering Korea's Urban Regeneration Magic"
 date: 2025-10-27T12:19:27.562078
-draft: false
+draft: true
 categories:
   - k-lifestyle
 cover:

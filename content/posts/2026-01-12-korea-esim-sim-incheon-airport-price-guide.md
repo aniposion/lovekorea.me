@@ -394,6 +394,12 @@ Yes—many travelers install the eSIM in advance and turn it on at the destinati
 
 Often they include a high-speed daily allowance and then throttle speeds after a limit. Always check daily caps, fair-use policy, and hotspot/tethering rules.
 
+## Related guides
+
+- [Incheon Airport limousine bus vs T-money](/posts/incheon-airport-limousine-bus-ticket-vs-tmoney-guide/)
+- [KORAIL Pass prices and booking tips](/posts/korea-ktx-korail-pass-prices-2026/)
+- [Seoul hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Korean University Graduation Exhibitions in 2025: A Journey of Culture and Innovation"
 date: 2025-12-10T13:29:58.264906
-draft: false
+draft: true
 categories:
   - k-lifestyle
 cover:

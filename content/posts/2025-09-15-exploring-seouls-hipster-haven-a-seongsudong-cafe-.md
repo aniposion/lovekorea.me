@@ -1,7 +1,7 @@
 ---
 title: "Exploring Seoul's Hipster Haven: A Seongsu-dong Cafe Tour Guide"
 date: 2025-09-15T20:31:17.813611
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

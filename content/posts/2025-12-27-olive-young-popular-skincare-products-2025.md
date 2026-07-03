@@ -412,6 +412,12 @@ New releases, limited editions, and top-ranked items (like popular ampoules/seru
 
 Match by concern: calming (cica) for redness/sensitivity, ceramide for dryness/barrier support, and lightweight mist/serum for quick layering. If you’re reactive, patch-test before full use.
 
+## Related guides
+
+- [Cica, panthenol, and madecassoside skincare](/posts/cica-panthenol-madecassoside-sensitive-skin/)
+- [K-Beauty acne routine products](/posts/k-beauty-acne-routine-products/)
+- [Cushion vs foundation in Korea](/posts/cushion-vs-foundation-korean-makeup/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

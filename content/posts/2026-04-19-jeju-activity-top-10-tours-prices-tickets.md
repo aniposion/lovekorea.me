@@ -1,13 +1,13 @@
 ---
-title: "Jeju Activity Top 10 Tours (Snorkeling, Surfing, Submarine): Prices & Tickets (2026)"
+title: "Jeju Activity Tours 2026: Snorkeling, Surfing, Submarine Prices & Tickets"
 date: 2026-04-19T20:48:13.288950
 slug: "jeju-activity-top-10-tours-prices-tickets"
-description: "Book Jeju’s best activities—snorkeling, surfing, and Udo submarine tours. Compare prices, ticket options, and booking tips to secure spots fast."
+description: "Compare Jeju snorkeling, surf lesson, and submarine tour prices, ticket options, best areas, and booking tips for a 2026 Korea trip."
 categories: ["k-travel"]
 tags: ["jeju", "jeju tours", "snorkeling", "surfing", "submarine tour", "udo", "beach activities", "tickets", "prices"]
 cover:
   image: "images/jeju-activity-top-10-tours-prices-tickets-cover.webp"
-  alt: "Jeju Activity Top 10 Tours (Snorkeling, Surfing, Submarine): Prices & Tickets (2026)"
+  alt: "Jeju Activity Tours 2026: Snorkeling, Surfing, Submarine Prices & Tickets"
   relative: false
 monetize:
   intent: "booking"
@@ -347,6 +347,12 @@ Sea conditions can cause delays or cancellations, especially for boats/submarine
 **Q: Are there discounts for booking online or in bundles?**
 
 Many operators offer early-bird or online-only discounts, and some platforms run bundle deals (e.g., multiple activities). Compare final prices including fees before confirming.
+
+## Related guides
+
+- [Jeju Tour Pass prices and booking options](/posts/jeju-tour-pass-prices-2026-best-spots/)
+- [Jeju surf lesson prices and booking tips](/posts/jeju-surf-lessons-jungmun-hamdeok-prices-how-to-book/)
+- [Jeju rental car booking and insurance guide](/posts/jeju-rental-car-booking-insurance-license-price-comparison/)
 
 ## What you can do next
 

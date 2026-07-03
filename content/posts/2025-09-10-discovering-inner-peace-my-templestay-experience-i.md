@@ -1,7 +1,7 @@
 ---
 title: "Discovering Inner Peace: My Templestay Experience in Korea"
 date: 2025-09-10T09:58:29.058456
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

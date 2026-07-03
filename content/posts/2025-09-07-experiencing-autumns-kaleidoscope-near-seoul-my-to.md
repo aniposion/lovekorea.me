@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Autumn's Kaleidoscope Near Seoul: My Top 3 Foliage Spots"
 date: 2025-09-07T10:02:44.203844
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

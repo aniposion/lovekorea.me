@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Korea’s Autumn Festivals: A Journey Through Traditional Performances"
 date: 2025-09-07T11:44:39.347230
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

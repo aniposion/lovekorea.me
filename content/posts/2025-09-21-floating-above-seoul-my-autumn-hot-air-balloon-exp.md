@@ -1,7 +1,7 @@
 ---
 title: "Floating Above Seoul: My Autumn Hot Air Balloon Experience"
 date: 2025-09-21T11:24:08.335534
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

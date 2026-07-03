@@ -1,0 +1,67 @@
+{{- $current := . -}}
+{{- $max := site.Params.related.maxItems | default 3 -}}
+{{- $cats := $current.Params.categories | default (slice) -}}
+{{- $tags := $current.Params.tags | default (slice) -}}
+{{- $seen := newScratch -}}
+{{- $seen.SetInMap "urls" $current.RelPermalink true -}}
+{{- $related := slice -}}
+{{- $posts := (where site.RegularPages "Section" "posts").ByDate.Reverse -}}
+
+{{- range $posts -}}
+  {{- if ge (len $related) $max -}}{{- break -}}{{- end -}}
+  {{- $sameCategory := gt (len (intersect (.Params.categories | default (slice)) $cats)) 0 -}}
+  {{- if $sameCategory -}}
+    {{- $isSeen := index ($seen.Get "urls") .RelPermalink -}}
+    {{- if not $isSeen -}}
+      {{- $related = $related | append . -}}
+      {{- $seen.SetInMap "urls" .RelPermalink true -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if lt (len $related) $max -}}
+  {{- range $posts -}}
+    {{- if ge (len $related) $max -}}{{- break -}}{{- end -}}
+    {{- $sameTag := gt (len (intersect (.Params.tags | default (slice)) $tags)) 0 -}}
+    {{- if $sameTag -}}
+      {{- $isSeen := index ($seen.Get "urls") .RelPermalink -}}
+      {{- if not $isSeen -}}
+        {{- $related = $related | append . -}}
+        {{- $seen.SetInMap "urls" .RelPermalink true -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if lt (len $related) $max -}}
+  {{- range $posts -}}
+    {{- if ge (len $related) $max -}}{{- break -}}{{- end -}}
+    {{- $isSeen := index ($seen.Get "urls") .RelPermalink -}}
+    {{- if not $isSeen -}}
+      {{- $related = $related | append . -}}
+      {{- $seen.SetInMap "urls" .RelPermalink true -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $related) 0 -}}
+<section class="lk-related" aria-labelledby="lk-related-heading">
+  <h2 id="lk-related-heading" class="lk-related__title">Related guides</h2>
+  <ol class="lk-related__grid">
+    {{- range $related -}}
+    {{- $cover := .Params.cover | default dict -}}
+    {{- $image := $cover.image | default "" -}}
+    {{- $alt := $cover.alt | default .Title -}}
+    <li class="lk-related__card">
+      <a class="lk-related__link" href="{{ .RelPermalink }}" title="{{ .Title }}">
+        {{- with $image }}
+        <img class="lk-related__thumb" src="{{ . | relURL }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+        {{- end }}
+        <span class="lk-related__heading">{{ .Title }}</span>
+        <span class="lk-related__meta">{{ .Date.Format "2006-01-02" }}{{ with .Params.categories }} - {{ index . 0 }}{{ end }}</span>
+      </a>
+    </li>
+    {{- end }}
+  </ol>
+</section>
+{{- end -}}

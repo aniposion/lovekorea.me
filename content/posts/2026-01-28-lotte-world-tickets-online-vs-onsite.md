@@ -272,6 +272,12 @@ It’s a paid add-on to reduce wait times for popular attractions. App pre-booki
 
 Yes, seasonal/event discounts may apply (e.g., exam-taker promos). You must bring required proof such as your exam slip and ID, and the discount usually applies only to the person named.
 
+## Related guides
+
+- [Seoul Sky ticket prices by time slot](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/)
+- [Seoul City Tour Bus tickets and routes](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+- [Korea tours and day trips](/deals/korea-tours/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

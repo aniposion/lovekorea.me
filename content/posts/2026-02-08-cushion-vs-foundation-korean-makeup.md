@@ -1,13 +1,13 @@
 ---
-title: "Cushion vs Foundation in Korean Makeup 2026: Best Picks, Prices, and Where to Buy"
+title: "Cushion vs Foundation in Korea 2026: Prices, Best Picks & Where to Buy"
 date: 2026-02-08T12:35:11.473693
 slug: "cushion-vs-foundation-korean-makeup"
-description: "Cushion vs foundation the Korean way: where to buy in Korea, typical prices, best picks by skin type, and hygiene tips for long-lasting base makeup."
+description: "Compare Korean cushion vs foundation by price, finish, coverage, skin type, hygiene, and where to buy at Olive Young, duty free, and online."
 categories: ["k-beauty"]
 tags: ["k-beauty", "korean makeup", "cushion", "foundation", "base makeup", "olive young", "skin type", "coverage", "glowy", "matte"]
 cover:
   image: "images/cushion-vs-foundation-korean-makeup-cover.webp"
-  alt: "Cushion vs Foundation in Korean Makeup 2026: Best Picks, Prices, and Where to Buy"
+  alt: "Cushion vs Foundation in Korea 2026: Prices, Best Picks & Where to Buy"
   relative: true
 monetize:
   intent: "shopping"
@@ -339,6 +339,12 @@ Test on jaw/neck in daylight, and check oxidation after 10–20 minutes. Many Ko
 **Q: Do cushions go bad faster than foundations? Any hygiene tips?**
 
 Cushions can be more contamination-prone because the puff touches the product repeatedly. Wash puffs regularly, close the compact tightly, and follow the PAO/expiry guidance after opening.
+
+## Related guides
+
+- [Glow makeup products in Korea](/posts/korea-glow-makeup-best-products-wear-time-prices/)
+- [Cica, panthenol, and madecassoside skincare](/posts/cica-panthenol-madecassoside-sensitive-skin/)
+- [K-Beauty acne routine products](/posts/k-beauty-acne-routine-products/)
 
 ## What you can do next
 

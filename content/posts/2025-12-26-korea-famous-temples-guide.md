@@ -350,6 +350,12 @@ If you want a quiet overnight experience with meditation, meals, and monastery r
 
 Many temples restrict outside food and ask visitors to eat only in designated areas; temple meals are often simple and may follow Buddhist dietary practices.
 
+## Related guides
+
+- [Korea museum guide](/posts/must-visit-museums-korea-guide-2025/)
+- [Korea historic palace guide](/posts/korea-historic-palaces-guide/)
+- [Gyeongju history travel guide](/posts/gyeongju-history-travel-guide/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

@@ -342,6 +342,12 @@ Summer: pool/spa and strong A/C. Winter: good heating and indoor amenities. Spri
 
 Not checking the exact nearest station/exit, underestimating uphill walks, ignoring room size expectations, and assuming all 'near Myeongdong/Hongdae' listings are truly walkable.
 
+## Related guides
+
+- [Korea eSIM vs SIM card airport pickup](/posts/korea-esim-sim-incheon-airport-price-guide/)
+- [Incheon Airport limousine bus vs T-money](/posts/incheon-airport-limousine-bus-ticket-vs-tmoney-guide/)
+- [KORAIL Pass prices and booking tips](/posts/korea-ktx-korail-pass-prices-2026/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

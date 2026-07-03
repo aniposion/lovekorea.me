@@ -32,36 +32,96 @@ TOPIC_MIX: List[Dict[str, Any]] = [
         "label": "K-Beauty / Skincare",
         "category": "k-beauty",
         "intent": "shopping",
-        "count": 25,
-        "brief": "ingredient-led skincare, Olive Young, sunscreens, cushion/foundation, routines, product comparisons",
+        "count": 15,
+        "brief": "where to buy, prices, Olive Young, sunscreens, cushion/foundation, routines, product comparisons",
+    },
+    {
+        "pillar": "k-travel",
+        "label": "Korea Travel Tickets / Booking",
+        "category": "k-travel",
+        "intent": "booking",
+        "count": 15,
+        "brief": "tickets, passes, routes, airport transfer, KTX, Jeju, Seoul, Busan, booking and price comparisons",
     },
     {
         "pillar": "learn-korean",
         "label": "Learn Korean / Korean Slang",
         "category": "learn-korean",
         "intent": "info",
-        "count": 13,
-        "brief": "Korean phrases, slang, honorifics, K-drama expressions, texting abbreviations, pronunciation tips",
+        "count": 5,
+        "brief": "practical shopping, restaurant, transit, K-pop, honorific, and traveler phrases",
     },
     {
         "pillar": "k-food",
         "label": "Korean Food at Home",
         "category": "k-food",
-        "intent": "info",
-        "count": 8,
-        "brief": "Korean pantry ingredients, instant noodles, sauces, home BBQ, convenience-store food, beginner recipes",
+        "intent": "shopping",
+        "count": 10,
+        "brief": "pantry ingredients, where to buy, prices, instant noodles, sauces, snacks, beginner recipes",
     },
     {
         "pillar": "k-culture",
         "label": "Korean Lifestyle / Culture Explainers",
         "category": "k-lifestyle",
         "intent": "info",
-        "count": 4,
-        "brief": "nunchi, jeong, etiquette, social culture, K-pop/K-drama fan terms, modern Korean lifestyle context",
+        "count": 5,
+        "brief": "etiquette, jjimjilbang, cafes, gifts, social culture, and practical visitor context",
     },
 ]
 
 TOPIC_MIX_BY_PILLAR = {item["pillar"]: item for item in TOPIC_MIX}
+FALLBACK_HIGH_INTENT_TOPICS: List[Dict[str, str]] = [
+    {"keyword": "올리브영 선크림 가격 비교 2026", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "한국 시트마스크 가격과 구매처 2026", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "쿠션 파운데이션 색상 고르는 법과 가격 비교", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "시카 크림 vs 판테놀 크림 비교", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "올리브영 세일에서 살 만한 스킨케어 베스트", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "한국 클렌징밤 추천 가격 구매처", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "여드름 피부 K뷰티 루틴 제품 가격", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "한국 톤업 선크림 베스트 가격", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "메디힐 vs 아비브 마스크팩 비교", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "한국 립틴트 베스트 가격", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "서울 명동 올리브영 쇼핑 가이드", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "민감성 피부 장벽 크림 가격 비교", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "글로우 메이크업 제품 추천 가격", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "한국 남자 스킨케어 기본 제품", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "한국 헤어 에센스 구매처 가격", "pillar": "k-beauty", "category": "k-beauty", "intent": "shopping"},
+    {"keyword": "인천공항 eSIM vs 유심 가격 비교", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "KTX 코레일 패스 가격 예약 방법", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "서울 시티투어버스 티켓 가격 노선 비교", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "부산 시티투어버스 패스 가격 노선", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "제주 투어패스 가격과 예약처", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "제주 렌터카 보험 가격 비교", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "한강 유람선 티켓 가격 예약 방법", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "서울 스카이 티켓 가격 시간대 비교", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "롯데월드 티켓 온라인 현장 가격 비교", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "DMZ 투어 예약 가격 준비물", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "부산 송도 케이블카 티켓 가격", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "해운대 요트 투어 가격 예약 방법", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "서울에서 부산 KTX vs 고속버스 가격 비교", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "인천공항 리무진버스 티머니 비교", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "제주 서귀포 공항버스 티켓 노선", "pillar": "k-travel", "category": "k-travel", "intent": "booking"},
+    {"keyword": "고추장 된장 쌈장 차이와 구매처", "pillar": "k-food", "category": "k-food", "intent": "shopping"},
+    {"keyword": "한국 라면 추천 가격 편의점 마트 비교", "pillar": "k-food", "category": "k-food", "intent": "shopping"},
+    {"keyword": "김치볶음밥 재료 비율 초보 가이드", "pillar": "k-food", "category": "k-food", "intent": "info"},
+    {"keyword": "한국 편의점 음식 조합 가격 추천", "pillar": "k-food", "category": "k-food", "intent": "shopping"},
+    {"keyword": "김치 종류별 맛과 구매처", "pillar": "k-food", "category": "k-food", "intent": "shopping"},
+    {"keyword": "참기름 들기름 차이와 사용법", "pillar": "k-food", "category": "k-food", "intent": "shopping"},
+    {"keyword": "한국 과자 베스트 가격 구매처", "pillar": "k-food", "category": "k-food", "intent": "shopping"},
+    {"keyword": "떡볶이 소스 만드는 법과 재료", "pillar": "k-food", "category": "k-food", "intent": "info"},
+    {"keyword": "한국 바베큐 쌈장 소스 가이드", "pillar": "k-food", "category": "k-food", "intent": "shopping"},
+    {"keyword": "비빔밥 재료와 고추장 소스 비율", "pillar": "k-food", "category": "k-food", "intent": "info"},
+    {"keyword": "쇼핑할 때 쓰는 한국어 표현 가격 흥정", "pillar": "learn-korean", "category": "learn-korean", "intent": "info"},
+    {"keyword": "식당 주문 한국어 표현 메뉴 알레르기", "pillar": "learn-korean", "category": "learn-korean", "intent": "info"},
+    {"keyword": "지하철 버스 이용 한국어 표현", "pillar": "learn-korean", "category": "learn-korean", "intent": "info"},
+    {"keyword": "K팝 팬덤 한국어 용어 최애 입덕", "pillar": "learn-korean", "category": "learn-korean", "intent": "info"},
+    {"keyword": "존댓말 반말 차이 여행자가 알아야 할 표현", "pillar": "learn-korean", "category": "learn-korean", "intent": "info"},
+    {"keyword": "한국 식당 예절 계산 반찬 리필 문화", "pillar": "k-culture", "category": "k-lifestyle", "intent": "info"},
+    {"keyword": "한국 선물 문화와 피해야 할 선물", "pillar": "k-culture", "category": "k-lifestyle", "intent": "info"},
+    {"keyword": "한국 찜질방 이용 방법 가격 준비물", "pillar": "k-culture", "category": "k-lifestyle", "intent": "info"},
+    {"keyword": "한국 카페 문화 주문 예절 콘센트", "pillar": "k-culture", "category": "k-lifestyle", "intent": "info"},
+    {"keyword": "한국 회식 문화 눈치 예절 설명", "pillar": "k-culture", "category": "k-lifestyle", "intent": "info"},
+]
 ALLOWED_CATEGORIES = {
     "k-beauty", "k-drama", "k-fashion", "k-food", "k-lifestyle", "k-movie",
     "k-music", "k-news", "k-tech", "k-travel", "k-trends", "learn-korean",
@@ -1278,6 +1338,13 @@ def infer_topic_pillar_from_keyword(keyword: str) -> str:
         "doenjang", "bbq", "snack", "sauce", "라면", "김치", "고추장",
         "된장", "쌈장", "레시피", "간식", "소스",
     ]
+    travel_markers = [
+        "travel", "ticket", "tickets", "booking", "book", "pass", "tour",
+        "route", "routes", "airport", "ktx", "korail", "bus", "jeju",
+        "seoul", "busan", "hotel", "cruise", "cable car", "티켓", "예약",
+        "패스", "투어", "노선", "공항", "버스", "제주", "서울", "부산",
+        "케이블카", "유람선", "코레일", "렌터카",
+    ]
     culture_markers = [
         "culture", "etiquette", "nunchi", "jeong", "k-pop", "k-drama",
         "fan", "lifestyle", "문화", "예절", "눈치", "정", "회식",
@@ -1286,6 +1353,7 @@ def infer_topic_pillar_from_keyword(keyword: str) -> str:
 
     marker_map = [
         ("k-beauty", beauty_markers),
+        ("k-travel", travel_markers),
         ("learn-korean", korean_markers),
         ("k-food", food_markers),
         ("k-culture", culture_markers),
@@ -1487,7 +1555,7 @@ Return JSON ONLY:
 def generate_blog_keywords(today_str: str) -> List[Dict[str, str]]:
     """
     Generate a balanced monthly topic queue.
-    Target mix: K-Beauty 50%, Learn Korean 25%, K-Food 15%, Culture 10%.
+    Target mix: K-Beauty 30%, K-Travel 30%, K-Food 20%, Learn Korean 10%, Culture 10%.
     """
     print("Generating keywords with topic mix...")
 
@@ -1498,8 +1566,8 @@ def generate_blog_keywords(today_str: str) -> List[Dict[str, str]]:
 Generate {KEYWORDS_PER_MONTH} Korean blog topics (in Korean) for an English LoveKorea blog.
 Date: {today_str}
 
-The site is shifting away from travel-only content into practical Korean culture,
-beauty, food, and language guides for global readers.
+The site is balancing practical Korea travel, K-beauty, food, language, and
+culture guides for global readers. Prioritize strong search intent.
 
 === REQUIRED MONTHLY TOPIC MIX ===
 {topic_mix_prompt_lines()}
@@ -1508,15 +1576,15 @@ beauty, food, and language guides for global readers.
 {perf_context if perf_context else "No previous data available. Follow the required monthly topic mix exactly."}
 
 === KEYWORD REQUIREMENTS ===
-- K-Beauty: product comparison, ingredients, routines, Olive Young, skin concerns, where to buy.
-- Learn Korean: slang, expressions, honorifics, pronunciation, K-drama/K-pop phrases.
-- Korean Food at Home: pantry ingredients, instant noodles, sauces, snacks, beginner recipes.
-- Culture Explainers: social etiquette, fan terms, lifestyle concepts, Korean words with cultural meaning.
-- Include a mix of "best", "guide", "explained", "vs", "how to use", "mistakes", and "{CURRENT_YEAR}" angles.
+- K-Beauty: where to buy, product comparison, prices, ingredients, routines, Olive Young, skin concerns.
+- K-Travel: tickets, booking, prices, passes, route comparisons, airport transfer, KTX, Seoul, Busan, Jeju.
+- Korean Food: pantry ingredients, where to buy, prices, instant noodles, sauces, snacks, beginner recipes.
+- Learn Korean: shopping, restaurant, transit, K-drama/K-pop phrases, honorifics, pronunciation.
+- Culture Explainers: etiquette, jjimjilbang, cafes, gifts, social concepts, and practical visitor context.
+- Include a mix of "best", "prices", "where to buy", "booking", "tickets", "vs", "how to use", "mistakes", and "{CURRENT_YEAR}" angles.
 - Topics should be specific enough to become one complete article.
 
 Avoid:
-- Travel booking/tour/pass/hotel topics unless they are only background examples.
 - News/celebrity gossip.
 - Overly generic topics.
 - Duplicate ideas with only tiny wording changes.
@@ -1526,9 +1594,9 @@ Return JSON ONLY:
   "topics": [
     {{
       "keyword": "Korean topic in Korean",
-      "pillar": "k-beauty | learn-korean | k-food | k-culture",
+      "pillar": "k-beauty | k-travel | k-food | learn-korean | k-culture",
       "category": "one allowed Hugo category",
-      "intent": "shopping | info"
+      "intent": "booking | shopping | info"
     }}
   ]
 }}
@@ -1540,7 +1608,7 @@ Return JSON ONLY:
             messages=[{"role": "user", "content": prompt}],
         )
         payload = json.loads(resp.choices[0].message.content)
-        rows = rebalance_keyword_rows(normalize_keyword_rows(payload))
+        rows = rebalance_keyword_rows(normalize_keyword_rows(payload) + FALLBACK_HIGH_INTENT_TOPICS)
         print("Keyword topic mix:")
         for item in TOPIC_MIX:
             count = sum(1 for row in rows if row["topic_pillar"] == item["pillar"])
@@ -1548,7 +1616,8 @@ Return JSON ONLY:
         return rows
     except Exception as e:
         print(f"Keyword generation error: {e}")
-        return []
+        print("Using built-in high-intent fallback topic queue.")
+        return rebalance_keyword_rows(FALLBACK_HIGH_INTENT_TOPICS)
 
 
 # ==============================================================================
@@ -1661,6 +1730,19 @@ def save_post(bundle: Dict[str, Any], final_md: str, cover_md: str):
     print(f"✅ Saved to: {path}")
 
 
+def is_api_availability_error(exc: Exception) -> bool:
+    text = str(exc).lower()
+    markers = [
+        "insufficient_quota",
+        "rate limit",
+        "ratelimit",
+        "429",
+        "model_not_found",
+        "does not exist or you do not have access",
+    ]
+    return any(marker in text for marker in markers)
+
+
 # ==============================================================================
 # 8. 메인 실행
 # ==============================================================================
@@ -1730,13 +1812,21 @@ if __name__ == "__main__":
     research_data = research_with_ai(target_keyword)
 
     # 3) 플랜 + 본문 작성
-    bundle = create_blog_bundle(
-        target_keyword,
-        research_data,
-        target_category=target_category,
-        target_pillar=target_pillar,
-        target_intent=target_intent,
-    )
+    try:
+        bundle = create_blog_bundle(
+            target_keyword,
+            research_data,
+            target_category=target_category,
+            target_pillar=target_pillar,
+            target_intent=target_intent,
+        )
+    except Exception as e:
+        if is_api_availability_error(e):
+            print(f"⚠️ Blog generation skipped because the AI API is unavailable: {e}")
+            print("Continuing automation without creating a new post.")
+            raise SystemExit(0)
+        print(f"❌ Blog generation failed: {e}")
+        raise SystemExit(1)
 
     # 4) 단어 수 부족 시 확장
     if count_words(bundle.get("content", "")) < MIN_WORDS:

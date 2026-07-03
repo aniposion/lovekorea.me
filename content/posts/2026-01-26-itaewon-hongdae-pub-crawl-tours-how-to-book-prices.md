@@ -307,6 +307,13 @@ Some venues may have special rules (e.g., drink minimums) or optional upgrades. 
 
 Bring a passport or a government-issued photo ID accepted by the venue. Many clubs check age and may refuse entry without valid ID.
 
+## Related guides
+
+- [Seoul night view tours and prices](/posts/seoul-night-view-tours-booking-top-10/)
+- [Seoul traditional liquor tour prices](/posts/seoul-traditional-liquor-tours-guide/)
+- [Seoul hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
+- [Korea tours and day trips](/deals/korea-tours/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

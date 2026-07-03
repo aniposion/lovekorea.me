@@ -326,6 +326,12 @@ Many palace sites offer free admission to visitors wearing hanbok, but exact con
 
 Not checking weekly closure days, arriving too late for last entry, wearing uncomfortable shoes for gravel paths, and missing photo/filming restrictions inside certain buildings.
 
+## Related guides
+
+- [Korea museum guide](/posts/must-visit-museums-korea-guide-2025/)
+- [Korea famous temple guide](/posts/korea-famous-temples-guide/)
+- [K-drama filming locations in Korea](/posts/k-drama-filming-locations-korea-guide/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

@@ -1,13 +1,13 @@
 ---
-title: "2026 Seoul City Tour Bus: How to Book Tickets, Routes & Prices"
+title: "Seoul City Tour Bus 2026: Tickets, Routes, Prices & How to Book"
 date: 2026-02-06T08:10:18.895371
 slug: "2026-seoul-city-tour-bus-how-to-book-routes-prices"
-description: "Learn 2026 Seoul City Tour Bus prices, how to book tickets online vs on-site, route highlights, and tips to secure seats on the best tours."
+description: "Compare Seoul City Tour Bus ticket prices, routes, online vs on-site booking, route highlights, and seat tips for first-time visitors."
 categories: ["k-travel"]
 tags: ["seoul", "city tour bus", "hop on hop off", "seoul tickets", "seoul routes", "travel korea", "tour booking", "budget travel", "namsan"]
 cover:
   image: "images/2026-seoul-city-tour-bus-how-to-book-routes-prices-cover.webp"
-  alt: "2026 Seoul City Tour Bus: How to Book Tickets, Routes & Prices"
+  alt: "Seoul City Tour Bus 2026: Tickets, Routes, Prices & How to Book"
   relative: true
 monetize:
   intent: "booking"
@@ -342,6 +342,12 @@ Discounts are commonly offered for children/teens/seniors. Bring a passport or o
 **Q: What’s the refund or change policy if my plans change?**
 
 Policies vary by ticket type and booking channel. Check the official site’s latest terms before paying, especially for same-day changes, weather issues, or no-shows.
+
+## Related guides
+
+- [Seoul night view tour tickets and prices](/posts/seoul-night-view-tours-booking-top-10/)
+- [Seoul Sky ticket prices by time slot](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/)
+- [Han River cruise tickets and booking tips](/posts/han-river-cruise-seoul-prices-tickets-how-to-book/)
 
 ## What you can do next
 

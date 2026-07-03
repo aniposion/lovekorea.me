@@ -383,6 +383,12 @@ Tours may be canceled due to wind or sea conditions. Most operators offer resche
 
 Bring a valid ID (often required), and pack a light jacket/windbreaker even in warmer months due to strong sea breeze.
 
+## Related guides
+
+- [Busan City Tour Bus routes and prices](/posts/busan-city-tour-bus-pass-prices-route-comparison/)
+- [Busan Songdo Cable Car tickets and prices](/posts/busan-songdo-cable-car-tickets-prices/)
+- [Busan Gamcheon Culture Village tours](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

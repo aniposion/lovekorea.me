@@ -132,6 +132,13 @@ Navigating Seoul is remarkably straightforward thanks to its integrated public t
 
 **Language Barriers:** While many young Koreans can communicate in English, it's courteous and often helpful to learn a few basic Korean phrases or have a translation app handy. Naver Papago is a favorite among travelers for its accuracy and user-friendly interface.
 
+## Related guides
+
+- [Itaewon and Hongdae pub crawl prices](/posts/itaewon-hongdae-pub-crawl-tours-how-to-book-prices/)
+- [Seoul hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
+- [Seoul night view tour tickets and prices](/posts/seoul-night-view-tours-booking-top-10/)
+- [Korean cafe areas and cafe-hopping prices](/posts/top-5-korean-cafes-2025/)
+
 ## Final Thoughts and Recommendations
 
 Exploring Seoul on a budget is not only feasible but also incredibly rewarding. Each district offers unique experiences, cultural insights, and adventures waiting around every corner. To make the most of your trip, balance your itinerary with popular attractions and hidden gems, engage with locals, savor the culinary diversity, and embrace the city's vibrant energy.

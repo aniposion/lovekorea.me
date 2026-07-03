@@ -339,6 +339,12 @@ The limousine bus is usually easiest because it has dedicated luggage storage an
 
 Not keeping enough balance: if your balance is too low, you may not pass gates or complete trips smoothly. Keep at least the base fare available (around ₩1,400+).
 
+## Related guides
+
+- [Korea eSIM vs SIM card airport pickup](/posts/korea-esim-sim-incheon-airport-price-guide/)
+- [Seoul hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
+- [KORAIL Pass prices and booking tips](/posts/korea-ktx-korail-pass-prices-2026/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

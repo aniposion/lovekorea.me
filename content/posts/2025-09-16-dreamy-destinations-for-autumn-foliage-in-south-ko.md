@@ -1,7 +1,7 @@
 ---
 title: "Dreamy Destinations for Autumn Foliage in South Korea: My 2025 Picks"
 date: 2025-09-16T20:28:32.598869
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

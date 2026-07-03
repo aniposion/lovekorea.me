@@ -1,15 +1,15 @@
 ---
-title: "Kimchi Fried Rice Guide: 7 Beginner Tips, Ingredients & Mistakes"
+title: "Kimchi Fried Rice Recipe 2026: Ingredients, Sauce Ratio & Beginner Tips"
 date: 2026-06-28T17:32:16.414095
 slug: "beginner-kimchi-fried-rice-guide"
-description: "A beginner-friendly guide to kimchi fried rice with ingredient ratios, sauce tips, what to know about rice, kimchi, heat, and common fixes."
+description: "Learn kimchi fried rice ingredients, sauce ratios, cooking steps, common mistakes, and easy fixes for a beginner-friendly Korean meal."
 categories: ["k-food"]
 topic_pillar: "k-food"
 target_intent: "info"
 tags: ["kimchi", "fried rice", "korean food", "easy recipe", "beginner cooking", "home cooking", "k food", "comfort food"]
 cover:
   image: "images/beginner-kimchi-fried-rice-guide-cover.webp"
-  alt: "Kimchi Fried Rice Guide: 7 Beginner Tips, Ingredients & Mistakes"
+  alt: "Kimchi Fried Rice Recipe 2026: Ingredients, Sauce Ratio & Beginner Tips"
   relative: false
 ---
 > **Quick Info**
@@ -449,6 +449,12 @@ Add sesame oil at the end, after turning off the heat or just before serving. If
 **Q: Why does my kimchi fried rice become mushy?**
 
 Common causes are warm rice, too much kimchi liquid, and overmixing. Use cold rice, fry the kimchi first, and mix with a cutting motion.
+
+## Related guides
+
+- [Korean convenience store food combos](/posts/korean-convenience-store-food-combos/)
+- [Busan Nampo-dong shopping and food streets](/posts/busan-nampo-dong-shopping-where-to-buy-prices/)
+- [Smart shopping in Korea](/posts/smart-shopping-korea-2025/)
 
 ## What you can do next
 

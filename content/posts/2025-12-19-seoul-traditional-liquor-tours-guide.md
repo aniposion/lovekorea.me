@@ -127,6 +127,12 @@ To enjoy the fullest experience at Seoul's traditional liquor spots, a basic und
 
 Exploring Seoul's traditional liquor scene offers an unforgettable adventure into the heart of Korean culture. By planning ahead, understanding the costs involved, and respecting local customs, your visit will be both enjoyable and educational. Here's to a fantastic time exploring the tastes and tales that Seoul has in store for you!
 
+## Related guides
+
+- [Itaewon and Hongdae pub crawl prices](/posts/itaewon-hongdae-pub-crawl-tours-how-to-book-prices/)
+- [Seoul night view tour tickets and prices](/posts/seoul-night-view-tours-booking-top-10/)
+- [Seoul hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
+- [Korean cafe areas and cafe-hopping prices](/posts/top-5-korean-cafes-2025/)
 ## FAQ
 
 **Q: Do I need to book in advance for traditional liquor spots in Seoul?**

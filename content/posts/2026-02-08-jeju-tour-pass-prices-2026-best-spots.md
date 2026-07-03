@@ -1,13 +1,13 @@
 ---
-title: "Jeju Tour Pass Prices 2026: Best Pass Options, Tickets, and Must-Visit Spots"
+title: "Jeju Tour Pass Prices 2026: Best Options, Tickets & Where to Book"
 date: 2026-02-08T12:25:23.059499
 slug: "jeju-tour-pass-prices-2026-best-spots"
-description: "Compare Jeju Tour Pass prices for 2026, what’s included, and where to book. See budget examples, top included attractions, and money-saving tips."
+description: "Compare Jeju Tour Pass prices, included attractions, booking options, budget examples, and money-saving tips before buying tickets."
 categories: ["k-travel"]
 tags: ["jeju", "jeju pass", "tour pass", "tickets", "prices", "car rental", "attractions", "discount", "itinerary"]
 cover:
   image: "images/jeju-tour-pass-prices-2026-best-spots-cover.webp"
-  alt: "Jeju Tour Pass Prices 2026: Best Pass Options, Tickets, and Must-Visit Spots"
+  alt: "Jeju Tour Pass Prices 2026: Best Options, Tickets & Where to Book"
   relative: true
 monetize:
   intent: "booking"
@@ -314,6 +314,13 @@ Some activities may require time-slot reservations or have blackout dates. Confi
 **Q: What is the cancellation/refund policy?**
 
 Policies differ by seller and whether the pass or tickets have been used/activated. Check deadlines, partial refunds, and no-show rules before purchase.
+
+## Related guides
+
+- [Jeju activity tours and tickets](/posts/jeju-activity-top-10-tours-prices-tickets/)
+- [Jeju rental car booking and insurance guide](/posts/jeju-rental-car-booking-insurance-license-price-comparison/)
+- [Jeju East day tours and booking tips](/posts/jeju-east-day-tour-prices-how-to-book/)
+- [Jeju Airport to Seogwipo bus tickets and routes](/posts/jeju-airport-seogwipo-airport-bus-tickets-routes/)
 
 ## What you can do next
 

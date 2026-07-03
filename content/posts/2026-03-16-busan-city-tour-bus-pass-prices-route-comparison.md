@@ -1,13 +1,13 @@
 ---
-title: "Busan City Tour Bus Pass Prices & Route Comparison: 2026 Complete Guide"
+title: "Busan City Tour Bus 2026: Pass Prices, Routes & Best Stops"
 date: 2026-03-16T08:30:51.939870
 slug: "busan-city-tour-bus-pass-prices-route-comparison"
-description: "2026 guide to the Busan City Tour Bus pass: prices, route comparison, key stops, and first-timer tips on timing, seats, and hop-on hop-off planning."
+description: "Compare Busan City Tour Bus pass prices, routes, key stops, timing, seats, and hop-on hop-off tips for first-time Korea travelers."
 categories: ["k-travel"]
 tags: ["busan", "city tour bus", "hop on hop off", "bus pass", "route map", "ticket price", "korea travel", "haeundae", "gamcheon"]
 cover:
   image: "images/busan-city-tour-bus-pass-prices-route-comparison-cover.webp"
-  alt: "Busan City Tour Bus Pass Prices & Route Comparison: 2026 Complete Guide"
+  alt: "Busan City Tour Bus 2026: Pass Prices, Routes & Best Stops"
   relative: true
 monetize:
   intent: "booking"
@@ -342,6 +342,12 @@ Yes for views, but prepare: sunscreen/hat and water in summer; warm layers and w
 **Q: What are the most common mistakes first-timers make?**
 
 Not confirming the route includes their must-see attraction, misjudging time at each stop and missing the next bus, and traveling on peak days without checking crowd levels.
+
+## Related guides
+
+- [Busan Songdo Cable Car tickets and prices](/posts/busan-songdo-cable-car-tickets-prices/)
+- [Haeundae yacht tour prices and booking tips](/posts/haeundae-busan-yacht-tour-how-to-book-prices/)
+- [Busan Gamcheon Culture Village tours](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/)
 
 ## What you can do next
 

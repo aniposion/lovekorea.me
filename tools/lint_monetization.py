@@ -32,7 +32,6 @@ try:
     HAS_YAML = True
 except ImportError:
     HAS_YAML = False
-    print("Warning: PyYAML not installed. Slot-to-provider mapping disabled.")
 
 
 # ============================================================================
@@ -132,19 +131,62 @@ class LintResult:
 
 def load_slots_config(slots_file: Path) -> Dict[str, Dict[str, Any]]:
     """Load slot configuration from YAML file."""
-    if not HAS_YAML:
-        return {}
-    
     if not slots_file.exists():
         print(f"  WARNING: Slots file not found: {slots_file}")
         return {}
     
     try:
         with open(slots_file, 'r', encoding='utf-8') as f:
-            return yaml.safe_load(f) or {}
+            if HAS_YAML:
+                return yaml.safe_load(f) or {}
+            return load_simple_slots_yaml(f.read())
     except Exception as e:
         print(f"  WARNING: Error loading slots file: {e}")
         return {}
+
+
+def load_simple_slots_yaml(text: str) -> Dict[str, Dict[str, Any]]:
+    """
+    Minimal parser for data/monetization/slots.yaml when PyYAML is unavailable.
+
+    The slot file uses simple top-level slot keys with indented scalar fields,
+    which is enough for provider/url/active checks in this linter.
+    """
+    slots: Dict[str, Dict[str, Any]] = {}
+    current_key: Optional[str] = None
+
+    for raw_line in text.splitlines():
+        stripped = raw_line.strip()
+        if not stripped or stripped.startswith("#"):
+            continue
+
+        indent = len(raw_line) - len(raw_line.lstrip(" "))
+        if indent == 0 and stripped.endswith(":"):
+            current_key = stripped[:-1].strip()
+            slots[current_key] = {}
+            continue
+
+        if current_key and indent > 0 and ":" in stripped:
+            key, value = stripped.split(":", 1)
+            slots[current_key][key.strip()] = parse_simple_yaml_value(value.strip())
+
+    if slots:
+        print("  INFO: PyYAML not installed; using built-in slot parser.")
+    return slots
+
+
+def parse_simple_yaml_value(value: str) -> Any:
+    value = value.strip()
+    if not value:
+        return ""
+    if value.startswith(("'", '"')) and value.endswith(("'", '"')):
+        return value[1:-1]
+    lower = value.lower()
+    if lower == "true":
+        return True
+    if lower == "false":
+        return False
+    return value
 
 
 def get_slot_provider(slot_key: str, slots_config: Dict[str, Dict[str, Any]]) -> Optional[str]:

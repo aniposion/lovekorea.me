@@ -4,6 +4,13 @@ description: "A practical Korea packing guide for 2026 covering adapters, connec
 slug: "korea-essentials"
 type: "deals"
 layout: "single"
+weight: 30
+deal_label: "Travel essentials"
+deal_focus: ["eSIM", "adapters", "power banks", "walking gear"]
+cover:
+  image: "images/korea-esim-sim-incheon-airport-price-guide-cover.webp"
+  alt: "Korea eSIM and travel essentials comparison guide"
+  relative: false
 ---
 
 # Korea Travel Essentials & Packing Guide 2026

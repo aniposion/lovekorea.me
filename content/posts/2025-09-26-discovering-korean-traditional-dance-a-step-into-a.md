@@ -1,7 +1,7 @@
 ---
 title: "Discovering Korean Traditional Dance: A Step into a World of Grace and History"
 date: 2025-09-26T13:49:38.618186
-draft: false
+draft: true
 categories:
   - k-lifestyle
 cover:

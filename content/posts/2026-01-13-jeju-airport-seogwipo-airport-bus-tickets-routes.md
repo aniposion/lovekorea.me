@@ -1,13 +1,13 @@
 ---
-title: "2026 Complete Guide to Jeju Airport to Seogwipo Airport Bus Tickets, Routes & Stops"
+title: "Jeju Airport to Seogwipo Bus 2026: Tickets, Routes, Stops & Times"
 date: 2026-01-13T08:24:34.185586
 slug: "jeju-airport-seogwipo-airport-bus-tickets-routes"
-description: "Complete guide to Jeju Airport↔Seogwipo airport buses: routes (600/800/801), ticket payment, stops, timetables tips, and what to know before you go."
+description: "Compare Jeju Airport to Seogwipo bus routes 600, 800 and 801, ticket payment, stops, travel time, luggage tips and first/last bus checks."
 categories: ["k-travel"]
 tags: ["jeju", "seogwipo", "jeju airport", "airport bus", "bus 600", "bus 800", "bus 801", "korea travel", "public transport"]
 cover:
   image: "/images/jeju-airport-seogwipo-airport-bus-tickets-routes-cover.webp"
-  alt: "2026 Complete Guide to Jeju Airport to Seogwipo Airport Bus Tickets, Routes & Stops"
+  alt: "Jeju Airport to Seogwipo Bus 2026: Tickets, Routes, Stops & Times"
   relative: true
 monetize:
   intent: "booking"
@@ -16,7 +16,7 @@ monetize:
     top: []
     bottom: []
 ---
-# 2026 Complete Guide to Jeju Airport to Seogwipo Airport Bus Tickets, Routes & Stops
+# Jeju Airport to Seogwipo Bus 2026: Tickets, Routes, Stops & Times
 
 > **Quick Info**
 > - 📍 Area: Jeju Island (Jeju International Airport ↔ Seogwipo City/Jungmun)
@@ -319,6 +319,12 @@ Expect around 1 hour to 1 hour 30 minutes depending on the line, stops, and traf
 **Q: What are the most common mistakes when taking the airport bus in Jeju?**
 
 Missing the last bus by not checking the first/last departure times, waiting at the wrong stop (airport platforms can be confusing), and not allowing buffer time during peak season or bad weather.
+
+## Related guides
+
+- [Jeju rental car booking and insurance guide](/posts/jeju-rental-car-booking-insurance-license-price-comparison/)
+- [Jeju Tour Pass prices and booking options](/posts/jeju-tour-pass-prices-2026-best-spots/)
+- [Jeju East day tours and booking tips](/posts/jeju-east-day-tour-prices-how-to-book/)
 
 ## What you can do next
 

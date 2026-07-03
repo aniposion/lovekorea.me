@@ -1,7 +1,7 @@
 ---
 title: "Embracing Autumn with the Soulful Sounds of Korean Indie Music"
 date: 2025-09-06T18:25:21.254980
-draft: false
+draft: true
 categories:
   - k-music
 cover:

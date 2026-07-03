@@ -315,6 +315,12 @@ Cruises may be canceled due to weather/river conditions. Check the operator’s 
 
 Yeouido runs daily and offers the widest choice of cruises. Jamsil often operates on weekends only, so plan for Yeouido if traveling on weekdays.
 
+## Related guides
+
+- [Seoul City Tour Bus tickets and routes](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+- [Seoul night view tours and prices](/posts/seoul-night-view-tours-booking-top-10/)
+- [Seoul Sky ticket prices by time slot](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

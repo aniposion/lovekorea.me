@@ -323,6 +323,12 @@ Typically: guide service and transportation for multi-stop itineraries. Photo to
 
 It depends on the provider and product. Many platforms offer free cancellation up to a cutoff time (e.g., 24–72 hours). Confirm the exact policy on the booking page.
 
+## Related guides
+
+- [Busan City Tour Bus routes and prices](/posts/busan-city-tour-bus-pass-prices-route-comparison/)
+- [Busan Nampo-dong shopping guide](/posts/busan-nampo-dong-shopping-where-to-buy-prices/)
+- [Busan Songdo Cable Car tickets and prices](/posts/busan-songdo-cable-car-tickets-prices/)
+
 ## What you can do next
 
 Pick just **one** action from this guide and do it today—small steps add up.

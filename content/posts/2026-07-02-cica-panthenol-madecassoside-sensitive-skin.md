@@ -1,15 +1,15 @@
 ---
-title: "2026 Guide: Best Cica, Panthenol & Madecassoside Products, Prices and Where to Buy"
+title: "Cica, Panthenol & Madecassoside in Korea 2026: Prices & Where to Buy"
 date: 2026-07-02T11:07:15.286711
 slug: "cica-panthenol-madecassoside-sensitive-skin"
-description: "Learn where to buy the best cica, panthenol and madecassoside soothing products in Korea, with prices, ingredient tips, and sensitive skin picks."
+description: "Compare cica, panthenol, and madecassoside skincare in Korea with price ranges, ingredient tips, sensitive-skin picks, and where to buy."
 categories: ["k-beauty"]
 topic_pillar: "k-beauty"
 target_intent: "shopping"
 tags: ["cica", "panthenol", "madecassoside", "sensitive skin", "k beauty", "skin barrier", "olive young", "soothing care"]
 cover:
   image: "images/cica-panthenol-madecassoside-sensitive-skin-cover.webp"
-  alt: "2026 Guide: Best Cica, Panthenol & Madecassoside Products, Prices and Where to Buy"
+  alt: "Cica, Panthenol & Madecassoside in Korea 2026: Prices & Where to Buy"
   relative: false
 monetize:
   intent: "shopping"
@@ -313,6 +313,13 @@ For redness and heat, cica and madecassoside are useful calming cues. For drynes
 **Q: Should I avoid fragrance when buying soothing products?**
 
 If you are easily irritated, be careful with fragrance, essential oils, limonene, linalool, citral, and bergamot oil. A product can contain good calming ingredients and still be irritating for some skin types.
+
+## Related guides
+
+- [K-Beauty acne routine products](/posts/k-beauty-acne-routine-products/)
+- [Glow makeup products in Korea](/posts/korea-glow-makeup-best-products-wear-time-prices/)
+- [Cushion vs foundation in Korea](/posts/cushion-vs-foundation-korean-makeup/)
+- [Olive Young skincare prices and where to buy](/posts/olive-young-popular-skincare-products-2025/)
 
 ## What you can do next
 

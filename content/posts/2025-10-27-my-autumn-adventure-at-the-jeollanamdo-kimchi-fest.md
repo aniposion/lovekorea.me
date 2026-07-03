@@ -1,7 +1,7 @@
 ---
 title: "My Autumn Adventure at the Jeollanam-do Kimchi Festival"
 date: 2025-10-27T12:12:53.271880
-draft: false
+draft: true
 categories:
   - k-food
 cover:

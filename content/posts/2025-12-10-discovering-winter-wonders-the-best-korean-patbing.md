@@ -1,7 +1,7 @@
 ---
 title: "Discovering Winter Wonders: The Best Korean Patbingsu Cafes in Winter"
 date: 2025-12-10T13:20:40.341493
-draft: false
+draft: true
 categories:
   - k-food
 cover:

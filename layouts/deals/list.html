@@ -1,0 +1,78 @@
+{{- define "main" }}
+<header class="lk-deals-hero">
+  {{- partial "breadcrumbs.html" . }}
+  <p class="lk-kicker">Booking And Shopping Hub</p>
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <p class="lk-deals-hero__lead">{{ . }}</p>
+  {{- end }}
+  <aside class="lk-deals-disclosure" aria-label="Affiliate disclosure">
+    LoveKorea may earn a commission when you book or buy through some links, at no extra cost to you.
+    Editorial notes stay separate from paid links. Read the
+    <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.
+  </aside>
+</header>
+
+{{- $dealPages := sort .RegularPages "Weight" "asc" -}}
+{{- if gt (len $dealPages) 0 }}
+<section class="lk-deals-grid" aria-labelledby="lk-deals-start">
+  <div class="lk-section-heading lk-section-heading--compact">
+    <p class="lk-kicker">Start Here</p>
+    <h2 id="lk-deals-start">Compare by trip need</h2>
+    <p>Choose the guide that matches the decision you are making now: tickets, stays, or items to pack.</p>
+  </div>
+
+  <div class="lk-deal-cards">
+    {{- range $dealPages }}
+    {{- $cover := .Params.cover | default dict -}}
+    {{- $image := $cover.image | default "" -}}
+    {{- $alt := $cover.alt | default .Title -}}
+    <article class="lk-deal-card">
+      <a class="lk-deal-card__media" href="{{ .RelPermalink }}" aria-label="{{ .Title | plainify }}">
+        {{- with $image }}
+        <img src="{{ . | relURL }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+        {{- else }}
+        <span class="lk-deal-card__fallback">LoveKorea</span>
+        {{- end }}
+      </a>
+      <div class="lk-deal-card__body">
+        {{- with .Params.deal_label }}<p class="lk-deal-card__eyebrow">{{ . }}</p>{{- end }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{- with .Description }}<p>{{ . }}</p>{{- end }}
+        {{- with .Params.deal_focus }}
+        <ul class="lk-deal-card__chips" aria-label="Guide focus">
+          {{- range . }}<li>{{ . }}</li>{{- end }}
+        </ul>
+        {{- end }}
+        <a class="lk-deal-card__cta" href="{{ .RelPermalink }}">Open comparison</a>
+      </div>
+    </article>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
+
+{{- with .Content }}
+<section class="lk-deals-guidance" aria-labelledby="lk-deals-guidance-title">
+  <div class="post-content">
+    <h2 id="lk-deals-guidance-title">Before You Click Through</h2>
+    {{ . }}
+  </div>
+</section>
+{{- end }}
+
+<section class="lk-deals-checklist" aria-labelledby="lk-deals-checklist-title">
+  <div>
+    <p class="lk-kicker">Quick Checks</p>
+    <h2 id="lk-deals-checklist-title">What to compare before booking</h2>
+  </div>
+  <ul>
+    <li>Final price after fees, taxes, and currency conversion.</li>
+    <li>Cancellation window and refund method.</li>
+    <li>Pickup point, subway distance, or airport transfer friction.</li>
+    <li>What is included: ticket, transport, meals, guide, luggage, or insurance.</li>
+    <li>Recent reviews, especially for tours and seasonal activities.</li>
+  </ul>
+</section>
+{{- end }}
+

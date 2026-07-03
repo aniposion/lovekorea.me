@@ -1,7 +1,7 @@
 ---
 title: "Discovering Seoul in Hanbok: My Day of Traditions and Photos"
 date: 2025-09-09T10:26:16.295347
-draft: false
+draft: true
 categories:
   - k-travel
 cover:

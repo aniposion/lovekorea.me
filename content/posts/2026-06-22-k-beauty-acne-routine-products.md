@@ -1,15 +1,15 @@
 ---
-title: "Top 7 K-Beauty Acne Routine Products 2026: Best Salicylic Acid, Tea Tree & Cica Picks"
+title: "K-Beauty Acne Routine 2026: Best Products, Prices & Where to Buy"
 date: 2026-06-22T15:35:47.087600
 slug: "k-beauty-acne-routine-products"
-description: "Compare salicylic acid, tea tree, and cica K-beauty for acne-prone skin, with where to buy, best products, and Korea price ranges, plus routine tips."
+description: "Compare K-beauty acne routine products with salicylic acid, tea tree, and cica picks, Korea price ranges, routine tips, and where to buy."
 categories: ["k-beauty"]
 topic_pillar: "k-beauty"
 target_intent: "shopping"
 tags: ["k-beauty", "acne care", "salicylic acid", "tea tree", "cica", "olive young", "skincare", "bha"]
 cover:
   image: "images/k-beauty-acne-routine-products-cover.webp"
-  alt: "Top 7 K-Beauty Acne Routine Products 2026: Best Salicylic Acid, Tea Tree & Cica Picks"
+  alt: "K-Beauty Acne Routine 2026: Best Products, Prices & Where to Buy"
   relative: false
 monetize:
   intent: "shopping"
@@ -485,6 +485,12 @@ For a beginner, buy a gentle cleanser, cica moisturizer, and sunscreen first. Ad
 **Q: Can K-beauty acne products treat severe acne?**
 
 Cosmetics can support acne-prone skin but are not medical acne treatments. For painful cystic acne, scarring, or persistent inflammation, it is better to see a dermatologist.
+
+## Related guides
+
+- [Cica, panthenol, and madecassoside skincare](/posts/cica-panthenol-madecassoside-sensitive-skin/)
+- [Glow makeup products in Korea](/posts/korea-glow-makeup-best-products-wear-time-prices/)
+- [Cushion vs foundation in Korea](/posts/cushion-vs-foundation-korean-makeup/)
 
 ## What you can do next
 
