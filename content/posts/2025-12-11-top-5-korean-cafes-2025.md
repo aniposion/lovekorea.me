@@ -115,6 +115,7 @@ Embarking on a café tour in Korea offers not only a taste of superb coffee and 
 
 ## Related guides
 
+- [Korean cafe etiquette: ordering, seats, laptops, and tray return](/posts/2026-korean-cafe-etiquette-guide/)
 - [Korea shopping guide and where to buy](/posts/smart-shopping-korea-2025/)
 - [Olive Young skincare prices and where to buy](/posts/olive-young-popular-skincare-products-2025/)
 - [Glow makeup products in Korea](/posts/korea-glow-makeup-best-products-wear-time-prices/)
