@@ -452,6 +452,7 @@ Common causes are warm rice, too much kimchi liquid, and overmixing. Use cold ri
 
 ## Related guides
 
+- [Gochujang vs doenjang vs ssamjang: prices and where to buy](/posts/gochujang-doenjang-ssamjang-guide/)
 - [Korean convenience store food combos](/posts/korean-convenience-store-food-combos/)
 - [Busan Nampo-dong shopping and food streets](/posts/busan-nampo-dong-shopping-where-to-buy-prices/)
 - [Smart shopping in Korea](/posts/smart-shopping-korea-2025/)
