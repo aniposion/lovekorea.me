@@ -894,6 +894,8 @@ Korean texting slang is not about memorizing random consonants—it is about und
 
 With a little practice, messages like **ㅋㅋ ㅠㅠ ㅇㅋ ㄱㄱ ㅈㅅ** will stop looking like a code and start feeling like a natural part of modern Korean communication.
 
+Taking your Korean practice offline during a trip? Save these [25 Korean subway and bus phrases](/posts/korean-subway-bus-phrases/) for polite questions about platforms, transfers, stops, and transit cards. For more context, compare casual chat with our [K-pop fan Korean expressions](/posts/kpop-fan-korean-expressions/) and review the social cues in the [Korean cafe etiquette guide](/posts/2026-korean-cafe-etiquette-guide/).
+
 ## FAQ
 
 **Q: Can I use ㅇㅋ, ㄱㄱ, and ㅈㅅ with teachers, bosses, or older people?**
