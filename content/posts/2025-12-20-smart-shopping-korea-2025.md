@@ -36,7 +36,7 @@ If you're thinking about **한국에서 저렴하게 쇼핑하는 방법**, chec
 
 
 
-Shopping in Korea is easiest when each district has a clear purpose: Myeongdong for K-beauty and tourist tax refunds, Hongdae and Seongsu for trend-led fashion, Dongdaemun for late-night wholesale energy, department stores for premium brands, and online platforms for repeat purchases. This 2026 guide focuses on where to buy, how much to budget, and how to compare discounts without turning a shopping day into guesswork.
+Shopping in Korea is easiest when each district has a clear purpose: Myeongdong for K-beauty and tourist tax refunds, Hongdae and Seongsu for trend-led fashion, Dongdaemun for late-night wholesale energy, department stores for premium brands, and online platforms for repeat purchases. This 2026 guide focuses on where to buy, how much to budget, and how to compare discounts without turning a shopping day into guesswork. Before you pay, use our [Korea tourist tax refund guide](/posts/korea-tax-refund-shopping-guide/) to check the current receipt threshold, refund-method limits, and airport steps.
 
 ## Introduction to Shopping in Korea
 
