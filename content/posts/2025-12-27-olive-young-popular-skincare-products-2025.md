@@ -417,6 +417,7 @@ Match by concern: calming (cica) for redness/sensitivity, ceramide for dryness/b
 - [Cica, panthenol, and madecassoside skincare](/posts/cica-panthenol-madecassoside-sensitive-skin/)
 - [K-Beauty acne routine products](/posts/k-beauty-acne-routine-products/)
 - [Cushion vs foundation in Korea](/posts/cushion-vs-foundation-korean-makeup/)
+- [Seoul personal color analysis prices and booking tips](/posts/seoul-personal-color-analysis-guide/)
 
 ## What you can do next
 
