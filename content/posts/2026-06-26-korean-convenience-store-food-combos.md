@@ -77,6 +77,8 @@ For beginners, tuna mayo samgak gimbap is usually the easiest pairing because it
 
 One small tip: check whether the ramen is soup-style or stir-fry-style. Soup ramen gives you broth and feels comforting. Stir-fry-style ramen is often richer, saltier, and more sauce-heavy, so it pairs better with a mild rice ball and a drink.
 
+If the noodle wall feels harder than the pairing, use the [Korean ramyeon guide](/posts/korean-ramyeon-guide/) to compare soup, dry, mild, spicy, bag, and cup formats before choosing.
+
 ## Combo 2: Spicy Cup Ramen + String Cheese
 
 String cheese is a convenience store upgrade that makes spicy ramen feel more like a Korean snack hack than a normal instant meal.
