@@ -47,6 +47,8 @@ Traditional cultural experiences such as wearing hanbok in historic palaces, joi
 
 For first-time visitors, the strongest combinations are hanbok plus Gyeongbokgung, Bukchon tea houses plus a palace walk, Jeonju hanji or craft workshops, and a jjimjilbang visit after a busy travel day. Check opening hours, locker rules, photography policies, and whether English guidance is included before booking.
 
+If the sauna experience is your priority, use our dedicated [Korean jjimjilbang guide](/posts/korean-jjimjilbang-guide/) for the current entry sequence, official 2026 price examples, bath etiquette, packing list, and wristband payment rules.
+
 ## Where to Book 한국 방문 시 추천 전통 문화 체험 Tours and Tickets
 
 ![Where to Book 한국 방문 시 추천 전통 문화 체험 Tours and Tickets](/images/korean-traditional-cultural-experiences-guide-h2-2.webp)
