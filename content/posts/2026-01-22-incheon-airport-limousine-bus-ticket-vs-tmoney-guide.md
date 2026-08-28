@@ -341,6 +341,7 @@ Not keeping enough balance: if your balance is too low, you may not pass gates o
 
 ## Related guides
 
+- [AREX Express vs All-Stop Train from Incheon Airport](/posts/incheon-airport-arex-guide/)
 - [Korea eSIM vs SIM card airport pickup](/posts/korea-esim-sim-incheon-airport-price-guide/)
 - [Seoul hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
 - [KORAIL Pass prices and booking tips](/posts/korea-ktx-korail-pass-prices-2026/)
