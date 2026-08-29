@@ -80,7 +80,7 @@ You can point to a menu item and use one of these short phrases:
 
 Customization varies. Some large cafes offer several sizes, syrups, milk alternatives, and extra shots. A small specialty cafe may serve one carefully designed recipe and make few changes. Asking politely is fine; insisting after staff says a change is unavailable is not.
 
-For allergies, do more than memorize one ingredient word. Show a clearly written allergy card in Korean, name the ingredients you must avoid, and ask about cross-contact if that matters medically. Display-case desserts may share equipment or preparation space even when the visible topping looks safe. When staff cannot confirm, choose something else.
+For allergies, do more than memorize one ingredient word. Show a clearly written allergy card in Korean, name the ingredients you must avoid, and ask about cross-contact if that matters medically. Our [Korean restaurant phrase guide](/posts/korean-restaurant-phrases-guide/) gives reusable Korean questions for ingredients and shared equipment. Display-case desserts may share equipment or preparation space even when the visible topping looks safe. When staff cannot confirm, choose something else.
 
 Payment also varies by business. Cards are widely used, but a particular foreign card or mobile wallet may not work with every terminal. Carry a second payment option and keep the line moving if one method fails. At a kiosk, first look for a language button; if the screen remains difficult, it is reasonable to ask staff for help.
 
