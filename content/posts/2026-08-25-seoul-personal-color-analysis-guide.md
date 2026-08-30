@@ -72,6 +72,8 @@ A complete session may continue with several of these steps:
 
 Before leaving, ask the consultant to explain the result without seasonal shorthand. You should understand at least three practical variables—for example, **cool + muted + medium depth**—and receive examples of flexible colors, not only a single named season. Photograph any physical drapes or cards only with permission, and confirm how and when digital material will arrive.
 
+If hair color is one of your goals, take those variables to the salon instead of sharing only a season label. Our [Seoul hair salon booking guide](/posts/seoul-hair-salon-guide/) explains how to pair a color reference with your chemical history, maintenance routine, and an all-in price check.
+
 ## Session Types, Prices, and What Is Worth Paying For
 
 ![Traveler and consultant comparing the contents of a personal color package](/images/seoul-personal-color-analysis-guide-h2-3.webp)
