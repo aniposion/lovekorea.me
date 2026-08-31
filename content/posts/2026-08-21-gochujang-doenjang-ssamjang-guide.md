@@ -40,7 +40,7 @@ This guide focuses on shopping decisions rather than insisting on one universal 
 
 A Korean supermarket is usually the best first stop. It is more likely to stock all three pastes in several sizes, heat levels, and ingredient styles. The selection also makes it easier to compare the price per ounce or 100 grams instead of guessing from the tub shape.
 
-Look near soy sauce, sesame oil, soup bases, and other shelf-stable seasonings. Refrigerated artisan pastes may be in a different area. If you cannot find ssamjang, check the Korean BBQ or dipping-sauce section as well as the fermented-paste shelf.
+Look near soy sauce, soup bases, and other shelf-stable seasonings. The neighboring oil shelf is also where you can use our [Korean sesame oil vs perilla oil guide](/posts/korean-sesame-oil-vs-perilla-oil/) to choose the right aromatic finish. Refrigerated artisan pastes may be in a different area. If you cannot find ssamjang, check the Korean BBQ or dipping-sauce section as well as the fermented-paste shelf.
 
 ### Asian grocery stores
 
