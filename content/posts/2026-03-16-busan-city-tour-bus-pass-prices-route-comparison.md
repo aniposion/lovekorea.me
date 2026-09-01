@@ -345,6 +345,7 @@ Not confirming the route includes their must-see attraction, misjudging time at 
 
 ## Related guides
 
+- [Seoul to Busan: KTX vs express bus cost and time](/posts/seoul-busan-ktx-vs-express-bus/)
 - [Busan Songdo Cable Car tickets and prices](/posts/busan-songdo-cable-car-tickets-prices/)
 - [Haeundae yacht tour prices and booking tips](/posts/haeundae-busan-yacht-tour-how-to-book-prices/)
 - [Busan Gamcheon Culture Village tours](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/)
