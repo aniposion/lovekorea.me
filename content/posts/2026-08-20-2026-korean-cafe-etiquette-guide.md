@@ -216,4 +216,6 @@ Look for an English menu or kiosk language option, point to a photo, or use a tr
 
 ## What you can do next
 
+If your next invitation is to someone's home, our [Korean gift etiquette guide](/posts/korean-gift-etiquette-guide/) explains what to bring, how housewarming gifts differ, and how to present a thoughtful thank-you.
+
 Pick one useful action now: save the Korean phrases in this guide, add a backup cafe to your map, or screenshot the section about seats and tray return. A small amount of preparation makes your first Korean cafe visit feel natural very quickly.
