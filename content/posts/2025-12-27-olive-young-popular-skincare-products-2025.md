@@ -414,6 +414,7 @@ Match by concern: calming (cica) for redness/sensitivity, ceramide for dryness/b
 
 ## Related guides
 
+- [Korean sheet mask prices, packs, and where to buy](/posts/korean-sheet-mask-guide/)
 - [Cica, panthenol, and madecassoside skincare](/posts/cica-panthenol-madecassoside-sensitive-skin/)
 - [K-Beauty acne routine products](/posts/k-beauty-acne-routine-products/)
 - [Cushion vs foundation in Korea](/posts/cushion-vs-foundation-korean-makeup/)
