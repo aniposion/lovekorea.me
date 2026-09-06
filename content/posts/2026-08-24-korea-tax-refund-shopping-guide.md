@@ -47,7 +47,7 @@ Do not confuse Korea's refund limit with the customs allowance in the country wh
 
 ![Traveler presenting a passport at a Korean store checkout for an immediate tax refund](/images/korea-tax-refund-shopping-guide-h2-1.webp)
 
-The simplest method is the one the store can correctly issue for your purchase. You cannot turn every ordinary receipt into a refund later, so ask **“Tax refund available?”** before payment. If the store offers immediate refund and your transaction fits the limits, that usually requires the least follow-up. Larger purchases or stores using a general-refund operator may send you to a downtown counter, mobile process, mailbox, or departure airport.
+The simplest method is the one the store can correctly issue for your purchase. You cannot turn every ordinary receipt into a refund later, so ask **“Tax refund available?”** before payment. Save our [Korean shopping phrase guide](/posts/korean-shopping-phrases-guide/) if you want the exact Korean for tax refunds, receipts, cards, sizes, and exchanges. If the store offers immediate refund and your transaction fits the limits, that usually requires the least follow-up. Larger purchases or stores using a general-refund operator may send you to a downtown counter, mobile process, mailbox, or departure airport.
 
 | Method | When you receive the benefit | What you need | Important limit or follow-up |
 |---|---|---|---|
