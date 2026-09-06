@@ -86,6 +86,8 @@ The current official Express timetable checked for this guide shows airport-to-S
 
 The Express is the calmer choice with a large suitcase. It provides assigned seating and dedicated luggage storage, so you do not need to stand beside a bag through a commuter carriage. Keep valuables, travel documents, medication, and electronics in your personal item rather than leaving them out of sight.
 
+If you have hours between checkout and your flight, compare subway lockers, staffed counters, and same-day airport delivery in our [Seoul luggage storage guide](/posts/seoul-luggage-storage-guide/) before choosing a rail departure.
+
 The All-Stop Train is still practical with ordinary luggage, but it is public transit. At commuter peaks, you may stand, move bags away from doors, and make room for other passengers. A carry-on roller is usually simpler than multiple full-size cases. If your party has children, a stroller, or several heavy bags, compare the reserved Express ride with a direct airport bus rather than looking only at fare.
 
 On either service:
