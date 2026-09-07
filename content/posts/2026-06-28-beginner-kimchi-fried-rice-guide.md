@@ -78,7 +78,7 @@ If your rice is very hard from the fridge, break it apart with a spoon before ad
 
 ### Kimchi
 
-Use **ripe or sour kimchi** if possible. In Korean, this is often called **shin kimchi**, meaning sour, well-fermented kimchi. Fresh kimchi can work, but it may taste flatter and less “kimchi fried rice-like.”
+Use **ripe or sour kimchi** if possible. In Korean, this is often called **shin kimchi**, meaning sour, well-fermented kimchi. Fresh kimchi can work, but it may taste flatter and less “kimchi fried rice-like.” If you are choosing between cabbage, radish, water, and other styles, start with the [Korean kimchi types guide](/posts/korean-kimchi-types-guide/) before deciding what belongs in the pan.
 
 Before cooking, chop the kimchi into small pieces. This helps it mix evenly with the rice. If the kimchi is very wet, lightly squeeze out excess kimchi juice. Do not throw away all the juice, though—a spoonful can add color and depth later.
 
