@@ -345,6 +345,7 @@ Policies vary by ticket type and booking channel. Check the official site’s la
 
 ## Related guides
 
+- [Seoul City Tour Bus vs subway: cost, routes, and best choice](/posts/seoul-city-tour-bus-vs-subway/)
 - [Seoul night view tour tickets and prices](/posts/seoul-night-view-tours-booking-top-10/)
 - [Seoul Sky ticket prices by time slot](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/)
 - [Han River cruise tickets and booking tips](/posts/han-river-cruise-seoul-prices-tickets-how-to-book/)
