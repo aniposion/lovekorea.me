@@ -305,7 +305,7 @@ Use a lightweight cica, panthenol, or gel-cream moisturizer. Even oily acne-pron
 
 **Step 4: Sunscreen**
 
-Choose an oil-free or non-comedogenic sunscreen when possible. Sunscreen matters because acne marks can look darker and last longer with sun exposure. If sunscreen breaks you out, try different textures: gel, fluid, mild mineral, or sebum-control formulas.
+Choose an oil-free or non-comedogenic sunscreen when possible. Sunscreen matters because acne marks can look darker and last longer with sun exposure. If sunscreen breaks you out, try different textures: gel, fluid, mild mineral, or sebum-control formulas. Our [Korean sunscreen guide](/posts/korean-sunscreen-guide/) explains SPF, PA, filter types, formats, and current shopping comparisons in more detail.
 
 ### Night routine
 
