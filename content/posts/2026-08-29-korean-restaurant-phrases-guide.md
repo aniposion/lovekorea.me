@@ -146,7 +146,7 @@ Ask **영수증 주세요** if you need a receipt. For takeout, **포장해 주�
 
 ## Restaurant Manners That Make the Phrases Work
 
-Polite Korean works best when your behavior supplies the rest of the message. Keep these habits simple:
+Polite Korean works best when your behavior supplies the rest of the message. Our [Korean restaurant etiquette guide](/posts/korean-restaurant-etiquette-guide/) explains banchan, shared dishes, barbecue tools, payment, and tipping in more detail. Keep these habits simple:
 
 - **Wait to be seated when the entrance has a queue system.** Some shops use a kiosk, a written list, or a host. Do not take an empty table until you understand the process.
 - **Use the call bell once.** It may sound loud. Pressing repeatedly does not make service faster.
