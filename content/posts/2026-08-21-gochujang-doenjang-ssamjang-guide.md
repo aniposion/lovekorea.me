@@ -86,7 +86,7 @@ The best purchase depends more on how you cook than on a colorful lid. Use these
 
 Choose a medium-heat **tub paste** with a reasonably short, understandable ingredient list. A smaller tub lets you test its sweetness and heat before committing. If the package uses a Korean heat scale or a Gochujang Hot-taste Unit indication, treat that as product-specific guidance; not every imported package displays the same system.
 
-Use it for bibimbap sauce, tteokbokki, spicy marinades, bibim noodles, soups, and small adjustments to stir-fries. Start with one teaspoon or tablespoon, taste, and build. Gochujang contributes salt, sweetness, and thickness as well as heat.
+Use it for bibimbap sauce, tteokbokki, spicy marinades, bibim noodles, soups, and small adjustments to stir-fries. If tteokbokki is your next dish, our [easy tteokbokki sauce recipe](/posts/tteokbokki-sauce-recipe/) gives a measured broth-to-gochujang ratio and troubleshooting steps. Start with one teaspoon or tablespoon, taste, and build. Gochujang contributes salt, sweetness, and thickness as well as heat.
 
 ### Best doenjang for soup and stew
 
