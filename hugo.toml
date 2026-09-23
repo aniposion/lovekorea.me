@@ -61,7 +61,7 @@ defaultContentLanguage = "en"
   [params.ads]
     enabled = false
     provider = "adsense"
-    publisherId = ""
+    publisherId = "ca-pub-5877325724611733"
     testMode = true
 
     [params.ads.slots]
