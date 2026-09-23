@@ -32,8 +32,12 @@
 <script defer src="/js/affiliate-tracking.js"></script>
 
 {{- $ads := site.Params.ads | default dict -}}
-{{- if and ($ads.enabled | default false) (eq ($ads.provider | default "adsense") "adsense") ($ads.publisherId | default "") }}
+{{- if and (eq ($ads.provider | default "adsense") "adsense") ($ads.publisherId | default "") }}
+{{- /* Keep ownership verification available while ads are disabled during review. */}}
+<meta name="google-adsense-account" content="{{ $ads.publisherId }}">
+{{- if ($ads.enabled | default false) }}
 <script async crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ $ads.publisherId }}"></script>
+{{- end }}
 {{- end }}
 
 {{- /* Meta */}}

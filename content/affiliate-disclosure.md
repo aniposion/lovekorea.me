@@ -1,7 +1,8 @@
 ---
 title: "Affiliate Disclosure"
-description: "Affiliate Disclosure for LoveKorea, including affiliate links, sponsored links, Amazon Associates status, and editorial independence."
+description: "How LoveKorea identifies affiliate links, sponsored content, and advertising, including the current status of these features."
 date: 2026-07-02
+lastmod: 2026-09-23
 draft: false
 showToc: true
 disableComments: true
@@ -9,17 +10,15 @@ disableRelated: true
 disableShare: true
 ---
 
-# Affiliate Disclosure
+Last updated: September 23, 2026
 
-Last updated: July 2, 2026
+LoveKorea is preparing to add advertising and affiliate recommendations. No affiliate program is active as of the update date above. Ordinary links to booking platforms, retailers, and official sources do not by themselves mean that LoveKorea receives a commission.
 
-LoveKorea may contain affiliate links, sponsored links, booking links, product links, or other monetized recommendations.
-
-If you click one of these links and make a purchase or booking, LoveKorea may earn a commission at no extra cost to you.
+When an affiliate link is used, a statement on the page will identify that relationship. If you follow that link and make an eligible purchase or booking, LoveKorea may earn a commission. Check the provider's current price and terms before buying.
 
 ## What Affiliate Links Mean
 
-Affiliate links help support LoveKorea by allowing the site to earn referral revenue when readers use certain links.
+Affiliate programs allow a publisher to earn referral revenue from eligible purchases or bookings made through tracked links.
 
 This can include links to:
 
@@ -47,17 +46,9 @@ Affiliate links should support useful content, not replace it.
 
 If a page is sponsored or created in partnership with a brand, platform, or advertiser, LoveKorea should clearly disclose that relationship on the page.
 
-## Amazon Associates
-
-LoveKorea may participate in the Amazon Associates Program in the future. When active Amazon affiliate links appear, the site will use the required disclosure:
-
-> As an Amazon Associate I earn from qualifying purchases.
-
-Amazon product slots should remain inactive until an approved Associates tag is configured.
-
 ## Advertising
 
-LoveKorea may display advertising through Google AdSense or other ad networks. Ads are separate from editorial content and should be labeled or visually separated where appropriate.
+Google AdSense is not yet approved, and Google ads are not currently displayed. Ads, when displayed, should be labeled or visually separated from editorial content. See the [Privacy Policy](/privacy/) for advertising cookie information and user choices.
 
 ## Reader Choice
 

@@ -2,6 +2,7 @@
 title: "Contact"
 description: "Contact LoveKorea for corrections, editorial questions, privacy requests, affiliate questions, or advertising inquiries."
 date: 2026-07-02
+lastmod: 2026-09-23
 draft: false
 showToc: true
 disableComments: true
@@ -9,15 +10,13 @@ disableRelated: true
 disableShare: true
 ---
 
-# Contact
-
 LoveKorea welcomes correction requests, editorial questions, privacy requests, and monetization inquiries.
 
 ## Best Contact Method
 
-For now, the most reliable contact path is GitHub Issues:
+Email [admin@yoonisoft.com](mailto:admin@yoonisoft.com).
 
-https://github.com/aniposion/lovekorea.me/issues
+Use email for privacy requests and other information that should not be posted publicly.
 
 Use this for:
 
@@ -50,8 +49,8 @@ LoveKorea keeps editorial content separate from paid placements. Paid or affilia
 
 ## Privacy Requests
 
-For privacy-related questions, see the [Privacy Policy](/privacy/) and include the page URL or comment thread involved in your request.
+For privacy-related questions, email [admin@yoonisoft.com](mailto:admin@yoonisoft.com). Include the page URL or comment thread involved and describe the request. See the [Privacy Policy](/privacy/) for information about analytics, comments, and advertising cookies.
 
 ## Please Do Not Send
 
-Please do not send confidential documents, passwords, private account details, payment card information, or sensitive personal data through public issue threads.
+Please do not send passwords, payment card information, or unnecessary sensitive documents. Do not post personal information in public comments or GitHub issue threads.

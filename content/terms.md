@@ -2,6 +2,7 @@
 title: "Terms of Use"
 description: "Terms of Use for LoveKorea, including content limitations, affiliate links, advertising, comments, and external links."
 date: 2026-07-02
+lastmod: 2026-09-23
 draft: false
 showToc: true
 disableComments: true
@@ -9,9 +10,7 @@ disableRelated: true
 disableShare: true
 ---
 
-# Terms of Use
-
-Last updated: July 2, 2026
+Last updated: September 23, 2026
 
 By using LoveKorea (`lovekorea.me`), you agree to these Terms of Use. If you do not agree, please do not use the site.
 
@@ -42,7 +41,7 @@ We are not responsible for third-party content, prices, availability, policies, 
 
 ## Affiliate Links and Advertising
 
-Some pages may contain affiliate links, sponsored links, or advertising. LoveKorea may earn a commission or advertising revenue when users click links, book, buy, or view ads.
+LoveKorea is preparing to add advertising and affiliate links. When those features are active, the site may receive advertising revenue or a commission on an eligible purchase or booking. Advertisements and sponsored content should be identifiable to readers.
 
 Affiliate relationships do not guarantee that a product, service, tour, hotel, or platform is right for every reader. Always compare details and choose what fits your own needs.
 
@@ -64,9 +63,9 @@ Comments may be moderated, hidden, or removed.
 
 ## Intellectual Property
 
-Unless otherwise noted, LoveKorea content, layout, and original images are protected by copyright and other applicable laws.
+Articles, images, and software may be subject to different rights and licenses. Third-party material remains subject to the rights and terms of its respective owners, including any license stated alongside the material.
 
-You may link to LoveKorea pages and quote short excerpts with proper attribution. Do not copy full articles, images, or site content for republication without permission.
+You may link to LoveKorea pages and quote short excerpts with attribution. For requests to republish an article or image, contact us and identify the material you want to use.
 
 ## No Warranties
 
@@ -82,4 +81,4 @@ These Terms may be updated as the site changes. The updated date at the top of t
 
 ## Contact
 
-Questions about these Terms can be sent through the [Contact page](/contact/).
+Questions about these Terms can be sent to [admin@yoonisoft.com](mailto:admin@yoonisoft.com). See the [Contact page](/contact/) for correction and privacy requests.
