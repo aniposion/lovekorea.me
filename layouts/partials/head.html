@@ -4,6 +4,7 @@
 {{- $isProduction := or hugo.IsProduction (eq site.Params.env "production") -}}
 {{- $isTagArchive := hasPrefix .RelPermalink "/tags/" -}}
 {{- $isSearchPage := or (eq .Layout "search") (eq .RelPermalink "/search/") -}}
+{{- $isPrivacyPage := eq .RelPermalink "/privacy/" -}}
 {{- $robotsNoIndex := or (.Params.robotsNoIndex | default false) $isTagArchive $isSearchPage -}}
 {{- if not $isProduction }}
 <meta name="robots" content="noindex, nofollow">
@@ -22,6 +23,8 @@
 {{- end -}}
 <title>{{ replace ($pageTitle | plainify | htmlUnescape) "&" "&amp;" | safeHTML }}</title>
 
+{{- /* Keep the disclosure page readable without analytics, ad or consent-message tags. */}}
+{{- if not $isPrivacyPage }}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2RHGK56598"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -30,12 +33,13 @@
   gtag('config', 'G-2RHGK56598');
 </script>
 <script defer src="/js/affiliate-tracking.js"></script>
+{{- end }}
 
 {{- $ads := site.Params.ads | default dict -}}
 {{- if and (eq ($ads.provider | default "adsense") "adsense") ($ads.publisherId | default "") }}
 {{- /* Keep ownership verification available while ads are disabled during review. */}}
 <meta name="google-adsense-account" content="{{ $ads.publisherId }}">
-{{- if ($ads.enabled | default false) }}
+{{- if and ($ads.enabled | default false) (not $isPrivacyPage) }}
 <script async crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ $ads.publisherId }}"></script>
 {{- end }}
 {{- end }}
