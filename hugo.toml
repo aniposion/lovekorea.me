@@ -55,6 +55,9 @@ defaultContentLanguage = "en"
   [params.schema]
     publisherType = "Organization"
 
+  [params.analytics.google]
+    SiteVerificationTag = "nsOTytNMmgCnx6w4W1msMZRoGpoxgJXne1ezQbnkKFE"
+
   [params.ads]
     enabled = false
     provider = "adsense"
