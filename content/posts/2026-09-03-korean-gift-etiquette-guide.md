@@ -1,6 +1,7 @@
 ---
 title: "Korean Gift Etiquette Guide 2026: What to Bring & Avoid"
 date: 2026-09-03T08:00:00-05:00
+lastmod: 2026-09-23
 slug: "korean-gift-etiquette-guide"
 description: "A practical Korean gift etiquette guide with tips on home visits, housewarming presents, wrapping, two-handed giving, and common mistakes to avoid."
 categories: ["k-lifestyle"]
@@ -110,11 +111,21 @@ Choose a shopping method that fits the time and information you have:
 
 For that last option, KTO's March 2026 gift guide lists **MU:DS at the National Museum of Korea** and **K-Heritage stores at cultural landmarks**. It includes practical textiles and small decorative pieces among its examples. These are possibilities to browse, not guaranteed stock recommendations. Check the shop's own current opening information before making a special trip.
 
-**For readers shopping in the U.S.:** LoveKorea's owner also runs [Obang House, a Korean zodiac guardian collection](https://obanghouse.com/collections/korean-bujeok?utm_source=lovekorea&utm_medium=referral&utm_campaign=first_sale_sep2026&utm_content=gift_guide). Its made-to-order yellow-hanji paper art can be a personal birthday or new-beginning keepsake when you know the recipient's sign and taste. This is our own shop, not a standard gift for a Korean home visit. Check the store for current price and delivery details; the artwork makes no promise of luck or protection.
-
 If you are traveling across the city first, choose something that tolerates the journey. Ask the seller whether a chilled dessert will remain suitable until you arrive. A delicate box balanced on top of luggage is an avoidable complication. Plan the purchase near the end of your route, and tell the host if something needs attention immediately.
 
 For a broader view of shopping areas, see our [Korea shopping guide](/posts/smart-shopping-korea-2025/). If you are considering cooking ingredients for a friend who enjoys Korean food, our [sesame oil versus perilla oil guide](/posts/korean-sesame-oil-vs-perilla-oil/) explains why those bottles serve different tastes and uses. Buy ingredients because the recipient wants them, rather than treating every Korean food product as an interchangeable souvenir.
+
+## From Our Shop: A Korean Zodiac Gift for U.S. Readers
+
+**Ownership disclosure:** LoveKorea and Obang House have the same owner. Purchases from Obang House support our business.
+
+For a friend in the U.S. who enjoys Korean zodiac art, a small keepsake can suit a birthday, graduation, or new beginning. Obang House offers 12 contemporary guardian designs printed on yellow hanji paper. Each piece is hand-folded and comes with a yellow envelope and a clear protective sleeve. Choose an animal or story that means something to the recipient, and add your own handwritten message.
+
+**Cost and timing, checked September 23, 2026:** The current price is $12 per piece, with $6.90 tracked U.S. shipping for a single-piece order: **$18.90 before tax**. Allow **3–5 business days for production before shipping**; transit time is additional. Confirm the current total and delivery terms at the store before ordering for a dated occasion.
+
+The designs are symbolic, decorative art; no luck, protection, or other outcome is promised. For a Korean home visit, follow the host's preferences and the practical gift advice above.
+
+[See the 12 zodiac designs at our Obang House shop →](https://obanghouse.com/collections/korean-bujeok?utm_source=lovekorea&utm_medium=referral&utm_campaign=first_sale_sep2026&utm_content=gift_guide)
 
 ## Common Mistakes to Avoid
 

@@ -169,6 +169,10 @@ body.dark .lk-curation-bar {
   justify-content: center;
 }
 
+.lk-header-shop__compact {
+  display: none;
+}
+
 .lk-kicker {
   margin: 0 0 10px;
   color: var(--lk-red);
@@ -951,10 +955,18 @@ body.dark .lk-curation-bar {
   }
 
   .lk-header-inner {
+    grid-template-columns: 1fr auto;
+    grid-template-areas: "brand shop" "nav nav";
     padding: 12px 16px;
   }
 
+  .lk-site-brand {
+    grid-area: brand;
+    justify-content: flex-start;
+  }
+
   .lk-main-nav {
+    grid-area: nav;
     width: 100%;
   }
 
@@ -972,8 +984,22 @@ body.dark .lk-curation-bar {
   }
 
   .lk-header-actions {
+    grid-area: shop;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
+  }
+
+  .lk-header-shop {
+    padding: 8px;
+    font-size: 0.86rem;
+  }
+
+  .lk-header-shop__full {
+    display: none;
+  }
+
+  .lk-header-shop__compact {
+    display: inline;
   }
 
   .lk-shop-hero {

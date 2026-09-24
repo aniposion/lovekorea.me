@@ -32,7 +32,7 @@
   gtag('js', new Date()); 
   gtag('config', 'G-2RHGK56598');
 </script>
-<script defer src="/js/affiliate-tracking.js"></script>
+<script defer src="/js/affiliate-tracking.js?v={{ readFile "static/js/affiliate-tracking.js" | sha256 }}"></script>
 {{- end }}
 
 {{- $ads := site.Params.ads | default dict -}}

@@ -16,6 +16,12 @@ LoveKorea is preparing to add advertising and affiliate recommendations. No affi
 
 When an affiliate link is used, a statement on the page will identify that relationship. If you follow that link and make an eligible purchase or booking, LoveKorea may earn a commission. Check the provider's current price and terms before buying.
 
+## Our Own Shop
+
+LoveKorea and Obang House have the same owner. Links labeled "our shop" lead to Obang House, where purchases support our business directly. We identify this relationship beside product recommendations. The store handles orders, payment, shipping, and returns under its own published terms.
+
+We use tagged links to understand whether a reader visits the shop from the header or a particular guide. A shop-link click is recorded separately from affiliate clicks and does not mean a purchase has occurred.
+
 ## What Affiliate Links Mean
 
 Affiliate programs allow a publisher to earn referral revenue from eligible purchases or bookings made through tracked links.

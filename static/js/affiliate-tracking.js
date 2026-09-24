@@ -1,5 +1,10 @@
 /**
- * Affiliate Click Tracking for GA4
+ * Owned-Shop and Affiliate Click Tracking for GA4
+ *
+ * Sends 'owned_shop_click' for HTTPS Obang House links tagged with
+ * utm_source=lovekorea. Parameters: placement (utm_content), campaign
+ * (utm_campaign), shop_name, page_path, and link_url.
+ * Owned-shop clicks are kept separate from affiliate clicks.
  * 
  * Sends 'affiliate_click' event with detailed parameters:
  * - slot: Offer slot key (e.g., KOREA_TOUR_DEALS)
@@ -23,6 +28,46 @@
     return (typeof window.gtag === 'function') ? window.gtag : null;
   }
 
+  function getOwnedShopUrl(anchor) {
+    if (!anchor) return null;
+
+    var url;
+    try {
+      url = new URL(anchor.getAttribute('href') || '', window.location.href);
+    } catch (e) {
+      return null;
+    }
+
+    if (url.protocol !== 'https:' ||
+        (url.hostname !== 'obanghouse.com' && url.hostname !== 'www.obanghouse.com') ||
+        url.searchParams.get('utm_source') !== 'lovekorea') {
+      return null;
+    }
+
+    return url;
+  }
+
+  function handleClick(e) {
+    var anchor = e.target.closest ? e.target.closest('a[href]') : null;
+    var ownedShopUrl = getOwnedShopUrl(anchor);
+
+    if (!ownedShopUrl) {
+      handleAffiliateClick(e);
+      return;
+    }
+
+    var gtag = getGtag();
+    if (!gtag) return;
+
+    gtag('event', 'owned_shop_click', {
+      placement: ownedShopUrl.searchParams.get('utm_content') || '',
+      campaign: ownedShopUrl.searchParams.get('utm_campaign') || '',
+      shop_name: 'obang_house',
+      page_path: window.location.pathname,
+      link_url: ownedShopUrl.href
+    });
+  }
+
   // Extract category from page path (e.g., /posts/k-travel/... → k-travel)
   function extractCategory(path) {
     if (!path) return 'unknown';
@@ -32,16 +77,13 @@
     return 'other';
   }
 
-  // Main click handler
+  // Existing affiliate events retain their parameters and opt-in attribute.
   function handleAffiliateClick(e) {
     var a = e.target.closest ? e.target.closest('a[data-affiliate="1"]') : null;
     if (!a) return;
 
     var gtag = getGtag();
-    if (!gtag) {
-      console.warn('[Affiliate Tracking] gtag not available');
-      return;
-    }
+    if (!gtag) return;
 
     // Extract all tracking data
     var slot = a.getAttribute('data-slot') || 'unknown';
@@ -88,11 +130,11 @@
   }
 
   // Attach event listener (capture phase for reliability)
-  document.addEventListener('click', handleAffiliateClick, true);
+  document.addEventListener('click', handleClick, true);
 
   // Expose for debugging
   window.__affiliateTracking = {
-    version: '2.0.0',
+    version: '2.1.0',
     test: function() {
       console.log('[Affiliate Tracking] Test mode - gtag available:', !!getGtag());
     }
