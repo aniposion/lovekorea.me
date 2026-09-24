@@ -2,7 +2,7 @@
 title: "Affiliate Disclosure"
 description: "How LoveKorea identifies affiliate links, sponsored content, and advertising, including the current status of these features."
 date: 2026-07-02
-lastmod: 2026-09-23
+lastmod: 2026-09-24
 draft: false
 showToc: true
 disableComments: true
@@ -10,7 +10,7 @@ disableRelated: true
 disableShare: true
 ---
 
-Last updated: September 23, 2026
+Last updated: September 24, 2026
 
 LoveKorea is preparing to add advertising and affiliate recommendations. No affiliate program is active as of the update date above. Ordinary links to booking platforms, retailers, and official sources do not by themselves mean that LoveKorea receives a commission.
 
@@ -20,7 +20,7 @@ When an affiliate link is used, a statement on the page will identify that relat
 
 LoveKorea and Obang House have the same owner. Links labeled "our shop" lead to Obang House, where purchases support our business directly. We identify this relationship beside product recommendations. The store handles orders, payment, shipping, and returns under its own published terms.
 
-We use tagged links to understand whether a reader visits the shop from the header or a particular guide. A shop-link click is recorded separately from affiliate clicks and does not mean a purchase has occurred.
+We use tagged links to understand whether a reader visits the shop from a relevant guide. A shop-link click is recorded separately from affiliate clicks and does not mean a purchase has occurred.
 
 ## What Affiliate Links Mean
 
