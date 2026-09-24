@@ -23,3 +23,9 @@
   for = "/**/*.js"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
+
+[[redirects]]
+  from = "/posts/songdo-marine-cable-car-busan-tickets-prices/"
+  to = "/posts/busan-songdo-cable-car-tickets-prices/"
+  status = 301
+  force = true
