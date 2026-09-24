@@ -12,13 +12,13 @@
 {{ $hasAmazon := false }}
 {{ $hasOther := false }}
 
-{{/* Check for active slots only. */}}
+{{/* A visible direct booking link does not make an affiliate program active. */}}
 {{ range $key, $slot := $slots }}
   {{ $active := true }}
   {{ if isset $slot "active" }}
     {{ $active = $slot.active }}
   {{ end }}
-  {{ if $active }}
+  {{ if and $active (eq $slot.affiliate true) }}
     {{ if hasPrefix $key "AMZ_" }}
       {{ $hasAmazon = true }}
     {{ else }}

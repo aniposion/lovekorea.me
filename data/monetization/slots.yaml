@@ -6,12 +6,15 @@
 # Compliance notes:
 # - Amazon links must be direct amazon.com URLs. Do not route them through /go/.
 # - Keep Amazon slots inactive until the Associates account and tracking tag are ready.
+# - active controls whether a slot renders; affiliate controls commission disclosure and event type.
+# - Klook and Booking.com URLs below are direct, untracked links until a program is approved.
 # - External affiliate links render with rel="nofollow sponsored noopener".
 # =============================================================================
 
 # Tour and activity deals
 KOREA_TOUR_DEALS:
   active: true
+  affiliate: false
   provider: klook
   title: "Korea Tours & Day Trips"
   subtitle: "Compare popular Korea tours, passes, and day trips."
@@ -21,6 +24,7 @@ KOREA_TOUR_DEALS:
 
 KOREA_DMZ_TOUR:
   active: true
+  affiliate: false
   provider: klook
   title: "DMZ & JSA Tours"
   subtitle: "Book ahead because weekend dates can sell out."
@@ -29,6 +33,7 @@ KOREA_DMZ_TOUR:
 
 KOREA_PALACE_TOUR:
   active: true
+  affiliate: false
   provider: klook
   title: "Seoul Palace Tours"
   subtitle: "Gyeongbokgung, Changdeokgung, hanbok, and guided history walks."
@@ -37,6 +42,7 @@ KOREA_PALACE_TOUR:
 
 KOREA_KPOP_TOUR:
   active: true
+  affiliate: false
   provider: klook
   title: "K-Pop Experiences"
   subtitle: "Dance classes, studio tours, fan activities, and themed walks."
@@ -45,6 +51,7 @@ KOREA_KPOP_TOUR:
 
 KOREA_DAYTRIP:
   active: true
+  affiliate: false
   provider: klook
   title: "Day Trips from Seoul"
   subtitle: "Nami Island, Jeonju, Suwon, Busan, and other easy add-ons."
@@ -53,6 +60,7 @@ KOREA_DAYTRIP:
 
 KOREA_FOOD_TOUR:
   active: true
+  affiliate: false
   provider: klook
   title: "Korean Food Tours"
   subtitle: "Street food walks, cooking classes, and market tours."
@@ -62,6 +70,7 @@ KOREA_FOOD_TOUR:
 # Hotel deals
 KOREA_HOTEL_DEALS:
   active: true
+  affiliate: false
   provider: booking
   title: "Korea Hotels & Accommodations"
   subtitle: "Compare hotels, guesthouses, and stays across South Korea."
@@ -71,6 +80,7 @@ KOREA_HOTEL_DEALS:
 
 KOREA_HOTEL_LUXURY:
   active: true
+  affiliate: false
   provider: booking
   title: "Luxury Hotels in Korea"
   subtitle: "Five-star stays in Seoul, Busan, Jeju, and major city centers."
@@ -79,6 +89,7 @@ KOREA_HOTEL_LUXURY:
 
 KOREA_HOTEL_MIDRANGE:
   active: true
+  affiliate: false
   provider: booking
   title: "Mid-Range Hotels"
   subtitle: "Reliable locations with better value for longer trips."
@@ -87,6 +98,7 @@ KOREA_HOTEL_MIDRANGE:
 
 KOREA_HOTEL_BUDGET:
   active: true
+  affiliate: false
   provider: booking
   title: "Budget-Friendly Stays"
   subtitle: "Hostels, guesthouses, capsule hotels, and simple city stays."
@@ -95,6 +107,7 @@ KOREA_HOTEL_BUDGET:
 
 KOREA_HANOK_STAY:
   active: true
+  affiliate: false
   provider: booking
   title: "Traditional Hanok Stays"
   subtitle: "Heritage accommodation in Seoul, Jeonju, Gyeongju, and beyond."
@@ -103,6 +116,7 @@ KOREA_HANOK_STAY:
 
 KOREA_BUSAN_HOTEL:
   active: true
+  affiliate: false
   provider: booking
   title: "Busan Beach Hotels"
   subtitle: "Haeundae, Gwangalli, and Nampo-dong stays for different budgets."
@@ -113,6 +127,7 @@ KOREA_BUSAN_HOTEL:
 # Set active: true only after adding an approved Associates tag to each URL.
 AMZ_TRAVEL_ESSENTIALS:
   active: false
+  affiliate: true
   provider: amazon
   title: "Korea Travel Essentials"
   subtitle: "Adapters, portable chargers, packing gear, and flight basics."
@@ -122,6 +137,7 @@ AMZ_TRAVEL_ESSENTIALS:
 
 AMZ_KSTYLE_FEATURED:
   active: false
+  affiliate: true
   provider: amazon
   title: "K-Beauty & K-Style Picks"
   subtitle: "Popular Korean beauty and style products."
@@ -131,6 +147,7 @@ AMZ_KSTYLE_FEATURED:
 
 AMZ_KOREA_ADAPTER:
   active: false
+  affiliate: true
   provider: amazon
   title: "Korea Power Adapter"
   subtitle: "Type C/F plug support for South Korea."
@@ -140,6 +157,7 @@ AMZ_KOREA_ADAPTER:
 
 AMZ_PORTABLE_WIFI:
   active: false
+  affiliate: true
   provider: amazon
   title: "Portable WiFi & SIM Gear"
   subtitle: "Connectivity options for travelers."
@@ -149,6 +167,7 @@ AMZ_PORTABLE_WIFI:
 
 AMZ_POWER_BANK:
   active: false
+  affiliate: true
   provider: amazon
   title: "Travel Power Banks"
   subtitle: "Keep phones charged during long sightseeing days."
@@ -158,6 +177,7 @@ AMZ_POWER_BANK:
 
 AMZ_TRAVEL_BACKPACK:
   active: false
+  affiliate: true
   provider: amazon
   title: "Lightweight Travel Backpacks"
   subtitle: "Day bags for city walks, markets, and short trips."
@@ -167,6 +187,7 @@ AMZ_TRAVEL_BACKPACK:
 
 AMZ_WALKING_SHOES:
   active: false
+  affiliate: true
   provider: amazon
   title: "Comfortable Walking Shoes"
   subtitle: "Useful for Seoul hills, subway transfers, and long museum days."
@@ -176,6 +197,7 @@ AMZ_WALKING_SHOES:
 
 AMZ_KBEAUTY_MASKS:
   active: false
+  affiliate: true
   provider: amazon
   title: "Korean Sheet Masks"
   subtitle: "K-beauty skincare basics for flights and travel recovery."
@@ -185,6 +207,7 @@ AMZ_KBEAUTY_MASKS:
 
 AMZ_KOREAN_SUNSCREEN:
   active: false
+  affiliate: true
   provider: amazon
   title: "Korean Sunscreen"
   subtitle: "Lightweight daily sunscreen options popular in K-beauty routines."

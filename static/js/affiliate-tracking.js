@@ -6,10 +6,12 @@
  * (utm_campaign), shop_name, page_path, and link_url.
  * Owned-shop clicks are kept separate from affiliate clicks.
  * 
- * Sends 'affiliate_click' event with detailed parameters:
+ * Sends 'affiliate_click' only for approved tracked partner links.
+ * Direct booking links use the separate 'offer_outbound_click' event.
+ * Both offer events include:
  * - slot: Offer slot key (e.g., KOREA_TOUR_DEALS)
  * - pos: Position in page (top/mid/bottom)
- * - provider: Affiliate provider (klook/amazon/viator/etc)
+ * - provider: Destination provider (klook/booking/amazon/etc)
  * - page_type: Type of page (post/hub/deals/home)
  * - page_path: URL path of the page
  * - link_url: Destination URL
@@ -52,7 +54,7 @@
     var ownedShopUrl = getOwnedShopUrl(anchor);
 
     if (!ownedShopUrl) {
-      handleAffiliateClick(e);
+      handleOfferClick(e);
       return;
     }
 
@@ -77,9 +79,9 @@
     return 'other';
   }
 
-  // Existing affiliate events retain their parameters and opt-in attribute.
-  function handleAffiliateClick(e) {
-    var a = e.target.closest ? e.target.closest('a[data-affiliate="1"]') : null;
+  // Tracked partner links and direct booking links have separate event names.
+  function handleOfferClick(e) {
+    var a = e.target.closest ? e.target.closest('a[data-affiliate="1"], a[data-outbound-offer="1"]') : null;
     if (!a) return;
 
     var gtag = getGtag();
@@ -94,9 +96,12 @@
     var slug = a.getAttribute('data-slug') || 'unknown';
     var linkUrl = a.getAttribute('href') || '';
     var category = extractCategory(pagePath);
+    var eventName = a.getAttribute('data-affiliate') === '1'
+      ? 'affiliate_click'
+      : 'offer_outbound_click';
 
     // Send GA4 event
-    gtag('event', 'affiliate_click', {
+    gtag('event', eventName, {
       // Core parameters
       slot: slot,
       pos: pos,
@@ -119,7 +124,7 @@
 
     // Debug log in development
     if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
-      console.log('[Affiliate Tracking] Event sent:', {
+      console.log('[Offer Tracking] ' + eventName + ' sent:', {
         slot: slot,
         pos: pos,
         provider: provider,
@@ -134,7 +139,7 @@
 
   // Expose for debugging
   window.__affiliateTracking = {
-    version: '2.1.0',
+    version: '2.2.0',
     test: function() {
       console.log('[Affiliate Tracking] Test mode - gtag available:', !!getGtag());
     }

@@ -444,10 +444,14 @@ def lint_file(file_path: Path, slots_config: Dict[str, Dict[str, Any]], verbose:
             ))
     
     # -------------------------------------------------------------------------
-    # 4. General FTC disclosure check (if any affiliate content)
+    # 4. General FTC disclosure check (direct, untracked offers are not affiliates)
     # -------------------------------------------------------------------------
+    active_affiliate_slots = [
+        slot for slot in result.slots_used
+        if slots_config.get(slot.slot_key, {}).get("affiliate", False)
+    ]
     has_affiliate_content = (
-        len(result.slots_used) > 0 or
+        len(active_affiliate_slots) > 0 or
         re.search(r'affiliate|commission|earn.*commission', content, re.IGNORECASE)
     )
     
@@ -457,7 +461,7 @@ def lint_file(file_path: Path, slots_config: Dict[str, Dict[str, Any]], verbose:
         result.ftc_disclosure_line = line_num
         
         if not found:
-            first_offer_line = result.slots_used[0].line_number if result.slots_used else body_start_line
+            first_offer_line = active_affiliate_slots[0].line_number if active_affiliate_slots else body_start_line
             result.violations.append(Violation(
                 file=file_path,
                 line_number=first_offer_line,
@@ -467,7 +471,7 @@ def lint_file(file_path: Path, slots_config: Dict[str, Dict[str, Any]], verbose:
             ))
         elif not at_top:
             # Check if disclosure is immediately above first offer block
-            first_offer_line = result.slots_used[0].line_number if result.slots_used else 9999
+            first_offer_line = active_affiliate_slots[0].line_number if active_affiliate_slots else 9999
             if line_num > first_offer_line:
                 result.violations.append(Violation(
                     file=file_path,

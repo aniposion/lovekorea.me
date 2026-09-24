@@ -3,11 +3,13 @@
   
   Usage in markdown:
     {{< affiliate-disclosure >}}
+    {{< affiliate-disclosure type="direct" >}}
     {{< affiliate-disclosure type="amazon" >}}
     {{< affiliate-disclosure type="full" >}}
   
   Types:
     - default: General affiliate disclosure
+    - direct: Booking links without a commission relationship
     - amazon: Amazon Associates specific disclosure
     - full: Both general and Amazon disclosures
 */}}
@@ -15,7 +17,9 @@
 {{ $type := .Get "type" | default "default" }}
 
 <aside class="affiliate-disclosure" role="note" aria-label="Affiliate Disclosure">
-  {{ if eq $type "amazon" }}
+  {{ if eq $type "direct" }}
+    <p><em>The booking links below go directly to the providers. LoveKorea does not receive a commission from these links.</em></p>
+  {{ else if eq $type "amazon" }}
     <p><em>As an Amazon Associate I earn from qualifying purchases.</em></p>
   {{ else if eq $type "full" }}
     <p><em>This post may contain affiliate links. If you make a purchase through these links, I may earn a small commission at no additional cost to you. As an Amazon Associate I earn from qualifying purchases.</em></p>

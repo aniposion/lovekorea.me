@@ -1,12 +1,13 @@
 {{/*
-  Offer Shortcode - Affiliate Link with Compliance & GA4 Tracking
+  Offer Shortcode - Direct or Affiliate Link with GA4 Tracking
   
   Features:
   - Internal links: same tab, no rel
-  - External affiliate links: target=_blank, rel="nofollow sponsored noopener"
+  - Direct external links: target=_blank, rel="noopener"
+  - Affiliate external links: target=_blank, rel="nofollow sponsored noopener"
   - Slot can be disabled with data field: active: false
   - Amazon provider: shows Amazon-specific disclosure
-  - Mini disclosure below button (FTC compliance)
+  - Commission disclosure below affiliate buttons only
   - GA4 tracking via data attributes
   
   Usage:
@@ -46,12 +47,16 @@
 
         {{- $isExternal := or (hasPrefix $url "http://") (hasPrefix $url "https://") -}}
         {{- $isAmazon := eq $s.provider "amazon" -}}
+        {{- $isAffiliate := eq $s.affiliate true -}}
 
         {{- $target := "" -}}
         {{- $rel := "" -}}
         {{- if $isExternal -}}
           {{- $target = "_blank" -}}
-          {{- $rel = "nofollow sponsored noopener" -}}
+          {{- $rel = "noopener" -}}
+          {{- if $isAffiliate -}}
+            {{- $rel = "nofollow sponsored noopener" -}}
+          {{- end -}}
         {{- end -}}
 
         {{- /* page type for tracking */ -}}
@@ -83,7 +88,7 @@
             href="{{ $url }}"
             {{- if $target }} target="{{ $target }}"{{ end }}
             {{- if $rel }} rel="{{ $rel }}"{{ end }}
-            data-affiliate="1"
+            {{ if $isAffiliate }}data-affiliate="1"{{ else }}data-outbound-offer="1"{{ end }}
             data-provider="{{ $s.provider }}"
             data-slot="{{ $slotKey }}"
             data-pos="{{ $pos }}"
@@ -94,14 +99,15 @@
             {{ $s.cta | default "Check Deals" }}
           </a>
 
-          {{- /* Inline mini disclosure below button */ -}}
-          <div class="offer-mini-disclosure">
-            {{- if $isAmazon -}}
-              As an Amazon Associate I earn from qualifying purchases.
-            {{- else -}}
-              {{ $s.mini_disclosure | default "We may earn a commission at no extra cost to you." }}
-            {{- end -}}
-          </div>
+          {{- if $isAffiliate -}}
+            <div class="offer-mini-disclosure">
+              {{- if $isAmazon -}}
+                As an Amazon Associate I earn from qualifying purchases.
+              {{- else -}}
+                {{ $s.mini_disclosure | default "We may earn a commission at no extra cost to you." }}
+              {{- end -}}
+            </div>
+          {{- end -}}
         </div>
 
       {{- end -}}

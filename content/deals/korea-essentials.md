@@ -15,9 +15,7 @@ cover:
 
 # Korea Travel Essentials & Packing Guide 2026
 
-This page is ready for product monetization, but Amazon slots remain inactive until approved Associates tracking tags are added.
-
-{{< affiliate-disclosure >}}
+Use this checklist to choose what you actually need for your trip.
 
 ## Electronics & Connectivity
 
