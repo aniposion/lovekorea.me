@@ -119,9 +119,9 @@ For a broader view of shopping areas, see our [Korea shopping guide](/posts/smar
 
 **Ownership disclosure:** LoveKorea and Obang House have the same owner. Purchases from Obang House support our business.
 
-For a friend in the U.S. who enjoys Korean zodiac art, a small keepsake can suit a birthday, graduation, or new beginning. Obang House offers 12 contemporary guardian designs printed on yellow hanji paper. Each piece is hand-folded and comes with a yellow envelope and a clear protective sleeve. Choose an animal or story that means something to the recipient, and add your own handwritten message.
+For a friend in the U.S. who enjoys Korean zodiac art, a small keepsake can suit a birthday, graduation, or new beginning. Obang House offers 12 contemporary guardian designs printed on yellow hanji paper. Choose an animal or story that means something to the recipient, and add your own handwritten message.
 
-**Cost and timing, checked September 23, 2026:** The current price is $12 per piece, with $6.90 tracked U.S. shipping for a single-piece order: **$18.90 before tax**. Allow **3–5 business days for production before shipping**; transit time is additional. Confirm the current total and delivery terms at the store before ordering for a dated occasion.
+Check the current price, shipping charge, production time, and delivery estimate at the store before ordering for a dated occasion.
 
 The designs are symbolic, decorative art; no luck, protection, or other outcome is promised. For a Korean home visit, follow the host's preferences and the practical gift advice above.
 
