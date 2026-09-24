@@ -972,7 +972,8 @@ body.dark .lk-curation-bar {
   }
 
   .lk-header-actions {
-    display: none;
+    display: flex;
+    justify-content: center;
   }
 
   .lk-shop-hero {
