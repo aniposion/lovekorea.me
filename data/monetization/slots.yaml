@@ -11,6 +11,17 @@
 # - External affiliate links render with rel="nofollow sponsored noopener".
 # =============================================================================
 
+# Direct carrier information and purchase links (no commission tracking)
+KOREA_ESIM_LGU_DATA:
+  active: true
+  affiliate: false
+  provider: lguplus
+  title: "Korea data eSIM: current carrier terms"
+  subtitle: "Check device compatibility, validity, refund rules, and the final price before paying."
+  url: "https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data"
+  cta: "View LG U+ Data eSIM"
+  disclaimer: "Direct carrier link. Prices and terms can change."
+
 # Tour and activity deals
 KOREA_TOUR_DEALS:
   active: true

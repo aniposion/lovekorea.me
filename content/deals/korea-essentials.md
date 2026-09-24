@@ -34,7 +34,7 @@ What to check:
 
 ### Portable WiFi, SIM, or eSIM
 
-Connectivity content converts well when it compares convenience, pickup friction, and data limits.
+Before paying, compare your phone's eSIM support, the need for Korean calls or texts, pickup hours, and the plan's activation rule in our [Incheon Airport eSIM and SIM guide](/posts/korea-esim-sim-incheon-airport-price-guide/).
 
 {{< offer slot="AMZ_PORTABLE_WIFI" pos="mid" >}}
 
@@ -126,4 +126,4 @@ Korean sunscreens are popular because many formulas feel light under makeup and 
 1. Buy adapters before arriving at the airport.
 2. Compare eSIM and pocket WiFi based on group size.
 3. Pack light if you plan to shop in Korea.
-4. Keep product recommendations separate from itinerary advice for cleaner SEO and GEO signals.
+4. Check SIM or eSIM compatibility and refund terms before paying for a data plan.
