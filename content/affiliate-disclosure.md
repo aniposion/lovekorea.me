@@ -2,7 +2,7 @@
 title: "Affiliate Disclosure"
 description: "How LoveKorea identifies affiliate links, sponsored content, and advertising, including the current status of these features."
 date: 2026-07-02
-lastmod: 2026-09-24
+lastmod: 2026-09-25
 draft: false
 showToc: true
 disableComments: true
@@ -10,11 +10,11 @@ disableRelated: true
 disableShare: true
 ---
 
-Last updated: September 24, 2026
+Last updated: September 25, 2026
 
-LoveKorea is preparing to add advertising and affiliate recommendations. No affiliate program is active as of the update date above. Ordinary links to booking platforms, retailers, and official sources do not by themselves mean that LoveKorea receives a commission.
+LoveKorea uses a Viator affiliate link in a Busan tour guide. If you follow this tracked link and make an eligible booking, LoveKorea may earn a commission at no extra cost to you. Other ordinary links to booking platforms, retailers, and official sources do not by themselves mean that LoveKorea receives a commission.
 
-When an affiliate link is used, a statement on the page will identify that relationship. If you follow that link and make an eligible purchase or booking, LoveKorea may earn a commission. Check the provider's current price and terms before buying.
+The article identifies the affiliate relationship near the recommendation. Check the provider's current price and terms before buying.
 
 ## Our Own Shop
 
@@ -24,7 +24,7 @@ We use tagged links to understand whether a reader visits the shop from a releva
 
 ## What Affiliate Links Mean
 
-Affiliate programs allow a publisher to earn referral revenue from eligible purchases or bookings made through tracked links.
+Affiliate programs allow a publisher to earn referral revenue from eligible purchases or bookings made through tracked links. Our current tracked tour link leads to Viator. Other providers mentioned below are categories we may consider later, not claims of active partnerships.
 
 This can include links to:
 

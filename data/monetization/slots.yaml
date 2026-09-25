@@ -8,6 +8,7 @@
 # - Keep Amazon slots inactive until the Associates account and tracking tag are ready.
 # - active controls whether a slot renders; affiliate controls commission disclosure and event type.
 # - Klook and Booking.com URLs below are direct, untracked links until a program is approved.
+# - The Viator tour URL below was generated in the LoveKorea partner dashboard.
 # - External affiliate links render with rel="nofollow sponsored noopener".
 # =============================================================================
 
@@ -23,6 +24,17 @@ KOREA_ESIM_LGU_DATA:
   disclaimer: "Direct carrier link. Prices and terms can change."
 
 # Tour and activity deals
+BUSAN_GAMCHEON_JAGALCHI_TOUR:
+  active: true
+  affiliate: true
+  provider: viator
+  title: "Optional: Gamcheon and Jagalchi guided tour"
+  subtitle: "Compare this multi-stop tour with visiting Gamcheon independently for free."
+  url: "https://www.viator.com/tours/Busan/Make-home-made-Gochujang-Korean-hot-pepper-paste/d4615-119022P16?pid=P00321820&mcid=42383&medium=link&campaign=lovekorea-gamcheon-20260925"
+  cta: "Check the tour's current price and terms"
+  disclaimer: "Check your date, meeting point, mobility limits, inclusions, and cancellation policy before booking."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
 KOREA_TOUR_DEALS:
   active: true
   affiliate: false

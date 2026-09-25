@@ -2,7 +2,7 @@
 title: "Terms of Use"
 description: "Terms of Use for LoveKorea, including content limitations, affiliate links, advertising, comments, and external links."
 date: 2026-07-02
-lastmod: 2026-09-23
+lastmod: 2026-09-25
 draft: false
 showToc: true
 disableComments: true
@@ -10,7 +10,7 @@ disableRelated: true
 disableShare: true
 ---
 
-Last updated: September 23, 2026
+Last updated: September 25, 2026
 
 By using LoveKorea (`lovekorea.me`), you agree to these Terms of Use. If you do not agree, please do not use the site.
 
@@ -41,7 +41,7 @@ We are not responsible for third-party content, prices, availability, policies, 
 
 ## Affiliate Links and Advertising
 
-LoveKorea is preparing to add advertising and affiliate links. When those features are active, the site may receive advertising revenue or a commission on an eligible purchase or booking. Advertisements and sponsored content should be identifiable to readers.
+LoveKorea uses a Viator affiliate link in one tour guide and may receive a commission on an eligible booking. Google ads are not currently displayed while AdSense review is pending. Advertisements and sponsored content should be identifiable to readers.
 
 Affiliate relationships do not guarantee that a product, service, tour, hotel, or platform is right for every reader. Always compare details and choose what fits your own needs.
 
