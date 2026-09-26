@@ -35,3 +35,9 @@
   to = "/posts/seoul-city-tour-bus-how-to-book-tickets-prices/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/categories/food/"
+  to = "/categories/k-food/"
+  status = 301
+  force = true
