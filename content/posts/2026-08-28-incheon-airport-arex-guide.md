@@ -1,6 +1,7 @@
 ---
 title: "Incheon Airport AREX Guide 2026: Express vs All-Stop Train"
 date: 2026-08-28T08:00:00-05:00
+lastmod: 2026-09-25
 slug: "incheon-airport-arex-guide"
 description: "Compare AREX Express and All-Stop trains from Incheon Airport to Seoul in 2026, including fares, travel times, tickets, luggage, and transfers."
 categories: ["k-travel"]
@@ -21,7 +22,7 @@ monetize:
 > **Quick Info**
 > - 📍 Area: Incheon International Airport Terminal 1 or 2 to Seoul Station, with useful All-Stop connections at Hongik University, Gongdeok, Digital Media City, Magongnaru, and Gimpo Airport
 > - 🕒 Best time: Check the live timetable after landing; the Express Train runs less often than the All-Stop Train
-> - 💰 Budget: Official adult fares checked August 28, 2026—Express listed at KRW 13,000; All-Stop to Seoul Station KRW 4,750 from T1 or KRW 5,350 from T2
+> - 💰 Budget: Official fares rechecked September 25, 2026—Express adult ticket listed at KRW 13,000; All-Stop to Seoul Station KRW 4,750 from T1 or KRW 5,350 from T2
 > - 🚇 Getting there: Follow Airport Railroad signs to the Transportation Center on B1 at either airport terminal
 > - 👥 Best for: Express for a reserved seat and direct Seoul Station ride; All-Stop for lower fares and intermediate Seoul connections
 > - ✅ TL;DR: Choose Express when Seoul Station and a guaranteed seat are worth the premium; choose All-Stop when Hongdae or another intermediate stop fits your hotel better.
@@ -32,13 +33,13 @@ monetize:
 
 AREX, short for Airport Railroad Express, operates two different rail services between Incheon International Airport and Seoul. They share the airport stations and tracks, but they are not interchangeable products. The **Express Train** runs nonstop between the airport terminals and Seoul Station with assigned seating. The **All-Stop Train** works like a metropolitan commuter train, stopping at intermediate stations and accepting ordinary transit fare media.
 
-The figures below were checked on **August 28, 2026** against the official [AREX Express service guide](https://www.airportrailroad.com/train/express/introduce), [AREX passenger transport rules and fare table](https://www.airportrailroad.com/policy/transport), the current [Express timetable](https://www.airportrailroad.com/train/express/info), and the Korea Tourism Organization's current [airport transportation guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=469&vcontsId=140654). Fares and schedules can change, so use those official pages again on travel day.
+The operator's fares and timetable were rechecked on **September 25, 2026** against the official [AREX Express service guide](https://www.airportrailroad.com/train/express/introduce), [AREX passenger transport rules and fare table](https://www.airportrailroad.com/policy/transport), and [Express timetable](https://www.airportrailroad.com/train/express/info). The Korea Tourism Organization's [airport transportation guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=469&vcontsId=140654) provides the broader arrival context. Fares and schedules can change, so use those official pages again on travel day.
 
 | Question | Express Train | All-Stop Train |
 |---|---|---|
 | Where does it stop? | Airport T2, Airport T1, and Seoul Station only | Every AREX station, including Hongik University, Gongdeok, Digital Media City, Magongnaru, and Gimpo Airport |
 | Scheduled airport-to-Seoul time | About 43 minutes from T1; 51 minutes from T2 | About 59 minutes from T1; 66 minutes from T2 |
-| Adult fare to Seoul Station | Official service page lists KRW 13,000; normal fare is shown as KRW 18,100 from T1 and KRW 18,700 from T2 | Official fare table lists KRW 4,750 from T1 and KRW 5,350 from T2 |
+| Adult fare to Seoul Station | Official service page lists KRW 13,000; normal fare is shown as KRW 18,500 from T1 and KRW 19,100 from T2 | Official fare table lists KRW 4,750 from T1 and KRW 5,350 from T2 |
 | Seating | Reserved seat | Open commuter seating; a seat is not guaranteed |
 | Ticket type | Separate Express ticket for a specific train and seat | Transit card or compatible single-use fare ticket |
 | Best destination fit | Seoul Station, nearby hotels, Line 1/4 transfers, or onward rail | Hongdae, Mapo/Gongdeok, western Seoul, Gimpo Airport, or any trip where an intermediate transfer is easier |
@@ -62,7 +63,7 @@ The Express uses assigned seating. Tickets can be purchased through the official
 
 Choose the terminal where you are physically standing, select a departure you can realistically reach, and keep enough time to walk to the platform. A flight's arrival time is not the same as your train-ready time: immigration, baggage claim, customs, restroom stops, and finding the station all come first. A flexible traveler should check actual departures only after clearing arrivals instead of committing to an unrealistically tight train.
 
-As of the research date, AREX lists an adult Express fare of **KRW 13,000** and a child fare of **KRW 9,500**. The same official page labels the normal adult fares as KRW 18,100 from T1 and KRW 18,700 from T2. Because the displayed selling fare can be revised or tied to the operator's current pricing policy, treat KRW 13,000 as the official listed fare at this check—not a permanent promise. Confirm the amount before paying, and compare any third-party ticket against the official total and its change or refund conditions.
+As of the September 25 check, AREX lists an adult Express fare of **KRW 13,000** and a child fare of **KRW 9,500**. The same official page labels the normal adult fares as KRW 18,500 from T1 and KRW 19,100 from T2. Because the displayed selling fare can be revised or tied to the operator's current pricing policy, treat KRW 13,000 as the official listed fare at this check—not a permanent promise. Confirm the amount before paying, and compare any third-party ticket against the official total and its change or refund conditions.
 
 ### Paying for the All-Stop Train
 
@@ -160,7 +161,7 @@ If you also plan to shop before departure, bookmark the [Korea tourist tax-refun
 
 Travelers going **from Seoul to Incheon Airport** may have another reason to choose the Express. Incheon Airport's official [City Airport Terminal guide](https://business.airport.kr/ap_en/1420/subview.do) says the Seoul Station facility is available only to Express Train customers flying internationally that day, subject to participating-airline rules.
 
-As checked August 28, 2026, the airport lists Seoul Station airline check-in and baggage service from **05:20 to 19:00**, with check-in closing three hours before a Terminal 1 departure and three hours 20 minutes before a Terminal 2 departure. Departure immigration is listed from **05:30 to 19:00**. Eligible travelers who complete the process can use the designated fast departure lane at Incheon Airport.
+As rechecked September 25, 2026, the airport lists Seoul Station airline check-in and baggage service from **05:20 to 19:00**, with check-in closing three hours before a Terminal 1 departure and three hours 20 minutes before a Terminal 2 departure. Departure immigration is listed from **05:30 to 19:00**. Eligible travelers who complete the process can use the designated fast departure lane at Incheon Airport.
 
 This service is for departure, not for someone who has just landed. Airline participation and operating rules can change, so verify eligibility before hauling bags to Seoul Station. The airport page itself tells travelers to confirm current details with the relevant airline, agency, or facility.
 
@@ -172,7 +173,7 @@ It is most useful when you want a reserved seat, have luggage, and are staying n
 
 **Q: How much is the AREX train in 2026?**
 
-On August 28, 2026, the official Express page listed KRW 13,000 for adults and KRW 9,500 for children, while labeling normal adult fares as KRW 18,100 from T1 and KRW 18,700 from T2. The official All-Stop fare table listed KRW 4,750 from T1 and KRW 5,350 from T2 to Seoul Station. Recheck before travel.
+On September 25, 2026, the official Express page listed KRW 13,000 for adults and KRW 9,500 for children, while labeling normal adult fares as KRW 18,500 from T1 and KRW 19,100 from T2. The official All-Stop fare table listed KRW 4,750 from T1 and KRW 5,350 from T2 to Seoul Station. Recheck before travel.
 
 **Q: Can I use T-money on the AREX Express Train?**
 
