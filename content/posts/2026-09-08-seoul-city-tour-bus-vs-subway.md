@@ -107,7 +107,7 @@ Use these rules when time matters:
 4. **Check the day's notices.** The operator maintains a notices page for suspensions and route changes.
 5. **Screenshot your return route.** If you miss the final useful tour-bus departure, finish by subway or ordinary city bus.
 
-For a deeper explanation of ticket pickup, seating, and the loop itself, see our [Seoul City Tour Bus booking and route guide](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/). If your arrival day is part of the plan, our [Incheon Airport AREX guide](/posts/incheon-airport-arex-guide/) explains the airport rail choice before you enter the city network.
+For a deeper explanation of ticket pickup, seating, and the loop itself, see our [Seoul City Tour Bus booking and route guide](/posts/seoul-city-tour-bus-how-to-book-tickets-prices/). If your arrival day is part of the plan, our [Incheon Airport AREX guide](/posts/incheon-airport-arex-guide/) explains the airport rail choice before you enter the city network.
 
 ## Best Choice by Traveler Type
 

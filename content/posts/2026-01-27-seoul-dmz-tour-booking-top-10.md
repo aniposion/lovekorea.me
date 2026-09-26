@@ -393,7 +393,7 @@ Yes. Military/security conditions, weather, and site operations can cause last-m
 ## Related guides
 
 - [Korea tours and day trips](/deals/korea-tours/)
-- [Seoul city tour bus tickets and routes](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+- [Seoul city tour bus tickets and routes](/posts/seoul-city-tour-bus-how-to-book-tickets-prices/)
 - [K-drama filming locations in Korea](/posts/k-drama-filming-locations-korea-guide/)
 
 ## What you can do next

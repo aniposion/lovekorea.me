@@ -317,7 +317,7 @@ Yeouido runs daily and offers the widest choice of cruises. Jamsil often operate
 
 ## Related guides
 
-- [Seoul City Tour Bus tickets and routes](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+- [Seoul City Tour Bus tickets and routes](/posts/seoul-city-tour-bus-how-to-book-tickets-prices/)
 - [Seoul night view tours and prices](/posts/seoul-night-view-tours-booking-top-10/)
 - [Seoul Sky ticket prices by time slot](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/)
 

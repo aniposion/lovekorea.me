@@ -1,5 +1,5 @@
 [build]
-  command = "python tools/lint_monetization.py && hugo --environment production --minify && python tools/audit_indexing_policy.py && npx pagefind --site public --output-path public/pagefind"
+  command = "python tools/lint_monetization.py && hugo --cleanDestinationDir --environment production --minify && python tools/audit_indexing_policy.py && npx pagefind --site public --output-path public/pagefind"
   publish = "public"
 
 [build.environment]
@@ -27,5 +27,11 @@
 [[redirects]]
   from = "/posts/songdo-marine-cable-car-busan-tickets-prices/"
   to = "/posts/busan-songdo-cable-car-tickets-prices/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/"
+  to = "/posts/seoul-city-tour-bus-how-to-book-tickets-prices/"
   status = 301
   force = true

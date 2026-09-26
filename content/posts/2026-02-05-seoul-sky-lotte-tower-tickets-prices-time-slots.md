@@ -326,7 +326,7 @@ Yes—Seoul Sky visitors can receive up to 2 hours of free parking at Lotte Worl
 
 - [Seoul night view tours and prices](/posts/seoul-night-view-tours-booking-top-10/)
 - [Han River cruise tickets and booking tips](/posts/han-river-cruise-seoul-prices-tickets-how-to-book/)
-- [Seoul City Tour Bus tickets and routes](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+- [Seoul City Tour Bus tickets and routes](/posts/seoul-city-tour-bus-how-to-book-tickets-prices/)
 
 ## What you can do next
 

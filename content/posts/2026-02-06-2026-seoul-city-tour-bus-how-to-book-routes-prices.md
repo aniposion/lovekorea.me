@@ -1,6 +1,7 @@
 ---
 title: "Seoul City Tour Bus 2026: Tickets, Routes, Prices & How to Book"
 date: 2026-02-06T08:10:18.895371
+draft: true
 slug: "2026-seoul-city-tour-bus-how-to-book-routes-prices"
 description: "Compare Seoul City Tour Bus ticket prices, routes, online vs on-site booking, route highlights, and seat tips for first-time visitors."
 categories: ["k-travel"]

@@ -275,7 +275,7 @@ Yes, seasonal/event discounts may apply (e.g., exam-taker promos). You must brin
 ## Related guides
 
 - [Seoul Sky ticket prices by time slot](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/)
-- [Seoul City Tour Bus tickets and routes](/posts/2026-seoul-city-tour-bus-how-to-book-routes-prices/)
+- [Seoul City Tour Bus tickets and routes](/posts/seoul-city-tour-bus-how-to-book-tickets-prices/)
 - [Korea tours and day trips](/deals/korea-tours/)
 
 ## What you can do next
