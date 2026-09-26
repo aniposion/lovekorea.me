@@ -69,6 +69,15 @@
           {{- $pageType = "home" -}}
         {{- end -}}
 
+        {{- $category := "other" -}}
+        {{- if eq $pageType "deals" -}}
+          {{- $category = "deals" -}}
+        {{- else -}}
+          {{- with .Page.Params.categories -}}
+            {{- $category = index . 0 -}}
+          {{- end -}}
+        {{- end -}}
+
         {{- /* slug for performance tracking */ -}}
         {{- $slug := .Page.Params.slug | default (.Page.File.BaseFileName | default "unknown") -}}
 
@@ -93,6 +102,7 @@
             data-slot="{{ $slotKey }}"
             data-pos="{{ $pos }}"
             data-page-type="{{ $pageType }}"
+            data-page-category="{{ $category }}"
             data-page-path="{{ .Page.RelPermalink }}"
             data-slug="{{ $slug }}"
           >

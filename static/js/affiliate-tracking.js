@@ -70,15 +70,6 @@
     });
   }
 
-  // Extract category from page path (e.g., /posts/k-travel/... → k-travel)
-  function extractCategory(path) {
-    if (!path) return 'unknown';
-    var match = path.match(/\/posts\/([^\/]+)\//);
-    if (match) return match[1];
-    if (path.indexOf('/deals/') === 0) return 'deals';
-    return 'other';
-  }
-
   // Tracked partner links and direct booking links have separate event names.
   function handleOfferClick(e) {
     var a = e.target.closest ? e.target.closest('a[data-affiliate="1"], a[data-outbound-offer="1"]') : null;
@@ -95,7 +86,8 @@
     var pagePath = a.getAttribute('data-page-path') || window.location.pathname;
     var slug = a.getAttribute('data-slug') || 'unknown';
     var linkUrl = a.getAttribute('href') || '';
-    var category = extractCategory(pagePath);
+    var category = a.getAttribute('data-page-category') ||
+      (pageType === 'deals' ? 'deals' : 'other');
     var eventName = a.getAttribute('data-affiliate') === '1'
       ? 'affiliate_click'
       : 'offer_outbound_click';
@@ -139,7 +131,7 @@
 
   // Expose for debugging
   window.__affiliateTracking = {
-    version: '2.2.0',
+    version: '2.2.1',
     test: function() {
       console.log('[Affiliate Tracking] Test mode - gtag available:', !!getGtag());
     }
