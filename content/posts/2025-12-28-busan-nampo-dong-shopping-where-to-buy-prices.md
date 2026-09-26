@@ -83,7 +83,7 @@ Treat festival dates and temporary sales as changing events. Check a current off
 
 If you also want to see **Jagalchi Market, BIFF Square and Gamcheon Culture Village** with a guide, a [3½-hour Busan storytelling tour](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/) is one option to compare with a self-guided day. Its Viator listing, checked September 25, 2026, says the group normally meets near **Jagalchi Station Exit 3** and uses public buses between stops. Check the meeting point and route for your selected departure.
 
-**This is not a Nampo-dong shopping tour.** Gwangbok-ro, Gukje Market and Nampo Underground Shopping Center are not listed stops. Keep the free walking route above if browsing those shops is your priority. The tour also excludes lunch, personal purchases and a Songdo cable car ride. Compare its final price, accessibility rules and cancellation deadline with visiting independently before booking.
+**This is not a Nampo-dong shopping tour.** Gwangbok-ro, Gukje Market and Nampo Underground Shopping Center are not listed stops. Keep the free walking route above if browsing those shops is your priority. The tour also excludes lunch, personal purchases and a Songdo cable car ride. Compare its final price, accessibility rules, cancellation deadline and recent traveler reviews with visiting independently before booking.
 
 *Affiliate note: The optional tour link below is tracked. LoveKorea may earn a commission if you book through it, at no extra cost to you.*
 
