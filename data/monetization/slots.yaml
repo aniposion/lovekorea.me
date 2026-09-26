@@ -35,6 +35,17 @@ BUSAN_GAMCHEON_JAGALCHI_TOUR:
   disclaimer: "Check your date, meeting point, mobility limits, inclusions, and cancellation policy before booking."
   mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
 
+SEOUL_DMZ_GUIDED_TOUR:
+  active: true
+  affiliate: true
+  provider: viator
+  title: "Optional: guided Seoul-to-DMZ day trip"
+  subtitle: "Compare the selected route, pickup, mobility requirements and military-closure terms with Paju's official booking."
+  url: "https://www.viator.com/tours/Seoul/Korean-Demilitarized-Zone-DMZ-Half-Day-Tour-from-Seoul/d973-6780DMZT1?pid=P00321820&mcid=42383&medium=link&campaign=lovekorea-dmz-20260925"
+  cta: "Check the current tour options and terms"
+  disclaimer: "Bridge stops depend on the option. Lunch and hotel drop-off are not included; security-related route changes may not be refundable."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
 KOREA_TOUR_DEALS:
   active: true
   affiliate: false
@@ -49,8 +60,8 @@ KOREA_DMZ_TOUR:
   active: true
   affiliate: false
   provider: klook
-  title: "DMZ & JSA Tours"
-  subtitle: "Book ahead because weekend dates can sell out."
+  title: "Compare DMZ day trips"
+  subtitle: "Check whether your selected route includes the Third Tunnel and Dora Observatory."
   url: "https://www.klook.com/en-US/search/result/?keyword=dmz+tour"
   cta: "Check DMZ Tours"
 

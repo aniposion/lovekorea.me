@@ -21,9 +21,11 @@ The links on this page open broad search results, not a vetted list of individua
 
 ## Tour categories to compare
 
-### DMZ & JSA Tours
+### DMZ day trips
 
 DMZ tours differ in permitted stops, departure points and security-related cancellation rules. Check the itinerary for your date.
+
+For the official reservation route and current ID rules, read our [Seoul DMZ booking guide](/posts/seoul-dmz-tour-booking-top-10/).
 
 {{< offer slot="KOREA_DMZ_TOUR" pos="mid" >}}
 
