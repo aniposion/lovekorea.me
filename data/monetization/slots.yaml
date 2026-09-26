@@ -46,6 +46,17 @@ SEOUL_DMZ_GUIDED_TOUR:
   disclaimer: "Bridge stops depend on the option. Lunch and hotel drop-off are not included; security-related route changes may not be refundable."
   mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
 
+JEJU_EAST_GROUP_TOUR:
+  active: true
+  affiliate: true
+  provider: viator
+  title: "Optional: Jeju Eastern UNESCO Sites Day Tour (no Udo)"
+  subtitle: "Seongsan and Seopjikoji are listed; Udo and its ferry are not. Compare this with an independent Udo day."
+  url: "https://www.viator.com/tours/Jeju/Jeju-Eastern-UNESCO-Sites-Day-Tour/d22779-5512434P9?pid=P00321820&mcid=42383&medium=link&campaign=lovekorea-jeju-east-20260925"
+  cta: "Check the current itinerary, price and terms"
+  disclaimer: "Confirm your date, meeting point, stop list, admissions, meal exclusions, accessibility and cancellation deadline before booking."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
 KOREA_TOUR_DEALS:
   active: true
   affiliate: false
