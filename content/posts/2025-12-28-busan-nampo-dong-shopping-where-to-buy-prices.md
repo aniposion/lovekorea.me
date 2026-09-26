@@ -1,7 +1,7 @@
 ---
 title: "Nampo-dong Shopping Street, Busan: Markets, Route & Hours (2026)"
 date: 2025-12-28T16:21:53.662903
-lastmod: 2026-09-23
+lastmod: 2026-09-25
 slug: "busan-nampo-dong-shopping-where-to-buy-prices"
 description: "Where to shop in Nampo-dong, Busan: compare Gwangbok-ro, Gukje Market and the underground mall, then follow a practical walking route with official hours."
 categories: ["k-travel"]
@@ -78,6 +78,16 @@ Treat festival dates and temporary sales as changing events. Check a current off
 **Where is the underground shopping center?** Visit Busan lists Nampo Underground Shopping Center at **B1, 44 Gudeok-ro, Jung-gu**, near the Nampo and Jagalchi metro area. Save “남포 지하도상가” in your map app to distinguish it from Gwangbok Underground Shopping Center.
 
 **Can I shop at Gukje Market on Sunday?** The [official tourism listing](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=399) says the market closes on Sundays. Individual surrounding shops may have different schedules, so check your intended destination.
+
+## Optional: a guided sightseeing trip from Jagalchi
+
+If you also want to see **Jagalchi Market, BIFF Square and Gamcheon Culture Village** with a guide, a [3½-hour Busan storytelling tour](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/) is one option to compare with a self-guided day. Its Viator listing, checked September 25, 2026, says the group normally meets near **Jagalchi Station Exit 3** and uses public buses between stops. Check the meeting point and route for your selected departure.
+
+**This is not a Nampo-dong shopping tour.** Gwangbok-ro, Gukje Market and Nampo Underground Shopping Center are not listed stops. Keep the free walking route above if browsing those shops is your priority. The tour also excludes lunch, personal purchases and a Songdo cable car ride. Compare its final price, accessibility rules and cancellation deadline with visiting independently before booking.
+
+*Affiliate note: The optional tour link below is tracked. LoveKorea may earn a commission if you book through it, at no extra cost to you.*
+
+{{< offer slot="BUSAN_GAMCHEON_JAGALCHI_TOUR" pos="bottom" >}}
 
 ## More Busan planning
 
