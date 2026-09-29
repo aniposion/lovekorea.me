@@ -18,8 +18,6 @@ monetize:
     bottom: []
 ---
 
-# Jeju Airport to Seogwipo Bus 2026: 600 vs 800/801, Fares & Stops
-
 **The right bus from Jeju Airport depends on your exact stop, not just “Seogwipo” in the address.** For **ICC JEJU** or Jungmun resort hotels, start with **600**; some **601** trips also serve ICC. The [ICC JEJU transport guide](https://www.iccjeju.co.kr/guide/02.php) estimates **60–70 minutes from the airport to ICC** by limousine bus. For the newer Seogwipo Bus Terminal, check **800**; for the Seogwipo Registry Office (서귀포등기소) area, check **801**. Bus **600** continues to **Seogwipo KAL Hotel**; **800 and 801 do not**. These distinctions come from the [Jeju Bus Information System's route list](https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule), checked September 23, 2026.
 
 | Your destination | First route to check | Confirm before boarding |

@@ -18,8 +18,6 @@ monetize:
     bottom: []
 ---
 
-# Nampo-dong Shopping Street, Busan: Markets, Route & Hours (2026)
-
 **Start with Gwangbok-ro for fashion shops, Gukje Market for varied market stalls, and Nampo Underground Shopping Center for a covered browse.** Nampo-dong is a shopping *district*, not one store or one entrance. If you also want a food stop, Bupyeong Kkangtong Market sits beside Gukje Market, while BIFF Square and Jagalchi are nearby. Busan's official tourism guide connects these places in a walkable central-area itinerary: [Visit Busan Nampo-dong route](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000202002001000&uc_seq=464).
 
 | What you want | Go first | Know before you go |
