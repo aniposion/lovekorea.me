@@ -57,6 +57,8 @@ At both Terminal 1 and Terminal 2, follow signs for the **Airport Railroad** or 
 
 The two services have separate boarding gates and different tickets. Check the train type before entering, especially when you are tired after a flight.
 
+Booking several parts of your trip at once? Use our [seven Korea travel booking checks](/posts/korea-travel-booking-mistakes/) to compare the airport train with rail passes, SIM plans, tour inclusions and refund rules before paying.
+
 ### Buying an Express Train ticket
 
 The Express uses assigned seating. Tickets can be purchased through the official AREX channel or at an Express ticket machine or customer information center. The official service page identifies the Express customer centers at Seoul Station B2 and at the T1 and T2 Transportation Centers on B1.

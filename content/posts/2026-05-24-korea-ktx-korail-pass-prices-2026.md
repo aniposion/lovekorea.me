@@ -71,6 +71,8 @@ KORAIL says pass holders can reserve **up to two seats per person per day**, wit
 
 For the official purchase and seat-booking sequence, see our [KORAIL Pass booking guide](/posts/korail-pass-prices-how-to-book/). For the ride from Incheon Airport into Seoul before taking a train, compare the [AREX airport rail options](/posts/incheon-airport-arex-guide/).
 
+If you are buying transport, mobile data and sightseeing together, run through our [seven Korea travel mistakes that can waste your money](/posts/korea-travel-booking-mistakes/) before checkout. It applies the same total-cost check to those other bookings.
+
 If you will stay in Seoul between train journeys, our [hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) can help you compare access to your departure station.
 
 **Sources and scope:** This guide uses KORAIL's own [pass page](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), the Korea Tourism Organization's [rail overview](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140656) and its [Pass+ explainer](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1563646). No sample city-to-city fare is presented as a current quote; search your exact journey on the official booking site.
