@@ -1,7 +1,7 @@
 ---
 title: "Incheon Airport AREX Guide 2026: Express vs All-Stop Train"
 date: 2026-08-28T08:00:00-05:00
-lastmod: 2026-09-25
+lastmod: 2026-09-29
 slug: "incheon-airport-arex-guide"
 description: "Compare AREX Express and All-Stop trains from Incheon Airport to Seoul in 2026, including fares, travel times, tickets, luggage, and transfers."
 categories: ["k-travel"]
@@ -64,6 +64,16 @@ The Express uses assigned seating. Tickets can be purchased through the official
 Choose the terminal where you are physically standing, select a departure you can realistically reach, and keep enough time to walk to the platform. A flight's arrival time is not the same as your train-ready time: immigration, baggage claim, customs, restroom stops, and finding the station all come first. A flexible traveler should check actual departures only after clearing arrivals instead of committing to an unrealistically tight train.
 
 As of the September 25 check, AREX lists an adult Express fare of **KRW 13,000** and a child fare of **KRW 9,500**. The same official page labels the normal adult fares as KRW 18,500 from T1 and KRW 19,100 from T2. Because the displayed selling fare can be revised or tied to the operator's current pricing policy, treat KRW 13,000 as the official listed fare at this check—not a permanent promise. Confirm the amount before paying, and compare any third-party ticket against the official total and its change or refund conditions.
+
+### Optional: buying an Express ticket through Klook
+
+Klook also sells the **AREX Express**, with app activation to select a departure and seat. Compare its final total with the official fare above. The [Klook product terms](https://www.klook.com/activity/1163-airport-to-seoul-city-center-arex-train-incheon/), checked **September 29, 2026**, say the booking cannot be cancelled, refunded or changed. Confirm **T1 or T2 and your direction** before paying: Klook-activated tickets cannot be used at a different terminal. Travelers on one booking must activate together for the same departure; book separately if you will travel separately.
+
+Use this option only if the Express fits your destination. It does not serve Hongdae or Gongdeok, and the All-Stop remains the cheaper rail choice. Check the voucher's activation instructions before boarding.
+
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="KOREA_AREX_EXPRESS_KLOOK" pos="ticket-comparison" >}}
 
 ### Paying for the All-Stop Train
 

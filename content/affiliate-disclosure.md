@@ -2,7 +2,7 @@
 title: "Affiliate Disclosure"
 description: "How LoveKorea identifies affiliate links, sponsored content, and advertising, including the current status of these features."
 date: 2026-07-02
-lastmod: 2026-09-28
+lastmod: 2026-09-29
 draft: false
 showToc: true
 disableComments: true
@@ -10,9 +10,9 @@ disableRelated: true
 disableShare: true
 ---
 
-Last updated: September 28, 2026
+Last updated: September 29, 2026
 
-LoveKorea uses Viator affiliate links in selected tour guides and on our tour comparison page. If you follow a tracked link and make an eligible booking, LoveKorea may earn a commission at no extra cost to you. Other ordinary links to booking platforms, retailers, and official sources do not by themselves mean that LoveKorea receives a commission.
+LoveKorea uses Klook affiliate links in selected transport and sightseeing guides, and Viator affiliate links in selected tour guides and on our tour comparison page. If you follow a tracked link and make an eligible booking, LoveKorea may earn a commission at no extra cost to you. Other ordinary links to booking platforms, retailers, and official sources do not by themselves mean that LoveKorea receives a commission.
 
 The article identifies the affiliate relationship near the recommendation. Check the provider's current price and terms before buying.
 
@@ -24,7 +24,7 @@ We use tagged links to understand whether a reader visits the shop from a releva
 
 ## What Affiliate Links Mean
 
-Affiliate programs allow a publisher to earn referral revenue from eligible purchases or bookings made through tracked links. Our current tracked tour links lead to Viator. Other providers mentioned below are categories we may consider later, not claims of active partnerships.
+Affiliate programs allow a publisher to earn referral revenue from eligible purchases or bookings made through tracked links. Our current tracked travel links lead to Klook and Viator. We label these recommendations as paid affiliate links. Some other links, including broad Klook searches and Booking.com links, are ordinary links without commission tracking. The categories below do not by themselves imply an active partnership.
 
 This can include links to:
 

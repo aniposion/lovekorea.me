@@ -1,7 +1,7 @@
 ---
 title: "Seoul City Tour Bus 2026: Tickets, Prices, Routes & Booking"
 date: 2026-01-20T08:48:12.728096
-lastmod: 2026-09-25
+lastmod: 2026-09-29
 slug: "seoul-city-tour-bus-how-to-book-tickets-prices"
 description: "Compare the official Seoul City Tour Bus daytime and night routes, current starting prices, same-day ticket rules, boarding, and which pass to choose."
 categories: ["k-travel"]
@@ -53,6 +53,16 @@ There is one departure per operating evening. The operator advises arriving **at
 4. If you booked online, give staff the **name on the reservation** and collect your boarding pass. Show that pass to the driver. Arrive early if you hope to sit upstairs; the pass does not reserve a particular seat or bus type.
 
 For these courses, the operator applies the **child fare from 48 months through age 18**. A child under 48 months may ride free **without a seat**, limited to **one per accompanying adult**. Check the exact conditions on your chosen course before purchasing. Attraction admission, meals, and other paid stops are separate unless a particular ticket explicitly includes them.
+
+### Optional: Klook booking for the daytime course
+
+Klook lists the **Downtown, Palaces & Namsan daytime course** as an alternative booking channel. Its [package details](https://www.klook.com/activity/87163-seoul-city-tour-bus-seoul-trip-center-palaces-course-hop-on-hop-off-bus-tour-seoul/), checked **September 29, 2026**, require using the ticket on your selected date and exchanging the voucher at the Gwanghwamun ticket office. Cancellation fees depend on how close you are to departure; a used ticket is not refundable. Compare the final price and cancellation conditions with the operator's own booking page above.
+
+This link is for the daytime loop. Choose the separate night course through the operator if that is the ride you want.
+
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="SEOUL_CITY_BUS_KLOOK" pos="booking-options" >}}
 
 ## Which option is worth the money?
 

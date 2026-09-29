@@ -7,8 +7,8 @@
 # - Amazon links must be direct amazon.com URLs. Do not route them through /go/.
 # - Keep Amazon slots inactive until the Associates account and tracking tag are ready.
 # - active controls whether a slot renders; affiliate controls commission disclosure and event type.
-# - Klook and Booking.com URLs below are direct, untracked links until a program is approved.
-# - The Viator tour URL below was generated in the LoveKorea partner dashboard.
+# - Klook and Viator affiliate URLs were generated in the LoveKorea partner dashboards.
+# - Broad Klook search links and Booking.com links remain direct and untracked.
 # - External affiliate links render with rel="nofollow sponsored noopener".
 # =============================================================================
 
@@ -22,6 +22,40 @@ KOREA_ESIM_LGU_DATA:
   url: "https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data"
   cta: "View LG U+ Data eSIM"
   disclaimer: "Direct carrier link. Prices and terms can change."
+
+# Klook tickets: official generated links, with a separate ad/custom tag per article.
+KOREA_AREX_EXPRESS_KLOOK:
+  active: true
+  affiliate: true
+  provider: klook
+  title: "Optional: book the AREX Express on Klook"
+  subtitle: "For a reserved-seat ride between Incheon Airport and Seoul Station."
+  url: "https://affiliate.klook.com/redirect?aid=137134&aff_adid=1465835&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F1163-airport-to-seoul-city-center-arex-train-incheon%2F"
+  cta: "Check AREX tickets on Klook"
+  disclaimer: "Express only. Confirm direction, terminal, activation instructions and the non-refundable terms before paying."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
+SEOUL_CITY_BUS_KLOOK:
+  active: true
+  affiliate: true
+  provider: klook
+  title: "Optional: book the daytime city tour bus on Klook"
+  subtitle: "Downtown, Palaces & Namsan hop-on, hop-off course."
+  url: "https://affiliate.klook.com/redirect?aid=137134&aff_adid=1465837&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87163-seoul-city-tour-bus-seoul-trip-center-palaces-course-hop-on-hop-off-bus-tour-seoul%2F"
+  cta: "Check daytime bus tickets on Klook"
+  disclaimer: "Selected-date ticket; exchange the voucher for a physical ticket. Check the cancellation fee and final total."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
+SEOUL_CITY_BUS_COMPARE_KLOOK:
+  active: true
+  affiliate: true
+  provider: klook
+  title: "Chosen the sightseeing bus? Compare a Klook ticket"
+  subtitle: "Downtown, Palaces & Namsan daytime course. Compare with the operator's own price."
+  url: "https://affiliate.klook.com/redirect?aid=137134&aff_adid=1465840&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87163-seoul-city-tour-bus-seoul-trip-center-palaces-course-hop-on-hop-off-bus-tour-seoul%2F"
+  cta: "Check daytime bus tickets on Klook"
+  disclaimer: "Confirm your date, ticket exchange and cancellation conditions. This is not a subway pass or night-tour ticket."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
 
 # Tour and activity deals
 BUSAN_GAMCHEON_JAGALCHI_TOUR:

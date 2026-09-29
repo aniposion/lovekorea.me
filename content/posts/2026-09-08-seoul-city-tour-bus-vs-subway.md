@@ -1,6 +1,7 @@
 ---
 title: "Seoul City Tour Bus vs Subway 2026: Cost, Routes & Best Choice"
 date: 2026-09-08T08:00:00-05:00
+lastmod: 2026-09-29
 slug: "seoul-city-tour-bus-vs-subway"
 description: "Compare Seoul City Tour Bus and subway costs, routes, speed, comfort, and 2026 pass options to choose the best fit for your sightseeing day."
 categories: ["k-travel"]
@@ -173,6 +174,12 @@ For the city tour bus:
 - Check Monday and holiday closure rules.
 - Confirm the last useful departure for your planned hop-off stop, not only the first-stop timetable.
 - Carry no open food or drinks; the operator prohibits them onboard.
+
+If you have chosen the **daytime sightseeing loop**, compare the [official operator's ticket](https://www.seoulcitybus.com/en/tours/1) with Klook's current total. The Klook option below is the selected-date **Downtown, Palaces & Namsan** course; ticket exchange and conditional cancellation apply. See our [booking guide](/posts/seoul-city-tour-bus-how-to-book-tickets-prices/#optional-klook-booking-for-the-daytime-course) for the conditions checked September 29, 2026. Choose ordinary transit if your priority is the lowest fare or destinations outside this loop.
+
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="SEOUL_CITY_BUS_COMPARE_KLOOK" pos="booking-checklist" >}}
 
 For the subway:
 
