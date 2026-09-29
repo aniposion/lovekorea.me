@@ -2,7 +2,7 @@
 title: "Contact"
 description: "Contact LoveKorea for corrections, editorial questions, privacy requests, affiliate questions, or advertising inquiries."
 date: 2026-07-02
-lastmod: 2026-09-23
+lastmod: 2026-09-28
 draft: false
 showToc: true
 disableComments: true
@@ -38,6 +38,8 @@ When requesting a correction, please include:
 We aim to keep LoveKorea practical and accurate, but travel schedules, prices, product availability, and policies can change quickly.
 
 ## Advertising and Affiliate Questions
+
+For English content projects, sponsored guides and affiliate proposals, see [Work with LoveKorea](/work-with-us/) for available services and what to include in your brief.
 
 For advertising, affiliate, or partnership questions, include:
 

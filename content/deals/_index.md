@@ -11,7 +11,7 @@ Use this hub when you already know you want to compare booking or shopping optio
 
 - We prefer reputable booking platforms with clear cancellation, pickup, and price information.
 - Current booking links take you directly to the provider.
-- We describe any paid link beside the recommendation if that changes.
+- Paid affiliate links are identified beside the recommendation; ordinary provider links are labeled separately.
 - Our [Affiliate Disclosure](/affiliate-disclosure/) explains how links are labeled.
 
 Prices and availability change frequently. Use the linked guide pages to compare what is included before checking current rates.

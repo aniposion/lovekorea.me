@@ -8,6 +8,8 @@
  * 
  * Sends 'affiliate_click' only for approved tracked partner links.
  * Direct booking links use the separate 'offer_outbound_click' event.
+ * Business email links use 'business_inquiry_click'; opening an email
+ * composer is an expression of interest, not a submitted inquiry or sale.
  * Both offer events include:
  * - slot: Offer slot key (e.g., KOREA_TOUR_DEALS)
  * - pos: Position in page (top/mid/bottom)
@@ -51,6 +53,7 @@
 
   function handleClick(e) {
     var anchor = e.target.closest ? e.target.closest('a[href]') : null;
+    if (handleBusinessInquiryClick(anchor)) return;
     var ownedShopUrl = getOwnedShopUrl(anchor);
 
     if (!ownedShopUrl) {
@@ -68,6 +71,34 @@
       page_path: window.location.pathname,
       link_url: ownedShopUrl.href
     });
+  }
+
+  function handleBusinessInquiryClick(anchor) {
+    if (!anchor) return false;
+    var url;
+    try {
+      url = new URL(anchor.getAttribute('href') || '', window.location.href);
+    } catch (e) {
+      return false;
+    }
+    if (url.protocol !== 'mailto:' || url.pathname.toLowerCase() !== 'admin@yoonisoft.com') {
+      return false;
+    }
+    var types = {
+      'LoveKorea content project': 'content_project',
+      'LoveKorea sponsorship inquiry': 'sponsorship',
+      'LoveKorea affiliate partnership': 'affiliate_partnership'
+    };
+    var type = types[url.searchParams.get('subject')];
+    if (!type || typeof type !== 'string') return false;
+    var gtag = getGtag();
+    if (gtag) {
+      gtag('event', 'business_inquiry_click', {
+        inquiry_type: type,
+        page_path: window.location.pathname
+      });
+    }
+    return true;
   }
 
   // Tracked partner links and direct booking links have separate event names.
@@ -131,7 +162,7 @@
 
   // Expose for debugging
   window.__affiliateTracking = {
-    version: '2.2.1',
+    version: '2.3.0',
     test: function() {
       console.log('[Affiliate Tracking] Test mode - gtag available:', !!getGtag());
     }
