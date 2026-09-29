@@ -63,6 +63,11 @@
 
 {{- /* Canonical */ -}}
 <link rel="canonical" href="{{ with .Params.canonicalURL }}{{ . | trim | safeURL }}{{ else }}{{ .Permalink }}{{ end }}"> 
+{{- if .IsHome }}
+{{- with site.Params.impactSiteVerification }}
+<meta name="impact-site-verification" value="{{ . }}">
+{{- end }}
+{{- end }}
 {{- if site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ site.Params.analytics.google.SiteVerificationTag }}">
 {{- end }}

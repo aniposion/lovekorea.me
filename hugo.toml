@@ -18,6 +18,7 @@ defaultContentLanguage = "en"
   images = ["images/lovekorea-og.png"]
   mainSections = ["posts"]
   ogLocale = "en_US"
+  impactSiteVerification = "abe5ae0f-fca4-4f4c-aaeb-e825764f5c65"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
