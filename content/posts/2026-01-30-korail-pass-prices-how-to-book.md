@@ -1,7 +1,7 @@
 ---
 title: "How to Book a KORAIL Pass and Reserve KTX Seats"
 date: 2026-01-30T08:30:59.205178
-lastmod: 2026-09-23
+lastmod: 2026-10-01
 slug: "korail-pass-prices-how-to-book"
 description: "A practical booking checklist for foreign visitors: buy the KORAIL Pass, set Select travel days, reserve KTX seats, carry your passport and avoid common mistakes."
 categories: ["k-travel"]
@@ -25,7 +25,7 @@ If you have not compared prices yet, start with our [official KORAIL Pass fare t
 ## Before purchase: four checks
 
 1. **Eligibility:** KORAIL offers this pass to foreign visitors; people with Korean nationality cannot use it under its published rules. Enter the name and passport details of the actual traveler, because the pass is not transferable.
-2. **Train coverage:** Check that your planned journeys use eligible KORAIL trains. [KORAIL](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) excludes **SRT, metropolitan subway and temporary tourist trains**.
+2. **Train coverage:** Check that your planned journeys use eligible KORAIL trains. The [current KORAIL pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 1, excludes **metropolitan railways and temporary tourist trains**. Confirm your exact service in the pass booking screen.
 3. **Travel days:** The Select Pass gives you **2, 3, 4 or 5 selected days within 10 days** from the start date. Count the dates on which you will board eligible trains, including your return leg.
 4. **Seats and alternatives:** Look at individual ticket prices and available trains first. If you require a seat at a fixed time, check availability before treating the pass as a solution to a sold-out departure.
 
@@ -49,7 +49,9 @@ The [KORAIL guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/
 4. Search for your departure and arrival stations, date and train. Confirm that the selected train is eligible for the pass.
 5. Choose an available standard-class seat, finish the reservation and retain the seat-reservation ticket alongside the pass.
 
-KORAIL says reservations open **one month before departure** and allows **up to two reserved seats per person per day**. If you need to change a reserved train, cancel the old reservation under KORAIL's current rules before searching for another. First-class seats require an additional payment according to the official guide.
+**Booking-window check, October 1, 2026:** KORAIL's [general ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets) now opens ordinary tickets **two months before departure**. Its separate pass guide still says **one month** for pass seat reservations. Confirm the date available in your pass's Seat Reservation screen or with KORAIL; the two pages do not establish whether the pass wording is awaiting an update. See our [KTX two-month booking-window explanation](/posts/ktx-booking-two-months-ahead/).
+
+KORAIL allows **up to two reserved seats per person per day** with the pass. If you need to change a reserved train, cancel the old reservation under KORAIL's current rules before searching for another. First-class seats require an additional payment according to the official guide.
 
 **A pass is not a promise of a seat.** KORAIL says that when reservations are sold out, a pass holder may use a standing place with a valid pass and passport under its rules. That may be unsuitable for a long ride, a traveler who must sit or a tightly timed connection. Check your particular train before relying on this option.
 
@@ -57,7 +59,7 @@ KORAIL says reservations open **one month before departure** and allows **up to 
 
 Carry the **same passport** used for the named pass. Have the valid pass and, if you reserved a seat, its reservation ticket ready to show. KORAIL says a ticket displayed through its mobile website is valid but **a screenshot of a train ticket is not**. Make sure you can load the original pass and reservation if your phone has limited connectivity or power; ask KORAIL about an acceptable alternative before travel if you cannot.
 
-Check the departure **station**, not only the city. Seoul-area journeys may leave from Seoul, Yongsan, Cheongnyangni or another station; SRT normally uses different stations and is excluded from the pass. Leave time to reach the platform and verify the train number.
+Check the departure **station**, not only the city. Seoul-area journeys may leave from Seoul, Yongsan, Cheongnyangni or another station. Confirm that your selected service is eligible for the pass, leave time to reach the platform and verify the train number.
 
 ## Common booking mistakes
 

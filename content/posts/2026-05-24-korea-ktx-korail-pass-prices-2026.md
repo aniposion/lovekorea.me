@@ -1,7 +1,7 @@
 ---
 title: "KORAIL Pass Prices 2026: Official Fares and When It Saves Money"
 date: 2026-05-24T15:17:49.140486
-lastmod: 2026-09-23
+lastmod: 2026-10-01
 slug: "korea-ktx-korail-pass-prices-2026"
 description: "Compare KORAIL's published 2-, 3-, 4- and 5-day Select Pass fares with your own KTX itinerary. Includes eligibility, exclusions, seat rules and Pass+."
 categories: ["k-travel"]
@@ -41,7 +41,7 @@ Make the comparison with a short worksheet:
 
 1. Write each intended train leg with its **date, departure station, arrival station and class**.
 2. Look up the available individual fare for each train through [KORAIL's official booking site](https://www.korail.com/global). Use only trains that the pass actually covers.
-3. Add those individual fares. Keep subway, airport transfer, SRT and other uncovered transport in a separate column.
+3. Add those individual fares. Keep subway, airport transfer and other uncovered transport in a separate column.
 4. Compare that sum with the **matching pass duration** in the table above. Count the number of calendar days on which you will take covered trains, not the number of cities visited.
 5. Check seat availability for your intended departures before buying. A pass is not a guarantee of a reserved seat on a full train.
 
@@ -53,9 +53,11 @@ A Seoul–Busan round trip alone can fall on two travel days, but whether the pa
 
 [KORAIL says](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) the pass is for **foreign visitors to Korea** and is unavailable to people with Korean nationality. The pass is personal and requires the named traveler's valid passport. If your nationality or travel status is unusual, check eligibility with KORAIL before buying.
 
-The pass covers eligible KORAIL-operated passenger trains, including KTX and many conventional intercity trains. It **does not cover SRT, metropolitan subways or temporary tourist trains**, according to [KORAIL](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) and the [Korea Tourism Organization's rail guide](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140656). Check the train operator shown in your search results. A fast train from a Seoul-area station is not automatically a covered KTX.
+The pass covers eligible KORAIL-operated passenger trains. The [current KORAIL pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 1, excludes **metropolitan railways and temporary tourist trains**. Confirm your particular service in the pass booking screen; a station name or a train's speed alone does not establish coverage.
 
-KORAIL says pass holders can reserve **up to two seats per person per day**, with booking opening **one month before departure**. When seats are sold out, its guide describes travel in a standing place with a valid pass and passport, subject to its current conditions. For a long ride where you need a seat, check reservation availability before deciding that the pass fits your plan. First-class travel carries an additional charge under KORAIL's rules.
+KORAIL says pass holders can reserve **up to two seats per person per day**. **Booking-window check, October 1, 2026:** the [general ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets) now says **two months before departure**, but the separate pass guide still says **one month** for seat reservations. Those pages do not resolve whether the pass wording is awaiting an update. Confirm your date through the pass's Seat Reservation screen or with KORAIL before buying for a fixed departure. Our [October KTX booking-window update](/posts/ktx-booking-two-months-ahead/) explains the distinction.
+
+When seats are sold out, the pass guide describes travel in a standing place with a valid pass and passport, subject to its current conditions. For a long ride where you need a seat, check reservation availability before deciding that the pass fits your plan. First-class travel carries an additional charge under KORAIL's rules.
 
 ## What about KORAIL Pass+?
 
@@ -67,7 +69,7 @@ KORAIL says pass holders can reserve **up to two seats per person per day**, wit
 - Confirm that all planned train days fit inside the 10-day Select window and that each train is eligible.
 - Check reservation availability, especially for holiday or weekend travel. The [tourism organization](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140656) notes that standard seats can be reserved twice a day with the pass.
 - Read KORAIL's current rules for cancellation, changing the starting date, identity documents and showing your pass on the train. A screenshot of a ticket is not accepted under its published conditions.
-- Add separate airport transfer, subway, SRT and last-mile costs to your trip budget.
+- Add separate airport transfer, subway and last-mile costs to your trip budget.
 
 For the official purchase and seat-booking sequence, see our [KORAIL Pass booking guide](/posts/korail-pass-prices-how-to-book/). For the ride from Incheon Airport into Seoul before taking a train, compare the [AREX airport rail options](/posts/incheon-airport-arex-guide/).
 
