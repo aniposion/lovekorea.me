@@ -7,6 +7,7 @@ description: "Old Seoul–Busan bus fares can mislead your budget after October 
 categories: ["k-travel"]
 topic_pillar: "k-travel"
 target_intent: "booking"
+TocOpen: false
 tags: ["Seoul to Busan", "KTX", "Korea express bus", "Busan travel", "Korea train tickets", "Seoul transport", "Korea itinerary", "travel budget"]
 cover:
   image: "images/seoul-busan-ktx-vs-express-bus-cover.webp"
