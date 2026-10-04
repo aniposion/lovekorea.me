@@ -1,0 +1,28 @@
+<form class="lk-cost-tool" data-hotel-cost aria-labelledby="hotel-cost-heading">
+  <h3 id="hotel-cost-heading">Which stay costs less for your trip?</h3>
+  <p>Enter quotes for the same dates, guests, rooms, and cancellation terms. All amounts are in Korean won (KRW).</p>
+  <label for="hotel-nights">Number of nights</label>
+  <input id="hotel-nights" name="nights" type="number" min="1" max="365" step="1" value="3" required>
+  <div class="lk-cost-tool__options">
+    <fieldset>
+      <legend>Hotel A</legend>
+      <label for="hotel-a-rate">Average nightly total for all your rooms, including tax</label>
+      <input id="hotel-a-rate" name="aRate" type="number" min="0" max="100000000" step="1" inputmode="numeric" required>
+      <label for="hotel-a-extras">Extras for the whole stay: transport, meals, fees</label>
+      <input id="hotel-a-extras" name="aExtras" type="number" min="0" max="100000000" step="1" inputmode="numeric" value="0" required>
+    </fieldset>
+    <fieldset>
+      <legend>Hotel B</legend>
+      <label for="hotel-b-rate">Average nightly total for all your rooms, including tax</label>
+      <input id="hotel-b-rate" name="bRate" type="number" min="0" max="100000000" step="1" inputmode="numeric" required>
+      <label for="hotel-b-extras">Extras for the whole stay: transport, meals, fees</label>
+      <input id="hotel-b-extras" name="bExtras" type="number" min="0" max="100000000" step="1" inputmode="numeric" value="0" required>
+    </fieldset>
+  </div>
+  <button type="submit" disabled>Compare trip totals</button>
+  <output class="lk-cost-tool__result" aria-live="polite">Add your two hotel quotes to compare.</output>
+  <p class="lk-cost-tool__note">Total = nightly room total × nights + whole-stay extras. Results use your entries; they are not live hotel quotes. These inputs are calculated in your browser and are not submitted.</p>
+  <noscript><p>JavaScript is off. Use the formula above to compare the two totals.</p></noscript>
+</form>
+<link rel="stylesheet" href="{{ "css/hotel-cost-comparison.css" | relURL }}">
+<script defer src="{{ "js/hotel-cost-comparison.js" | relURL }}"></script>

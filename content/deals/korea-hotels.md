@@ -17,6 +17,8 @@ cover:
 
 Choose an area before filtering by star rating. The links below open broad Booking.com searches, not individually reviewed hotels. Check the actual address, room details and final price for your dates.
 
+Start with the [Seoul hotel-area comparison and trip-cost calculator](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) to compare two real quotes, including room charges and transport costs, before opening a booking search.
+
 {{< affiliate-disclosure type="direct" >}}
 
 ## Seoul Accommodations

@@ -24,11 +24,6 @@ monetize:
 > - 👥 Best for: First-timers, families, travelers doing multiple paid attractions/activities in 1–3 days
 > - ✅ TL;DR: Jeju Tour Pass bundles rental car + attraction/experience discounts; best value when you plan multiple ticketed spots and reserve early in peak season.
 
-## Before you dive in
-
-![Before you dive in](/images/jeju-tour-pass-prices-2026-best-spots-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Jeju is one of those destinations where your itinerary can swing wildly depending on two things: how you get around and how many paid attractions/activities you plan to do. That’s why the **Jeju Tour Pass (제주 투어 패스)** has become such a popular shortcut for travelers—especially first-timers who want to bundle the essentials and spend less time juggling separate bookings.
 

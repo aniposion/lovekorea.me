@@ -26,14 +26,6 @@ monetize:
 > - 👥 Best for: Culture lovers, photographers, slow travel, nature walks, wellness/quiet retreats
 > - ✅ TL;DR: Visit Bulguksa, Haeinsa, Songgwangsa, and Daeheungsa for Korea’s history, nature, and calm—go in spring/fall, dress modestly, stay quiet, and check photo/food rules.
 
-## Before you dive in
-
-![Before you dive in](/images/korea-famous-temples-guide-h2-0.webp)
-
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-
 
 ## Complete Guide to 한국의 유명한 사찰 여행하기
 

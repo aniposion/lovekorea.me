@@ -26,14 +26,6 @@ monetize:
 > - 👥 Best for: First-time Seoul visitors, culture/history lovers, photographers, families
 > - ✅ TL;DR: Choose 2–3 palaces, check closed days and last entry times, consider the integrated pass, and visit early for the best photos.
 
-## Before you dive in
-
-![Before you dive in](/images/korea-historic-palaces-guide-h2-0.webp)
-
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-
 
 Seoul is one of the few global capitals where you can step from a neon shopping street straight into a royal courtyard built for a dynasty. Visiting Korea’s historic palaces isn’t just “something touristy to do”—it’s one of the most direct ways to understand Joseon-era aesthetics, values, and daily life through architecture, gardens, and ceremonial spaces.
 

@@ -1,3 +1,14 @@
+"""Legacy paid generator, retained for reference rather than unattended publishing.
+
+The active editorial workflow is documented in docs/editorial-review.md.
+Stop before importing clients, reading credentials, or making paid API calls.
+"""
+if __name__ == "__main__":
+    raise SystemExit(
+        "Legacy automatic generation is disabled. Prepare a source-checked draft "
+        "and follow docs/editorial-review.md before publishing."
+    )
+
 import os
 import re
 import json
@@ -1174,12 +1185,15 @@ Use this outline. Treat each item as an H2 heading (## ...):
 
 Requirements:
 - Start with "# {plan.get('seo_title')}" as the H1 title.
-- Minimum {MIN_WORDS} words.
+- Use only the length needed to answer the reader's question; do not pad to a word count.
 - Each H2 section should help with decision-making or practical understanding:
   - what to choose, how to use it, what it means, what to avoid, or where to buy if relevant.
 - Use price RANGES with "as of {CURRENT_YEAR}" phrasing, not exact prices.
 - Only include specific numbers if directly supported by research summary.
-- Naturally include soft CTAs in text (e.g., "check current prices", "compare deals") but do NOT add actual URLs.
+- Link directly to the verified source for every price, timetable, rule, or product claim.
+- Never cite an internal research summary as evidence or invent a source URL.
+- Do not invent personal visits, purchases, product tests, or reader testimonials.
+- Do not add generic booking calls to action or unsupported savings claims.
 - Do NOT add any affiliate links or special tokens. (We will inject shortcodes separately.)
 - End with a complete, encouraging sentence.
 
@@ -1200,13 +1214,13 @@ def expand_content(md: str, keyword: str) -> str:
 You are improving an existing blog post for a Korea travel & lifestyle blog.
 
 Goal:
-- Expand the post to at least {MIN_WORDS} words.
+- Improve the answer only where verified information is missing; no minimum word count.
 - Keep the same title and general H2 structure.
 - Do NOT remove sections. Add depth:
   - extra practical examples,
   - more price RANGES in KRW (not exact prices),
   - clearer step-by-step guidance,
-  - short personal-style mini stories.
+  - clearly labeled hypothetical calculations, never invented personal stories.
 
 === PRICE & BUDGET GUIDELINES (Anti-hallucination) ===
 - Use PRICE RANGES, not exact prices (e.g., "₩50,000-80,000" not "₩65,000")

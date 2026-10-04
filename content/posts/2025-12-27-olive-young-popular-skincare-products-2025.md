@@ -26,14 +26,6 @@ monetize:
 > - 👥 Best for: Travelers who want proven K-beauty staples and easy, one-stop skincare shopping
 > - ✅ TL;DR: Buy Olive Young bestsellers like Dr.G Red Blemish, Torriden ceramide, and AESTURA 365—shop during 올영세일 or Olive Young Day for the best prices.
 
-## Before you dive in
-
-![Before you dive in](/images/olive-young-popular-skincare-products-2025-h2-0.webp)
-
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-
 
 If you’re traveling in Korea (or simply building a K-beauty routine from abroad), Olive Young is the fastest way to understand what Koreans actually buy—because it’s where trends, derm-inspired staples, and wallet-friendly “holy grails” collide in one aisle. The catch is that the shelves are packed, the labels are in Korean, and the “Top” tags can make everything look equally essential.
 

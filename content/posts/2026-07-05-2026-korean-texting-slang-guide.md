@@ -20,11 +20,6 @@ cover:
 > - 👥 Best for: Korean learners, K-pop fans, exchange students, expats, and beginners decoding casual Korean chats
 > - ✅ TL;DR: ㅋㅋ means laughter, ㅠㅠ means crying or emotion, ㅇㅋ means OK, ㄱㄱ means let’s go, and ㅈㅅ means sorry—but all are casual.
 
-## Before you dive in
-
-![Before you dive in](/images/2026-korean-texting-slang-guide-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Korean texting can feel like a secret code at first. You may know how to read Hangul, understand basic Korean grammar, and recognize everyday words like 안녕하세요, 감사합니다, and 괜찮아요—but then you open a KakaoTalk chat, YouTube comment, Instagram DM, gaming stream, or K-pop fan community and see things like:
 

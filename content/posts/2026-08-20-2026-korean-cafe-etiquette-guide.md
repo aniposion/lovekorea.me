@@ -26,11 +26,6 @@ monetize:
 > - 👥 Best for: First-time visitors, solo travelers, students, digital nomads, and cafe lovers
 > - ✅ TL;DR: Check the cafe's own rules, order before settling in unless staff says otherwise, keep bags off needed seats, and return your tray when a return station is provided.
 
-## Before you dive in
-
-![A traveler checking a small neighborhood cafe entrance on a quiet Seoul street](/images/2026-korean-cafe-etiquette-guide-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Korean cafes can be tiny espresso bars, sprawling bakery cafes, quiet study spaces, converted hanok houses, rooftop viewpoints, or highly designed places built around a single dessert. That variety is part of the fun, but it also means there is no single rulebook that applies everywhere.
 

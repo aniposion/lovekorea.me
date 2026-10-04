@@ -26,6 +26,15 @@
       {{- partial "post_canonical.html" . -}}
     </div>
     {{- end }}
+    {{- if eq .Section "posts" }}
+    <p class="post-meta">
+      <a href="/about/#publishing-notes">About LoveKorea</a>
+      &nbsp;·&nbsp; <a href="/editorial-policy/">Sources and editorial method</a>
+      {{- if gt .Lastmod .Date }}
+      &nbsp;·&nbsp; Updated <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "Jan 2, 2006" }}</time>
+      {{- end }}
+    </p>
+    {{- end }}
   </header>
 
   {{- if (.Param "ShowToc") }}

@@ -31,7 +31,7 @@ defaultContentLanguage = "en"
   ShowCover = true
   ShowSummaryCover = true
   disableSpecial1stPost = true
-  TocOpen = true
+  TocOpen = false
   comments = "giscus"
 
   [params.homeInfoParams]

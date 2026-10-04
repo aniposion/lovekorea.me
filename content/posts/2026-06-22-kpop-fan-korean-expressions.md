@@ -20,11 +20,6 @@ cover:
 > - 👥 Best for: International K-pop fans, Korean learners, concertgoers, Weverse/X users, and new fandom members
 > - ✅ TL;DR: 최애 means your top bias, 입덕 means becoming a fan, 컴백 means a new release era, and 응원법 means the coordinated fan chant used at performances.
 
-## Before you dive in
-
-![Before you dive in](/images/kpop-fan-korean-expressions-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 If you follow K-pop even casually, you have probably seen Korean fandom words that do not translate neatly into English: **최애**, **입덕**, **덕질**, **컴백**, **응원법**, and many more. They appear in YouTube comments, Weverse posts, X threads, concert notices, album unboxings, music-show clips, and fan café culture. You may understand the basic translation, but the real meaning often depends on how Korean fans use the word.
 

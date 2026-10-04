@@ -24,11 +24,6 @@ monetize:
 > - 👥 Best for: Travelers building a Korean base routine, office workers needing quick touch-ups, first-time K-beauty shoppers
 > - ✅ TL;DR: Choose cushion for portability and natural touch-ups; choose foundation for higher coverage and finish control (matte/glow). Match by skin type and keep tools clean.
 
-## Before you dive in
-
-![Before you dive in](/images/cushion-vs-foundation-korean-makeup-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Korean base makeup is famous for looking like *skin*, not a mask—smooth, even, softly lit, and believable up close. If you’ve ever stood in an Olive Young aisle (or scrolled a Korean beauty app at midnight) wondering whether you should buy a cushion or a foundation, you’re not alone. In Korea, both are everyday staples, but they’re used differently depending on lifestyle, skin type, and the exact “finish” you’re chasing: velvety matte, dewy glow, or that elusive semi-matte “blur” that still looks alive.
 

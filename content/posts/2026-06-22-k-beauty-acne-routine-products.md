@@ -26,11 +26,6 @@ monetize:
 > - 👥 Best for: Acne-prone, oily, combination, sensitive, or barrier-damaged skin shoppers
 > - ✅ TL;DR: Start with gentle cleanser, cica moisturizer, and sunscreen; add salicylic acid 2-3 times weekly if clogged pores or blackheads are the main concern.
 
-## Before you dive in
-
-![Before you dive in](/images/k-beauty-acne-routine-products-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 If you have acne-prone skin and love K-beauty, you have probably seen three ingredient names again and again: salicylic acid, tea tree, and cica. In Korean, this topic is often described as 여드름 피부를 위한 K-뷰티 루틴, or a K-beauty routine for acne-prone skin. The challenge is not finding products—there are hundreds—but understanding which ingredient belongs where in your routine.
 

@@ -24,11 +24,6 @@ monetize:
 > - 👥 Best for: Beginners, families (submarine), couples, solo travelers who want easy-to-book sea experiences
 > - ✅ TL;DR: Reserve 1–2 weeks ahead in peak season. Gimnyeong for easy water activities, Jungmun/Iho for surf lessons, Udo for the iconic submarine.
 
-## Before you dive in
-
-![Before you dive in](/images/jeju-activity-top-10-tours-prices-tickets-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Jeju is famous for volcanic coastlines, unreal water clarity on the east side, and beaches that change personality with the season. If you’re planning a 2026 trip and want to prioritize ocean activities, three experiences consistently top the list for first-timers and repeat visitors alike: **snorkeling**, **surfing**, and the **Udo submarine tour**. The good news is that you don’t need to be a strong swimmer, a hardcore athlete, or a luxury traveler to enjoy them—you just need the right spot, the right day, and a plan that fits your budget.
 

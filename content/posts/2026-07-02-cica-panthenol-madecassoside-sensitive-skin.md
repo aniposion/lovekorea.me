@@ -26,11 +26,6 @@ monetize:
 > - 👥 Best for: Sensitive, redness-prone, dry, barrier-damaged, or post-breakout skin looking for calming and moisturizing products
 > - ✅ TL;DR: For sensitive skin, prioritize panthenol plus cica or madecassoside with barrier-supporting moisturizers, and avoid irritating fragrance-heavy formulas.
 
-## Before you dive in
-
-![Before you dive in](/images/cica-panthenol-madecassoside-sensitive-skin-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 If your skin becomes red, hot, tight, itchy, or stingy after cleansing, exfoliating, wearing a mask, trying retinol, or simply surviving Korean winter heating and summer humidity, you have probably searched for “cica cream,” “panthenol cream,” or “madecassoside ampoule.” In Korea, these ingredients are no longer short-lived K-beauty trends. They are now part of the everyday sensitive-skin category, especially for people dealing with redness, damaged skin barrier, post-breakout sensitivity, dryness, or over-exfoliation.
 

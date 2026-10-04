@@ -24,11 +24,6 @@ monetize:
 > - 👥 Best for: Travelers who want a dewy K-beauty look with reliable lasting power in heat/humidity
 > - ✅ TL;DR: For glow that lasts: prep well, use a thin base, set strategically, and finish with a fixer—then touch up shine only where needed.
 
-## Before you dive in
-
-![Before you dive in](/images/korea-glow-makeup-best-products-wear-time-prices-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 K-beauty “glow makeup” (글로우 메이크업) isn’t about looking oily or glittery—it’s about creating a healthy, hydrated sheen that makes skin look naturally alive. In Korea, that usually means: luminous base products layered thinly, strategic setting (yes, glow still needs setting), and a few smart long-wear choices so your shine reads “dewy” rather than “melted” by noon.
 

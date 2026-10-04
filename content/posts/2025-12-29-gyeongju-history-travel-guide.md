@@ -26,14 +26,6 @@ monetize:
 > - 👥 Best for: First-time Korea visitors, families seeking living history education, photographers (night scenery), slow travelers
 > - ✅ TL;DR: Plan around a few core UNESCO sites per day, use evenings for Donggung & Wolji, and match your route to the season to avoid fatigue and crowds.
 
-## Before you dive in
-
-![Before you dive in](/images/gyeongju-history-travel-guide-h2-0.webp)
-
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-
 
 Gyeongju (경주) isn’t just a “nice day trip” from Busan or Daegu—it’s one of the most immersive history destinations in Korea. Often called a “museum without walls,” the city was the capital of Silla (신라) for nearly a thousand years, and the density of tombs, palace sites, observatories, temples, and Buddhist art is hard to match anywhere else in the country.
 

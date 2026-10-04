@@ -24,11 +24,6 @@ monetize:
 > - 👥 Best for: First-time visitors, couples, families, photographers, and short-stay travelers
 > - ✅ TL;DR: Best easy picks are Seoul City Tour Bus night course, Han River cruise, N Seoul Tower, Seoul Sky, and seasonal palace night programs.
 
-## Before you dive in
-
-![Before you dive in](/images/seoul-night-view-tours-booking-top-10-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Seoul is one of Asia’s best cities after dark: neon-lit shopping streets, illuminated palace walls, glassy skyscrapers, Han River bridges, mountain viewpoints, and seasonal festivals all compete for your evening. But that is also why planning a night-view itinerary can feel confusing. Should you book a Han River cruise, go up N Seoul Tower, try Seoul Sky at Lotte World Tower, join a palace night program, or simply take a free walk along the Seoul City Wall?
 

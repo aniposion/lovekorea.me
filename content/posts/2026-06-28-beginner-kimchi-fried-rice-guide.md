@@ -20,11 +20,6 @@ cover:
 > - 👥 Best for: Beginners, students, solo cooks, kimchi lovers, and anyone using leftover rice
 > - ✅ TL;DR: Use sour kimchi, cold rice, a little soy sauce, and finish with sesame oil. Fry the kimchi first to avoid soggy rice.
 
-## Before you dive in
-
-![Before you dive in](/images/beginner-kimchi-fried-rice-guide-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Kimchi fried rice, or **kimchi-bokkeumbap** in Korean, is one of the most practical Korean home-cooking dishes you can learn. It is fast, flexible, budget-friendly, and forgiving enough for beginners—if you understand a few key rules.
 

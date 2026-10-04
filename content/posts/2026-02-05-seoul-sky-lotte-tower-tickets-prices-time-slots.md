@@ -24,11 +24,6 @@ monetize:
 > - 👥 Best for: First-time Seoul visitors, couples (night view), photographers
 > - ✅ TL;DR: Book online early for popular sunset slots; adult ₩31,000, child ₩27,000, Fast Pass ₩62,000; last entry 9–10pm depending on day.
 
-## Before you dive in
-
-![Before you dive in](/images/seoul-sky-lotte-tower-tickets-prices-time-slots-h2-0.webp)
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
 
 Seoul has no shortage of viewpoints—mountain hikes, café rooftops, riverside parks—but **서울 스카이 (Seoul Sky)** is the one that feels like you’re stepping into the skyline itself. Sitting at the very top of **Lotte World Tower** in Songpa-gu, this observatory spans **floors 117 to 123**, giving you a sweeping **360° view** over the Han River, central Seoul, and far beyond on clear days. It’s one of those “only in Seoul” experiences: ultra-modern elevators, dramatic glass views, and a cityscape that changes completely depending on the hour.
 

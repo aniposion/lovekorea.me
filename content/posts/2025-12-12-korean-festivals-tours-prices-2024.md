@@ -20,21 +20,6 @@ cover:
 > - 👥 Best for: Culture enthusiasts, families
 > - ✅ TL;DR: Explore Korea's rich culture through its regional festivals, with options for budget-friendly travelers.
 
-## Before you start planning
-
-![Before you start planning](/images/korean-festivals-tours-prices-2024-h2-0.webp)
-
-
-If you're thinking about **한국의 지역 축제와 행사 소개**, check current **tour and pass deals** first:
-
-- See which 1-day / 2-day tours are discounted right now
-- Compare DIY vs package prices in one place
-- Lock in cancellable options while you read this guide
-
-> (Deals note)
-> 👉 [Check Korea tour & pass deals](/deals/korea-tours/)
-
-
 
 ## Introduction to Korean Regional Festivals
 
@@ -183,15 +168,4 @@ Advance booking is recommended, especially for popular festivals which may sell 
 **Q: What are some money-saving tips for visiting Korean festivals?**
 
 Consider travel passes for public transport and look for package deals that include accommodation.
-
-## Ready to book your Korea trip?
-
-Instead of just closing the tab, take one small step now:
-
-- Compare **tours, passes, and tickets** for your dates
-- Check if any **city passes or discount cards** include these spots
-- Save 5–20% simply by booking online in advance
-
-> (Deals note)
-> 👉 [See current Korea deals](/deals/)
 

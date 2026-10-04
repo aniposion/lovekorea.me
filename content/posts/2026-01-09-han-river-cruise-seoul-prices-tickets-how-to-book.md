@@ -26,14 +26,6 @@ monetize:
 > - 👥 Best for: Couples, families, friends, first-time Seoul visitors, special occasions
 > - ✅ TL;DR: Book via E-Land Cruise online in advance (weekends sell out). Pick Tour (40m) for value, Sunset for views, Moonlight Music for fountain + live show.
 
-## Before you dive in
-
-![Before you dive in](/images/han-river-cruise-seoul-prices-tickets-how-to-book-h2-0.webp)
-
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-
 
 A Han River cruise (한강 유람선 크루즈) is one of those “only in Seoul” experiences that feels both tourist-friendly and genuinely local. The river runs straight through the city, and on the water you get a rare, open view of Seoul’s bridges, skyline, and the glow of riverside parks—without needing to hike a mountain or queue for a rooftop bar.
 

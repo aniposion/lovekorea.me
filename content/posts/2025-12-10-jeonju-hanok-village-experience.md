@@ -1,6 +1,7 @@
 ---
 title: "Jeonju Hanok Village 2026: Craft Experiences, Stays & Booking Tips"
 date: 2025-12-10T22:53:12.581655
+lastmod: 2026-10-03
 slug: "jeonju-hanok-village-experience"
 description: "Compare Jeonju Hanok Village craft experiences, hanok stays, prices, booking tips, food streets, and timing for a smoother Korea trip."
 categories: ["k-travel"]
@@ -63,7 +64,7 @@ After a day filled with crafting, unwind in a cozy nearby accommodation. Here ar
 
 - **Shilla Stay Jeonju Hanok Village**: Just a 15-minute walk from the village, this hotel offers clean, comfortable rooms with modern amenities such as a fitness center and laundry facilities. The view from the higher floors presents a fantastic panorama of the diverse cityscape—traditional hanoks against the backdrop of a modern city.
 
-- **Best Western Plus Jeonju**: Offering a rooftop garden and bicycle rentals, this hotel is an excellent choice just 10 minutes by foot from the village. I loved this place for its inviting community spaces where travelers exchange stories of their day’s adventures over a cup of tea.
+- **Best Western Plus Jeonju**: Offering a rooftop garden and bicycle rentals, this hotel is an excellent choice just 10 minutes by foot from the village.
 
 - **Labe Hotel**: Known for its spacious, well-equipped rooms boasting a styler and air purifier, this hotel also offers delightful breakfast options. The proximity to the village and quiet neighborhood make it a perfect retreat after a day bustling with activities.
 

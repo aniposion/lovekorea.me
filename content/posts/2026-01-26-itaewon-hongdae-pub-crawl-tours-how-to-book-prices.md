@@ -26,14 +26,6 @@ monetize:
 > - 👥 Best for: Solo travelers, small groups, first-time Seoul nightlife visitors, social travelers
 > - ✅ TL;DR: Book a reputable Itaewon/Hongdae pub crawl in advance for smoother club entry, a social group, and safer nightlife—expect 30k–50k KRW plus drinks.
 
-## Before you dive in
-
-![Before you dive in](/images/itaewon-hongdae-pub-crawl-tours-how-to-book-prices-h2-0.webp)
-
-
-If any part of this guide feels useful, take 10 seconds to bookmark it.
-
-
 
 Seoul is a city that stays awake late—and for many international travelers, the fastest way to “crack the code” of Korean nightlife is to join a pub crawl. In practice, an Itaewon or Hongdae pub crawl is a hosted night out where a group moves together through multiple bars (and usually at least one club), with the social part built in: introductions, icebreakers, and a route designed to keep the vibe moving.
 

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
@@ -16,7 +17,6 @@ from content_audit_lib import (
     load_published_posts,
     markdown_links,
     normalize_internal_url,
-    word_count,
 )
 
 
@@ -99,7 +99,6 @@ def score_page(page: ContentPage, old_before: datetime) -> QualityFinding:
     title_lower = f" {page.title.lower()} "
     body_lower = f" {page.body.lower()} "
     tone_body_lower = f" {prose_for_tone_scan(page.body).lower()} "
-    wc = word_count(page.body)
 
     if page.date < old_before:
         finding.add(1, "old post")
@@ -113,12 +112,19 @@ def score_page(page: ContentPage, old_before: datetime) -> QualityFinding:
         image_path = cover_file_path(page)
         if image_path is not None and not image_path.is_file():
             finding.add(4, "missing cover file")
-    if wc < 700:
-        finding.add(2, f"thin body ({wc} words)")
+    # Source and claim checks are triage signals, not an AdSense approval score.
+    # Length alone does not establish whether an article helps its reader.
+    if "research summary" in body_lower:
+        finding.add(4, "internal research note used as reader-facing evidence")
+    has_external_source = any(link.startswith(("https://", "http://")) for link in markdown_links(page.body))
+    if not has_external_source and re.search(r"[₩$]|\bKRW\b|\b(?:prices?|fares?|opening hours)\b", page.body, re.I):
+        finding.add(4, "price or schedule claims without an external source link; verify manually")
+    if re.search(r"save\s+5[–-]20%", page.body, re.I):
+        finding.add(4, "unsupported blanket savings promise")
     if any(term in title_lower for term in GENERIC_TITLE_TERMS):
         finding.add(2, "generic title language")
-    if any(pattern in tone_body_lower[:2000] for pattern in FIRST_PERSON_PATTERNS):
-        finding.add(1, "first-person framing")
+    if any(pattern in tone_body_lower for pattern in FIRST_PERSON_PATTERNS):
+        finding.add(1, "first-person statement needs evidence or an example label")
     if has_mojibake(f"{page.title}\n{page.description}\n{page.body[:4000]}"):
         finding.add(3, "possible mojibake")
     if internal_link_count(page) < 2:
@@ -136,7 +142,7 @@ def recommendation(score: int) -> str:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Find old AI-feeling posts to draft or rewrite.")
+    parser = argparse.ArgumentParser(description="Find content claims that need editorial review; not an approval predictor.")
     parser.add_argument("--top", type=int, default=30)
     parser.add_argument("--old-before", default="2026-01-01")
     parser.add_argument("--fail-score", type=int, default=0, help="Exit non-zero if any score meets this.")
