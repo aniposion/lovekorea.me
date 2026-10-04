@@ -1,7 +1,7 @@
 ---
 title: "Nampo-dong Shopping Street, Busan: Markets, Route & Hours (2026)"
 date: 2025-12-28T16:21:53.662903
-lastmod: 2026-09-25
+lastmod: 2026-10-04
 slug: "busan-nampo-dong-shopping-where-to-buy-prices"
 description: "Where to shop in Nampo-dong, Busan: compare Gwangbok-ro, Gukje Market and the underground mall, then follow a practical walking route with official hours."
 categories: ["k-travel"]
@@ -66,16 +66,6 @@ Allow more time if you intend to browse every market lane. The walk is flexible:
 - For gifts, check weight, packaging and your airline's luggage rules. If you need ideas for what is appropriate to give, see our [Korean gift etiquette guide](/posts/korean-gift-etiquette-guide/).
 
 Treat festival dates and temporary sales as changing events. Check a current official listing close to your travel date before building a trip around either one.
-
-## Quick questions
-
-**Is Nampo-dong Shopping Street one place?** No. Travelers use the name for an area around Gwangbok-ro, Gukje Market, the underground centers and nearby food streets. Pick the stop that matches what you want to buy.
-
-**What is the best market for general shopping?** Gukje Market has a broad selection; Bupyeong Kkangtong Market is more useful as a food stop. They are adjacent, so you can visit both if their opening times fit.
-
-**Where is the underground shopping center?** Visit Busan lists Nampo Underground Shopping Center at **B1, 44 Gudeok-ro, Jung-gu**, near the Nampo and Jagalchi metro area. Save “남포 지하도상가” in your map app to distinguish it from Gwangbok Underground Shopping Center.
-
-**Can I shop at Gukje Market on Sunday?** The [official tourism listing](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=399) says the market closes on Sundays. Individual surrounding shops may have different schedules, so check your intended destination.
 
 ## Optional: a guided sightseeing trip from Jagalchi
 

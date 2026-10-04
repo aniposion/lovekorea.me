@@ -1,7 +1,7 @@
 ---
 title: "Incheon Airport AREX Guide 2026: Express vs All-Stop Train"
 date: 2026-08-28T08:00:00-05:00
-lastmod: 2026-09-29
+lastmod: 2026-10-04
 slug: "incheon-airport-arex-guide"
 description: "Compare AREX Express and All-Stop trains from Incheon Airport to Seoul in 2026, including fares, travel times, tickets, luggage, and transfers."
 categories: ["k-travel"]
@@ -81,7 +81,7 @@ Use this option only if the Express fits your destination. It does not serve Hon
 
 The All-Stop service accepts common metropolitan transit fare products. The KTO guide says travelers can use single-use cards, prepaid or postpaid transportation cards, and commuter passes. For most short-term visitors, a rechargeable transportation card is convenient because the same card can continue onto Seoul subway lines and buses.
 
-The official AREX fare table checked for this article lists Seoul Station at **KRW 4,750 from T1** and **KRW 5,350 from T2**. Your final gate charge can reflect the fare product and any future metropolitan fare revision, so check the machine or route planner before entering. If you buy a single-use ticket, remember that a refundable deposit or separate ticket handling may apply; follow the machine's instructions rather than assuming the card itself is free.
+The official AREX fare table checked for this article lists Seoul Station at **KRW 4,750 from T1** and **KRW 5,350 from T2**. These figures reproduce the published fare table, not a quote for every fare medium. Check any single-use ticket surcharge and refundable deposit separately. Your final gate charge can reflect the fare product and any future metropolitan fare revision, so check the machine or route planner before entering. If you buy a single-use ticket, remember that a refundable deposit or separate ticket handling may apply; follow the machine's instructions rather than assuming the card itself is free.
 
 If this is your first Korean transit journey, save our [Korean subway and bus phrase guide](/posts/korean-subway-bus-phrases/) before landing. It includes practical language for asking about platforms, transfers, cards, and missed stops.
 
@@ -93,7 +93,7 @@ The official scheduled journey is **43 minutes between T1 and Seoul Station** an
 
 Waiting time matters just as much. The Express is less frequent, while All-Stop departures fill many more slots in the station timetable. If an All-Stop train is about to leave and the next Express requires a long wait, the cheaper train can reach Seoul first. Conversely, a conveniently timed Express can remove uncertainty and guarantee you a seat.
 
-The current official Express timetable checked for this guide shows airport-to-Seoul departures broadly from early morning into late evening. It also shows Seoul Station-to-airport trains from 06:00 through 23:00, with roughly 30–50 minutes between many departures. Do not memorize those endpoints as a permanent schedule. AREX announced a full timetable revision effective December 29, 2025, which is a good reminder that saved screenshots and old blog tables age quickly. Recheck the official timetable on the day you travel.
+The current official Express timetable checked for this guide shows airport-to-Seoul departures broadly from early morning into late evening. It also shows Seoul Station-to-airport trains from 06:00 through 23:00, with roughly 30–50 minutes between many departures. Do not memorize those endpoints as a permanent schedule. AREX announced a full timetable revision effective December 29, 2025, which is a good reminder that saved screenshots and old blog tables age quickly. Recheck the official timetable on the day you travel. Neither service runs continuously overnight. Check the last train that reaches your destination, and arrange a night-bus, taxi or nearby-stay alternative if immigration and baggage may push you past it.
 
 ### Which train handles luggage better?
 
@@ -153,22 +153,6 @@ Use the All-Stop Train to **Gimpo Airport**. The Express does not stop there. Le
 
 If you also plan to shop before departure, bookmark the [Korea tourist tax-refund guide](/posts/korea-tax-refund-shopping-guide/). Keeping airport transport, baggage, and refund inspection in one departure plan prevents last-minute backtracking.
 
-## Common AREX Mistakes to Avoid
-
-**Buying Express when the hotel is in Hongdae.** The nonstop train skips Hongik University Station. The All-Stop option is usually more direct for that destination.
-
-**Treating every blue airport-train sign as the same gate.** Express and All-Stop tickets are different. Verify the service before entering.
-
-**Comparing only onboard minutes.** A 15–16 minute scheduled advantage can disappear during a long wait or an unnecessary transfer.
-
-**Booking too close to the flight arrival time.** Immigration and baggage delivery vary. Check a realistic departure after you enter the public arrivals hall.
-
-**Using an old screenshot as a timetable.** AREX revises schedules. Use the official page or station display on the day.
-
-**Ignoring the last walk.** A hotel “near Seoul Station” can still be awkward with stairs, weather, and a suitcase. Check the correct exit and accessible route.
-
-**Assuming a seat on the All-Stop Train.** It is a commuter service. If sitting after a long flight is important, the Express reservation has real value.
-
 ## Departing from Seoul Station: City Airport Terminal
 
 Travelers going **from Seoul to Incheon Airport** may have another reason to choose the Express. Incheon Airport's official [City Airport Terminal guide](https://business.airport.kr/ap_en/1420/subview.do) says the Seoul Station facility is available only to Express Train customers flying internationally that day, subject to participating-airline rules.
@@ -176,32 +160,6 @@ Travelers going **from Seoul to Incheon Airport** may have another reason to cho
 As rechecked September 25, 2026, the airport lists Seoul Station airline check-in and baggage service from **05:20 to 19:00**, with check-in closing three hours before a Terminal 1 departure and three hours 20 minutes before a Terminal 2 departure. Departure immigration is listed from **05:30 to 19:00**. Eligible travelers who complete the process can use the designated fast departure lane at Incheon Airport.
 
 This service is for departure, not for someone who has just landed. Airline participation and operating rules can change, so verify eligibility before hauling bags to Seoul Station. The airport page itself tells travelers to confirm current details with the relevant airline, agency, or facility.
-
-## FAQ
-
-**Q: Is AREX Express worth it from Incheon Airport to Seoul?**
-
-It is most useful when you want a reserved seat, have luggage, and are staying near Seoul Station or transferring there. For Hongdae or another intermediate AREX stop, the All-Stop Train is usually more direct and much cheaper.
-
-**Q: How much is the AREX train in 2026?**
-
-On September 25, 2026, the official Express page listed KRW 13,000 for adults and KRW 9,500 for children, while labeling normal adult fares as KRW 18,500 from T1 and KRW 19,100 from T2. The official All-Stop fare table listed KRW 4,750 from T1 and KRW 5,350 from T2 to Seoul Station. Recheck before travel.
-
-**Q: Can I use T-money on the AREX Express Train?**
-
-The Express requires its own ticket and assigned seat. A compatible transportation card can be used for the All-Stop Train and onward metropolitan transit.
-
-**Q: Which AREX train goes to Hongdae?**
-
-The All-Stop Train stops at Hongik University Station. The Express skips Hongdae and runs nonstop between the airport terminals and Seoul Station.
-
-**Q: How early should I book the Express after my flight lands?**
-
-Do not rely on a tight connection. Immigration, baggage claim, customs, and the walk to B1 can vary substantially. The safer approach is to check the next practical official departure after clearing arrivals, especially when ticket conditions are restrictive.
-
-**Q: Does AREX run all night?**
-
-No. Both services have overnight gaps, and the last train's destination may differ by service. Check the official live timetable for your terminal and date; late arrivals should keep an airport bus, taxi, or overnight plan as a backup.
 
 ## What You Can Do Next
 

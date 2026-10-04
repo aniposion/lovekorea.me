@@ -1,7 +1,7 @@
 ---
 title: "Jeju Airport to Seogwipo Bus 2026: 600 vs 800/801, Fares & Stops"
 date: 2026-01-13T08:24:34.185586
-lastmod: 2026-09-23
+lastmod: 2026-10-04
 slug: "jeju-airport-seogwipo-airport-bus-tickets-routes"
 description: "Jeju Airport to Seogwipo or ICC JEJU: choose bus 600, 800 or 801. Official stop, fare, travel-time and boarding checks for 2026."
 categories: ["k-travel"]
@@ -72,20 +72,6 @@ If your flight lands near the last service, leave time for baggage claim, reachi
 2. Use the table above to choose a likely route and open the [official route and schedule search](https://bus.jeju.go.kr/mobile/schedule/listSchedule).
 3. At the airport, confirm the **route number, southern destination, bay and next departure** on the display or with staff.
 4. Have a working transport card ready, check your route's current payment method and tell the driver your destination stop if you need the exact fare.
-
-### Frequently asked questions
-
-**Does 800 or 801 go to Seogwipo KAL Hotel?** No. The [official route list](https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule) identifies 600 as the route continuing to KAL Hotel. 800 goes to Seogwipo Bus Terminal; 801 goes to the Registry Office area.
-
-**Which bus goes through Jungmun?** Start with 600. Check whether a particular 601 trip is useful if you are going only as far as the International Convention Center.
-
-**How long is bus 600 from Jeju Airport to ICC JEJU?** The [venue estimates 60–70 minutes](https://www.iccjeju.co.kr/guide/02.php) on the bus. Add airport exit, waiting and walking time. For Seogwipo KAL Hotel farther along the route, an [official Jeju tourism guide](https://www.visitjeju.net/en/themtour/view?contentsid=CNTS_200000000012534&menuId=DOM_700000000010790) gives an older estimate of about **80 minutes**; check current conditions rather than treating it as a fixed timetable.
-
-**Can I take bus 600 from ICC JEJU back to Jeju Airport?** Yes; 600 serves both directions. Use the airport-bound stop at the [rotary opposite ICC's first building](https://www.iccjeju.co.kr/guide/02.php) and confirm the next airport-bound departure before you leave.
-
-**Is Seogwipo Bus Terminal the same as central Seogwipo?** No. Use your hotel's Korean address to compare Seogwipo Bus Terminal with the Registry Office area and the individual 600 stops.
-
-**How much is the bus from the airport?** The fare depends on where you get off. The official adult *route-wide* range is ₩1,300–₩5,500 for 600 and ₩1,300–₩5,000 for the 800 family; use the [official fare information](https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule) for your segment.
 
 ## Related guides
 

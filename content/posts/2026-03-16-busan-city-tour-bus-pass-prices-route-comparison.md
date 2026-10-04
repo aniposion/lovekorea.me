@@ -1,7 +1,7 @@
 ---
 title: "Busan City Tour Bus 2026: Day Pass, Routes & Timetables"
 date: 2026-03-16T08:30:51.939870
-lastmod: 2026-09-24
+lastmod: 2026-10-04
 slug: "busan-city-tour-bus-pass-prices-route-comparison"
 description: "Compare the official Busan City Tour Bus day-pass fare, Red, Green and Orange routes, departure intervals and first-come boarding rules."
 categories: ["k-travel"]
@@ -17,8 +17,6 @@ monetize:
     top: []
     bottom: []
 ---
-
-# Busan City Tour Bus 2026: Day Pass, Routes & Timetables
 
 **Checked September 24, 2026.** The Busan City Tour Bus loop ticket covers **three routes on one day**: Red for Haeundae, Green for Yeongdo and Taejongdae, and Orange for Gamcheon Junction and Dadaepo. The official [fare page](https://www.citytourbusan.com/m/03vr/01.php) lists the adult day ticket at **₩20,000 on the bus or ₩19,000 when bought online in advance**. The child ticket is **₩10,000 on the bus or ₩9,500 online** (ages 48 months through elementary school). Check the operator's pages again before travel because fares and timetables can change.
 
@@ -74,14 +72,6 @@ The one-day ticket lets you transfer between the three loop lines. It is most va
 4. Keep your QR ticket or wristband available for each boarding. Bring proof if claiming a child or other eligible fare.
 5. If changing lines at Songdo, check which side of the road your next bus uses; the official route notes a stop change across the street.
 
-## Quick answers
+## Plan individual stops
 
-**Does the day ticket include all three lines?** Yes. It covers the Red, Green and Orange **loop** routes on the chosen day. Themed routes and the night tour are separate.
-
-**Is there a two-day pass?** The operator's current fare page lists a one-day loop ticket and does not show a two-day loop product. Check the official site if you plan to ride on two dates.
-
-**Does buying online reserve a seat?** No. The operator explicitly says both online and on-bus buyers board first come, first served.
-
-**Will the bus take me to Haedong Yonggungsa?** Not with the loop ticket. Check the separately priced East Busan themed route or ordinary transport.
-
-For related plans, see our [Seoul–Busan KTX versus express bus guide](/posts/seoul-busan-ktx-vs-express-bus/), [Busan Songdo Cable Car guide](/posts/busan-songdo-cable-car-tickets-prices/), and [Gamcheon Culture Village guide](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/).
+For related plans, see our [Seoul–Busan KTX versus express bus guide](/posts/seoul-busan-ktx-vs-express-bus/), [Busan Songdo Cable Car guide](/posts/busan-songdo-cable-car-tickets-prices/), and [Gamcheon Culture Village guide](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/). These explain separate tickets and the final connection beyond the sightseeing-bus stop.

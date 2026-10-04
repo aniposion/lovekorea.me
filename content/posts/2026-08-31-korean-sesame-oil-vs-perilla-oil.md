@@ -1,6 +1,7 @@
 ---
-title: "Sesame Oil vs Perilla Oil 2026: Taste, Uses & Prices"
+title: "Sesame Oil vs Perilla Oil: Which Bottle Do You Need?"
 date: 2026-08-31T08:10:26-05:00
+lastmod: 2026-10-04
 slug: "korean-sesame-oil-vs-perilla-oil"
 description: "Compare Korean sesame oil and perilla oil by flavor, uses, current U.S. prices, label tips, storage, and the best bottle for your home cooking."
 categories: ["k-food"]
@@ -95,7 +96,7 @@ Both oils are most useful as seasonings, finishing oils, or components of marina
 
 ### A practical substitution rule
 
-Start with a **one-for-one substitution only when the oil is a minor seasoning**, then taste before adding more. In a noodle dish centered on perilla oil, sesame oil will create a distinctly different result. In a marinade that uses one teaspoon among many ingredients, the swap is less dramatic.
+For flavor substitutions only, start with a **one-for-one substitution when the oil is a minor seasoning**. This is not an allergy-safe substitution rule; check the exact product and cross-contact information first. Use a small amount, then taste before adding more. In a noodle dish centered on perilla oil, sesame oil will create a distinctly different result. In a marinade that uses one teaspoon among many ingredients, the swap is less dramatic.
 
 Do not substitute perilla leaf, sometimes confusingly sold as “sesame leaf,” for either oil. The leaf, seed, and pressed oil are different ingredients. Likewise, toasted sesame seeds add texture but cannot fully replace the aroma and coating power of sesame oil.
 
@@ -164,47 +165,6 @@ Follow the bottle's instructions first. As a general pantry routine:
 Perilla oil is often sold in smaller bottles because its flavor can deteriorate before an occasional cook finishes a large container. Refrigeration may slow quality loss for some products, but it can also make oil cloudy or thicker temporarily. Cloudiness alone is not proof of spoilage; let a small portion return to room temperature and follow the producer's directions.
 
 Trust your senses, but do not taste a visibly contaminated product. Fresh oil should smell like the style promised on the label: roasted and nutty, or mild and seed-like. A stale cardboard, paint, crayon, or putty odor is a practical sign that the oil has oxidized and should be replaced. Discard bottles with mold, leaking seals, swollen packaging, or an abnormal odor.
-
-## Common Buying and Cooking Mistakes
-
-- **Buying perilla oil by accident:** perilla is sometimes translated loosely as “wild sesame,” even though it is a different plant. Confirm 들기름 or “perilla seed oil.”
-- **Assuming darker means better:** a dark bottle can reflect a stronger roast, but color alone does not prove freshness or purity.
-- **Choosing the biggest tin first:** aromatic oil is poor value if half becomes stale.
-- **Using finishing oil as neutral frying oil:** check the label and recipe; preserve the aroma by adding most of it near the end.
-- **Pouring directly over the pot:** measure into a spoon so one slip does not dominate the dish.
-- **Treating all perilla oil as raw:** roasted and unroasted bottles taste different.
-- **Ignoring blends:** read the ingredients if you expect 100% sesame or 100% perilla oil.
-- **Making health claims from the front label:** choose the oil for flavor and the full nutrition panel, not for promises that one spoon will treat a condition.
-- **Forgetting allergy cross-contact:** perilla and sesame are distinct, but shared facilities can still matter.
-- **Adding oil too early to a finished rice dish:** a small final drizzle preserves more aroma than a long high-heat cook.
-
-The simplest low-waste plan is to buy a small toasted sesame oil first, use it in three meals, and decide whether its flavor covers your needs. Add a small perilla oil only when you have a specific noodle, tofu, mushroom, vegetable, or seaweed dish ready.
-
-## FAQ
-
-**Q: Are sesame oil and perilla oil the same?**
-
-No. Sesame oil comes from sesame seeds; perilla oil comes from perilla seeds. Both are important Korean seasoning oils, but sesame tastes more recognizably toasted while roasted perilla tastes earthier and greener.
-
-**Q: Which oil should a Korean-food beginner buy first?**
-
-Buy a small bottle of toasted sesame oil first. It is easier to find and works across bibimbap, japchae, marinades, seasoned vegetables, dipping sauces, and rice dishes. Add perilla oil when a recipe or flavor preference calls for it.
-
-**Q: Can I substitute sesame oil for perilla oil?**
-
-Yes when the oil is a small accent, but the flavor will change. Start with the same or slightly smaller amount, taste, and adjust. For perilla-oil noodles or another dish built around the oil, the substitution changes the identity of the dish.
-
-**Q: Is perilla oil the same as “sesame leaf” oil?**
-
-“Sesame leaf” is an imprecise English nickname sometimes used for Korean perilla leaves. Perilla seed oil is pressed from the plant's seeds. It is not sesame oil, and the fresh leaf is not an oil substitute.
-
-**Q: Should sesame oil or perilla oil be refrigerated?**
-
-Follow the specific bottle. Keep either oil tightly closed and away from heat and light; refrigerate after opening when the manufacturer or importer says to do so. Buy a size you can finish while the aroma remains fresh.
-
-**Q: Is perilla oil safe for someone with a sesame allergy?**
-
-Perilla and sesame are different plants, but shared-equipment cross-contact is possible. Read the current allergen statement and contact the manufacturer or importer for severe allergies. Do not assume that “100% perilla oil” on the front resolves facility-level risk.
 
 ## What to Do Next
 

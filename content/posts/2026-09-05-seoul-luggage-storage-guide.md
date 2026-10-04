@@ -1,6 +1,7 @@
 ---
 title: "Seoul Luggage Storage 2026: Lockers, T-Luggage & Delivery"
 date: 2026-09-05T08:00:00-05:00
+lastmod: 2026-10-04
 slug: "seoul-luggage-storage-guide"
 description: "Compare Seoul luggage lockers, staffed counters, hotel storage, and same-day delivery, with September 2026 prices, sizes, hours, and practical tips."
 categories: ["k-travel"]
@@ -56,7 +57,7 @@ Do not compare only the listed fee. Add the subway fare, walking time, stairs, a
 
 The official Seoul guide lists **5,557 T-Locker compartments across 336 locations in 273 stations**. That broad network is the main reason to consider a subway locker: you can choose a station that matches the day's route instead of defaulting to Seoul Station or Myeongdong.
 
-The published locker dimensions are **width × depth × height**:
+The city page lists the following dimensions. **Confirm the orientation and door opening on the exact locker before paying**; do not infer fit from a suitcase's marketed inch size or from the order of these numbers alone:
 
 | T-Locker size | Published interior dimensions | Weekday base for 4 hours | Weekend base for 4 hours | Extra per hour |
 |---|---:|---:|---:|---:|
@@ -64,11 +65,13 @@ The published locker dimensions are **width × depth × height**:
 | Medium | 50 × 45 × 60 cm | KRW 3,300 | KRW 4,600 | KRW 800 |
 | Large | 50 × 90 × 60 cm | KRW 4,400 | KRW 6,100 | KRW 1,000 |
 
+**Worked example using the dated table:** six weekday hours in a large locker cost ₩4,400 + (2 × ₩1,000) = **₩6,400**, assuming two extra hourly units and no other charge. Check the screen for rounding and current charges.
+
 Measure the bag's widest points, including wheels, handles, side pockets, and any items tied to the outside. A suitcase described by a shop as “24 inch” does not automatically fit a particular locker: product sizing conventions and actual exterior dimensions are not the same thing. Keep a photograph of your measurements, and choose a staffed alternative if the fit is close.
 
 The official page gives T-Locker access hours as **5:00 a.m. to midnight every day** and warns that storage and retrieval are unavailable outside operating hours. Treat midnight as a hard planning boundary, not a target pickup time. Station entrances, final trains, maintenance, and unfamiliar passages can all slow you down.
 
-For newer lockers, the city instructs users to check availability and complete payment, storage, and retrieval through the **T-Locker app**, which it identifies as Korean-language only. Older units may have different on-locker instructions. Before placing a bag inside:
+The city guide describes an app-based T-Locker workflow and labels that app Korean-only. That does not establish the language options of every locker or the separate T-Luggage booking website. Check the specific machine or reservation flow before committing your bag. Older units may have different on-locker instructions. Before placing a bag inside:
 
 1. Confirm that you are using the correct station and locker bank.
 2. Photograph the nearby landmark, exit number, and locker position without capturing another customer's personal details.
@@ -91,7 +94,7 @@ T-Luggage is useful when a suitcase is too large for a convenient locker or when
 - **Gimpo International Airport Station, Line 5:** B1 near the information center
 - **Jongno 3-ga Station, Line 5:** B1 near Exit 6
 
-An older 2024 Seoul announcement described a seven-location expansion that included Suseo. Because the current English reference table lists the six points above, this guide does not promise counter service at Suseo. Check the booking page or official channel if a location is essential to your itinerary.
+The [operator's delivery guide](https://www.tluggage.co.kr/kor/luggage_page), checked October 4, 2026, marks Suseo staffed operations/delivery as suspended. Do not route a same-day handoff through Suseo based on an older seven-location announcement. Confirm the actual station and service in the reservation.
 
 The official T-Luggage storage table groups bags by exterior length in inches and charges a four-hour base:
 
@@ -172,48 +175,6 @@ Use a locker or staffed counter only if the opening and collection times match b
 ### Changing hotels across Seoul
 
 Delivery may be worth the premium when it replaces two subway journeys with a full-size case. Confirm that the receiving hotel will accept the bag before you send it. Put identifying information inside the suitcase as well as on a protected external tag, but do not display unnecessary passport or home-address details.
-
-## Luggage Safety and Common Mistakes
-
-**Leaving the only copy of essential documents inside.** Keep passport, wallet, medication, keys, electronics, and urgent travel documents with you. A locked suitcase is not accessible when a locker app fails or a counter has closed.
-
-**Choosing a station without planning the return.** Save the station name, line, exit, floor, operator, and locker number. Large interchanges can contain several concourses and storage systems.
-
-**Assuming “large” means any large suitcase.** Measure the case in centimeters, including wheels. T-Locker and T-Luggage use different size systems, so their labels are not interchangeable.
-
-**Ignoring overtime charges.** A four-hour base is not an all-day flat rate. Estimate the complete storage time and compare it with the cost of delivery or hotel storage.
-
-**Arriving at closing.** Leave time for navigation, queues, payment problems, and support. A missed pickup can cause a missed flight or force an overnight recovery process.
-
-**Storing prohibited, fragile, or high-value items without checking.** Read the current operator terms. If staff cannot clearly accept the item, keep it with you or find an appropriate specialist service.
-
-**Relying on mobile data at the last second.** Download the address and confirmation, carry power, and save the support contact. Our [Korean subway and bus phrase guide](/posts/korean-subway-bus-phrases/) includes simple questions for finding exits, platforms, and help desks.
-
-## FAQ
-
-**Q: How much are luggage lockers in Seoul in 2026?**
-
-As checked September 5, 2026, Seoul's official T-Locker table lists four-hour weekday bases of KRW 2,200, 3,300, and 4,400 for small, medium, and large compartments. Weekend bases are KRW 3,100, 4,600, and 6,100. Hourly overage charges apply.
-
-**Q: Will a 28-inch suitcase fit in a Seoul subway locker?**
-
-Do not decide from the marketed inch size alone. Compare the suitcase's complete exterior dimensions with the official locker dimensions, including wheels and handles. A staffed T-Luggage counter may be safer for an extra-large case.
-
-**Q: Can my hotel keep my luggage after checkout?**
-
-Possibly, but it is a property policy rather than a guaranteed Seoul-wide service. Ask your accommodation about guest eligibility, fee, security, hours, item restrictions, and the latest pickup time.
-
-**Q: Can I send luggage from Seoul to Incheon Airport on the same day?**
-
-T-Luggage publishes station-to-Incheon same-day delivery prices. Confirm the current origin, terminal destination, cutoff, collection window, size, and identification requirements. Build a large flight buffer and remember that ordinary delivery does not check the bag onto the aircraft.
-
-**Q: Are Seoul subway lockers open 24 hours?**
-
-No. The official T-Locker page lists 5:00 a.m. to midnight and says bags cannot be stored or retrieved outside operating hours. Individual station access conditions may still affect your route.
-
-**Q: What is the difference between T-Locker and T-Luggage?**
-
-T-Locker is a self-service subway locker network. T-Luggage is a staffed service at selected stations that offers storage and same-day delivery. Compare the bag's size, your return route, service hours, and total cost.
 
 ## Plan Your Luggage-Free Day
 

@@ -1,6 +1,7 @@
 ---
 title: "Seoul Personal Color Analysis 2026: Prices & Booking Tips"
 date: 2026-08-25T08:10:00-05:00
+lastmod: 2026-10-04
 slug: "seoul-personal-color-analysis-guide"
 description: "Plan a Seoul personal color analysis in 2026 with current price examples, English booking tips, session comparisons, prep advice, and shopping steps."
 categories: ["k-beauty"]
@@ -80,7 +81,7 @@ If hair color is one of your goals, take those variables to the salon instead of
 
 The cheapest session is not automatically the best value, and the most expensive package is not automatically more accurate. Value comes from the time spent comparing colors, the consultant's ability to communicate with you, and the usefulness of what you take home.
 
-As of August 25, 2026, the verified Color Lume example above spans **KRW 80,000-150,000** for focused to complete sessions. Its current site says the sessions are conducted in English, a small deposit secures the booking, and the balance is paid at the studio. It also lists a KRW 10,000-per-person group reduction for its complete program. These are one provider's current terms, not standard Seoul prices; check the live checkout and refund policy before booking.
+The Color Lume program prices were rechecked October 4, 2026 and span **KRW 80,000-150,000** for focused to complete sessions. The studio advertises English sessions and says a small deposit secures the booking, with the balance paid at the studio. Confirm the language for your appointment and any group discount in the actual quote; no group reduction is included in the prices above. These are one provider’s listed programs, not standard Seoul prices.
 
 Use this comparison checklist when two offers look similar:
 
@@ -123,7 +124,7 @@ Book the appointment near the beginning of your Seoul stay if you want to shop w
 
 Preparation should reveal your normal coloring without making the day uncomfortable. Follow the studio's instructions first, because requirements vary.
 
-Unless told otherwise, arrive with a clean face or minimal makeup. Heavy foundation, color-correcting base, strong blush, contour, lipstick, tinted sunscreen, and colored contacts can change what the consultant sees. Bring gentle remover if the studio asks you to remove products there, but do not aggressively scrub your skin immediately before analysis.
+Follow the studio's preparation instructions. If makeup or tinted sunscreen needs to come off, ask whether you can remove it at the studio; reapply suitable sun protection before going outdoors afterward. Heavy foundation, color-correcting base, strong blush, contour, lipstick, tinted sunscreen, and colored contacts can change what the consultant sees. Bring gentle remover if the studio asks you to remove products there, but do not aggressively scrub your skin immediately before analysis.
 
 Wear a simple neutral top with an easy neckline. The studio may provide a white cape, yet a bright collar can still reflect color near the face while you are waiting or taking reference photos. Keep hair accessible so it can be covered or pulled away. If your hair is dyed, tell the consultant your natural color and whether you plan to maintain the dye.
 
@@ -157,48 +158,6 @@ For clothing, start with items near the face: tops, scarves, coats, and glasses.
 If you buy unopened cosmetics to take home, review the [Korea tourist tax-refund guide](/posts/korea-tax-refund-shopping-guide/) before checkout. A personal-color appointment is a service and is not treated like an exportable cosmetic purchase, but eligible goods bought afterward may qualify at participating stores under the current rules.
 
 Take one pass through the store before purchasing. Compare the analyst's product list with your budget, skin needs, existing collection, and local availability at home. A useful analysis should reduce duplicate buying, not turn into permission for an oversized haul.
-
-## Common Personal Color Mistakes to Avoid
-
-**Booking by price alone.** A low fee can become poor value when English interpretation, a report, or makeup guidance costs extra. Compare total inclusions.
-
-**Assuming every “English-friendly” listing means a fully English session.** Confirm whether English is spoken by the consultant, provided by an interpreter, or available only in written materials.
-
-**Arriving in heavy makeup or colored lenses.** The analyst can still discuss style, but facial color comparisons become less useful. Follow the preparation instructions.
-
-**Treating the result as a scientific verdict.** Personal color is a styling framework. Use it to test options, not to police your wardrobe or judge your natural features.
-
-**Buying a complete new routine immediately.** Start with one or two shades, observe them in different lighting, and keep skin type, allergies, texture, and wear time in the decision.
-
-**Ignoring booking policies.** Small studios reserve a consultant and room for you. Read deposit, rescheduling, late-arrival, and no-show terms before payment.
-
-**Forgetting the deliverables.** Before leaving, confirm when the report will arrive, which messenger or email it uses, and whether follow-up questions are included.
-
-## FAQ
-
-**Q: How much does personal color analysis cost in Seoul in 2026?**
-
-A current verified studio example ranges from KRW 80,000 for a focused makeup session to KRW 150,000 for a complete fashion-and-makeup session. This is not a citywide fixed range. Compare the live price, duration, English support, deliverables, and deposit before booking.
-
-**Q: Can I book a Seoul personal color analysis in English?**
-
-Yes. Several studios market fully English sessions or interpretation, but “English-friendly” can mean different things. Confirm who provides the English service and whether it is included in the displayed total.
-
-**Q: Should I wear makeup to a personal color appointment?**
-
-Usually little or no makeup is best, especially avoiding foundation, strong blush, lip color, tinted sunscreen, and colored contacts. Follow the specific studio's preparation message because some sessions include makeup removal or application.
-
-**Q: How long does a personal color session take?**
-
-Focused current examples run about 40-60 minutes, while a complete example runs about 80 minutes. Makeup lessons, interpretation, group analysis, body-shape consulting, or photos can make an appointment longer.
-
-**Q: Is a free AI personal color test the same as a consultant session?**
-
-No. A quick AI experience can be a useful introduction, while a paid consultation generally adds extensive draping, conversation, product or fashion guidance, and take-home material. Choose according to the depth you need.
-
-**Q: When should I schedule the appointment during my Seoul trip?**
-
-Book near the beginning if you want to apply the result while shopping. Leave travel-time buffers, save the Korean address, and avoid a tight connection to another ticketed activity.
 
 ## Plan Your Seoul Color Appointment
 

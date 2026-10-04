@@ -17,6 +17,7 @@ monetize:
   slots:
     top: []
     bottom: []
+lastmod: 2026-10-04
 ---
 > **Quick Info**
 > - 📍 Area: Korean restaurants, traditional markets, supermarkets, and Korean grocery stores worldwide
@@ -171,6 +172,10 @@ Kimjang adds a social dimension. UNESCO inscribed [kimjang, the making and shari
 
 Fermentation also changes your bowl. Fresh kimchi can be crisp, bright, and seasoning-forward. Ripened kimchi becomes tangier and more integrated. Very sour kimchi may be excellent for cooking even if it is not your favorite raw side. Instead of asking whether old or fresh kimchi is “better,” ask what you plan to eat or cook.
 
+## Storage before tasting or cooking
+
+Follow the package’s refrigeration and use-by instructions and use clean utensils. Sourness can be a normal part of fermentation, but it cannot by itself establish that a particular container is safe. Do not taste suspect food or treat cooking as a way to rescue kimchi that has spoiled or been stored unsafely. For cooked kimchi dishes, follow the [leftover handling steps in our fried-rice guide](/posts/beginner-kimchi-fried-rice-guide/#handle-the-rice-safely-first).
+
 ## A First-Timer's Kimchi Tasting Plan
 
 You do not need to order ten dishes. Build contrast in three rounds.
@@ -182,46 +187,6 @@ You do not need to order ten dishes. Build contrast in three rounds.
 On a later meal, try one green variety: oi sobagi for cucumber freshness, yeolmu for tender radish greens, pa kimchi for allium punch, or gat kimchi for mustardy intensity. This approach creates a memory for each style instead of turning the table into an anonymous red pile.
 
 At a restaurant, take a small serving and ask before assuming refills are unlimited. Banchan service varies by restaurant, meal, and location. If you are invited to a Korean home, compliment what you genuinely enjoy and follow the host's serving cues; the [Korean gift etiquette guide](/posts/korean-gift-etiquette-guide/) also covers practical home-visit preparation.
-
-## Common Kimchi Mistakes to Avoid
-
-**Assuming every kimchi is very spicy.** Baek kimchi, dongchimi, and many nabak kimchi versions are useful counterexamples. Ask about pepper and taste a small bite.
-
-**Assuming pale kimchi is vegan.** Fish sauce or salted seafood can appear in red or pale recipes. Verify the exact ingredient list or ask the cook.
-
-**Calling any fermented vegetable “kimchi” without context.** Kimchi includes remarkable variation, but Korean names describe vegetables, cuts, seasonings, and traditions. Learn the specific name when you can.
-
-**Expecting one restaurant to represent Korea.** A restaurant, household, and packaged brand can each make baechu kimchi differently. Variation is part of the food, not evidence that one bowl is automatically wrong.
-
-**Throwing away sour kimchi too quickly.** If it has been stored according to its instructions and is otherwise suitable to eat, sour kimchi can be ideal for cooked dishes. The [gochujang, doenjang, and ssamjang guide](/posts/gochujang-doenjang-ssamjang-guide/) can help you distinguish the fermented sauces that may appear elsewhere in the same kitchen.
-
-**Buying the largest tub first.** Begin with a small amount, learn the flavor and fermentation stage you prefer, and then buy more deliberately.
-
-## FAQ
-
-**Q: What is the most common type of Korean kimchi?**
-
-Baechu kimchi, made with napa cabbage, is the standard starting point and the type many people mean when they say “kimchi.” It is not one fixed recipe; seasoning, seafood ingredients, salt, region, and fermentation stage differ.
-
-**Q: Which Korean kimchi is least spicy?**
-
-Baek kimchi and dongchimi are usually the easiest low-heat choices because they are made without the red chili coating associated with classic baechu kimchi. Nabak kimchi can also be mild. Ask about the specific batch, since recipes vary.
-
-**Q: Is all kimchi vegetarian or vegan?**
-
-No. Many recipes use fish sauce, salted shrimp, or other seafood products. Choose a product or restaurant preparation clearly identified as vegan, then check the exact ingredient and allergen information rather than relying on color or vegetable type.
-
-**Q: What kimchi goes best with Korean soup?**
-
-Kkakdugi is a classic match for mild beef soups such as seolleongtang and gomtang because the radish supplies crunch and acidity. Baechu kimchi also works, especially if you prefer cabbage texture.
-
-**Q: What is the difference between dongchimi and nabak kimchi?**
-
-Both are brined water-kimchi styles. Dongchimi generally centers larger radish pieces and a clear winter brine. Nabak kimchi typically uses thin rectangular pieces of radish and cabbage in a lighter, sometimes faintly colored broth.
-
-**Q: Can I cook with any kind of kimchi?**
-
-You can experiment, but ripe baechu kimchi is the most adaptable for fried rice, stew, pancakes, and braises. Water kimchi is valued for its brine, while cucumber and leafy kimchi often make more sense as fresh sides. Match the recipe to the kimchi's moisture, sourness, and texture.
 
 ## Choose Your First Three
 

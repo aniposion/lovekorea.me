@@ -1,7 +1,7 @@
 ---
 title: "Korean Gift Etiquette Guide 2026: What to Bring & Avoid"
 date: 2026-09-03T08:00:00-05:00
-lastmod: 2026-09-23
+lastmod: 2026-10-04
 slug: "korean-gift-etiquette-guide"
 description: "A practical Korean gift etiquette guide with tips on home visits, housewarming presents, wrapping, two-handed giving, and common mistakes to avoid."
 categories: ["k-lifestyle"]
@@ -115,18 +115,6 @@ If you are traveling across the city first, choose something that tolerates the 
 
 For a broader view of shopping areas, see our [Korea shopping guide](/posts/smart-shopping-korea-2025/). If you are considering cooking ingredients for a friend who enjoys Korean food, our [sesame oil versus perilla oil guide](/posts/korean-sesame-oil-vs-perilla-oil/) explains why those bottles serve different tastes and uses. Buy ingredients because the recipient wants them, rather than treating every Korean food product as an interchangeable souvenir.
 
-## From Our Shop: A Korean Zodiac Gift for U.S. Readers
-
-**Ownership disclosure:** LoveKorea and Obang House have the same owner. Purchases from Obang House support our business.
-
-For a friend in the U.S. who enjoys Korean zodiac art, a small keepsake can suit a birthday, graduation, or new beginning. Obang House offers 12 contemporary guardian designs printed on yellow hanji paper. Choose an animal or story that means something to the recipient, and add your own handwritten message.
-
-Check the current price, shipping charge, production time, and delivery estimate at the store before ordering for a dated occasion.
-
-The designs are symbolic, decorative art; no luck, protection, or other outcome is promised. For a Korean home visit, follow the host's preferences and the practical gift advice above.
-
-[See the 12 zodiac designs at our Obang House shop →](https://obanghouse.com/collections/korean-bujeok?utm_source=lovekorea&utm_medium=referral&utm_campaign=first_sale_sep2026&utm_content=gift_guide)
-
 ## Common Mistakes to Avoid
 
 The most useful question is not “Is this traditionally lucky?” but “Will this work for the person receiving it?” Keep these common planning mistakes in mind.
@@ -163,32 +151,6 @@ You can keep your Korean brief. These polite phrases work as simple, practical e
 During the visit, offer help when it seems useful, but let the host direct you. Avoid opening cupboards, rearranging the table, or taking photographs of a private home without asking. These are practical ways to reduce work and respect personal space, regardless of the family customs involved.
 
 Afterward, send a short message that mentions something specific you appreciated: the conversation, a dish, or the effort of hosting. A sincere detail is more personal than listing everything you did to follow etiquette. If the next meeting is in a cafe, our [Korean cafe etiquette guide](/posts/2026-korean-cafe-etiquette-guide/) covers ordering, seats, and tray return.
-
-## FAQ
-
-**Q: What should I bring when visiting a Korean home for the first time?**
-
-Ask whether a small food gift would be useful, then choose something that suits the household's preferences and your journey. A modest, neatly presented item is a reasonable starting point. The occasion and your host's answer matter more than following a fixed shopping list.
-
-**Q: Is toilet paper an appropriate Korean housewarming gift?**
-
-It is an established housewarming reference, but it is not mandatory. Confirm that your host wants household supplies and has space for them. For an ordinary dinner invitation without a move, ask what would be useful instead of automatically choosing a housewarming item.
-
-**Q: How much money should I spend on a host gift in Korea?**
-
-This guide does not claim a national minimum or typical price. Set a comfortable personal limit and consider the relationship. If you are joining a group gift or meeting a partner's family, ask the person coordinating the visit for context before buying.
-
-**Q: Do I have to wrap the present in bojagi?**
-
-No. Bojagi is an optional cloth-wrapping choice. A tidy bag or protective box can be sufficient for a casual visit. Keep essential product labels intact, and prioritize packaging that travels safely and is easy for the recipient to handle.
-
-**Q: Should I ask the host to open the gift immediately?**
-
-Let them choose the timing. Mention anything that needs prompt refrigeration or careful handling, then allow them to continue hosting. Whether the package is opened now or later is not a dependable measure of how much they appreciate it.
-
-**Q: What if the host explicitly says not to bring anything?**
-
-Respect the request. You can still arrive on time, thank them warmly, and offer appropriate help. If you want to contribute, ask about a specific alternative rather than assuming their answer is an invitation to insist.
 
 ## Your Next Step
 

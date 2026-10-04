@@ -2,6 +2,7 @@
 title: "Editorial Policy and Sources"
 description: "How LoveKorea uses official sources, distinguishes research from firsthand experience, labels illustrations, and handles corrections."
 date: 2026-10-03
+lastmod: 2026-10-04
 draft: false
 showToc: false
 disableComments: true
@@ -23,7 +24,7 @@ For changing information, our editorial standard is to link the relevant operato
 
 We distinguish published tariffs from live availability, historical prices from current prices, and hypothetical examples from actual quotes. Where a source does not answer a question, we say so. A broad price range still needs support; calling it “typical” does not establish that support.
 
-We preserve original publication dates and use an update date for substantive corrections. Older articles are being reviewed against these standards. If a claim lacks a clear source, use the operator's current information and let us know which sentence needs review.
+We preserve original publication dates and use an update date for substantive corrections. We revisit guides when source information changes or a correction is reported. If a claim lacks a clear source, use the operator's current information and let us know which sentence needs review.
 
 ## Images and tools
 

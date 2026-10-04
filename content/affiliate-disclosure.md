@@ -2,7 +2,7 @@
 title: "Affiliate Disclosure"
 description: "How LoveKorea identifies affiliate links, sponsored content, and advertising, including the current status of these features."
 date: 2026-07-02
-lastmod: 2026-09-29
+lastmod: 2026-10-04
 draft: false
 showToc: true
 disableComments: true
@@ -10,17 +10,11 @@ disableRelated: true
 disableShare: true
 ---
 
-Last updated: September 29, 2026
+Last updated: October 4, 2026
 
 LoveKorea uses Klook affiliate links in selected transport and sightseeing guides, and Viator affiliate links in selected tour guides and on our tour comparison page. If you follow a tracked link and make an eligible booking, LoveKorea may earn a commission at no extra cost to you. Other ordinary links to booking platforms, retailers, and official sources do not by themselves mean that LoveKorea receives a commission.
 
 The article identifies the affiliate relationship near the recommendation. Check the provider's current price and terms before buying.
-
-## Our Own Shop
-
-LoveKorea and Obang House have the same owner. Links labeled "our shop" lead to Obang House, where purchases support our business directly. We identify this relationship beside product recommendations. The store handles orders, payment, shipping, and returns under its own published terms.
-
-We use tagged links to understand whether a reader visits the shop from a relevant guide. A shop-link click is recorded separately from affiliate clicks and does not mean a purchase has occurred.
 
 ## What Affiliate Links Mean
 

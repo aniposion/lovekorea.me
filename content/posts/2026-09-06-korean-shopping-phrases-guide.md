@@ -1,6 +1,7 @@
 ---
 title: "30 Korean Shopping Phrases: Price, Size & Tax Refund Guide"
 date: 2026-09-06T08:00:00-05:00
+lastmod: 2026-10-04
 slug: "korean-shopping-phrases-guide"
 description: "Learn 30 Korean shopping phrases for prices, sizes, fitting rooms, cards, receipts, exchanges, and tourist tax refunds, with romanization and examples."
 categories: ["learn-korean"]
@@ -213,23 +214,7 @@ The question is only half the conversation. Train yourself to catch a few likely
 
 When numbers are the problem, say **천천히 말해 주세요** (*cheoncheonhi malhae juseyo*, “Please speak slowly”) and confirm the payment terminal before tapping or inserting your card. You can also repeat the amount: **삼만 원 맞아요?** (*samman won majayo?*, “Is 30,000 won correct?”).
 
-For pronunciation, focus on rhythm rather than perfect English-style syllables. In **얼마예요**, the sounds run together; in **몇 일이에요**, everyday pronunciation is closer to *myeochirieyo*. A native-audio dictionary is more reliable than treating romanization as exact spelling.
-
-## Common Shopping Korean Mistakes
-
-**Using 반말 with staff.** Ending every request with a bare noun or command can sound abrupt. Beginner-friendly **-요** forms and **주세요** are safer.
-
-**Saying “discount” when you mean “cheaper option.”** **할인돼요?** asks whether a discount applies. To ask for a less expensive item, use **더 저렴한 거 있어요?** (*deo jeoryeomhan geo isseoyo?*, “Do you have a cheaper one?”).
-
-**Bargaining everywhere.** A polite phrase does not make negotiation appropriate. Treat listed prices as fixed unless the context clearly invites discussion.
-
-**Opening sealed merchandise.** Ask for a tester or permission. A display sample and sale stock are not interchangeable.
-
-**Confusing 환불 and 환급.** Use **환불** for returning a purchase and **세금 환급** for a tourist tax refund.
-
-**Leaving without the right document.** A normal card receipt may not be the tax-refund voucher. Ask before payment and inspect what the store gives you.
-
-**Memorizing without pointing.** Korean demonstratives make shopping easier: **이거** is “this,” **그거** is “that near you,” and **저거** is “that over there.” Point politely and keep the sentence short.
+For pronunciation, focus on rhythm rather than perfect English-style syllables. In **얼마예요**, the sounds run together; in **며칠이에요**, everyday pronunciation is closer to *myeochirieyo*. A native-audio dictionary is more reliable than treating romanization as exact spelling.
 
 ## A 10-Minute Practice Plan
 
@@ -243,36 +228,8 @@ Finally, rehearse one complete exchange:
 2. Point and ask **이거 얼마예요?**
 3. Confirm the option with **다른 색 있어요?** or **더 큰 사이즈 있어요?**
 4. Decide with **이걸로 주세요.**
-5. Ask **카드 돼요?** and check the terminal.
-6. Request **영수증 주세요.**
-7. If eligible, ask **세금 환급 돼요?** before payment is finalized.
+5. Before paying, ask **세금 환급 돼요?** if you want to check tourist-refund eligibility and the required documents.
+6. Ask **카드 돼요?**, confirm the final total, and pay.
+7. Request **영수증 주세요** and check that any required refund voucher was also issued.
 
 If your shopping day includes long subway transfers, save the [Korean subway and bus phrase guide](/posts/korean-subway-bus-phrases/) too. For food stops between stores, the [Korean restaurant phrase guide](/posts/korean-restaurant-phrases-guide/) covers ordering, allergies, takeout, and payment.
-
-## FAQ
-
-**Q: What is the most useful Korean shopping phrase?**
-
-Start with **이거 얼마예요?** (*igeo eolmayeyo?*), “How much is this?” Point to the exact item so the question stays clear. Add **이걸로 주세요** when you are ready to buy it.
-
-**Q: How do I ask for a different size in Korean?**
-
-Say **더 큰 사이즈 있어요?** for a larger size or **더 작은 사이즈 있어요?** for a smaller size. If you know the marked size, say it before **사이즈 있어요?** and try the item on rather than assuming labels are consistent across brands.
-
-**Q: Is it polite to bargain in Korean markets?**
-
-Sometimes, but not everywhere. **조금만 깎아 주세요** is a gentle request at a stall that appears open to negotiation. Do not use it at fixed-price chains, and accept a clear no without repeating the request.
-
-**Q: How do I ask whether a Korean store takes credit cards?**
-
-Ask **카드 돼요?** (*kadeu dwaeyo?*). Cards are widely accepted, but individual stalls can differ. Confirm before the purchase is packed and keep another payment method available.
-
-**Q: How do I ask for a tourist tax refund in Korean?**
-
-Say **세금 환급 돼요?** (*segeum hwangeup dwaeyo?*). Ask before paying, present your passport if requested, and confirm whether the store applies an immediate refund or gives you a voucher for a later claim.
-
-**Q: What is the difference between 환불 and 환급?**
-
-**환불** usually means returning a purchase for your money back. **환급** is the word used for reimbursing an amount, including **세금 환급**, a tax refund. Use **교환** when you want to swap the item instead.
-
-Save the five phrases you are most likely to use, say them once aloud, and keep the Hangul visible on your phone. That small preparation makes a real checkout conversation far easier than trying to translate a paragraph while a line forms behind you.

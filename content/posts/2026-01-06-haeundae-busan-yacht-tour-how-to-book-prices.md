@@ -1,7 +1,7 @@
 ---
 title: "Busan Yacht Tours 2026: Haeundae Routes, Prices and Booking"
 date: 2026-01-06T09:09:04.362601
-lastmod: 2026-09-23
+lastmod: 2026-10-04
 slug: "haeundae-busan-yacht-tour-how-to-book-prices"
 description: "Compare published 2026 Busan yacht tour prices, departure points and routes from Diamond Bay, Haeundae River Cruise and The Yacht before booking."
 categories: ["k-travel"]
@@ -61,16 +61,6 @@ For a real private-booking example, [Diamond Bay's Midas 722 charter page](https
 ### Quick booking example
 
 Two adults taking Diamond Bay's published daytime public tour would pay **₩60,000** before any discount or booking fee (2 × ₩30,000). The same operator's published night tickets would total **₩80,000** (2 × ₩40,000). These are arithmetic examples from the [operator's listed adult rates](https://diamondbay.co.kr/en/tour/), not a live checkout quote. Verify your date and route before purchase.
-
-## Frequently asked questions
-
-**How much is a Busan yacht tour in 2026?** Diamond Bay currently lists adult public tickets at ₩30,000 by day and ₩40,000 at night. Visit Busan lists its separate River Dinner Cruise at ₩39,000 per adult in September and October 2026. Other operators may charge differently; check the named product, date and inclusions.
-
-**Where does a Haeundae yacht tour leave from?** There is no single boarding point. The three tours above use Yongho Bay Cruise Terminal, APEC Naru Park and Suyeong Yachting Center respectively. Follow your own booking confirmation.
-
-**Can I choose an Oryukdo route?** Not automatically. Diamond Bay says its daytime Oryukdo/Haeundae routes cannot be selected separately and can change with weather. Confirm this before buying if Oryukdo is essential.
-
-**Is a private tour cheaper for a group?** Calculate the full quote divided by your passenger count and compare it with public tickets for a similar route and time. Vessel size and extras change the result. Diamond Bay's published large-vessel charter price should not be treated as a small-boat market rate.
 
 ## Related Busan guides
 

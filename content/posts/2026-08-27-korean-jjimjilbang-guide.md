@@ -1,6 +1,7 @@
 ---
 title: "Korean Jjimjilbang Guide 2026: Prices, Etiquette & What to Bring"
 date: 2026-08-27T14:17:44-05:00
+lastmod: 2026-10-04
 slug: "korean-jjimjilbang-guide"
 description: "Plan your first Korean jjimjilbang visit with 2026 prices, locker steps, bath etiquette, packing tips, wristband payments, food, and safety basics."
 categories: ["k-lifestyle"]
@@ -106,12 +107,12 @@ Keep your phone in the locker in the changing and bathing zones. Even where phon
 
 ![A jjimjilbang guest tapping a wristband at a snack counter while a companion carries eggs and drinks](/images/korean-jjimjilbang-guide-h2-3.webp)
 
-There is no single Korean jjimjilbang price. Admission changes by facility, product, age, season, day, and promotion. The comparison below uses official operator or Korea Tourism Organization pages checked on **August 27, 2026**. Treat it as a planning snapshot and recheck the linked page on the day you go.
+There is no single Korean jjimjilbang price. Admission changes by facility, product, age, season, day, and promotion. The comparison below is an **August 27, 2026** operator/KTO snapshot. Aquafield's three listed branches and ₩26,000 jjimjil-spa rate were rechecked on October 4; reconfirm the other dated examples before booking. Treat it as a planning snapshot and recheck the linked page on the day you go.
 
 | Facility and area | Adult admission shown | Included time | Current practical note |
 |---|---:|---:|---|
 | Supsok Hanbang Land, Seoul | ₩15,000 | Check directly | KTO lists 08:00–21:00 and an ₩8,000 child rate |
-| Aquafield branches | ₩26,000 jjimjil spa | Up to 6 hours | Child rate ₩21,000; published overtime is ₩5,000 per hour |
+| Aquafield Hanam, Goyang and Anseong | ₩26,000 jjimjil spa | Up to 6 hours | Child rate ₩21,000; published overtime is ₩5,000 per hour |
 | Spa Land Centum City, Busan | ₩26,000 | Up to 4 hours | Student rate ₩21,000; spending at least ₩10,000 inside can extend use to 6 hours under the posted rule |
 | CIMER, Incheon | ₩40,000 jjimjil spa | 4 hours | Child rate ₩30,000; this ticket covers the jjimjil spa zones, not the full Aqua Spa product |
 
@@ -155,7 +156,7 @@ Allow about three hours and avoid stacking the visit immediately before a timed 
 
 **Next 30–45 minutes:** Shower and use the baths only if you are comfortable. There is no need to copy another guest's temperature sequence. Wash first and move calmly around wet floors.
 
-**Next 60 minutes:** Put on the uniform, meet companions in an agreed public spot, try one cooler or moderate room, rest, hydrate, and consider one additional room. Leave plenty of recovery time.
+**Next hour, mainly for rest—not an hour of continuous heat:** Put on the uniform, meet companions in an agreed public spot, try one cooler or moderate room, rest, hydrate, and consider one additional room. Leave plenty of recovery time.
 
 **Next 30 minutes:** Have a drink or simple snack in the designated food area. Confirm prices before tapping the wristband, especially if ordering several items for a group.
 
@@ -179,57 +180,9 @@ Choose by experience, not by the longest amenity list.
 
 For a broader culture itinerary, combine this guide with our [Korean traditional experiences guide](/posts/korean-traditional-cultural-experiences-guide/). If you want a calm stop afterward, the [Korean cafe etiquette guide](/posts/2026-korean-cafe-etiquette-guide/) explains ordering, seats, and tray return.
 
-## Common First-Time Mistakes
-
-**Walking past the shoe locker in outdoor shoes.** Pause at the entrance and follow the floor boundary.
-
-**Taking a phone into the wet area.** Privacy outweighs convenience. Lock it away before changing.
-
-**Entering a bath without washing.** Shower first, even if you already bathed at your hotel.
-
-**Wearing underwear or swimwear into a normal nude bath.** Follow the posted rule; use a pool product if you want a swimwear environment.
-
-**Entering the public lounge without the issued uniform.** Change before leaving the gender-separated zone.
-
-**Starting in the hottest kiln.** Begin cooler, keep the first session short, and rest.
-
-**Losing track of time or wristband spending.** Note the included hours and leave a settlement buffer.
-
-**Assuming towels and toiletries are unlimited.** Check inclusions and rental fees.
-
-**Using outdated hours.** Verify the official site on the same day, including last admission and maintenance closures.
-
-**Treating the venue as an attraction set.** It is a shared hygiene and rest space. Protect privacy, keep noise low, and follow staff instructions.
-
 ## Official Sources Checked
 
 The time-sensitive details in this guide were checked on August 27, 2026 against the [Korea Tourism Organization jjimjilbang guide](https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=217505), [KTO's Supsok Hanbang Land listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=193703), [Aquafield admission information](https://www.aquafield.co.kr/usage.html), [Aquafield operating policy](https://www.aquafield.co.kr/policy.html), [Aquafield settlement guide](https://www.aquafield.co.kr/settlement.html), [Spa Land Centum City](https://department.shinsegae.com/store/entertainment/centum-spaland.do?storeCd=SC00008), and [CIMER admission information](https://www.p-city.com/front/cimer/operation?seqParm=2). Prices, hours, promotions, and age rules can change; confirm directly before travel.
-
-## FAQ
-
-**Q: Do I have to be naked in a Korean jjimjilbang?**
-
-Only the gender-separated bath and shower area is normally nude. The mixed communal jjimjil area is clothed in the facility-issued shirt and shorts. If you prefer to skip bathing, check whether the venue sells a jjimjil-only admission product and whether its route avoids the wet area.
-
-**Q: Can couples or mixed-gender friends stay together?**
-
-Yes, in the clothed communal lounge and heated-room areas. They use separate changing and bathing zones, then meet at a prearranged public location. Age and gender rules for children vary, so families should check the venue policy first.
-
-**Q: Are tattoos allowed?**
-
-Korea does not have one universal visitor rule for every bathhouse. Individual facilities may allow tattoos, request that small tattoos be covered, or restrict entry. Ask the specific venue in advance and follow staff instructions rather than assuming that another spa's policy applies.
-
-**Q: Can I sleep overnight at a jjimjilbang?**
-
-Sometimes, but never assume it. Current opening hours, overnight permission, sleeping zones, re-entry, and luggage rules differ, and many facilities are not open 24 hours. Use a jjimjilbang as overnight accommodation only after receiving current confirmation from the operator.
-
-**Q: What food should I try?**
-
-Roasted eggs and sikhye are the classic combination. Larger facilities may also sell noodles, tteokbokki, seaweed soup, ice cream, and full meals. Eat only in designated spaces, check allergy information, and remember that wristband purchases are usually paid at exit.
-
-**Q: Is a jjimjilbang safe for children or people with medical conditions?**
-
-Families must follow guardian, age, and gender-separation rules, and children should never use hot rooms without close supervision. Anyone with a condition or medication affected by heat, hydration, or blood pressure should seek individualized medical advice before using a sauna. Leave any room immediately if you feel unwell.
 
 ## Make Your First Visit Easy
 

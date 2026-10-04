@@ -1,7 +1,7 @@
 ---
-title: "Korea Ski Lift Ticket Prices 2026/27: Yongpyong, Phoenix & Vivaldi"
+title: "Korea Ski Tickets 2026/27: Do Not Budget From Last Winter’s Prices"
 date: 2026-01-24T11:52:12.857674
-lastmod: 2026-09-23
+lastmod: 2026-10-04
 slug: "2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi"
 description: "Checked September 23, 2026: what the official Yongpyong, Phoenix and Vivaldi ski price pages actually show, and how to compare 2026/27 lift and rental costs."
 categories: ["k-travel"]
@@ -54,27 +54,8 @@ For a group, do this once **per traveler**: child and adult prices, rental sizes
 
 The tourism guide lists **2025/26** opening dates and operating hours. Those are historical and should not be used as a 2026/27 schedule. Each resort can adjust opening, slopes and hours with weather and snow maintenance.
 
-## Questions travelers ask
-
-### Which is cheapest: Yongpyong, Phoenix or Vivaldi?
-
-We cannot say yet for the 2026/27 season. First get three **date-specific** prices for equivalent hours, then add the equipment and transport you need. A low headline ticket price may exclude rentals or cover fewer hours.
-
-### Can I use the prices on an older Vivaldi web page?
-
-No. That [official page](https://sonolc.sonohotelsresorts.com/daemyung.vp.skiworld.04_04_01.ds/dmparse.dm) identifies its table as **23/24**. Use Vivaldi's [current rate page](https://www.sonohotelsresorts.com/skiboard/discount) once the coming season's amounts appear.
-
-### Is a Phoenix 26/27 season pass a day-ticket price?
-
-No. Phoenix has announced a [26/27 season-pass product](https://phoenixhnr.co.kr/page/board/event/190000047134). Its price and benefits cannot tell you what a single day at the resort will cost. Compare a season pass only if you expect repeated visits and have read its current conditions.
-
-### When should I recheck?
-
-Check again before booking and again shortly before departure. As of this update, all three resorts still need a verified **26/27 single-day** price for a fair side-by-side comparison. Also check the resort's current slope and transport notices; last winter's timetable is not this winter's timetable.
-
 ## Related guides
 
 - [KORAIL Pass prices and booking tips](/posts/korea-ktx-korail-pass-prices-2026/)
 - [Korea hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/)
 - [Korea travel deals and booking hub](/deals/)
-

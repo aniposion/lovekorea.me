@@ -1,7 +1,7 @@
 ---
 title: "Seoul City Tour Bus 2026: Tickets, Prices, Routes & Booking"
 date: 2026-01-20T08:48:12.728096
-lastmod: 2026-09-29
+lastmod: 2026-10-04
 slug: "seoul-city-tour-bus-how-to-book-tickets-prices"
 description: "Compare the official Seoul City Tour Bus daytime and night routes, current starting prices, same-day ticket rules, boarding, and which pass to choose."
 categories: ["k-travel"]
@@ -17,8 +17,6 @@ monetize:
     top: []
     bottom: []
 ---
-
-# Seoul City Tour Bus: Tickets, Prices, Routes & Booking
 
 **Checked September 25, 2026.** This guide covers two different products sold by the [official Seoul City Tour Bus operator](https://www.seoulcitybus.com/en/tours): the **Downtown, Palaces & Namsan** daytime hop-on, hop-off loop and the **Han River & Namsan** night ride. A ticket for one is not a ticket for the other. Other sightseeing bus operators may have different routes and fares.
 
@@ -72,12 +70,4 @@ For a cost comparison with ordinary transit and the short-term Climate Card, see
 
 Before paying, read the [operator's cancellation FAQ](https://www.seoulcitybus.com/en/support/faq). Its refund depends on how close the departure is, and the night course has a same-day cutoff. Check the policy shown at your own checkout and the [current notices](https://www.seoulcitybus.com/en/notices) again shortly before riding.
 
-## Frequently asked questions
-
-**Can I book online on the day I ride?** No. The operator directs same-day daytime buyers to the Gwanghwamun booth, subject to availability, and asks prospective night riders to call first.
-
-**Does a daytime ticket guarantee an open-top seat?** No. Seats are first come, first served, and bus type can vary.
-
-**Can I hop off the night bus and board later?** No. The night tour is one circuit with an N Seoul Tower photo stop. Hop-on, hop-off applies to the daytime course.
-
-**Does the day pass include palace or tower admission?** The standard course describes the bus ride and audio guide. Budget separately for attractions unless the specific ticket you buy explicitly includes them.
+For the stops themselves, use the [palace admission and closure guide](/posts/korea-historic-palaces-guide/). For a separate evening, compare [Seoul night-view plans](/posts/seoul-night-view-tours-booking-top-10/) before buying another sightseeing ticket.

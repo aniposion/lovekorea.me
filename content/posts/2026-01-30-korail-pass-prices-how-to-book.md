@@ -1,7 +1,7 @@
 ---
 title: "How to Book a KORAIL Pass and Reserve KTX Seats"
 date: 2026-01-30T08:30:59.205178
-lastmod: 2026-10-01
+lastmod: 2026-10-04
 slug: "korail-pass-prices-how-to-book"
 description: "A practical booking checklist for foreign visitors: buy the KORAIL Pass, set Select travel days, reserve KTX seats, carry your passport and avoid common mistakes."
 categories: ["k-travel"]
@@ -69,6 +69,6 @@ Check the departure **station**, not only the city. Seoul-area journeys may leav
 - Assuming a pass reserves a seat automatically, or assuming a sold-out reserved train will meet your accessibility or comfort needs.
 - Presenting a screenshot in place of a valid pass or ticket.
 
-If the official booking screen does not match this guide, follow KORAIL's live instructions or contact its customer service before paying. The [Korea Tourism Organization's train guide](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140656) also explains the distinction between KORAIL trains, SRT and local transit.
+If the official booking screen does not match this guide, follow KORAIL's live instructions or contact its customer service before paying. The [Korea Tourism Organization's train guide](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140656) provides general rail-travel context. For service names after the September 2026 high-speed integration, use the current KORAIL booking screen and [KORAIL’s integration notice](https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&key=911&nttNo=27135); older references to a separate SRT service may be outdated.
 
 Arriving by air before your first train? Check our [Incheon Airport AREX guide](/posts/incheon-airport-arex-guide/) for the airport-to-Seoul leg. For local travel after a KTX ride, the [Korean subway and bus phrases guide](/posts/korean-subway-bus-phrases/) may be useful.

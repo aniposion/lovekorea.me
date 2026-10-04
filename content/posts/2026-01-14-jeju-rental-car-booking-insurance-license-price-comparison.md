@@ -1,7 +1,7 @@
 ---
 title: "Jeju Rental Car 2026: IDP, Insurance, Airport Shuttle & Price Check"
 date: 2026-01-14T12:10:52.889267
-lastmod: 2026-09-24
+lastmod: 2026-10-04
 slug: "jeju-rental-car-booking-insurance-license-price-comparison"
 description: "Renting a car in Jeju? Check the original IDP and license rules, what zero-excess CDW does and does not cover, airport shuttle hours, and how to compare the final price."
 categories: ["k-travel"]
@@ -17,8 +17,6 @@ monetize:
     top: []
     bottom: []
 ---
-
-# Jeju Rental Car 2026: IDP, Insurance, Airport Shuttle & Price Check
 
 **Before paying for a Jeju rental car, check whether every named driver can collect it.** An overseas visitor will generally need an **original, valid International Driving Permit (IDP)**, a **home-country driver's license**, a **passport** and a payment card accepted by the chosen operator. A photo, PDF or privately sold “international driver's license” is not a substitute for the original IDP at operators such as [LOTTE](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) and [SK Rent-a-Car](https://homepage.skdirect.co.kr/en/useGuide/shortRental/rentalQualification). A valid Korean license or another specifically accepted permit may follow a different rule; confirm your own case before booking.
 
@@ -88,16 +86,6 @@ Before leaving the lot, photograph existing damage and the fuel/charge display, 
 If your route is mostly between a few places served by buses, compare the actual cost and convenience of a car with public transit. If you need several distant stops, a car may be more useful. For navigation, the [tourism guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=480&vcontsId=140664) points to Naver Map and KakaoMap for Korean driving directions.
 
 **Do not pay until you can answer three questions:** Can the named driver present every required original document? What is the final price with the coverage you chose? Can you reach the lot during its actual pickup hours? If any answer is unclear, contact the supplier before booking.
-
-### Frequently asked questions
-
-**Is a photo of my International Driving Permit enough?** No for operators such as LOTTE and SK. Both specify an original paper IDP; check your supplier's rule if you hold a Korean license or another accepted permit.
-
-**Does zero-excess CDW mean I can never be charged after damage?** No universal rule says that. Deductible, excluded damage, unauthorized drivers, reporting requirements and loss-of-use charges must be checked in the specific agreement.
-
-**Do I need to rent at the airport building?** The car may be at an off-site lot. LOTTE, for example, uses an airport desk and shuttle to its Jeju Auto House.
-
-**What is the cheapest time to book?** There is no verified universal booking window. Search your real dates, compare final totals and read cancellation terms; repeat the comparison if your plans change.
 
 ## Related Jeju guides
 

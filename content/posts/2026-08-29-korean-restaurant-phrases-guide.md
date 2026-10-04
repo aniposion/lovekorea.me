@@ -1,6 +1,7 @@
 ---
 title: "30 Korean Restaurant Phrases: Ordering, Allergies & Paying"
 date: 2026-08-29T08:00:00-05:00
+lastmod: 2026-10-04
 slug: "korean-restaurant-phrases-guide"
 description: "Learn 30 Korean restaurant phrases for ordering, changing spice levels, explaining food allergies, paying, and takeout, with romanization and dialogues."
 categories: ["learn-korean"]
@@ -51,7 +52,7 @@ Start with the rows that solve your most likely problem. If you can say **저기
 | 17 | 알레르기가 있어요. | Alleoreugiga isseoyo. | I have an allergy. | Start an allergy conversation |
 | 18 | 땅콩 알레르기가 있어요. | Ttangkong alleoreugiga isseoyo. | I have a peanut allergy. | Name a peanut allergy |
 | 19 | 이거에 우유가 들어가요? | Igeoe uyuga deureogayo? | Does this contain milk? | Ask about an ingredient |
-| 20 | 땅콩을 완전히 빼야 해요. | Ttangkong-eul wanjeonhi ppaeya haeyo. | I must completely avoid peanuts. | State strict avoidance |
+| 20 | 땅콩을 완전히 피해야 해요. | Ttangkong-eul wanjeonhi pihaeya haeyo. | I must completely avoid peanuts. | State strict avoidance |
 | 21 | 같은 조리 기구를 사용해요? | Gateun jori gigureul sayonghaeyo? | Do you use the same cooking utensils? | Ask about shared equipment |
 | 22 | 채식 메뉴 있어요? | Chaesik menyu isseoyo? | Do you have a vegetarian menu? | Ask for vegetarian choices |
 | 23 | 고기 안 들어간 메뉴 있어요? | Gogi an deureogan menyu isseoyo? | Is there a dish without meat? | Ask about meat-free dishes |
@@ -126,7 +127,7 @@ Then ask **이거에 [ingredient]가 들어가요?** (“Does this contain [ingr
 
 ### Allergy is different from preference
 
-**안 먹어요** means “I don’t eat it”; it does not automatically communicate medical risk. For severe allergy, include **알레르기** and a clear statement such as **완전히 빼야 해요** (“I must completely avoid it”). Ask **같은 조리 기구를 사용해요?** about shared utensils or equipment. A shared grill, fryer, pot, knife, cutting board, or sauce container can matter even when the ingredient is not visible in the final dish.
+**안 먹어요** means “I don’t eat it”; it does not automatically communicate medical risk. For severe allergy, include **알레르기** and a clear statement such as **완전히 피해야 해요** (“I must completely avoid it”). Ask **같은 조리 기구를 사용해요?** about shared utensils or equipment. A shared grill, fryer, pot, knife, cutting board, or sauce container can matter even when the ingredient is not visible in the final dish.
 
 Vegetarian, vegan, halal, and gluten-free needs also require detail. **고기 안 들어간 메뉴** asks for a dish without meat, but broth, fish sauce, anchovy stock, egg, dairy, or shared cooking surfaces may still be involved. State the ingredients you avoid rather than relying only on a broad label. If a restriction is medically serious and communication remains uncertain, choose a restaurant that documents ingredients or contact it before visiting.
 
@@ -160,7 +161,7 @@ Korean meals often arrive as a main dish surrounded by several small plates. The
 
 ## Three Mini-Dialogues You Can Reuse
 
-These exchanges combine the phrase table into realistic sequences. Replace the dish or ingredient while keeping the structure.
+These fictional practice exchanges combine the phrase table into realistic sequences. Replace the dish or ingredient while keeping the structure.
 
 ### Ordering one dish with less spice
 
@@ -235,32 +236,6 @@ The polite ending **-요** is often the most audible part of a question. Keep it
 Numbers can create the costliest misunderstanding. Pair the spoken quantity with your fingers, but remember that gestures are supporting evidence, not a replacement for checking the order screen or repeated quantity. If the total seems wrong, say **이거 두 개 맞아요?** (*Igeo du gae majayo?*, “Is this correctly two?”) while pointing to the item.
 
 For the same point-and-confirm method on buses and subways, save our [Korean transit phrase guide](/posts/korean-subway-bus-phrases/) before your trip.
-
-## FAQ
-
-**Q: What is the easiest Korean phrase for ordering food?**
-
-Point to the exact item and say **이거 하나 주세요** (*Igeo hana juseyo*), “One of this, please.” Change **하나** to **두 개** for two items, then confirm the quantity shown or repeated by staff.
-
-**Q: How do I call a server politely in Korea?**
-
-Say **저기요** (*jeogiyo*, “excuse me”) or press the table’s call bell once. First check whether the restaurant expects counter ordering, kiosk ordering, or table service.
-
-**Q: How do I ask for non-spicy food in Korean?**
-
-Ask **안 매운 메뉴 있어요?** (*An maeun menyu isseoyo?*, “Do you have a non-spicy dish?”). For a dish that can be adjusted, say **안 맵게 해 주세요**. A premixed sauce, broth, marinade, or kimchi-based dish may not be changeable, so choose another dish if staff say it is not possible.
-
-**Q: Is saying an allergy phrase enough to stay safe?**
-
-No. Say and show the Korean ingredient, explain that it is an allergy, ask about hidden ingredients and shared equipment, and do not eat the dish if staff cannot confirm. Carry your medication and emergency plan as directed by your clinician.
-
-**Q: Do Korean restaurants expect tips?**
-
-Routine tipping is not generally expected. Pay the displayed total at the counter or through the restaurant’s stated system. Follow any clearly explained policy at the specific business.
-
-**Q: Can I ask a Korean restaurant to split the bill?**
-
-You can ask **따로 계산할 수 있어요?**, but separate payments are not guaranteed. Ask before presenting multiple cards, and be ready for one person to pay the table total.
 
 ## Practice Before Your Next Meal
 

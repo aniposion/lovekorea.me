@@ -1,7 +1,7 @@
 ---
 title: "Gamcheon Culture Village: Free Visit or Guided Tour? (2026 Guide)"
 date: 2026-01-07T10:36:45.369783
-lastmod: 2026-09-25
+lastmod: 2026-10-04
 slug: "busan-gamcheon-culture-village-tours-how-to-book-prices"
 description: "Visit Busan’s Gamcheon Culture Village for free or compare a guided tour. Check the 2026 visitor rules, transit route, tour inclusions, and booking limits."
 categories: ["k-travel"]
@@ -17,8 +17,6 @@ monetize:
     top: []
     bottom: []
 ---
-
-# Gamcheon Culture Village: Free Visit or Guided Tour?
 
 **Updated September 25, 2026.** You do **not** need a ticket or a tour to walk around Gamcheon Culture Village. [Visit Busan lists admission as free](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=365), apart from parking. Pay for a guide only if you want someone to explain the neighborhood's history and take you between several Busan stops.
 
@@ -77,17 +75,8 @@ Before paying for **any** Gamcheon tour, check:
 - Whether meals, the cable car, and other admissions are included.
 - Mobility and age restrictions, cancellation deadline, and final price.
 
-## FAQ
-
-**Is Gamcheon Culture Village free?** Yes. Visit Busan lists entry as free except for parking; optional activities and purchases cost extra.
-
-**Do I need to reserve a time slot?** Not for a normal independent walk. Paid tours have their own departure times and booking rules.
-
-**Can I visit after dark?** Do not plan a tourist walk through the residential lanes after the permitted visiting window. Check the [special management area guide](https://gamcheon.or.kr/gamcheon/api/user/intro1-content/pdf/en/download) and the current village notice before traveling.
-
-**Is Songdo Cable Car included in the tour above?** No. Its listing includes Songdo Skywalk on the itinerary and excludes cable car fare. See our [Songdo Cable Car guide](/posts/busan-songdo-cable-car-tickets-prices/) if you plan to ride it separately.
-
 ## Nearby guides
 
+- [Songdo Cable Car tickets, separate from the tour's Skywalk stop](/posts/busan-songdo-cable-car-tickets-prices/)
 - [Nampo-dong shopping and market walk](/posts/busan-nampo-dong-shopping-where-to-buy-prices/)
 - [Busan City Tour Bus routes and tickets](/posts/busan-city-tour-bus-pass-prices-route-comparison/)

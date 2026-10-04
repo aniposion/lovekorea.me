@@ -1,6 +1,7 @@
 ---
 title: "Korean Sheet Mask Guide 2026: Prices, Packs & Where to Buy"
 date: 2026-09-04T08:00:00-05:00
+lastmod: 2026-10-04
 slug: "korean-sheet-mask-guide"
 description: "Compare Korean sheet mask types, September 2026 prices, value packs, skin-concern labels, safe use, and practical places to shop in Seoul and online."
 categories: ["k-beauty"]
@@ -23,7 +24,7 @@ monetize:
 > **Quick Info**
 > - 📍 Area: Korean health-and-beauty stores, brand shops, department stores, duty-free shops, and official online stores
 > - 🕒 Best time: Compare before a promotion ends; buy unfamiliar formulas early enough in your trip to avoid a rushed final-night haul
-> - 💰 Budget: Official Korean listings checked September 4, 2026 ranged from about ₩900 per sheet in a temporary 10+1 deal to about ₩3,500 per gel mask in a 7+1 set
+> - 💰 Budget: Historical September 4, 2026 examples—not current offers—ranged from about ₩900 per sheet in a temporary 10+1 deal to about ₩3,500 per gel mask in a 7+1 set
 > - 🚇 Getting there: Large branches in Myeongdong and Hongdae offer broad choice; use an official store finder for live branch services and stock
 > - 👥 Best for: Travelers, first-time K-beauty shoppers, gift buyers, and anyone comparing singles with multipacks
 > - ✅ TL;DR: Buy singles when testing a formula, compare multipacks by unit price, follow the packet's timing, and stop if your skin reacts.
@@ -72,13 +73,13 @@ A short shopping rule works well: **one concern, one new formula, one small tria
 
 People with a known cosmetic allergy should compare the complete ingredient list with products that previously caused a problem. The FDA's [cosmetic allergen guidance](https://www.fda.gov/cosmetics/cosmetic-ingredients/allergens-cosmetics) notes that reactions often appear as itchy red rashes or contact dermatitis and cautions that broad terms such as “hypoallergenic” do not remove the need to examine labels. A medical patch test is different from casually trying a little cosmetic at home; speak with a healthcare professional if you need allergy testing.
 
-## Korean Sheet Mask Prices in September 2026
+## Historical price examples: learn the unit-price calculation
 
 ![Three single sheet mask packets beside an unbranded box containing a larger multipack](/images/korean-sheet-mask-guide-multipack.webp)
 
 The clearest way to compare Korean mask prices is **sale total ÷ total usable masks**. Ignore the large discount percentage until you verify the pack size, bonus sheets, and whether a coupon is already reflected.
 
-The table below records official Korean listings visible on **September 4, 2026**. Several are limited promotions. The calculated unit prices are rounded to the nearest won and exclude any payment-card benefit, shipping charge, tax refund, or gift whose value cannot be used like another mask.
+**These are archived September 4, 2026 examples, not offers verified as available today.** Several were limited promotions. Use them to understand the calculation, then check the current shelf or checkout price. The calculated unit prices are rounded to the nearest won and exclude any payment-card benefit, shipping charge, tax refund, or gift whose value cannot be used like another mask.
 
 | Official listing checked | Pack shown | Regular price shown | Sale price shown | Approx. sale price per mask | What the example teaches |
 |---|---:|---:|---:|---:|---|
@@ -162,32 +163,6 @@ Sheet-mask sachets are durable but not indestructible. Keep them flat between so
 For a gift, choose two to five individually sealed masks with intact ingredient and instruction panels. Do not cover the expiry information with a decorative sticker. If the recipient has sensitive skin, a modest selection is kinder than a huge variety pack of unfamiliar active formulas.
 
 Remember that masks are liquid-soaked cosmetics. Airline and security treatment can vary by country, airport, and whether the product travels in cabin or checked baggage. Review the official rules for every airport on your itinerary rather than relying on a beauty-store employee or an old social-media post.
-
-## FAQ
-
-**Q: How much does a Korean sheet mask cost in Korea in 2026?**
-
-The official examples checked on September 4, 2026 ranged from about ₩900 per basic sheet in a temporary 10+1 Olive Young promotion to about ₩3,500 per gel mask in a 7+1 set. An Abib single was listed at ₩2,800 on sale. These are dated examples, not a market-wide average or guaranteed future price.
-
-**Q: Are multipacks always cheaper than single Korean sheet masks?**
-
-They usually lower the unit price, but a box is poor value if the formula irritates your skin, the fit is uncomfortable, or the sheets expire unused. Buy a single first when the formula is unfamiliar, then compare the multipack by final unit price.
-
-**Q: Is a gel mask better than a regular sheet mask?**
-
-Not automatically. Gel masks offer a different material and experience and often cost more. Choose by formula, fit, directions, and your budget rather than assuming a thicker or more expensive mask produces a better result.
-
-**Q: How long should I leave a Korean sheet mask on?**
-
-Use the time printed by the manufacturer. One current Mediheal example specifies 10 to 20 minutes, but that does not make 20 minutes universal. Remove the mask sooner if you feel burning, itching, or unusual discomfort.
-
-**Q: Can I use a sheet mask every day?**
-
-Only if the exact product directions support that frequency and your skin tolerates the formula. A current Mediheal product page suggests two to three times per week for that product. More frequent use is not inherently better, especially when several new or active formulas are rotated together.
-
-**Q: Where is the easiest place to buy sheet masks in Seoul?**
-
-A large multi-brand health-and-beauty store is easiest for comparing formats and prices in one place. Myeongdong offers dense tourist-oriented choice, Hongdae adds trends and pop-ups, and Gangnam fits a polished appointment day. Choose the district that already matches your itinerary and verify branch stock.
 
 ## Build a Small, Useful Mask Haul
 

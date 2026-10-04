@@ -17,6 +17,7 @@ monetize:
   slots:
     top: []
     bottom: []
+lastmod: 2026-10-04
 ---
 ![Traveler and Korean host exchanging a polite greeting in Seoul](/images/korean-honorifics-banmal-guide-cover.webp)
 
@@ -93,7 +94,7 @@ The endings change more than the dictionary meaning. Compare these useful pairs:
 | 죄송해요. | 미안해. | I am sorry. |
 | 감사합니다. | 고마워. | Thank you. |
 
-Do not make “remove **요**” your only conversion rule. It works for some pairs—**괜찮아요 → 괜찮아**—but other casual forms change more: **주세요 → 줘**, **계세요 → 있어**, and **감사합니다 → 고마워**. Learn whole pairs from conversations rather than mechanically cutting off the last syllable.
+Do not make “remove **요**” your only conversion rule. It works for some pairs—**괜찮아요 → 괜찮아**—but other casual forms change more: **주세요 → 줘**, **계세요 → 계셔**, and **감사합니다 → 고마워**. In **계세요 → 계셔**, the listener ending becomes casual while respect for the person being discussed remains. Changing it to **있어** would also remove that subject honorification. Learn whole pairs from conversations rather than mechanically cutting off the last syllable.
 
 Also separate **politeness toward the listener** from **honoring the person discussed**. In **선생님이 오셨어요** (“The teacher came”), **-셨어요** contains the subject-honorific **-시-**, while **-요** keeps the sentence polite to the listener. A sentence can therefore honor its subject and use a listener-facing speech level at the same time.
 
@@ -258,31 +259,7 @@ You can build reliable instincts without memorizing a grammar chart in one sitti
 
 The goal is not to calculate another person's rank. It is to notice the relationship being offered and respond with enough respect for the setting.
 
-## FAQ
-
-**Q: Is 반말 always rude?**
-
-No. It is normal and often affectionate among close friends, family members, and others whose relationship supports casual speech. It can feel rude when used uninvited with a stranger, customer-service worker, older adult, or professional contact.
-
-**Q: Should same-age adults use 반말 immediately?**
-
-Not automatically. Many adults begin with polite speech and switch after a brief conversation or explicit agreement. Similar age can make the switch easier, but familiarity and preference still matter.
-
-**Q: What is the difference between 존댓말 and 높임말?**
-
-In everyday conversation the terms often overlap. A fuller grammar explanation separates respect toward the listener from honor shown to the sentence's subject or object. For beginners, start by controlling listener endings and learn common honorific verbs as chunks.
-
-**Q: Is 해요체 formal Korean?**
-
-It is polite but grammatically classed as non-formal. It is the flexible everyday respectful style used in many ordinary conversations. 합니다체 is more formal and common in public, official, or carefully professional speech.
-
-**Q: Can I call a stranger 당신?**
-
-Usually avoid it. Omit “you,” use the person's title or role, or frame the question without a pronoun. 당신 has special written, marital, and confrontational uses that make it an unreliable default.
-
-**Q: What should I do if I use the wrong speech level?**
-
-Correct the sentence and continue. If the mistake was noticeably too casual, say **죄송해요. 아직 한국어를 배우고 있어요** (“Sorry. I am still learning Korean”). Most people care more about your respectful intent and adjustment than perfect grammar.
+If you make an overly casual mistake, correct the sentence and continue: **죄송해요. 아직 한국어를 배우고 있어요.** — “Sorry. I am still learning Korean.”
 
 ## Keep One Default, Then Listen
 

@@ -18,8 +18,6 @@ monetize:
     bottom: []
 ---
 
-# Busan Songdo Cable Car 2026: Official Fares, Booking Rules & Route
-
 **Checked September 24, 2026.** Busan Air Cruise, also called the Songdo Marine Cable Car, connects the Songdo Beach side of Busan with Songdo Sky Park near Amnam Park. The operator's [current fare page](https://en.busanaircruise.co.kr/info/price?rank=1) lists an adult **Air Cruise round trip at ₩19,000** and a **Crystal Cruise round trip at ₩24,000**. The Crystal cabin has a transparent floor. Check the official fare and today's operating status before paying; both can change.
 
 The booking detail that matters most: the operator's [FAQ](https://en.busanaircruise.co.kr/cmm/faq.html?BD_CD=FAQ2&rank=4) says its official online tickets can be used **from the day after purchase**, not on the purchase day. On-site ticketing is available for a same-day visit.

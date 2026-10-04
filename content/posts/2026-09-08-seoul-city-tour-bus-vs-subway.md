@@ -1,7 +1,7 @@
 ---
 title: "Seoul City Tour Bus vs Subway 2026: Cost, Routes & Best Choice"
 date: 2026-09-08T08:00:00-05:00
-lastmod: 2026-09-29
+lastmod: 2026-10-04
 slug: "seoul-city-tour-bus-vs-subway"
 description: "Compare Seoul City Tour Bus and subway costs, routes, speed, comfort, and 2026 pass options to choose the best fit for your sightseeing day."
 categories: ["k-travel"]
@@ -79,7 +79,9 @@ Seoul's [official Climate Card page](https://english.seoul.go.kr/policy/transpor
 
 This distinction matters after Seoul's September 2026 transit-card change. The old 30-day prepaid Climate Card was discontinued as the resident-focused Climate Pass launched, but the city says **tourist short-term passes continue without change**. Visitors should not confuse the resident-only monthly product with the short-term tourist passes.
 
-International cards can be used at supported machines for Climate Card short-term purchases and single-journey tickets. Seoul says an average service fee of about **3.7%** applies to international-card purchases. The short-term pass does not cover every railway or bus: the Sinbundang Line, intercity and airport buses, non-Seoul buses, and subway travel outside the permitted service area have exclusions.
+Check the payment methods and any service fee displayed by the particular machine before paying with an international card. Do not assume that every machine or card has the same fee. The short-term pass does not cover every railway or bus: the Sinbundang Line, intercity and airport buses, non-Seoul buses, and subway travel outside the permitted service area have exclusions.
+
+**Airport exception:** The [city’s current coverage page](https://english.seoul.go.kr/policy/transportation/climate-card/), rechecked October 4, permits getting off at Incheon Airport T1/T2 after a qualifying journey, but not boarding there with the Climate Card. This does not include the separately ticketed AREX Express. Check your exact journey in the service-area search.
 
 ### Which is cheapest?
 
@@ -150,16 +152,16 @@ The tour bus wins for continuous street-level and elevated views. Pick it on a c
 
 A hybrid day often gives the best result. Use the tour bus for the central landmark story, then use the subway for the evening neighborhood that is not on the loop.
 
-### Sample balanced itinerary
+### Sample itinerary following the loop order
 
 - **9:00 a.m.:** Arrive near the Gwanghwamun ticket booth, collect or buy the ticket, and confirm service notices.
 - **9:20 a.m.:** Take an early departure and stay on long enough to understand the route.
-- **Late morning:** Hop off for one major palace or Insa-dong/Bukchon cluster. Choose one anchor rather than racing through both palaces.
-- **Early afternoon:** Reboard for Namsan or DDP, depending on weather and your interests.
+- **Morning:** Hop off at N Seoul Tower if that is your chosen view stop. It comes before DDP and the palace-area stops on this loop. Tower admission is separate.
+- **Afterward:** Reboard toward DDP, then choose one palace or Insa-dong stop farther along the loop. Check that palace’s closing day; do not assume the bus operating means every attraction is open.
 - **Late afternoon:** Finish the tour-bus portion at a subway-connected stop before the last departures become a concern.
 - **Evening:** Take the subway to a dining or shopping district outside the loop.
 
-This plan prevents a common mistake: buying the tour bus and then using expensive taxis every time the loop feels slow. The subway is not a failure of the tour-bus plan; it is the flexible second half of it.
+This is a suggested sequence, not a trip we have timed. The [operator’s stop order](https://www.seoulcitybus.com/en/tours/1?code=1), rechecked October 4, 2026, places N Seoul Tower before DDP, the palaces and Insa-dong. Visiting a palace first and returning to Namsan by this bus would require most of another circuit. Use ordinary transit if you need a different order.
 
 If you want more context for the historic stops, our [Seoul palace guide](/posts/korea-historic-palaces-guide/) helps you choose one palace instead of overloading the day. For practical language at stations and stops, keep the [Korean subway and bus phrases guide](/posts/korean-subway-bus-phrases/) on your phone.
 
@@ -189,46 +191,6 @@ For the subway:
 - Tap in and out correctly; transfer pricing and pass rules depend on complete taps.
 - Use an official map or trusted navigation app and check the correct exit before arrival.
 - Leave extra time for large stations and peak-hour crowds.
-
-## Common Mistakes to Avoid
-
-**Choosing by price alone.** The subway nearly always wins on raw cost. The bus price buys views, commentary, and reduced route planning. If you do not value those, do not buy it.
-
-**Assuming the tour bus is a fast shuttle.** It follows a sightseeing loop and shares roads with traffic. Use it for discovery, not a tight appointment.
-
-**Buying a Climate Card without checking coverage.** A short-term pass can be excellent value, but it excludes some lines and services. Airport buses and the Sinbundang Line are important examples.
-
-**Confusing the new resident pass with the tourist pass.** Seoul changed its 30-day product in September 2026. Short-term tourist passes continue, while the new Climate Pass has residency-linked eligibility.
-
-**Trying to hop off at every stop.** Even a 25-minute scheduled interval can turn into a long wait. Pick two or three anchor stops.
-
-**Forgetting the final connection.** End near a subway station so traffic or a missed tour bus does not strand your evening plan.
-
-## FAQ
-
-**Is the Seoul City Tour Bus cheaper than the subway?**
-
-No. The official city tour bus adult ticket started at ₩27,000 when checked on September 8, 2026, while the adult subway base fare was ₩1,550 by transit card. The bus is a sightseeing product with commentary and a curated loop, not the budget option.
-
-**Is the Seoul City Tour Bus hop-on, hop-off?**
-
-Yes. The Downtown, Palaces & Namsan daytime course allows unlimited boarding and exiting at its 15 stops during the valid day. Reboarding seats are first come, first served.
-
-**How often does the city tour bus run?**
-
-The official schedule lists departures about every 25 minutes from Gwanghwamun, with the first at 9:20 a.m. and the last at 4:50 p.m. Traffic and events can cause delays, so check the current notice and timetable.
-
-**Is a one-day Climate Card worth it for sightseeing?**
-
-It can be. The pass is ₩5,000 plus ₩3,000 if you need a new physical card. It becomes more attractive on a high-movement day, but only if your trips fall within its coverage area.
-
-**Can I use the Climate Card to reach Incheon Airport?**
-
-Coverage is directional and conditional. The official page says riders can currently exit at Incheon Airport terminals after boarding within the covered area, but cannot board at the airport terminals using the card. Verify the rule before travel because airport and rail policies can change.
-
-**Should I use both options on the same day?**
-
-Yes, especially if you want the scenic central loop and an evening in a district outside it. Use the bus for flexible sightseeing, then switch to the subway before the bus service winds down.
 
 ## What to Do Next
 

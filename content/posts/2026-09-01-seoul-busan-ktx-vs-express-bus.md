@@ -1,7 +1,7 @@
 ---
 title: "Seoul to Busan: KTX vs Bus After the October Fare Change"
 date: 2026-09-01T08:14:50-05:00
-lastmod: 2026-10-02T08:21:03-05:00
+lastmod: 2026-10-04
 slug: "seoul-busan-ktx-vs-express-bus"
 description: "Old Seoul–Busan bus fares can mislead your budget after October 1, 2026. Compare KTX, bus grades, Nopo transfers, and live prices before booking."
 categories: ["k-travel"]
@@ -172,50 +172,6 @@ Choose an **excellent or premium bus** when:
 For a family or group, multiply each live per-person quote by the number of travelers before deciding, then add local transport. Include any child discounts that actually apply to your booking and decide what several additional travel hours are worth to the group. A four-person comparison based on old bus fares can overstate the saving.
 
 For a same-day Seoul-to-Busan trip, KTX is the practical option. The bus consumes too much of the day and adds traffic uncertainty. If Busan is your final destination for several nights, the bus is easier to justify.
-
-## Common Mistakes to Avoid
-
-**Using a pre-October bus fare as today's price.** Fare ceilings changed on October 1, 2026. Recheck the chosen departure and grade rather than using the old savings calculations from a blog or screenshot.
-
-**Using the old ₩59,800 KTX fare.** The regular Seoul–Busan standard fare cited by KORAIL changed to ₩54,400 on September 1, 2026. Check current prices again if you read this later.
-
-**Assuming every KTX leaves Seoul Station.** The integrated system includes Suseo services. Confirm the station printed on the ticket before you travel across the city.
-
-**Going to Central City for the Busan express bus.** Seoul Express Bus Terminal and Central City share a large complex, but serve different route groups. Follow the Gyeongbu-side information for Busan.
-
-**Treating four bus hours as guaranteed.** That is a scheduled normal-traffic estimate. Add a real buffer for road delays.
-
-**Ignoring the Nopo arrival.** The bus ticket may be cheaper, but Nopo is not downtown Busan. Include the final subway or taxi journey in your comparison.
-
-**Assuming a premium night bus is the budget choice.** Seat upgrades and night surcharges can reduce its advantage. Compare the live price against KTX and check onward transport at the arrival hour.
-
-**Booking a tight connection.** Neither a KTX timetable nor a bus estimate should be used as a minimum transfer guarantee. Keep extra time for navigation, meals, queues, and unexpected delays.
-
-## FAQ
-
-**Q: How much is KTX from Seoul to Busan in 2026?**
-
-As of September 1, 2026, KORAIL lists the regular adult standard-class Seoul–Busan fare at ₩54,400, down from ₩59,800. First class, discounts, passes, and different origins can change the price shown at checkout.
-
-**Q: How long does KTX take from Seoul to Busan?**
-
-The official timetable effective September 1, 2026 shows a fastest direct Seoul–Busan run of about 2 hours 18 minutes. Many trains take roughly 2 hours 30 minutes to 2 hours 50 minutes, and slower stopping patterns can exceed three hours.
-
-**Q: How much is the express bus from Seoul to Busan?**
-
-A current route-specific fare was not verified for this October 2 update. Express-bus fare ceilings rose by 9% on October 1, 2026; older price lists are not reliable current quotes. Search Seoul Gyeongbu to Busan in KOBUS, then check your departure's grade, night surcharge, and final price.
-
-**Q: Where does the Seoul-to-Busan express bus arrive?**
-
-It arrives at Busan Central Bus Terminal at Nopo Station on Busan Subway Line 1. This is in northern Busan, not beside Busan Station, Seomyeon, Gwangalli, or Haeundae.
-
-**Q: Do Korean express buses have toilets?**
-
-Long-distance express buses generally do not have onboard restrooms. The route uses a highway service-area break. Follow the driver's return time carefully.
-
-**Q: Is KTX or the express bus better with luggage?**
-
-KTX is faster and avoids road delay, but you manage your suitcase in the carriage racks. A bus stores large luggage underneath, which can be convenient, but keep valuables with you. Terminal location and the final transfer matter as much as onboard storage.
 
 ## Plan the Rest of Your Busan Arrival
 

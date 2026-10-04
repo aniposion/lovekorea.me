@@ -14,8 +14,6 @@ cover:
   relative: false
 ---
 
-# Compare Korea Tours: DMZ, Busan & Jeju Booking Checks
-
 Use this page to decide whether a guided trip fits your plans. Each option below links to a specific provider listing and a LoveKorea guide explaining the alternative of arranging the visit yourself. Our comparison is based on published information, not a claim that we have personally taken these tours.
 
 {{< affiliate-disclosure >}}

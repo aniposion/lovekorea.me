@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 description: "How LoveKorea uses Google Analytics, handles contact messages and comments, and prepares for advertising and affiliate links."
 date: 2026-07-02
-lastmod: 2026-09-25
+lastmod: 2026-10-04
 draft: false
 showToc: true
 disableComments: true
@@ -10,7 +10,7 @@ disableRelated: true
 disableShare: true
 ---
 
-Last updated: September 25, 2026
+Last updated: October 4, 2026
 
 LoveKorea (`lovekorea.me`) publishes Korea travel, food, beauty, shopping, culture, and language guides. This policy explains the information involved when you use the site and the choices available to you.
 
@@ -47,7 +47,7 @@ Google describes its advertising technologies and choices in [How Google uses co
 
 LoveKorea links to external websites, including travel operators, booking platforms, retailers, and reference sources. Those sites have their own privacy policies and may receive information when you visit them.
 
-One Busan tour guide currently contains a tracked Viator affiliate link. If you follow it, Viator may use referral parameters or cookies to associate an eligible booking with LoveKorea. The site may receive a commission from that booking. Other booking and retailer links are not necessarily affiliate links. See the [Affiliate Disclosure](/affiliate-disclosure/) for more information.
+Selected guides and comparison pages contain tracked Klook and Viator affiliate links. If you follow one, the provider may use referral parameters or cookies to associate an eligible booking with LoveKorea. The site may receive a commission from that booking. Other booking and retailer links are not necessarily affiliate links. See the [Affiliate Disclosure](/affiliate-disclosure/) for more information.
 
 ## Comments
 
@@ -57,7 +57,7 @@ Read the [giscus Privacy Policy](https://github.com/giscus/giscus/blob/main/PRIV
 
 ## Browser Storage and Your Choices
 
-The site and its providers can use cookies or local storage for analytics, commenting, and site preferences. The current affiliate provider may use cookies after you follow its link. Advertising providers may use cookies if ads are approved and enabled.
+The site and its providers can use cookies or local storage for analytics, commenting, and site preferences. Affiliate providers may use cookies after you follow their links. Advertising providers may use cookies if ads are approved and enabled.
 
 You can clear cookies and local storage, restrict them in your browser, use the Google choices linked above, and choose whether to post comments. Blocking storage or third-party services can affect sign-in, comments, or saved preferences.
 

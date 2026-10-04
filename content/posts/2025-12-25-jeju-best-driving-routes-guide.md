@@ -18,8 +18,6 @@ monetize:
     bottom: []
 ---
 
-# Jeju Road Trip: 3 Driving Routes for East, West & Hallasan (2026)
-
 **Pick one part of Jeju for each driving day.** Seopjikoji on the east coast and Jungmun in the southwest should not be treated as one short coastal outing. These three plans keep their main stops in one area, except for the deliberate mountain crossing on Route 1100. Use live navigation for the roads and travel time on your date: the stop orders below are not turn-by-turn directions.
 
 | Route | Stop order | Choose it for | Main check |

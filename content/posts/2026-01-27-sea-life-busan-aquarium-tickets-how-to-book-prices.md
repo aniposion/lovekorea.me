@@ -1,7 +1,7 @@
 ---
 title: "SEA LIFE Busan Tickets 2026: Prices, Hours & How to Book"
 date: 2026-01-27T08:37:36.990589
-lastmod: 2026-09-24
+lastmod: 2026-10-04
 slug: "sea-life-busan-aquarium-tickets-how-to-book-prices"
 description: "Check current SEA LIFE Busan ticket prices, age rules, opening hours, booking changes, and parking before a Haeundae visit."
 categories: ["k-travel"]
@@ -17,8 +17,6 @@ monetize:
     top: []
     bottom: []
 ---
-
-# SEA LIFE Busan Tickets 2026: Prices, Hours & How to Book
 
 **Checked September 24, 2026.** SEA LIFE Busan sells dated tickets on its [official ticket page](https://www.visitsealife.com/busan/en/tickets-passes/). The page currently lists a **child ticket from ₩19,000 online**, compared with **₩27,500 at the gate**, and advertises savings of up to 31% for advance booking. Those are *child* prices, not a starting price for every visitor. Select your visit date and the correct age category to see the actual checkout total. Prices and offers can change.
 
@@ -62,14 +60,6 @@ The address is **266 Haeundaehaebyeon-ro, Haeundae-gu, Busan**. From Haeundae su
 
 If driving, check the [Korean parking page](https://www.visitsealife.com/busan/plan-your-visit/before-you-visit/directions-parking/) before leaving. It lists the current partner lots, rates, validation steps and capacity cautions. Parking arrangements have changed, so an older map or free-parking claim may be wrong.
 
-## Quick questions
+## Plan the rest of the Haeundae visit
 
-**Can I walk in and buy a ticket?** The official ticket page shows an on-site child price, but online booking can cost less and gives you a QR ticket. Check availability for your date before relying on walk-in admission.
-
-**Is a child under three always free?** One under-36-month child may enter free with each full-paying adult. The official English page lists a charge for an additional toddler with the same adult. Bring proof of age.
-
-**Can I use an online ticket on any day?** No. Select a date at purchase. Changes are subject to the official conditions above.
-
-**Is Happy Time the cheapest choice?** Only if that product is offered for your date and the checkout total beats the standard ticket. The current main ticket page does not advertise a fixed Happy Time price.
-
-For more time around Haeundae, see our [Haeundae yacht tour guide](/posts/haeundae-busan-yacht-tour-how-to-book-prices/), [Busan City Tour Bus guide](/posts/busan-city-tour-bus-pass-prices-route-comparison/), or [Busan beaches and seafood guide](/posts/top-beaches-seafood-busan-tours/).
+For more time around Haeundae, see our [yacht departure-point comparison](/posts/haeundae-busan-yacht-tour-how-to-book-prices/), [Busan City Tour Bus guide](/posts/busan-city-tour-bus-pass-prices-route-comparison/), or [Busan beaches and seafood guide](/posts/top-beaches-seafood-busan-tours/). Keep any sailing or timed aquarium entry as the day's anchor instead of stacking tight reservations.

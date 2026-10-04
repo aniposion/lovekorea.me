@@ -17,6 +17,7 @@ monetize:
   slots:
     top: []
     bottom: []
+lastmod: 2026-10-04
 ---
 ![Two travelers sharing a Korean meal with banchan in a Seoul restaurant](/images/korean-restaurant-etiquette-guide-cover.webp)
 
@@ -112,7 +113,7 @@ Keep your utensils on the table or on a rest when one is provided. Do not plant 
 
 ### Let the grill routine reveal who is cooking
 
-At Korean barbecue, do not seize the tongs the moment meat arrives. Watch what the server does. If staff place, turn, cut, and distribute the meat, let them manage timing and grill changes. If they place raw meat and leave the tools with your group, guests are probably expected to cook. When uncertain, ask **구워 주세요?** only if you are requesting help, or **저희가 구워요?** (*Jeohuiga guwoyo?*, “Do we grill it ourselves?”).
+At Korean barbecue, do not seize the tongs the moment meat arrives. Watch what the server does. If staff place, turn, cut, and distribute the meat, let them manage timing and grill changes. If they place raw meat and leave the tools with your group, guests are probably expected to cook. When uncertain, ask **구워 주실 수 있어요?** (“Could you grill it for us?”) if you are requesting help, or **저희가 구워요?** (*Jeohuiga guwoyo?*, “Do we grill it ourselves?”).
 
 Keep raw-meat tongs and scissors separate from personal chopsticks. Do not taste with a tool that touched raw meat. Use a clean utensil for cooked pieces if the restaurant provides one. Do not pour water, sauce, or soup onto a grill, and do not move hot charcoal, burners, or ventilation equipment yourself. Ask staff when heat is too high or the grill plate needs changing.
 
@@ -163,47 +164,6 @@ The most useful etiquette changes with the party.
 **Hosted meals:** Let the host guide seating, ordering, and whether the bill is shared. You can offer once to contribute without turning payment into a struggle at the register. A sincere thank-you is more useful than forcing a second transaction the restaurant cannot process.
 
 **Dietary restrictions:** State concrete ingredients and cross-contact concerns. “Vegetarian,” “halal,” or “gluten-free” may not answer questions about broth, fish sauce, shared grills, or cooking oil. Use written Korean, ask staff to confirm, and choose another dish when the answer is uncertain.
-
-## Common Mistakes to Avoid
-
-- **Sitting at the first empty table.** It may belong to a waitlist or reservation. Pause at the entrance.
-- **Assuming all banchan is unlimited.** Ordinary refills are common, but premium sides and menu-listed extras can cost more.
-- **Taking large portions before tasting.** Start small, especially with strong, spicy, raw, or fermented foods.
-- **Using personal chopsticks to sort shared food.** Use serving tools, or take one cleanly chosen piece.
-- **Mixing raw and cooked barbecue tools.** Follow the restaurant's utensil setup and ask for a clean tool when needed.
-- **Changing the grill yourself.** Staff may need to replace a plate, adjust gas, or manage charcoal safely.
-- **Pressing the call bell repeatedly.** Press once, then give staff time to respond.
-- **Waiting for a paper bill at every restaurant.** Many casual restaurants expect payment at the front counter.
-- **Leaving a routine tip on the table.** Pay the displayed total unless the venue explains another policy.
-- **Treating etiquette as more important than safety.** Allergy clarity, hot-surface safety, and sober consent matter more than performing a custom perfectly.
-
-The biggest mistake is overgeneralization. Korea has fine dining, family restaurants, street-food counters, temple food, pubs, global chains, and tiny owner-run shops. Regional habits, generation, relationship, and business design all change the experience. A respectful visitor notices the local system instead of demanding that reality match a checklist.
-
-## FAQ
-
-**Q: Are Korean side dishes free, and can I ask for refills?**
-
-Ordinary banchan and water are commonly included, and Korea Tourism Organization describes extra side dishes and water as generally free. However, not every dish is a refillable basic side. Check the menu or ask **이 반찬 리필돼요?** before assuming a premium side, rice, egg dish, or special add-on is complimentary.
-
-**Q: Should I wait for the oldest person to eat first in Korea?**
-
-Waiting for an older host can be considerate in a formal or family setting. It is not a universal procedure for every restaurant. In a casual meal, follow your host if you have one; otherwise, begin when everyone is served or the group is ready.
-
-**Q: Is it rude to use a spoon instead of metal chopsticks?**
-
-No. The spoon is central to Korean dining and is normally used for rice, soup, stew, and mixing. Use whichever provided utensil handles the food neatly; struggling dramatically with chopsticks is not more respectful.
-
-**Q: Who cooks the meat at a Korean barbecue restaurant?**
-
-It depends on the restaurant. If staff begin placing, turning, cutting, or distributing the meat, let them lead. If raw meat and tools are left with your group, guests may be expected to cook. Ask before taking over, and keep tools that touched raw meat separate from eating utensils.
-
-**Q: Do I tip at restaurants in South Korea?**
-
-Routine restaurant tipping is not required or expected, according to Korea Tourism Organization. Pay the displayed total. Follow an explicit service policy if a particular venue clearly states one.
-
-**Q: Where do I pay at a Korean restaurant?**
-
-Many casual restaurants collect payment at the front counter after the meal, while others use table terminals or kiosks. Watch the established flow or ask **어디에서 계산해요?** Bring the table number or order slip if the restaurant gave you one.
 
 ## Save This Guide for Your First Korean Meal
 
