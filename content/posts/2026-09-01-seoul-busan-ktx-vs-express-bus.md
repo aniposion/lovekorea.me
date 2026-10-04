@@ -221,6 +221,8 @@ KTX is faster and avoids road delay, but you manage your suitcase in the carriag
 
 After choosing your intercity ticket, plan the first local leg before departure. If you arrive at Busan Station, save your subway exit and hotel address. If you arrive at Nopo, calculate the Line 1 or taxi trip before deciding the bus is cheaper overall.
 
+Still deciding where to sleep? Use the [Busan hotel-area comparison](/deals/korea-hotels/#busan) to compare Nampo, Seomyeon and the beach areas against your daily plans. Its trip-cost calculator includes the local transport you would actually pay, so a lower nightly rate does not hide a higher total.
+
 For sightseeing, compare the routes in our [Busan City Tour Bus pass guide](/posts/busan-city-tour-bus-pass-prices-route-comparison/). If your first stop is shopping and food around the old downtown, use our [Nampo-dong shopping guide](/posts/busan-nampo-dong-shopping-where-to-buy-prices/) to build a practical arrival-day plan.
 
 **Next step:** open the official KORAIL and KOBUS searches side by side for your date, then write down four numbers—ticket price, terminal travel time, onboard time, and Busan transfer time. The better complete journey will become obvious.

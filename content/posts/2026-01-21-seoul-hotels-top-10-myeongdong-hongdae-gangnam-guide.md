@@ -75,6 +75,6 @@ Ask separately about an elevator, cot, connecting room, or luggage storage if an
 3. Compare final totals in one currency. If paying in another currency, check your payment provider's conversion and fees.
 4. Keep the cancellation deadline and check-in instructions with your travel documents.
 
-Continuing to Busan? Compare the [Seoul–Busan train and bus options](/posts/seoul-busan-ktx-vs-express-bus/) before committing to the number of nights in each city.
+Continuing to Busan? Compare [Nampo, Seomyeon, Gwangalli and Haeundae as a base](/deals/korea-hotels/#busan), then check the [Seoul–Busan train and bus options](/posts/seoul-busan-ktx-vs-express-bus/) before committing to the number of nights in each city.
 
 *Updated October 3, 2026: replaced the former “Top 10” list and unverified nightly ranges with a location comparison, official property examples, and a calculator using readers' own quotes.*

@@ -89,6 +89,8 @@ If you also want to see **Jagalchi Market, BIFF Square and Gamcheon Culture Vill
 
 ## More Busan planning
 
+**Still choosing a base?** If most evenings in your plan end around these markets, compare Nampo and Jagalchi properties before committing to a beach-area hotel. Our [Nampo, Seomyeon, Gwangalli and Haeundae stay comparison](/deals/korea-hotels/#busan) helps you weigh repeat journeys, airport transfers and the whole-stay cost of two quotes.
+
 - [Busan City Tour Bus routes and prices](/posts/busan-city-tour-bus-pass-prices-route-comparison/)
 - [Busan Songdo Cable Car tickets and prices](/posts/busan-songdo-cable-car-tickets-prices/)
 - [Busan Gamcheon Culture Village tours](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/)

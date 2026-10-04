@@ -670,6 +670,11 @@ body.dark .lk-curation-bar {
   line-height: 1.78;
 }
 
+/* Keep section links visible below the sticky, sometimes two-row header. */
+.post-content :is(h2, h3, h4)[id] {
+  scroll-margin-top: 10rem;
+}
+
 .post-content h2 {
   margin-top: 2.45rem;
   padding-top: 1.55rem;
