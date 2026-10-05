@@ -1,7 +1,7 @@
 ---
 title: "Nampo-dong Shopping Street, Busan: Markets, Route & Hours (2026)"
 date: 2025-12-28T16:21:53.662903
-lastmod: 2026-10-04
+lastmod: 2026-10-05
 slug: "busan-nampo-dong-shopping-where-to-buy-prices"
 description: "Where to shop in Nampo-dong, Busan: compare Gwangbok-ro, Gukje Market and the underground mall, then follow a practical walking route with official hours."
 categories: ["k-travel"]
@@ -24,7 +24,7 @@ monetize:
 | --- | --- | --- |
 | Clothing and other street-level shops | [Gwangbok-ro Fashion Street](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=413) | A public street with individual store hours; about five minutes on foot from Nampo Station Exit 3, according to Visit Busan |
 | A covered shopping stop | [Nampo Underground Shopping Center](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=2491) | Near Nampo and Jagalchi stations; Visit Busan lists 10:00–20:00 and a second-Tuesday closing |
-| A traditional market with mixed goods | [Gukje Market](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=399) | Visit Busan lists Sunday as its closing day; hours differ by stall |
+| A traditional market with mixed goods | [Gukje Market](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=399) | Official Sunday schedules conflict; confirm your date and stall before a special trip |
 | Street food after shopping | [Bupyeong Kkangtong Market](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000201003001000&uc_seq=400) | Next to Gukje; its evening market is a food stop, not a substitute for clothes shopping |
 
 ![Shopping choices around Nampo-dong in Busan](/images/busan-nampo-dong-shopping-where-to-buy-prices-h2-0.webp)
@@ -37,11 +37,17 @@ monetize:
 
 **Nampo Underground Shopping Center (남포 지하도상가)** is useful during rain or when you want to browse before committing to an outdoor route. Visit Busan distinguishes it from nearby **Gwangbok Underground Shopping Center**; save the Korean name or address of the one you mean. Its listing places Nampo Underground at **B1, 44 Gudeok-ro, Jung-gu** and says both centers are near Nampo and Jagalchi stations. The listed 10:00–20:00 hours and second-Tuesday closing are planning information; confirm them if your visit depends on a particular shop. [Official underground-center listing](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=2491).
 
-**Gukje Market (국제시장)** is for browsing a broad mix of stalls rather than finding one guaranteed item at one guaranteed price. Visit Busan locates it at **32 Junggu-ro, Jung-gu** and gives a seven-minute walk from **Jagalchi Station Exit 7**. It lists **09:00–20:00**, with hours varying by store, and **Sunday** as the market's closing day. If a specific stall is the reason for your trip, check it directly before traveling. [Official Gukje Market listing](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=399).
+**Gukje Market (국제시장)** is for browsing a broad mix of stalls rather than finding one guaranteed item at one guaranteed price. Visit Busan locates it at **32 Junggu-ro, Jung-gu** and gives a seven-minute walk from **Jagalchi Station Exit 7**. It lists **09:00–20:00**, with hours varying by store. Sunday opening needs a separate check because official tourism listings disagree; see the next section before making a special trip. [Official Gukje Market listing](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301003001000&uc_seq=399).
 
 ![Finding the market alleys near Nampo-dong](/images/busan-nampo-dong-shopping-where-to-buy-prices-h2-2.webp)
 
 **Bupyeong Kkangtong Market (부평깡통시장)** is right beside Gukje Market and is better known for food. Visit Busan lists its evening market as **19:30–24:00**, while individual shops can differ. Plan a separate food stop here if you are shopping in the afternoon or evening; do not assume the night-market timetable applies to every daytime stall. [Official Bupyeong market listing](https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000201003001000&uc_seq=400).
+
+## Is Gukje Market open on Sunday?
+
+**Confirm your exact Sunday before traveling for a particular stall.** The Korea Tourism Organization's [Gukje Market destination listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=96189) lists Sundays as holidays. Its [separate shopping guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=263&menuSn=929&vcontsId=249917) says the **first and third Sundays**, but carries a December 31, 2023 information-update note. These pages, checked October 5, 2026, do not establish one dependable current Sunday rule for every stall.
+
+Contact the stall directly, or try the market inquiry number listed by KTO: **+82-51-245-7389**. Give your date and ask “이번 일요일에 영업하시나요?” (“Are you open this Sunday?”). If you cannot confirm, keep Gukje optional in the walk below and check the individual shops you want on Gwangbok-ro or in the underground center instead. Nearby shopping areas have their own schedules.
 
 ## A practical Nampo-dong shopping walk
 
@@ -85,4 +91,4 @@ If you also want to see **Jagalchi Market, BIFF Square and Gamcheon Culture Vill
 - [Busan Songdo Cable Car tickets and prices](/posts/busan-songdo-cable-car-tickets-prices/)
 - [Busan Gamcheon Culture Village tours](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/)
 
-*Official Visit Busan location and hours pages checked September 23, 2026. Individual business hours, goods and prices can change.*
+*Visit Busan location and hours pages checked September 23, 2026; KTO's conflicting Gukje Market Sunday listings checked October 5, 2026. Individual business hours, goods and prices can change.*
