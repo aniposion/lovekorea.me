@@ -1,9 +1,9 @@
 ---
 title: "KTX Booking Opens 2 Months Ahead: The October 2026 Change"
 date: 2026-10-01T08:10:00-05:00
-lastmod: 2026-10-01
+lastmod: 2026-10-08
 slug: "ktx-booking-two-months-ahead"
-description: "Still using the old one-month KTX booking rule? See the new two-month window, Korea-time opening, example dates and the KORAIL Pass reservation caveat."
+description: "Still using the old one-month KTX rule? Check the two-month ticket and KORAIL Pass seat-booking windows, Korea-time opening, example dates and holiday caveats."
 categories: ["k-travel"]
 topic_pillar: "k-travel"
 target_intent: "booking"
@@ -23,16 +23,16 @@ monetize:
 
 **Still waiting until one month before your trip to book KTX? Your train may already be on sale.** From **October 1, 2026**, Korea's general rail-ticket booking window expands to **two months before departure**. The [Ministry of Land, Infrastructure and Transport's October 1 update](https://www.korea.kr/multi/visualNewsView.do?cateId=cardnews&newsId=148972799) confirms the change for domestic and international travelers.
 
-KORAIL's [English ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets), checked **October 1, 2026**, now lists the normal opening time as **07:00, two months before departure**. Its website announcement also shows the new window. Set your reminder using **Korea Standard Time (KST)** and check the current release notice for your journey.
+KORAIL's [English ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets), checked **October 8, 2026**, lists the normal opening time as **07:00, two months before departure**. The [KORAIL Pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) now also gives pass holders a **two-month seat-reservation window**. Set your reminder using **Korea Standard Time (KST)** and check the current release notice for your journey.
 
 ## What changed, and why it matters for your trip
 
 | Booking question | What to use now |
 | --- | --- |
 | How far ahead do general tickets open? | Two months before departure, under the new rule |
-| What is the normal release time? | 07:00 KST; a special release notice can set another time |
+| What is the normal release time for ordinary tickets? | 07:00 KST; a special release notice can set another time |
 | Does this guarantee a seat? | No. Check the actual train and available seats |
-| Can I assume the same window for a KORAIL Pass seat? | Check the separate pass instructions; see the caveat below |
+| When do KORAIL Pass seat reservations open? | Two months before departure; buying a pass and reserving a seat remain separate steps |
 
 The practical risk is an outdated calendar reminder. If you wait for the old one-month date, other passengers may have had an extra month to choose their departure. That matters most when your itinerary depends on a particular train, such as a morning ride followed by a timed activity in Busan.
 
@@ -40,7 +40,7 @@ The practical risk is an outdated calendar reminder. If you wait for the old one
 
 ## Example dates for your booking reminder
 
-Use calendar months when planning. These examples apply the published two-month rule; they are **planning calculations**, subject to the release schedule shown by KORAIL.
+Use calendar months when planning. These examples apply the published two-month rule for **ordinary tickets**; they are **planning calculations**, subject to the release schedule shown by KORAIL.
 
 | Intended departure | Normal opening date under the new rule |
 | --- | --- |
@@ -52,11 +52,11 @@ For a return trip, make a second reminder for the return date. A ticket for the 
 
 If you are abroad, label your reminder **KST**. A phone calendar set to your home time zone can otherwise put you on the booking page at the wrong hour.
 
-## KORAIL Pass holders: check the separate seat window
+## KORAIL Pass seats now open two months ahead too
 
-There is a mismatch in KORAIL's published guidance at our October 1 check: the general ticketing page says **two months**, while the [KORAIL Pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) still says seat reservations become available **one month** before departure.
+The [KORAIL Pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked **October 8, 2026**, now says seat reservations become available **two months before departure**, with **up to two reserved tickets per person per day**. The earlier one-month wording on that page has changed; both official guides now state a two-month window.
 
-We could not establish from those pages whether the pass wording is awaiting an update or describes a different reservation window. **Confirm the date offered in your pass's Seat Reservation screen, or ask KORAIL before buying a pass for a fixed train.** The general-ticket announcement alone does not confirm earlier pass reservations.
+For a pass you already own, add your actual travel date in **My Ticket**, then return to the pass list and choose **Seat Reservation**. Buying the pass alone does not hold a seat. **Check the train and date available in that screen**, especially if a fixed departure is essential. The general ticket guide specifies 07:00; the pass guide states the two-month window without separately specifying an opening hour, so follow any current pass notice rather than assuming that detail.
 
 Start with our [KORAIL Pass price comparison](/posts/korea-ktx-korail-pass-prices-2026/) if you are still choosing between a pass and individual tickets. If you already have a pass, follow the [travel-day and seat-reservation checklist](/posts/korail-pass-prices-how-to-book/).
 
@@ -70,4 +70,4 @@ Start with our [KORAIL Pass price comparison](/posts/korea-ktx-korail-pass-price
 
 Flying into Seoul before your first KTX ride? Our [AREX Express and All-Stop comparison](/posts/incheon-airport-arex-guide/) explains the airport-to-city leg. For the rest of your bookings, use the [seven Korea travel money checks](/posts/korea-travel-booking-mistakes/) before checkout.
 
-**Checked October 1, 2026.** This guide explains the published booking window. It does not claim that a particular departure has available seats; use KORAIL's live search for that decision.
+**Checked October 8, 2026.** Both KORAIL ticket and pass guides now state a two-month window. This guide explains those published rules. It does not claim that a particular departure has available seats; use KORAIL's live search for that decision.

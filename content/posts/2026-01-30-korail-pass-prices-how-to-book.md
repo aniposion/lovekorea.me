@@ -1,7 +1,7 @@
 ---
 title: "How to Book a KORAIL Pass and Reserve KTX Seats"
 date: 2026-01-30T08:30:59.205178
-lastmod: 2026-10-04
+lastmod: 2026-10-08
 slug: "korail-pass-prices-how-to-book"
 description: "A practical booking checklist for foreign visitors: buy the KORAIL Pass, set Select travel days, reserve KTX seats, carry your passport and avoid common mistakes."
 categories: ["k-travel"]
@@ -18,14 +18,14 @@ monetize:
     bottom: []
 ---
 
-**Already decided that the KORAIL Pass fits your trip?** The purchase and the **seat reservation are separate steps**. KORAIL instructs travelers to buy the pass, choose the actual departure days, then reserve eligible trains through **My Ticket**. A pass alone does not reserve a specific KTX seat. The sequence below follows [KORAIL's official pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked September 23, 2026. Screen labels and policies may change, so confirm them on KORAIL before paying.
+**Already decided that the KORAIL Pass fits your trip?** The purchase and the **seat reservation are separate steps**. KORAIL instructs travelers to buy the pass, choose the actual departure days, then reserve eligible trains through **My Ticket**. A pass alone does not reserve a specific KTX seat. The sequence below follows [KORAIL's official pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 8, 2026. Screen labels and policies may change, so confirm them on KORAIL before paying.
 
 If you have not compared prices yet, start with our [official KORAIL Pass fare table and break-even guide](/posts/korea-ktx-korail-pass-prices-2026/). This page focuses on **how to book and board**, avoiding a second, inconsistent price list.
 
 ## Before purchase: four checks
 
 1. **Eligibility:** KORAIL offers this pass to foreign visitors; people with Korean nationality cannot use it under its published rules. Enter the name and passport details of the actual traveler, because the pass is not transferable.
-2. **Train coverage:** Check that your planned journeys use eligible KORAIL trains. The [current KORAIL pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 1, excludes **metropolitan railways and temporary tourist trains**. Confirm your exact service in the pass booking screen.
+2. **Train coverage:** Check that your planned journeys use eligible KORAIL trains. The [current KORAIL pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 8, 2026, excludes **metropolitan railways and temporary tourist trains**. Confirm your exact service in the pass booking screen.
 3. **Travel days:** The Select Pass gives you **2, 3, 4 or 5 selected days within 10 days** from the start date. Count the dates on which you will board eligible trains, including your return leg.
 4. **Seats and alternatives:** Look at individual ticket prices and available trains first. If you require a seat at a fixed time, check availability before treating the pass as a solution to a sold-out departure.
 
@@ -49,9 +49,9 @@ The [KORAIL guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/
 4. Search for your departure and arrival stations, date and train. Confirm that the selected train is eligible for the pass.
 5. Choose an available standard-class seat, finish the reservation and retain the seat-reservation ticket alongside the pass.
 
-**Booking-window check, October 1, 2026:** KORAIL's [general ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets) now opens ordinary tickets **two months before departure**. Its separate pass guide still says **one month** for pass seat reservations. Confirm the date available in your pass's Seat Reservation screen or with KORAIL; the two pages do not establish whether the pass wording is awaiting an update. See our [KTX two-month booking-window explanation](/posts/ktx-booking-two-months-ahead/).
+**Booking-window check, October 8, 2026:** KORAIL's [pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) now says pass seat reservations open **two months before departure**. Its earlier one-month wording has changed. The [general ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets) also gives a two-month window and specifies 07:00 KST for ordinary tickets; the pass guide does not separately state an opening hour. Check your exact date and train in **Seat Reservation** and follow any special release notice. Our [KTX booking-window guide](/posts/ktx-booking-two-months-ahead/) includes example calendar dates.
 
-KORAIL allows **up to two reserved seats per person per day** with the pass. If you need to change a reserved train, cancel the old reservation under KORAIL's current rules before searching for another. First-class seats require an additional payment according to the official guide.
+KORAIL allows **up to two reserved tickets per person per day** with the pass. If you need to change a reserved train, cancel the old reservation under KORAIL's current rules before searching for another. First-class seats require an additional payment according to the official guide.
 
 **A pass is not a promise of a seat.** KORAIL says that when reservations are sold out, a pass holder may use a standing place with a valid pass and passport under its rules. That may be unsuitable for a long ride, a traveler who must sit or a tightly timed connection. Check your particular train before relying on this option.
 

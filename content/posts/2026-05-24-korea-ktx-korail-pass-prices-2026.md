@@ -1,7 +1,7 @@
 ---
 title: "KORAIL Pass Prices 2026: Official Fares and When It Saves Money"
 date: 2026-05-24T15:17:49.140486
-lastmod: 2026-10-01
+lastmod: 2026-10-08
 slug: "korea-ktx-korail-pass-prices-2026"
 description: "Compare KORAIL's published 2-, 3-, 4- and 5-day Select Pass fares with your own KTX itinerary. Includes eligibility, exclusions, seat rules and Pass+."
 categories: ["k-travel"]
@@ -18,7 +18,7 @@ monetize:
     bottom: []
 ---
 
-**Quick answer:** KORAIL publishes four Select Pass prices for foreign visitors: **₩131,000, ₩186,000, ₩234,000 and ₩275,000** for **2, 3, 4 and 5 travel days** respectively for an adult. Those are the published list prices we checked on **September 23, 2026**, not a promise about the final checkout price on a later date. The pass is worth buying only when the individual KORAIL tickets for **your actual trains and dates** cost more, or when you value its flexibility enough to pay the difference. See [KORAIL's official pass page](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) before purchase.
+**Quick answer:** KORAIL publishes four Select Pass prices for foreign visitors: **₩131,000, ₩186,000, ₩234,000 and ₩275,000** for **2, 3, 4 and 5 travel days** respectively for an adult. Those are the published list prices we checked on **October 8, 2026**, not a promise about the final checkout price on a later date. The pass is worth buying only when the individual KORAIL tickets for **your actual trains and dates** cost more, or when you value its flexibility enough to pay the difference. See [KORAIL's official pass page](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) before purchase.
 
 ## Published KORAIL Pass Select prices
 
@@ -29,7 +29,7 @@ monetize:
 | 4 days | ₩234,000 | ₩117,000 |
 | 5 days | ₩275,000 | ₩138,000 |
 
-Source: [KORAIL Pass pricing and conditions](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked September 23, 2026. KORAIL says one child under six may travel free with an adult over 13; read its current family conditions before assuming that applies to your booking.
+Source: [KORAIL Pass pricing and conditions](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 8, 2026. KORAIL says one child under six may travel free with an adult over 13; read its current family conditions before assuming that applies to your booking.
 
 **The important detail is “Select.”** KORAIL says you choose the pass's 2–5 travel days within a **10-day window** from its starting date. They need not be consecutive. A 2-day pass can suit one outbound intercity travel day and one return travel day separated by sightseeing, provided both are within the valid window. Confirm the chosen days in your booking before you pay.
 
@@ -53,9 +53,9 @@ A Seoul–Busan round trip alone can fall on two travel days, but whether the pa
 
 [KORAIL says](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) the pass is for **foreign visitors to Korea** and is unavailable to people with Korean nationality. The pass is personal and requires the named traveler's valid passport. If your nationality or travel status is unusual, check eligibility with KORAIL before buying.
 
-The pass covers eligible KORAIL-operated passenger trains. The [current KORAIL pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 1, excludes **metropolitan railways and temporary tourist trains**. Confirm your particular service in the pass booking screen; a station name or a train's speed alone does not establish coverage.
+The pass covers eligible KORAIL-operated passenger trains. The [current KORAIL pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), checked October 8, 2026, excludes **metropolitan railways and temporary tourist trains**. Confirm your particular service in the pass booking screen; a station name or a train's speed alone does not establish coverage.
 
-KORAIL says pass holders can reserve **up to two seats per person per day**. **Booking-window check, October 1, 2026:** the [general ticketing guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/tickets) now says **two months before departure**, but the separate pass guide still says **one month** for seat reservations. Those pages do not resolve whether the pass wording is awaiting an update. Confirm your date through the pass's Seat Reservation screen or with KORAIL before buying for a fixed departure. Our [October KTX booking-window update](/posts/ktx-booking-two-months-ahead/) explains the distinction.
+KORAIL says pass holders can reserve **up to two tickets per person per day**. **Booking-window check, October 8, 2026:** the [official pass guide](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass) now gives pass seat reservations the same **two-month advance window** as ordinary tickets. Its earlier one-month wording has changed. Check actual availability for your intended train before buying: an earlier opening date does not guarantee a seat. Our [KTX booking-window guide](/posts/ktx-booking-two-months-ahead/) explains the release-time details and gives calendar examples.
 
 When seats are sold out, the pass guide describes travel in a standing place with a valid pass and passport, subject to its current conditions. For a long ride where you need a seat, check reservation availability before deciding that the pass fits your plan. First-class travel carries an additional charge under KORAIL's rules.
 
