@@ -2,7 +2,7 @@
 title: "Cushion vs Foundation: Compare the Refill, Not Just the Price Tag"
 date: 2026-02-08T12:35:11.473693
 slug: "cushion-vs-foundation-korean-makeup"
-description: "Choose between Korean cushion and bottled foundation using shade, coverage, refill compatibility and unit-price checks instead of format stereotypes."
+description: "Compare HERA cushion sets, refills and bottled foundation using checked Korean prices, cost per gram, case compatibility and shade checks."
 categories: ["k-beauty"]
 tags: ["k-beauty", "korean makeup", "cushion", "foundation", "base makeup", "olive young", "skin type", "coverage", "glowy", "matte"]
 cover:
@@ -15,12 +15,32 @@ monetize:
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-03
+lastmod: 2026-10-09
 ---
 
 **A cushion can look more expensive until you notice the refill—or cheaper until you discover the listing is refill-only.** Compare the exact package before choosing between a compact and bottled foundation. Packaging alone does not establish coverage, finish or wear time.
 
-This is a buying framework, not a wear test. Product examples were checked on October 3, 2026.
+In the Korean HERA example below, the **₩34,200 refill costs more per gram than the ₩66,600 compact-and-refill set**. It still requires a compatible case. That is why the lowest item price is only the start of the comparison.
+
+## Cushion vs foundation prices: a Korean store comparison
+
+These three listings were checked on **October 9, 2026** at Amorepacific's Amore Mall. Each product name links to its exact listing. Prices are the displayed promotional item prices in Korean won, before any additional personal coupon, delivery charge or tax refund. This is one brand and one Korean sales channel, not a market-wide price range or a wear test.
+
+| HERA package and source | Labeled amount | Displayed price | Calculated cost per gram |
+|---|---:|---:|---:|
+| [Black Cushion duo: compact + refill](https://www.amoremall.com/kr/ko/product/detail?onlineProdSn=61257) | 15 g + 15 g | ₩66,600 | ₩2,220/g |
+| [Black Cushion refill only](https://www.amoremall.com/kr/ko/product/detail?onlineProdSn=61258) | 15 g | ₩34,200 | ₩2,280/g |
+| [Silky Stay 24H Longwear bottled foundation](https://www.amoremall.com/kr/ko/product/detail?onlineProdSn=51475) | 30 g | ₩63,000 | ₩2,100/g |
+
+The pages also displayed pre-discount prices of ₩74,000, ₩38,000 and ₩70,000 respectively. Promotions, shades and stock can change; check the exact variant and checkout total again. A Korean online listing does not establish an overseas or airport duty-free price.
+
+### What the price difference actually buys
+
+- **First cushion purchase:** the duo supplies a compact and 30 g in total. Two 15 g refills would cost **₩68,400**, which is **₩1,800 more**, and would still require a compatible case. That calculation favors the set only if you will use both units in the chosen shade.
+- **You already own the right case:** one refill costs **₩32,400 less upfront** than the duo. Paying a slightly higher amount per gram can be sensible if you only need one 15 g unit.
+- **Choosing between the two formulas:** the 30 g bottle costs **₩3,600 less** than the 30 g cushion set in this snapshot. These are different formulas and packages. A shade mismatch, an applicator you need to buy, or a preference for portable touch-ups can outweigh that difference.
+
+The formula is **item price ÷ labeled grams**. We use grams for all three because that is how these listings label their quantity. For a product labeled in milliliters, calculate ₩/ml separately: **do not compare ₩/g directly with ₩/ml** without a valid product-specific conversion. Neither figure proves cost per application or how long the product will last.
 
 ## Start with the decision the package actually changes
 
@@ -35,24 +55,13 @@ This is a buying framework, not a wear test. Product examples were checked on Oc
 
 Choose the format after those checks. If no shade matches, a convenient case is not a reason to buy it. If the current product already works, a different format needs to solve a real inconvenience.
 
-## A real package example
+## Read the package before checkout
 
-HERA's Korean [Black Cushion Foundation page](https://www.hera.com/kr/ko/products/black-cushion-foundation.html) lists **15 g plus a 15 g refill**. The brand's [Japanese refill page](https://jp.hera.com/products/black-cushion-foundation-r) lists a **15 g refill**. These are different package quantities in different markets; neither page establishes the price or contents of every reseller's listing.
+The Korean listings above use **본품** for the main product and **리필** for a refill. A **듀오** listing identifies the two-unit set in this example; read its quantity line rather than assuming every duo or promotional photograph includes the same contents.
 
 On a shopping screenshot, record the full product name, shade, case inclusion, number of refills, quantity and currency. Do not assume a promotional photograph includes everything delivered.
 
-## Calculate value using matching units
-
-Here is a hypothetical comparison of two cushion packages, not current HERA prices:
-
-| Package | Price | Usable amount | Cost per gram |
-|---|---:|---:|---:|
-| Compact with 15 g | ₩32,000 | 15 g | About ₩2,133 |
-| Compact with 15 g plus matching 15 g refill | ₩48,000 | 30 g | ₩1,600 |
-
-The set costs ₩16,000 more upfront. It is better value per gram only if both units will be used. An unwanted shade or incompatible refill should not count as usable quantity.
-
-For bottled foundation, calculate price per milliliter when volume is supplied. **Do not compare ₩/g directly with ₩/ml** without a valid conversion for those products. Neither measure tells you cost per application because the amount applied can differ. You can track how long your own purchase lasts instead of accepting an unsupported universal wear or usage estimate.
+If shopping during a Seoul trip, compare the same package with the shelf label and use our [Olive Young shopping worksheet](/posts/olive-young-popular-skincare-products-2025/) to record what is included. Check [tourist tax-refund eligibility](/posts/korea-tax-refund-shopping-guide/) separately; no refund is assumed in the table above.
 
 ## A practical shade-and-wear trial
 
