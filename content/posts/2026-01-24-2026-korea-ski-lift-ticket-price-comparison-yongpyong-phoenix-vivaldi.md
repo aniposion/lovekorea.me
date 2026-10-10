@@ -1,9 +1,9 @@
 ---
 title: "Korea Ski Tickets 2026/27: Do Not Budget From Last Winter’s Prices"
 date: 2026-01-24T11:52:12.857674
-lastmod: 2026-10-04
+lastmod: 2026-10-10
 slug: "2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi"
-description: "Checked September 23, 2026: what the official Yongpyong, Phoenix and Vivaldi ski price pages actually show, and how to compare 2026/27 lift and rental costs."
+description: "Compare Korea's 2026/27 ski ticket status and Phoenix's current season pass. Calculate the cost for your planned ski days before choosing a pass."
 categories: ["k-travel"]
 tags: ["korea ski", "lift ticket", "yongpyong", "phoenix park", "vivaldi park", "2026/27 ski season", "rental gear"]
 cover:
@@ -18,21 +18,32 @@ monetize:
     bottom: []
 ---
 
-**Planning a 2026/27 ski trip to Korea?** As of **September 23, 2026**, we could not verify comparable single-day lift ticket prices for the coming season at Yongpyong, Phoenix Snow Park and Vivaldi Park from their official price pages. That means there is no defensible “cheapest of the three” ranking yet. Use the links below to get a price for your actual date, then compare tickets with the same skiing hours and inclusions.
+**Planning one or two ski days in Korea? Get a dated day-ticket quote before committing to a season pass.** We verified Phoenix's current season-pass offer, but as of **October 10, 2026**, the official pages checked below still did not establish comparable 2026/27 single-day lift prices for Yongpyong, Phoenix Snow Park and Vivaldi Park. A “cheapest resort” ranking would mix products or rely on old rates. Start with your actual date, skiing hours and rental needs.
 
 The figures sometimes circulating online are from earlier seasons. In particular, an older Vivaldi price page still indexed by search engines says **23/24 winter season**. Its prices should not be used as 2026/27 quotes. This guide was checked against resort pages on the date above; resort prices and products can change after publication.
 
 ## Official price status for 2026/27
 
-| Resort | What an official page showed on September 23, 2026 | What to do |
+| Resort | What an official page showed on October 10, 2026 | What to do |
 | --- | --- | --- |
-| **Mona Yongpyong, Pyeongchang** | The [lift and rental price page](https://yongpyong.co.kr/kor/skiNboard/utilizationFee/rentCharge.do) explicitly labels its prices **25/26 season**. It does not establish a 26/27 day-ticket price. | Reopen the page when 26/27 rates are posted and select the same date and hours as your other quotes. |
-| **Phoenix Snow Park, Pyeongchang** | A [26/27 season-pass offer](https://phoenixhnr.co.kr/page/board/event/190000047134) is published, but a season pass is a different product from a one-day lift ticket. The [English snow-park price page](https://phoenixhnr.co.kr/en/static/pyeongchang/guide/price/snowpark) did not provide a usable 26/27 single-day lift price in our check. | Check Phoenix's booking flow or ask the resort for a one-day ticket quote. Do not divide the season-pass price by a guessed number of ski days. |
+| **Mona Yongpyong, Pyeongchang** | The [lift and rental price page](https://yongpyong.co.kr/kor/skiNboard/utilizationFee/rentCharge.do) says **26/27 information will be announced later**, followed by **25/26 rental tables**. A current single-day lift price is not established by those tables. | Reopen the page when 26/27 rates are posted and select the same date and hours as your other quotes. |
+| **Phoenix Snow Park, Pyeongchang** | The [26/27 Basic Pass](https://phoenixhnr.co.kr/page/board/event/190000047134) is listed at **₩599,000** in its second sales phase. The [English snow-park price page](https://phoenixhnr.co.kr/en/static/pyeongchang/guide/price/snowpark) did not show a usable 26/27 one-day lift quote. | Compare a dated day-ticket quote with the season-pass calculation below. |
 | **Vivaldi Park, Hongcheon** | The current [official lift and rental rate page](https://www.sonohotelsresorts.com/skiboard/discount) displays **“준비 중입니다” (“in preparation”)** where prices would be. An [older official page](https://sonolc.sonohotelsresorts.com/daemyung.vp.skiworld.04_04_01.ds/dmparse.dm) is explicitly marked **23/24**. | Wait for the new price table or request a date-specific quote; do not use the indexed 23/24 rates. |
 
-### A historical Yongpyong benchmark, clearly dated
+## Phoenix season pass: what does ₩599,000 cost per ski day?
 
-If you need a sense of the previous season's **published list price**, Yongpyong's **25/26** adult daytime lift ticket (09:00–17:00) was **₩96,000** and its adult daytime equipment rental was **₩48,000** on the [resort's labeled rate page](https://yongpyong.co.kr/kor/skiNboard/utilizationFee/rentCharge.do). Together, those two list prices were **₩144,000 per adult**, before transport, food, clothing, lessons or any applicable discount. This is **not a 26/27 quote**. We do not compare it with an old Vivaldi rate or an unverified Phoenix rate, because that would produce a misleading ranking.
+The [official Phoenix offer](https://phoenixhnr.co.kr/page/board/event/190000047134) lists **October 1–November 30, 2026** for phase two. The **Basic Pass (lift benefits)** covers one adult's season access, with two additional seven-hour lift vouchers and spa benefits. The vouchers are scheduled for December 1 distribution to registered holders.
+
+Here is the **₩599,000 purchase price divided by planned days of use**:
+
+| Days you actually plan to ski | Season-pass outlay per day |
+| --- | ---: |
+| 2 | ₩299,500 |
+| 4 | ₩149,750 |
+| 6 | About ₩99,833 |
+| 10 | ₩59,900 |
+
+These are budget calculations, not individual ticket prices or guaranteed savings. They assign no cash value to bundled benefits and exclude rental, lessons, transport and accommodation. Compare the full **₩599,000** with your dated lift-ticket quotes added together. Count only days you can realistically use; check registration requirements, your intended dates and refund rules before paying.
 
 ## How to compare the real price of a ski day
 
@@ -40,7 +51,7 @@ When 26/27 tickets go on sale, price the **same kind of trip** at each resort:
 
 1. **Choose one date and arrival time.** Weekday, weekend and holiday products can differ. Check whether the pass starts at a fixed time or runs for a number of hours after entry.
 2. **Match skiing hours.** A 5-hour ticket is not equivalent to an 8-hour daytime ticket. Also check slope maintenance breaks and the latest usable lift time.
-3. **Add the right rental.** Check whether you need skis or a snowboard, boots, helmet and clothing. A lift ticket alone does not automatically include equipment; Phoenix [explicitly separates lift and rental charges for most snow-school programs](https://phoenixhnr.co.kr/en/static/pyeongchang/guide/price/snowpark).
+3. **Add the right rental.** Check whether you need skis or a snowboard, boots, helmet and clothing. Ask which equipment is included in your selected ticket or lesson, and price missing items separately.
 4. **Price the whole journey.** Add your actual train, bus, shuttle or car costs, plus lodging if you are staying overnight. A cheaper lift pass may not mean a cheaper trip from your starting point.
 5. **Check the final checkout amount and terms.** Discounts may require a qualifying card, hotel booking or other proof. Confirm the cancellation deadline and what happens if weather changes operations before paying.
 
