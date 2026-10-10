@@ -23,7 +23,10 @@ The active operating workflow prepares and reviews individual changes.
 
 1. Read the current operating record and inspect the diff.
 2. Run monetization lint, internal-link audit, relevant content/cover checks,
-   production Hugo build, indexing audit, and Pagefind.
+   production Hugo build, indexing audit, `python tools/audit_social_images.py`,
+   and Pagefind. Static covers under `/images/` use `cover.relative: false`;
+   the social-image audit checks rendered Open Graph, Twitter and article schema
+   against image files in the build.
 3. Check the actual rendered page, including mobile when layout changes.
 4. Stage only the reviewed files, commit, push, and confirm the public result.
 5. Record source evidence, corrections, limitations, and the remaining review queue

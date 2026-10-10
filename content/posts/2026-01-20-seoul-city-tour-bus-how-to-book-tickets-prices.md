@@ -9,7 +9,7 @@ tags: ["seoul", "city tour bus", "hop on hop off", "seoul tickets", "gwanghwamun
 cover:
   image: "/images/seoul-city-tour-bus-how-to-book-tickets-prices-cover.webp"
   alt: "Seoul City Tour Bus ticket and route guide"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["tour"]

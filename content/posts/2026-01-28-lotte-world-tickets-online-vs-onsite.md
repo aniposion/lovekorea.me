@@ -8,7 +8,7 @@ tags: ["lotte world", "seoul travel", "theme park", "tickets", "online booking",
 cover:
   image: "images/lotte-world-tickets-online-vs-onsite-cover.webp"
   alt: "Lotte World Tickets: The Cheaper Pass Can Be the Wrong Pass"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

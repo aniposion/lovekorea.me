@@ -9,7 +9,7 @@ tags: ["busan", "gamcheon", "culture village", "guided tour", "public transport"
 cover:
   image: "/images/busan-gamcheon-culture-village-tours-how-to-book-prices-cover.webp"
   alt: "Colorful hillside homes at Busan's Gamcheon Culture Village"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["tour"]

@@ -8,7 +8,7 @@ tags: ["korea travel", "seoul palaces", "gyeongbokgung", "changdeokgung", "hanbo
 cover:
   image: "/images/korea-historic-palaces-guide-cover.webp"
   alt: "Seoul Palace Tickets: The ₩6,000 Pass Does Not Include the Secret Garden"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

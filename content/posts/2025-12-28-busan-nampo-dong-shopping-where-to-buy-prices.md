@@ -9,7 +9,7 @@ tags: ["busan", "nampo-dong", "shopping", "gukje market", "jagalchi", "gwangbok-
 cover:
   image: "/images/busan-nampo-dong-shopping-where-to-buy-prices-cover.webp"
   alt: "Guide to shopping streets and markets around Nampo-dong in Busan"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

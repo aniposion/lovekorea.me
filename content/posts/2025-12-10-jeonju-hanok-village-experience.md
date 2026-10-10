@@ -8,7 +8,7 @@ tags: ["Jeonju", "Hanok Village", "Traditional Crafts", "Korean Culture", "Trave
 cover:
   image: "/images/jeonju-hanok-village-experience-cover.webp"
   alt: "Jeonju Hanok Village: A Craft Class Can Change Your Return-Train Plan"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

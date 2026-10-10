@@ -9,7 +9,7 @@ tags: ["dmz tour", "seoul day trip", "paju dmz", "third tunnel", "dora observato
 cover:
   image: "/images/seoul-dmz-tour-booking-top-10-h2-0.webp"
   alt: "Illustration of travelers preparing for a bus departure"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["tour"]

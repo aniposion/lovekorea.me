@@ -8,7 +8,7 @@ tags: ["olive young", "k-beauty", "skincare", "korea shopping", "moisturizer", "
 cover:
   image: "/images/olive-young-popular-skincare-products-2025-h2-0.webp"
   alt: "Olive Young Sets: A Bestseller Label Does Not Tell You What to Buy"
-  relative: true
+  relative: false
 monetize:
   intent: "shopping"
   verticals: ["amazon"]

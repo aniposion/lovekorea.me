@@ -8,7 +8,7 @@ tags: ["han river", "outdoor activities", "budget travel", "korea travel", "trav
 cover:
   image: "/images/han-river-activities-guide-cover.webp"
   alt: "Han River Bike Rental: The ₩1,000 Assumption Can Mislead You — illustrative cover"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 TocOpen: false
 ---

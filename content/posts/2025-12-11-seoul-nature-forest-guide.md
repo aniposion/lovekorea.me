@@ -8,7 +8,7 @@ tags: ["seoul travel", "nature tours", "forest resort", "budget travel", "book i
 cover:
   image: "/images/seoul-nature-forest-guide-cover.webp"
   alt: "Forest Cabins Near Seoul: Weekend Booking Works Differently — illustrative cover"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 TocOpen: false
 ---

@@ -8,7 +8,7 @@ tags: ["korea travel", "temple visit", "buddhist temple", "gyeongju", "hapcheon"
 cover:
   image: "/images/korea-famous-temples-guide-cover.webp"
   alt: "Korean Temple Visits: Choose the Region Before Booking a Templestay"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

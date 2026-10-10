@@ -8,7 +8,7 @@ tags: ["busan travel", "beach guide", "seafood spots", "travel tips", "korean fo
 cover:
   image: "/images/top-beaches-seafood-busan-tours-cover.webp"
   alt: "Busan Beach and Seafood Day: Pick the Area, Then Confirm the Whole Bill"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

@@ -8,7 +8,7 @@ tags: ['K-Drama', 'Korean Wave', 'Filming Locations', 'Korea Travel', 'Cultural 
 cover:
   image: "/images/k-drama-filming-locations-korea-guide-cover.webp"
   alt: "K-Drama Filming Trips: Verify the Scene Before Booking the Tour"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

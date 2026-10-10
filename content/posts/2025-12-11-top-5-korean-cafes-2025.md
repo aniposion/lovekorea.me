@@ -8,7 +8,7 @@ tags: ["korean cafes", "travel tips", "cafe culture", "budget travel", "how to b
 cover:
   image: "/images/top-5-korean-cafes-2025-cover.webp"
   alt: "Seoul Cafe Hopping: Check the Branch Before Crossing the City"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

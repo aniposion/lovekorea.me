@@ -8,7 +8,7 @@ tags: ["korean festivals", "budget travel", "tour prices", "travel guide", "fest
 cover:
   image: "/images/korean-festivals-tours-prices-2024-cover.webp"
   alt: "Korea Festival Trips: Do Not Book From Last Year’s Poster"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

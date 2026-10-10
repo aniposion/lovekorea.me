@@ -9,7 +9,7 @@ tags: ["korea ski", "lift ticket", "yongpyong", "phoenix park", "vivaldi park", 
 cover:
   image: "/images/2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi-h2-0.webp"
   alt: "Illustration for a guide to Korea ski lift tickets"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

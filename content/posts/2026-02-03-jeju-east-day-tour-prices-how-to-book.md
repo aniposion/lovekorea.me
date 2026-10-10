@@ -9,7 +9,7 @@ tags: ["jeju", "jeju east", "day tour", "seongsan", "udo island", "seopjikoji", 
 cover:
   image: "images/jeju-east-day-tour-prices-how-to-book-cover.webp"
   alt: "Jeju's east coast with Seongsan Ilchulbong in the distance"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["tour"]

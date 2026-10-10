@@ -8,7 +8,7 @@ tags: ["korea travel", "cultural tours", "heritage sites", "budget travel", "tra
 cover:
   image: "/images/korean-traditional-cultural-experiences-guide-cover.webp"
   alt: "Korean Cultural Experiences: Check What You Actually Get to Do"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

@@ -8,7 +8,7 @@ tags: ["itaewon", "hongdae", "pub crawl", "seoul nightlife", "foreigner friendly
 cover:
   image: "/images/itaewon-hongdae-pub-crawl-tours-how-to-book-prices-h2-1.webp"
   alt: "Hongdae or Itaewon Pub Crawl? Check the Last Stop Before You Book"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

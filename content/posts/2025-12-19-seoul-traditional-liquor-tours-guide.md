@@ -8,7 +8,7 @@ tags: ["traditional liquor", "seoul bars", "k-culture", "budget travel", "how to
 cover:
   image: "/images/seoul-traditional-liquor-tours-guide-cover.webp"
   alt: "Korean Liquor in Seoul: Book a Tasting or a Bar Table?"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

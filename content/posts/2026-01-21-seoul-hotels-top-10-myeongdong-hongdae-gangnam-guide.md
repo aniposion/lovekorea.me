@@ -8,7 +8,7 @@ tags: ["seoul hotels", "myeongdong", "hongdae", "gangnam", "hotel guide", "where
 cover:
   image: "/images/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide-h2-0.webp"
   alt: "Seoul Hotel Areas: Myeongdong, Hongdae or Gangnam? — illustrative cover"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

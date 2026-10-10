@@ -9,7 +9,7 @@ tags: ["incheon airport", "limousine bus", "tmoney", "seoul transport", "airport
 cover:
   image: "/images/incheon-airport-limousine-bus-ticket-vs-tmoney-guide-h2-0.webp"
   alt: "Incheon Airport limousine bus and T-money payment guide"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

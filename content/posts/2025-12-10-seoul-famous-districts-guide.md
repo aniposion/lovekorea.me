@@ -8,7 +8,7 @@ tags: ["seoul", "hongdae", "itaewon", "gangnam", "travel", "budget"]
 cover:
   image: "/images/seoul-famous-districts-guide-cover.webp"
   alt: "Hongdae, Itaewon or Gangnam? Choose One Area for Your Seoul Evening"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

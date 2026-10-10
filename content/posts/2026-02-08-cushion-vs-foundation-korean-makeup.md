@@ -8,7 +8,7 @@ tags: ["k-beauty", "korean makeup", "cushion", "foundation", "base makeup", "oli
 cover:
   image: "images/cushion-vs-foundation-korean-makeup-cover.webp"
   alt: "Cushion vs Foundation: Compare the Refill, Not Just the Price Tag"
-  relative: true
+  relative: false
 monetize:
   intent: "shopping"
   verticals: ["amazon"]

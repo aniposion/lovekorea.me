@@ -8,7 +8,7 @@ tags: ["korea museums", "seoul museums", "museum guide", "korean culture", "trav
 cover:
   image: "/images/must-visit-museums-korea-guide-2025-h2-0.webp"
   alt: "Free Museums in Korea: Check the Gallery Before Planning the Day"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

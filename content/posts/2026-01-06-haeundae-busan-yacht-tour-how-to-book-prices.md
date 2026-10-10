@@ -9,7 +9,7 @@ tags: ["busan", "haeundae", "yacht tour", "gwangalli", "booking", "prices", "nig
 cover:
   image: "/images/haeundae-busan-yacht-tour-how-to-book-prices-cover.webp"
   alt: "Yacht tour on the Busan coast near Haeundae"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

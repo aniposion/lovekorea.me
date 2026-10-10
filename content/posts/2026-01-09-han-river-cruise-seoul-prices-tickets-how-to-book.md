@@ -8,7 +8,7 @@ tags: ["han river", "seoul cruise", "eland cruise", "yeouido", "jamsil", "sunset
 cover:
   image: "/images/han-river-cruise-seoul-prices-tickets-how-to-book-cover.webp"
   alt: "Han River Cruise Tickets: Check the Pier Before the Price"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

@@ -8,7 +8,7 @@ tags: ["jeju", "jeju pass", "tour pass", "tickets", "prices", "car rental", "att
 cover:
   image: "images/jeju-tour-pass-prices-2026-best-spots-cover.webp"
   alt: "Jeju Tour Pass: Do the Break-Even Math Before Chasing Free Stops"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

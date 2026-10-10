@@ -9,7 +9,7 @@ tags: ["jeju", "surf lesson", "jungmun", "hamdeok", "how to book", "wetsuit", "s
 cover:
   image: "images/jeju-surf-lessons-jungmun-hamdeok-prices-how-to-book-cover.webp"
   alt: "Jeju surf lesson guide for Jungmun and Hamdeok"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

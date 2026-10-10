@@ -8,7 +8,7 @@ tags: ["gyeongju", "history trip", "silla", "unesco", "bulguksa", "seokguram", "
 cover:
   image: "/images/gyeongju-history-travel-guide-cover.webp"
   alt: "Gyeongju in One Day: Choose the City Route Before Adding Bulguksa"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

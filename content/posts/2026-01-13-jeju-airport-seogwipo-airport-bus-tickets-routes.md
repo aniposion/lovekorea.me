@@ -9,7 +9,7 @@ tags: ["jeju", "seogwipo", "jeju airport", "airport bus", "bus 600", "bus 800", 
 cover:
   image: "/images/jeju-airport-seogwipo-airport-bus-tickets-routes-cover.webp"
   alt: "Guide to choosing a Jeju Airport bus for Jungmun or Seogwipo"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

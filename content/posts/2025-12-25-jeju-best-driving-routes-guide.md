@@ -9,7 +9,7 @@ tags: ["jeju", "jeju road trip", "jeju driving routes", "haemaji coastal road", 
 cover:
   image: "/images/jeju-best-driving-routes-guide-h2-0.webp"
   alt: "Illustration for planning a Jeju Island road trip"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

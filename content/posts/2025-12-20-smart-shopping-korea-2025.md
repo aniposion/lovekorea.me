@@ -8,7 +8,7 @@ tags: ["korea shopping", "discounts", "budget travel", "money saving", "korean t
 cover:
   image: "/images/smart-shopping-korea-2025-cover.webp"
   alt: "Korea Shopping Deals: Compare the Final Basket, Not the Discount Sign"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 

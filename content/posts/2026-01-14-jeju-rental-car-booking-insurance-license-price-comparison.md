@@ -9,7 +9,7 @@ tags: ["jeju", "jeju car rental", "rental car insurance", "korea travel", "drivi
 cover:
   image: "/images/jeju-rental-car-booking-insurance-license-price-comparison-cover.webp"
   alt: "Planning a Jeju rental car pickup and checking documents and insurance"
-  relative: true
+  relative: false
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

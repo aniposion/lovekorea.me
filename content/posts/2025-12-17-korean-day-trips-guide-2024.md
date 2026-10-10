@@ -8,7 +8,7 @@ tags: ["korean travel", "day trips", "budget travel", "booking tips", "tour pric
 cover:
   image: "/images/korean-day-trips-guide-2024-cover.webp"
   alt: "Korea Day Trips: The Cheapest Ticket Can Cost You the Most Time"
-  relative: true
+  relative: false
 lastmod: 2026-10-03
 ---
 
