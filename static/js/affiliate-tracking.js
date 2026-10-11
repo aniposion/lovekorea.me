@@ -16,7 +16,7 @@
  * - provider: Destination provider (klook/booking/amazon/etc)
  * - page_type: Type of page (post/hub/deals/home)
  * - page_path: URL path of the page
- * - link_url: Destination URL
+ * - link_url: HTTP(S) destination origin and path only (no query, fragment, or credentials)
  * 
  * GA4 Custom Dimensions Setup (recommended):
  * - slot → event-scoped dimension
@@ -30,6 +30,19 @@
   // Check if gtag is available
   function getGtag() {
     return (typeof window.gtag === 'function') ? window.gtag : null;
+  }
+
+  // Minimize analytics data without changing the destination or its referral parameters.
+  function getAnalyticsUrl(href) {
+    if (!href || !href.trim()) return null;
+    try {
+      var url = new URL(href, window.location.href);
+      if (url.protocol !== 'https:' && url.protocol !== 'http:') return null;
+      return url.origin + url.pathname;
+    } catch (e) {
+      // Never fall back to a raw URL that may contain personal data or tokens.
+      return null;
+    }
   }
 
   function getOwnedShopUrl(anchor) {
@@ -69,7 +82,7 @@
       campaign: ownedShopUrl.searchParams.get('utm_campaign') || '',
       shop_name: 'obang_house',
       page_path: window.location.pathname,
-      link_url: ownedShopUrl.href
+      link_url: getAnalyticsUrl(ownedShopUrl.href)
     });
   }
 
@@ -116,7 +129,8 @@
     var pageType = a.getAttribute('data-page-type') || 'unknown';
     var pagePath = a.getAttribute('data-page-path') || window.location.pathname;
     var slug = a.getAttribute('data-slug') || 'unknown';
-    var linkUrl = a.getAttribute('href') || '';
+    var linkUrl = getAnalyticsUrl(a.getAttribute('href'));
+    if (!linkUrl) return;
     var category = a.getAttribute('data-page-category') ||
       (pageType === 'deals' ? 'deals' : 'other');
     var eventName = a.getAttribute('data-affiliate') === '1'
@@ -162,7 +176,7 @@
 
   // Expose for debugging
   window.__affiliateTracking = {
-    version: '2.3.0',
+    version: '2.3.1',
     test: function() {
       console.log('[Affiliate Tracking] Test mode - gtag available:', !!getGtag());
     }
