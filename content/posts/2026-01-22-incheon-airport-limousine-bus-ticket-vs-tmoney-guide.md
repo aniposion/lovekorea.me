@@ -90,6 +90,8 @@ If you need a physical T-money card for the rest of your trip, account for the c
 
 Compare both routes from your actual terminal to your accommodation. Check the final walking distance, any transfers, and how you will handle your luggage. A bus stop near the hotel may simplify arrival; a rail journey may better fit a hotel near a station. The best comparison includes the whole journey and its current fare.
 
+Staying in Myeongdong? Our [Myeongdong bus vs AREX comparison](/posts/incheon-airport-to-myeongdong-bus-arex/) adds the subway leg to the Express cost and matches the main hotel areas to named bus stops. Use it before choosing a ticket if luggage and the final walk matter more than the airport-to-Seoul travel time.
+
 For a practical next step, save your chosen bus's official route page and the correct terminal's boarding guide before your flight. Keep one alternative route ready if your arrival time changes.
 
 ## Related guides

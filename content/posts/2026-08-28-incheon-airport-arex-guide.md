@@ -123,6 +123,8 @@ The Express is strongest when Seoul Station is genuinely useful. It delivers you
 
 If your hotel is in Myeongdong, compare the complete route. An Express plus Line 4 transfer can work well with manageable luggage. A limousine bus stopping nearer your hotel may still involve less walking. Our [Seoul hotel neighborhood guide](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) helps match major areas with their transport tradeoffs.
 
+For the destination-specific calculation, see [Incheon Airport to Myeongdong: bus or AREX with luggage?](/posts/incheon-airport-to-myeongdong-bus-arex/). It compares Express plus Line 4 against the bus for one, two and four adults, with named Myeongdong stops and baggage limits.
+
 ### Hongdae
 
 Take the All-Stop Train to **Hongik University Station** in most cases. It is direct from both airport terminals, and riding past Hongdae to Seoul Station only to return west adds a transfer. Hongik University Station is also extensive, so check which exit is closest to the hotel and look for elevator symbols before hauling luggage through a long passage.
