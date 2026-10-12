@@ -44,6 +44,8 @@ This option suits someone who prefers to spend the day on mainland Jeju and does
 
 **Before booking:** Confirm your meeting point and travel time from your accommodation, the guide language, what meals or drinks cost separately, the current attraction list, and the cancellation rules. A hotel pickup is not promised by this listing.
 
+If you are still choosing a hotel, our [car-free Jeju accommodation guide](/posts/jeju-without-car-where-to-stay/) compares Jeju City, central Seogwipo and Jungmun against the journey to your tour's meeting point.
+
 ## Udo by ferry: the independent option
 
 1. Check the [official Udo visitor information](https://m.visitjeju.net/en/detail/view?contentsid=CONT_000000000500477) and same-day ferry operation before leaving your accommodation. Routes, times and the final return sailing vary with season, weather and sea conditions.

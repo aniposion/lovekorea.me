@@ -28,6 +28,8 @@ monetize:
 | Seogwipo Registry Office (서귀포등기소) area | **801** | Whether your hotel is near that stop |
 | Jeju City (제주시), on the airport side of the island | Look up your *specific* hotel stop in the [official Jeju route finder](https://bus.jeju.go.kr/mobile/schedule/listSchedule) | Do not ride south to Seogwipo if your hotel is in Jeju City |
 
+Still choosing accommodation? Compare [Jeju City, central Seogwipo and Jungmun without a car](/posts/jeju-without-car-where-to-stay/) before matching your hotel to an airport bus or tour meeting point.
+
 ![Illustration for planning a Jeju Airport to Seogwipo bus trip](/images/jeju-airport-seogwipo-airport-bus-tickets-routes-h2-0.webp)
 
 ## Which route actually serves your stop?
