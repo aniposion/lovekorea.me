@@ -1,0 +1,26 @@
+/* Search feedback stays visible for keyboard, touch and assistive input. */
+.search-status,
+.search-help {
+    margin: 12px 0;
+    color: var(--secondary);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+}
+
+.search-help a {
+    display: inline-block;
+    margin-inline-end: 16px;
+    padding: 6px 0;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.search-help a[hidden] {
+    display: none;
+}
+
+.search-help a:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+}
