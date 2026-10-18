@@ -1,9 +1,9 @@
 ---
 title: "Korea Ski Tickets 2026/27: Do Not Budget From Last Winter’s Prices"
 date: 2026-01-24T11:52:12.857674
-lastmod: 2026-10-10
+lastmod: 2026-10-18
 slug: "2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi"
-description: "Compare Korea's 2026/27 ski ticket status and Phoenix's current season pass. Calculate the cost for your planned ski days before choosing a pass."
+description: "Vivaldi's ₩370,000 starting price is for resort members; its D-members Smart lift pass is ₩440,000. Compare season-pass scope and day-ticket status."
 categories: ["k-travel"]
 tags: ["korea ski", "lift ticket", "yongpyong", "phoenix park", "vivaldi park", "2026/27 ski season", "rental gear"]
 cover:
@@ -18,17 +18,32 @@ monetize:
     bottom: []
 ---
 
-**Planning one or two ski days in Korea? Get a dated day-ticket quote before committing to a season pass.** We verified Phoenix's current season-pass offer, but as of **October 10, 2026**, the official pages checked below still did not establish comparable 2026/27 single-day lift prices for Yongpyong, Phoenix Snow Park and Vivaldi Park. A “cheapest resort” ranking would mix products or rely on old rates. Start with your actual date, skiing hours and rental needs.
+**Planning one or two ski days in Korea? Get a dated day-ticket quote before committing to a season pass.** Vivaldi now advertises season passes from **₩370,000**, but that Smart lift price is for resort members; the D-members option is **₩440,000**. Check which category you qualify for before budgeting. As of **October 18, 2026 (Korea time)**, the official pages below still did not establish comparable 2026/27 single-day lift prices for Yongpyong, Phoenix Snow Park and Vivaldi Park.
 
 The figures sometimes circulating online are from earlier seasons. In particular, an older Vivaldi price page still indexed by search engines says **23/24 winter season**. Its prices should not be used as 2026/27 quotes. This guide was checked against resort pages on the date above; resort prices and products can change after publication.
 
 ## Official price status for 2026/27
 
-| Resort | What an official page showed on October 10, 2026 | What to do |
+| Resort | What an official page showed on October 18, 2026 | What to do |
 | --- | --- | --- |
 | **Mona Yongpyong, Pyeongchang** | The [lift and rental price page](https://yongpyong.co.kr/kor/skiNboard/utilizationFee/rentCharge.do) says **26/27 information will be announced later**, followed by **25/26 rental tables**. A current single-day lift price is not established by those tables. | Reopen the page when 26/27 rates are posted and select the same date and hours as your other quotes. |
 | **Phoenix Snow Park, Pyeongchang** | The [26/27 Basic Pass](https://phoenixhnr.co.kr/page/board/event/190000047134) is listed at **₩599,000** in its second sales phase. The [English snow-park price page](https://phoenixhnr.co.kr/en/static/pyeongchang/guide/price/snowpark) did not show a usable 26/27 one-day lift quote. | Compare a dated day-ticket quote with the season-pass calculation below. |
-| **Vivaldi Park, Hongcheon** | The current [official lift and rental rate page](https://www.sonohotelsresorts.com/skiboard/discount) displays **“준비 중입니다” (“in preparation”)** where prices would be. An [older official page](https://sonolc.sonohotelsresorts.com/daemyung.vp.skiworld.04_04_01.ds/dmparse.dm) is explicitly marked **23/24**. | Wait for the new price table or request a date-specific quote; do not use the indexed 23/24 rates. |
+| **Vivaldi Park, Hongcheon** | The [26/27 season-pass offer](https://www.sonohotelsresorts.com/reserve/newAndHot/dtl?salesNo=293740) lists a **₩440,000 D-members Smart lift pass**. The separate [lift and rental rate page](https://www.sonohotelsresorts.com/skiboard/discount) still displays **“준비 중입니다” (“in preparation”)**. | Match the membership category below; request a dated day-ticket quote for a short visit. The [indexed 23/24 table](https://sonolc.sonohotelsresorts.com/daemyung.vp.skiworld.04_04_01.ds/dmparse.dm) is historical. |
+
+## Vivaldi: why “from ₩370,000” may not be your price
+
+The [official offer](https://www.sonohotelsresorts.com/reserve/newAndHot/dtl?salesNo=293740) has two choices in its **구성 (configuration)** menu. We checked both on October 18:
+
+| Selected membership category | Smart lift season pass | Smart lift + equipment rental |
+| --- | ---: | ---: |
+| **D멤버스 전용** — D-members only | ₩440,000 | ₩620,000 |
+| **리조트 회원 전용** — resort members only | ₩370,000 | ₩520,000 |
+
+The two Smart lift prices differ by **₩70,000** because the membership category differs. Do not assume a hotel booking or a new website account qualifies you for the resort-member rate. Confirm eligibility with Sono before purchase. The D-members promotional table runs **October 16–November 15, 2026**; the [October 13 sales notice](https://www.sonohotelsresorts.com/footer/customerCenter/notice/detail/226249) also gives those dates for the season-pass promotion. These are **sales dates**, not confirmed slope-opening dates.
+
+The rental version includes one ski or snowboard equipment rental per day, with boots (and poles for skis), returned that day. **Helmet and clothing rental are excluded.** For D-members, adding rental costs **₩180,000** across the season: that is **₩45,000 per day for four planned visits**, or **₩18,000 for ten**. These are allocation examples, not rental quotes or guaranteed savings. Compare the add-on with the rental rate you actually qualify for, including any pass-holder discount.
+
+The Smart lift pass alone works out to **₩220,000 per day for two visits** or **₩110,000 for four** at the D-members price. Add transport, lodging and any equipment you need before comparing it with Phoenix or dated day tickets. Check pickup, identification and refund requirements on the offer before paying.
 
 ## Phoenix season pass: what does ₩599,000 cost per ski day?
 
