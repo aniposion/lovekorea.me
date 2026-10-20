@@ -1,16 +1,33 @@
 {{- $current := . -}}
 {{- $max := site.Params.related.maxItems | default 3 -}}
 {{- $cats := $current.Params.categories | default (slice) -}}
-{{- $tags := $current.Params.tags | default (slice) -}}
+{{- $tags := apply ($current.Params.tags | default (slice)) "strings.ToLower" "." -}}
 {{- $seen := newScratch -}}
 {{- $seen.SetInMap "urls" $current.RelPermalink true -}}
 {{- $related := slice -}}
 {{- $posts := (where site.RegularPages "Section" "posts").ByDate.Reverse -}}
 
+{{- /* Editorial next steps take precedence over automatic topic matches. */ -}}
+{{- range $current.Params.related_guides -}}
+  {{- $reference := . -}}
+  {{- with site.GetPage $reference -}}
+    {{- if not (in $posts .) -}}
+      {{- errorf "Related guide %q on %s must be a published post" $reference $current.RelPermalink -}}
+    {{- else if and (lt (len $related) $max) (not (index ($seen.Get "urls") .RelPermalink)) -}}
+      {{- $related = $related | append . -}}
+      {{- $seen.SetInMap "urls" .RelPermalink true -}}
+    {{- end -}}
+  {{- else -}}
+    {{- errorf "Related guide %q on %s was not found" $reference $current.RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* A broad category such as k-travel must not crowd out shared topics. */ -}}
 {{- range $posts -}}
   {{- if ge (len $related) $max -}}{{- break -}}{{- end -}}
-  {{- $sameCategory := gt (len (intersect (.Params.categories | default (slice)) $cats)) 0 -}}
-  {{- if $sameCategory -}}
+  {{- $postTags := apply (.Params.tags | default (slice)) "strings.ToLower" "." -}}
+  {{- $sameTag := gt (len (intersect $postTags $tags)) 0 -}}
+  {{- if $sameTag -}}
     {{- $isSeen := index ($seen.Get "urls") .RelPermalink -}}
     {{- if not $isSeen -}}
       {{- $related = $related | append . -}}
@@ -22,8 +39,8 @@
 {{- if lt (len $related) $max -}}
   {{- range $posts -}}
     {{- if ge (len $related) $max -}}{{- break -}}{{- end -}}
-    {{- $sameTag := gt (len (intersect (.Params.tags | default (slice)) $tags)) 0 -}}
-    {{- if $sameTag -}}
+    {{- $sameCategory := gt (len (intersect (.Params.categories | default (slice)) $cats)) 0 -}}
+    {{- if $sameCategory -}}
       {{- $isSeen := index ($seen.Get "urls") .RelPermalink -}}
       {{- if not $isSeen -}}
         {{- $related = $related | append . -}}
@@ -46,7 +63,7 @@
 
 {{- if gt (len $related) 0 -}}
 <section class="lk-related" aria-labelledby="lk-related-heading">
-  <h2 id="lk-related-heading" class="lk-related__title">Related guides</h2>
+  <h2 id="lk-related-heading" class="lk-related__title">{{ $current.Params.related_heading | default "Related guides" }}</h2>
   <ol class="lk-related__grid">
     {{- range $related -}}
     {{- $cover := .Params.cover | default dict -}}

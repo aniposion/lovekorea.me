@@ -1,11 +1,16 @@
 ---
 title: "Nampo-dong Shopping Street, Busan: Markets, Route & Hours (2026)"
 date: 2025-12-28T16:21:53.662903
-lastmod: 2026-10-05
+lastmod: 2026-10-20
 slug: "busan-nampo-dong-shopping-where-to-buy-prices"
 description: "Where to shop in Nampo-dong, Busan: compare Gwangbok-ro, Gukje Market and the underground mall, then follow a practical walking route with official hours."
 categories: ["k-travel"]
 tags: ["busan", "nampo-dong", "shopping", "gukje market", "jagalchi", "gwangbok-ro", "underground mall", "street fashion", "souvenirs"]
+related_heading: "Plan the rest of your Busan visit"
+related_guides:
+  - "/posts/2026-01-07-busan-gamcheon-culture-village-tours-how-to-book-prices"
+  - "/posts/2026-04-30-busan-songdo-cable-car-tickets-prices"
+  - "/posts/2026-03-16-busan-city-tour-bus-pass-prices-route-comparison"
 cover:
   image: "/images/busan-nampo-dong-shopping-where-to-buy-prices-cover.webp"
   alt: "Guide to shopping streets and markets around Nampo-dong in Busan"
