@@ -58,7 +58,7 @@ Cost is only one part of the decision. If the totals are close, compare the walk
 
 - **Using rail:** confirm the airport terminal, rail service, transfer station, and final walk. Our [AREX Express versus All-Stop guide](/posts/incheon-airport-arex-guide/) explains why the service name matters.
 - **Using an airport bus:** search the exact hotel or nearby stop, then verify the direction and departure point. See the [Incheon airport bus payment guide](/posts/incheon-airport-limousine-bus-ticket-vs-tmoney-guide/).
-- **Arriving late:** compare your likely exit time after immigration and baggage with the last usable connection. Plan an alternative before choosing a nonrefundable room.
+- **Arriving late:** compare your likely exit time after immigration and baggage with the last usable connection. Plan an alternative before choosing a nonrefundable room. Check the [night-bus schedule gap and hotel-stop guide](/posts/incheon-night-bus-late-arrival/) before relying on an after-midnight transfer.
 
 ## Send these questions before paying
 
