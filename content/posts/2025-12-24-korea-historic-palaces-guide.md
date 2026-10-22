@@ -72,6 +72,8 @@ Do not assume ordinary palace admission covers seasonal night openings. Deoksugu
 
 The fee page directs visitors to garden reservations opening at **10 a.m. six days before the visit**, with additional same-day sales from **9 a.m.** Availability is limited. Read the chosen session's language, meeting point and entry conditions before paying.
 
+If online sessions are sold out, use our [Secret Garden booking and same-day ticket guide](/posts/changdeokgung-secret-garden-tickets-sold-out/) to compare the separate on-site allocation with a fallback palace visit.
+
 Eligible hanbok wear can qualify for ordinary free palace admission, subject to the [official clothing guidelines](https://royal.khs.go.kr/ROYAL/contents/R705000000.do). It does not make Secret Garden admission free. Confirm the outfit and ticket rules with the venue rather than relying on a rental shop's broad promise.
 
 Rent an outfit because you want that experience. In a hypothetical case, paying ₩20,000 to avoid a ₩3,000 admission fee adds ₩17,000 to the outing before any accessories. Rental return time, weather and comfortable footwear also affect the day.
