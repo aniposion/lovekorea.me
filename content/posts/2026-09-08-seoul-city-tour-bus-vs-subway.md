@@ -77,6 +77,8 @@ Using only base fares, four adult subway rides cost about **₩6,200** with a tr
 
 Seoul's [official Climate Card page](https://english.seoul.go.kr/policy/transportation/climate-card/) lists tourist-friendly short-term prices of **₩5,000 for one day, ₩8,000 for two days, ₩10,000 for three days, ₩15,000 for five days, and ₩20,000 for seven days**. A physical card costs an additional **₩3,000**. Short-term validity begins on the day it is charged, so you cannot load a one-day pass in advance for a later date.
 
+For the card purchase itself, our [Climate Card versus T-money cost comparison](/posts/seoul-climate-card-vs-tmoney/) calculates the journey thresholds for every short-term pass, including a new physical card and overseas-card payment fees.
+
 This distinction matters after Seoul's September 2026 transit-card change. The old 30-day prepaid Climate Card was discontinued as the resident-focused Climate Pass launched, but the city says **tourist short-term passes continue without change**. Visitors should not confuse the resident-only monthly product with the short-term tourist passes.
 
 Check the payment methods and any service fee displayed by the particular machine before paying with an international card. Do not assume that every machine or card has the same fee. The short-term pass does not cover every railway or bus: the Sinbundang Line, intercity and airport buses, non-Seoul buses, and subway travel outside the permitted service area have exclusions.
