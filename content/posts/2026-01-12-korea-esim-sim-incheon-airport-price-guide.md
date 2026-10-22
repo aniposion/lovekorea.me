@@ -1,7 +1,7 @@
 ---
 title: "Korea eSIM or Airport SIM in 2026: Incheon Pickup, Prices & Setup"
 date: 2026-01-12T08:25:10.873517
-lastmod: 2026-09-24
+lastmod: 2026-10-22
 slug: "korea-esim-sim-incheon-airport-price-guide"
 description: "Choose a Korea travel eSIM or physical SIM at Incheon Airport with a current carrier price example, counter locations, compatibility and activation checks."
 categories: ["k-travel"]
@@ -32,6 +32,22 @@ The old “eSIM always costs less” rule is unreliable. On the same LG U+ touri
 | Banking or government identity verification in Korea | Ask the relevant service what it accepts | A short-stay tourist number may not qualify |
 
 Do not buy a **data-only** product because it shows a Korean phone number if you need to send a text. LG U+'s [product FAQ](https://www.lguplus.com/korea-sim/eng/pc/support/faq?tab=esim) says its data-only eSIM cannot send calls or texts and cannot be upgraded with a voice top-up later. Its data-plus-voice option requires a passport check at an airport counter for voice service. The provider also says that even voice/SMS service does **not** provide banking or government identity verification. Rules at other operators can differ, so check the exact product.
+
+## Restaurant bookings: check the app before paying for a Korean number
+
+**A Korean phone number alone does not guarantee that a restaurant app's verification code will work.** For a restaurant listed on CATCHTABLE GLOBAL, you may not need a Korean number at all.
+
+**Booking and SMS guidance checked October 22, 2026.** LG U+'s [eSIM/SIM FAQ](https://www.lguplus.com/korea-sim/eng/pc/support/faq?tab=esim) lists incoming calls/texts for its data-only products, but separately says **SMS verification is unavailable on data-only service**. It describes restaurant and taxi app SMS verification under voice/SMS service. Do not treat ordinary message reception as a promise that a particular app's login code will arrive; confirm the exact plan and app with the provider before buying.
+
+| Your booking route | What you need to check |
+| --- | --- |
+| **CATCHTABLE GLOBAL** | Find the correct restaurant branch and check whether it offers reservations, remote waitlisting or only an on-site queue. |
+| **Another app asks for an SMS code** | Confirm that the selected SIM supports that app's verification, rather than relying on a phone number or an “incoming SMS” label. |
+| **The restaurant takes bookings by phone** | Check outgoing domestic calls and any required voice balance. A data-only eSIM cannot substitute for this. |
+
+The Korea Tourism Organization's [CATCHTABLE GLOBAL guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590988) explains that visitors can sign up with Google, Apple or email without a Korean phone number, and receive queue information by email. Start at [CATCHTABLE GLOBAL](https://www.catchtable.net/) and check your chosen branch before purchasing a voice plan just for dinner. Keep an internet connection available to follow the queue; a waitlist entry does not reserve a dining time.
+
+If the restaurant is absent or its booking option does not suit your visit, ask it about another booking method before choosing a SIM. For the next step, use our [restaurant reservation and waitlist checklist](/posts/korean-restaurant-etiquette-guide/#read-the-room-queues-ordering-and-table-setup) to check the branch, booking type and cancellation terms.
 
 ## A real five-day price example
 
