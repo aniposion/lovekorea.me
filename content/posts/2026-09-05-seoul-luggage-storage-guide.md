@@ -164,6 +164,8 @@ Ask the hotel first if it is on the day's route. If it is far from your first ac
 
 Compare three routes: return to the hotel, store near the airport railway or bus, or arrange same-day delivery. Keep your passport and flight essentials with you. If you use AREX, identify the exact airport terminal and leave more time than the transport operator's minimum.
 
+If you hope to check the suitcase with your airline before leaving central Seoul, use our [Seoul Station City Airport Terminal checklist](/posts/seoul-station-city-airport-terminal-check-in/) before buying the train ticket. It explains the flight eligibility, earlier check-in deadlines and Express-ticket requirement for this separate airline service.
+
 ### Shopping in Myeongdong
 
 A staffed T-Luggage point is listed near Myeongdong Station Exits 9 and 10, while lockers may be available elsewhere in the station network. Storage keeps shopping aisles easier to navigate, but leave space and weight allowance for purchases. Review the [Korea tourist tax-refund guide](/posts/korea-tax-refund-shopping-guide/) before packing receipts and goods into a checked suitcase.
