@@ -1,0 +1,31 @@
+<form class="lk-tour-cost" data-tour-cost aria-labelledby="tour-cost-heading">
+  <h3 id="tour-cost-heading">Compare two tour quotes</h3>
+  <p id="tour-cost-help">Use Korean won (KRW) and the same travelers for both quotes. With different adult and child rates, choose the whole-party total.</p>
+  <label for="tour-travelers">Number of travelers</label>
+  <input id="tour-travelers" name="travelers" type="number" min="1" max="99" step="1" inputmode="numeric" value="2" required>
+  <div class="lk-tour-cost__options">
+    {{ range slice "A" "B" }}
+    {{ $key := lower . }}
+    <fieldset>
+      <legend>Quote {{ . }}</legend>
+      <label for="tour-{{ $key }}-basis">Quote {{ . }} price basis</label>
+      <select id="tour-{{ $key }}-basis" name="{{ $key }}Basis" aria-describedby="tour-cost-help" required>
+        <option value="">Choose the price basis</option>
+        <option value="person">Per person</option>
+        <option value="party">Whole party</option>
+      </select>
+      <label for="tour-{{ $key }}-price">Quote {{ . }} base price (KRW)</label>
+      <input id="tour-{{ $key }}-price" name="{{ $key }}Price" type="number" min="0" max="100000000" step="1" inputmode="numeric" required>
+      <label for="tour-{{ $key }}-extras">Quote {{ . }} extras for the whole party (KRW)</label>
+      <input id="tour-{{ $key }}-extras" name="{{ $key }}Extras" type="number" min="0" max="100000000" step="1" inputmode="numeric" aria-describedby="tour-extras-help" required>
+    </fieldset>
+    {{ end }}
+  </div>
+  <p id="tour-extras-help" class="lk-tour-cost__note">Extras: add excluded tickets, meals and transport for everyone. Enter 0 only if no extra cost applies. Leave unknown costs unresolved rather than treating them as free.</p>
+  <button type="submit" disabled>Compare whole-party totals</button>
+  <output class="lk-tour-cost__result" aria-live="polite" aria-atomic="true">Enter both quotes, their price basis and any extras.</output>
+  <p class="lk-tour-cost__note">Per-person total = base price × travelers + extras. Whole-party total = base price + extras. This tool uses your entries, does not fetch live prices and does not make a booking.</p>
+  <noscript><p>JavaScript is off. Use the two formulas above to compare your quotes.</p></noscript>
+</form>
+<link rel="stylesheet" href="{{ "css/tour-quote-comparison.css" | relURL }}">
+<script defer src="{{ "js/tour-quote-comparison.js" | relURL }}"></script>

@@ -1,0 +1,39 @@
+.lk-tour-cost {
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border: 2px solid var(--border, #ccc);
+  border-radius: 10px;
+  background: var(--entry, #fff);
+}
+.lk-tour-cost h3 { margin-top: 0; }
+.lk-tour-cost label { display: block; margin: .75rem 0 .35rem; font-weight: 600; }
+.lk-tour-cost input, .lk-tour-cost select {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  padding: .65rem;
+  color: var(--primary, #222);
+  background: var(--theme, #fff);
+  border: 1px solid var(--secondary, #777);
+  border-radius: 4px;
+  font: inherit;
+}
+.lk-tour-cost > input { max-width: 9rem; }
+.lk-tour-cost__options { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
+.lk-tour-cost fieldset { min-width: 0; padding: .8rem; border: 1px solid var(--border, #ccc); }
+.lk-tour-cost legend { padding: 0 .3rem; font-weight: 700; }
+.lk-tour-cost button {
+  padding: .8rem 1rem;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  background: #1746a2;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+.lk-tour-cost :is(input, select, button):focus-visible { outline: 3px solid #e5a524; outline-offset: 3px; }
+.lk-tour-cost__result { display: block; margin: 1rem 0; font-weight: 700; }
+.lk-tour-cost__note { font-size: .85em; }
+@media (max-width: 600px) { .lk-tour-cost__options { grid-template-columns: 1fr; } }

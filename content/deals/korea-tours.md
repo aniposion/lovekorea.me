@@ -1,7 +1,7 @@
 ---
 title: "Compare Korea Tours: DMZ, Busan & Jeju Booking Checks"
 description: "Compare selected DMZ, Busan and Jeju tours with independent visits. Check route limits, pickup, mobility and cancellation terms before booking."
-lastmod: 2026-09-28
+lastmod: 2026-10-22
 slug: "korea-tours"
 type: "deals"
 layout: "single"
@@ -16,6 +16,8 @@ cover:
 
 Use this page to decide whether a guided trip fits your plans. Each option below links to a specific provider listing and a LoveKorea guide explaining the alternative of arranging the visit yourself. Our comparison is based on published information, not a claim that we have personally taken these tours.
 
+[Compare two quotes for your whole party](#compare-tour-costs), then check the [DMZ](#seoul-guided-dmz-trip-or-official-visitor-booking), [Busan](#busan-a-guided-outing-or-your-own-market-walk) or [Jeju](#jeju-mainland-east-coast-sights-or-udo) route below.
+
 {{< affiliate-disclosure >}}
 
 **Listings checked September 28, 2026.** Availability, routes and prices can change. Select your actual date and group size before comparing the final checkout total.
@@ -27,6 +29,29 @@ Use this page to decide whether a guided trip fits your plans. Each option below
 | A guided DMZ visit from Seoul | Seoul-to-DMZ tour | Pickup is limited to selected locations; bridge options and security-related changes matter |
 | Busan markets and Gamcheon in one outing | Gamcheon and Jagalchi guided tour | This is a multi-stop sightseeing tour; shopping time and cable-car tickets are separate considerations |
 | Jeju's eastern mainland sights | Jeju Eastern UNESCO Sites Day Tour | Udo and its ferry are not included |
+
+## Compare the total for your whole party {#compare-tour-costs}
+
+**A lower per-person price can still mean a higher bill for your group.** Compare quotes for the same date, travelers and planned stops. For each quote, identify whether the price is per person or already covers your whole party, then add costs excluded from that quote.
+
+Use the calculator below before choosing between the listings. It also works for a guided tour versus an independent day: add up your independent transport and admission costs first, and enter that amount as a **whole-party total**.
+
+{{< tour-quote-comparison >}}
+
+**Invented example, not a current tour offer:** three travelers compare Quote A at ₩80,000 per person plus ₩30,000 in whole-party extras with Quote B at ₩220,000 for the whole party plus ₩30,000 in extras. A totals **₩270,000**; B totals **₩250,000**. B is ₩20,000 less. For two travelers with the same assumed extras and the same whole-party B quote, A becomes ₩190,000 and costs ₩60,000 less than B. Recheck a real provider's quote when party size changes.
+
+### What belongs in extras?
+
+| Cost to check | How to enter it |
+|---|---|
+| Admission charged separately for each traveler | Add the correct tickets for everyone's age; enter their combined total |
+| Travel from your hotel to a meeting point, and back from the drop-off | Add the whole party's transport cost for both journeys |
+| Meals, equipment or fees you would actually pay | Add only the amount excluded from that particular quote |
+| Something already included in the base quote | Do not add it again |
+
+Enter **0** only when no extra cost applies, not when a cost is unknown. If adults and children pay different rates, enter the provider's full basket as a whole-party quote instead of multiplying one adult rate. Use KRW for both options and include any payment-conversion charge you expect in your own total.
+
+The cheaper total does not make two itineraries equivalent. Check time at your priority stop, admission coverage, meeting and return points, walking demands and cancellation terms. A self-guided day may have different access or transport limits; the destination guides below explain those choices.
 
 ## Seoul: guided DMZ trip or official visitor booking
 
