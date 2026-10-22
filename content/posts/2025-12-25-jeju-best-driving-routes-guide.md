@@ -62,6 +62,8 @@ Park before taking the Handam walk. Visit Jeju describes it as a **roughly 1.2 k
 
 **Use this route when:** you want highland scenery and are comfortable with a mountain crossing in the conditions shown that day. It is a point-to-point drive, so account for how you will return to your accommodation. Do not stop in an undesignated place for photos.
 
+Planning to leave the road for a hike? Compare [five Hallasan trails that do not need a summit reservation](/posts/hallasan-without-reservation-trails/) before adding a walk. The guide separates short routes from mountain days and includes the extra approach distance at Yeongsil.
+
 ## Which route should you choose?
 
 - **Staying near Seongsan:** take the east-coast route and choose Gwangchigi or Seopjikoji as an extra stop.
