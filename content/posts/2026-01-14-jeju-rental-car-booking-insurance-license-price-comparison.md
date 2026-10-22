@@ -71,6 +71,8 @@ For a useful comparison, open at least two real booking flows, such as [LOTTE's 
 
 Compare those **final totals and conditions**, not a banner discount percentage. If an aggregator is cheaper, check which company supplies the car and use that supplier's current rules for documents, shuttle and insurance. A lower quote is only useful if the driver can collect the vehicle and the pickup time fits the flight.
 
+Connecting through Incheon and Gimpo before flying to Jeju? Use the [airport-change planning guide](/posts/incheon-to-gimpo-jeju-transfer/) to allow for collecting and rechecking bags before choosing the flight that determines your car-pickup time.
+
 ## Jeju Airport pickup: the shuttle is part of the trip
 
 Rental cars are often collected at a company lot after a shuttle, not at the airport curb. For one concrete example, [LOTTE Jeju Auto House](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) directs arrivals to its desk near **domestic arrivals Gate 2**, then to **rental-car shuttle Zone 1, No. 4**. Its page lists the branch as **06:00–23:00** and shuttle service as **06:00–22:40**, with frequency varying by time of day. Those are LOTTE's published details, **not** a universal airport shuttle schedule; verify them again with the operator before a late flight.
