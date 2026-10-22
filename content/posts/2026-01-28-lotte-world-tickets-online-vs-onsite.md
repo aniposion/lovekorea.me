@@ -76,4 +76,6 @@ Use **admission + chosen upgrade + food + transport + storage or other needed ex
 
 For rain, check operating notices for your priority rides rather than assuming every attraction operates because part of the park is indoors. Leave room to change the plan if a closure removes the main reason you wanted to visit.
 
+Considering Everland instead? Our [Everland shuttle return guide](/posts/everland-shuttle-return-time/) compares a booked bus departure with the evening you want in the park, plus public-transport alternatives.
+
 The [Seoul Sky comparison](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/) helps with the separate observatory ticket. For an entirely different indoor day, use our [museum guide](/posts/must-visit-museums-korea-guide-2025/) and [rain plan](/posts/korea-summer-rain-travel-guide/).
