@@ -31,6 +31,8 @@ Busan's official pages describe [Haeundae Beach](https://www.busan.go.kr/eng/bea
 
 **A Haeundae day:** start with a beach walk, allow a meal break, and choose one paid attraction only if you want it. If you book a timed ride or aquarium visit, arrange the meal around that slot. Do not assume a beach-area ticket includes other attractions.
 
+For a coastal ride, compare the [Sky Capsule cabin price and return-trip options](/posts/busan-sky-capsule-tickets-price-return-trip/) before choosing a package. It matters whether your train ride starts at Mipo or Cheongsapo.
+
 **A Gwangalli evening:** choose a meal, leave time for the waterfront, and keep the return route simple. A bridge view does not guarantee fireworks, a drone show or live music. Check the particular event's current notice if it is your reason for coming.
 
 **A Nampo–Jagalchi day:** visit the market and nearby streets, then decide whether another transfer is worth it. The [Korea Tourism Organization listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318) places Jagalchi at 52 Jagalchihaean-ro in Jung-gu and lists the main market's first and third Tuesday closures. Confirm the particular restaurant's hours as well.
