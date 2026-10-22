@@ -118,6 +118,8 @@ There is no single Korean jjimjilbang price. Admission changes by facility, prod
 
 These examples are not a “best spa” ranking. They show why checking the product name matters. A lower-priced local facility can be perfect for a straightforward bath and kiln-room visit. A larger complex may charge more for themed rooms, longer opening hours, mall access, pools, or resort-style amenities that you may not need.
 
+Planning a longer stop at Spa Land in Busan? Our [four-hour versus six-hour cost comparison](/posts/spa-land-busan-four-six-hours-cost/) works through overtime, the per-person spending threshold, late arrivals and the separate suitcase-storage clock.
+
 Budget beyond admission for eggs, **sikhye** (sweet rice punch), a meal, massage chairs, exfoliation, rental items, or overtime. The common wristband system can make spending feel invisible because you pay at exit. Ask whether a purchase is being charged to your key, keep a rough total, and never lend the key to someone else.
 
 At Aquafield, even guests with no extra purchases must visit settlement so the system can verify time. A lost locker key can also trigger a fee. Before leaving, return all rented items, review the screen, pay the balance, and keep the receipt until the shoe locker opens.
