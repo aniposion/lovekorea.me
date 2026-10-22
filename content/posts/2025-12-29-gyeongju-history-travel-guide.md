@@ -15,7 +15,7 @@ monetize:
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-03
+lastmod: 2026-10-22
 ---
 
 **A one-day Gyeongju trip becomes much easier when you choose one main area.** For a first visit focused on Silla history, start with the central tombs and historic district. If Bulguksa and Seokguram are your priorities, build the day around their transfers instead of adding them to an already full city walk.
@@ -47,6 +47,26 @@ Put Bulguksa first if temple architecture is the reason you are coming. Allow a 
 Add one central stop only if the day's confirmed timings leave room. If both the temple area and central Gyeongju matter equally to you, an overnight stay gives them separate blocks and reduces the pressure to race back for a train.
 
 For a wider comparison, see our [guide to choosing a Korean temple visit](/posts/korea-famous-temples-guide/). If you prefer indoor historical context, compare [museum visits](/posts/must-visit-museums-korea-guide-2025/). Travellers still choosing a destination can use the [day-trip cost worksheet](/posts/korean-day-trips-guide-2024/) to compare the complete journey.
+
+## Check the station before booking your day trip
+
+**The current Gyeongju Station and the old downtown station are different places.** A hotel description saying “near Gyeongju Station” is not enough to plan your train connection: match the address before you reserve.
+
+| Place on your map or ticket | What it means for your day |
+|---|---|
+| **Gyeongju Station — 경주역** | The current station is at **80 Gyeongjuyeok-ro, Geoncheon-eup** (건천읍 경주역로 80). Include the onward journey to your first sight. |
+| **Old Gyeongju Station — 옛 경주역** | The building at **266 Wonhwa-ro** (원화로 266) is now **Gyeongju Culture Hall 1918 — 경주문화관 1918**. It is not your train boarding point. |
+| **Gyeongju Express Bus Terminal — 경주고속버스터미널** | The city lists **2 Taejong-ro 685beon-gil** (태종로685번길 2). If your ticket instead names the **intercity terminal — 경주시외버스터미널**, use that exact terminal and boarding location. |
+
+Addresses were checked against [Gyeongju City's transport guide](https://gyeongju.go.kr/tour/page.do?mnu_uid=4847) and its [guide to the former station's cultural space](https://www.gyeongju.go.kr/webzine/GJstory/vol168/html/post/5765.html) on **October 22, 2026**.
+
+### Compare the whole journey, then choose the ticket
+
+For a trip from Busan or Seoul, compare **your accommodation → departure station or terminal → Gyeongju arrival point → first attraction**. Repeat the calculation for the return. The shortest train ride does not necessarily leave the most sightseeing time once local transfers and waiting are included.
+
+The city's official transport guide links [Korail for trains](https://www.korail.com/), [KOBUS for express buses](https://www.kobus.co.kr/main.do) and [BUSTAGO for intercity buses](https://www.bustago.or.kr/newweb/kr/index.do). Search your exact departure terminal, destination and travel date; the services do not present one identical route list. Check the return departure and cancellation terms before paying. A route missing from one search is a reason to check the terminal's information, not proof that every bus is sold out.
+
+Save your arrival and return addresses with the tickets, then use the [time-budget example below](#calculate-the-time-you-really-have) to decide whether Bulguksa or an evening pond visit fits. No fixed bus fare, last departure or connection time is assumed here.
 
 ## Calculate the time you really have
 
