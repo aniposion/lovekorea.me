@@ -69,6 +69,8 @@ The time saving is only part of the value. Seoul Station connects directly to Se
 
 KTX also gives you an onboard restroom, the ability to stand and stretch, overhead storage, and luggage areas near carriage ends. There is no airline-style checked baggage service for an ordinary ticket. You carry your own bags, so arrive early enough to find an appropriate rack and keep valuables with you. Large suitcases are easiest to manage before the carriage becomes crowded.
 
+Bringing two cases and a backpack? Check the [KTX two-piece luggage guidance](/posts/ktx-luggage-two-bag-rule/) before packing. It separates the official carry-on conditions from assumptions about suitcase size and compares taking everything with leaving a bag for a short side trip.
+
 ## Express Bus Fares After October 1, 2026
 
 ![Passengers boarding a premium express bus at a Korean terminal](/images/seoul-busan-ktx-vs-express-bus-h2-2.webp)
