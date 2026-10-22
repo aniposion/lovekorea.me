@@ -13,11 +13,20 @@
   </aside>
 </header>
 
+{{- with .Content }}
+<section class="lk-deals-guidance" aria-labelledby="lk-deals-guidance-title">
+  <div class="post-content">
+    <h2 id="lk-deals-guidance-title">Find your next booking step</h2>
+    {{ . }}
+  </div>
+</section>
+{{- end }}
+
 {{- $dealPages := sort .RegularPages "Weight" "asc" -}}
 {{- if gt (len $dealPages) 0 }}
 <section class="lk-deals-grid" aria-labelledby="lk-deals-start">
   <div class="lk-section-heading lk-section-heading--compact">
-    <p class="lk-kicker">Start Here</p>
+    <p class="lk-kicker">Browse by category</p>
     <h2 id="lk-deals-start">Compare by trip need</h2>
     <p>Choose the guide that matches the decision you are making now: tickets, stays, or items to pack.</p>
   </div>
@@ -48,15 +57,6 @@
       </div>
     </article>
     {{- end }}
-  </div>
-</section>
-{{- end }}
-
-{{- with .Content }}
-<section class="lk-deals-guidance" aria-labelledby="lk-deals-guidance-title">
-  <div class="post-content">
-    <h2 id="lk-deals-guidance-title">Before You Click Through</h2>
-    {{ . }}
   </div>
 </section>
 {{- end }}
