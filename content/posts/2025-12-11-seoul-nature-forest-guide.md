@@ -72,4 +72,6 @@ Write down **room charge + return transport + meals + any required facility char
 
 If you cannot confirm the room or the return transport, keep a city hotel and plan a daytime outing instead. Our [Seoul hotel-area guide](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) includes a comparison calculator. For an outdoor break within the city, compare [Han River activities](/posts/han-river-activities-guide/). For disrupted weather plans, use the [Korea rain travel guide](/posts/korea-summer-rain-travel-guide/).
 
+For a mountain day trip instead of a cabin stay, use our [Seoraksan cable-car guide](/posts/seoraksan-cable-car-tickets/) to compare the ticket time offered on site with your return schedule.
+
 *Updated October 3, 2026: removed unsupported personal anecdotes and blanket cabin budgets; added named forests, official tariffs, and the weekday/weekend reservation distinction.*
