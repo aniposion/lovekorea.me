@@ -15,12 +15,17 @@ monetize:
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-03
+related_heading: "Plan your Seoul evening"
+related_guides:
+  - "/posts/2026-02-05-seoul-sky-lotte-tower-tickets-prices-time-slots"
+  - "/posts/2026-01-09-han-river-cruise-seoul-prices-tickets-how-to-book"
+  - "/posts/2026-01-20-seoul-city-tour-bus-how-to-book-tickets-prices"
+lastmod: 2026-10-22
 ---
 
 **For one evening in Seoul, choose a main view and keep dinner nearby.** A cruise, N Seoul Tower and Seoul Sky can each fill the interesting part of a night. Combining all three adds transfers and entry deadlines while buying several versions of the same skyline.
 
-The comparison below is an editorial planning aid, not a popularity ranking or a record of personal visits. Official prices and service information checked October 3, 2026; confirm the selected date before purchasing.
+The comparison below is an editorial planning aid, not a popularity ranking or a record of personal visits. General prices and service information checked October 3, 2026; the Namsan cable-car section was checked October 22, 2026. Confirm the selected date before purchasing.
 
 ## Choose by the kind of evening you want
 
@@ -37,6 +42,26 @@ The [N Seoul Tower admission page](https://www.nseoultower.co.kr/eng/visit/use2.
 The [Seoul Sky admission page](https://seoulsky.lotteworld.com/price/info/ticket) lists standard adult entry at **₩33,000**. Our [Seoul Sky guide](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/) explains the conflicting older promotional page and the difference between standard, priority and aquarium products.
 
 Those two observatories alone total **₩62,000 per adult** at the listed standard prices, before transport. If you only want one skyline evening, choose the location that fits your day and keep that second ticket out of the budget.
+
+## Namsan cable car: decide the return before saving ₩3,000
+
+The [cable-car operator's fare table](https://namsancablecar.com/usage.html), checked **October 22, 2026**, lists the standard adult fare at **₩15,000 round trip** or **₩12,000 one way**. A one-way ticket initially saves ₩3,000, so decide how you will complete the other leg before buying.
+
+| Cable-car choice | Standard adult ticket budget |
+|---|---:|
+| One one-way ride | **₩12,000** per adult; **₩24,000** for two |
+| One round-trip ticket each | **₩15,000** per adult; **₩30,000** for two |
+| Two separately priced one-way rides each | **₩24,000** per adult; **₩48,000** for two |
+
+At those published rates, two separate one-way tickets cost **₩9,000 more per adult** than a round trip, or **₩18,000 more for two adults**. This is an arithmetic comparison before concessions or reseller offers; it does not assume that a used one-way ticket can be upgraded by paying the difference. Observatory admission remains separate.
+
+Choose one way when you have planned a suitable walk or other transport for the remaining leg. Choose round trip when you intend to ride both ways. Check the walking route and conditions before relying on a downhill return after dark; a short cable-car ride does not tell you how long that walk will take.
+
+**Buying directly:** the operator's fare page specifies on-site payment. For a reseller bundle, read the cable-car and observatory redemption instructions separately, including any off-site collection location. Keep both sets of instructions accessible before joining a queue.
+
+The [official FAQ](https://namsancablecar.com/customer.html#section-faq) lists ticket-sale cutoffs of **22:30 for round trip** and **22:45 for one way**, with possible earlier closure depending on conditions. Build in time for ticketing and boarding rather than treating the posted 23:00 operating end as a promise of admission.
+
+Finally, the free **Namsan Ormi inclined elevator** reaches the cable-car boarding area. It is a different service from the paid cable car, as shown on the [tower's access page](https://www.nseoultower.co.kr/eng/visit/traffic2.asp). Keep the elevator, cable-car journey and observatory ticket separate in your plan.
 
 ## The night-bus meeting-point mistake
 
