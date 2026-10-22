@@ -55,6 +55,8 @@ For two people considering pocket Wi-Fi, compare the complete rental and return 
 
 Save the hotel’s Korean address, confirmations and a route screenshot before flying. Navigation and translation apps help, but a saved address remains useful when mobile data fails. Do not assume a domestic shopping or taxi app accepts every overseas card or phone number.
 
+If Kakao T rejects a card during setup, our [taxi payment guide](/posts/kakao-t-card-pay-driver/) explains when a general call can be paid directly to the driver, how that differs from a login problem, and what to check before paying at the end of a ride.
+
 ## Pack around the first day
 
 Put required travel documents, essential medication according to its instructions, a permitted charger/battery and the first night’s address where you can reach them. Check airline liquid rules before repacking toiletries. Bring a small amount of your usual products rather than planning to replace your entire routine on arrival.

@@ -58,6 +58,8 @@ Keeping one area removes the need to protect several connections. It also lets y
 
 For spending, add the menu or ticket price, optional purchases and return transport. Do not rely on fixed US-dollar conversions or an old subway/taxi fare quoted in a blog. The cheapest meal can cease to be the cheapest evening when it requires a long paid trip home.
 
+Planning to take a taxi back? Check your account and payment setup before the evening starts. Our [Kakao T payment guide](/posts/kakao-t-card-pay-driver/) explains when you can pay the driver directly and what to check if the app rejects your card.
+
 ## Decide where to stay separately
 
 A fun evening district is not automatically the best sleeping base. Check the accommodation's exact street, room type, noise information and journey to your morning commitments. Compare the total stay and transport using our [Seoul hotel guide](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/).
