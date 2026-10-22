@@ -9,7 +9,7 @@ cover:
   image: "/images/korean-day-trips-guide-2024-cover.webp"
   alt: "Korea Day Trips: The Cheapest Ticket Can Cost You the Most Time"
   relative: false
-lastmod: 2026-10-03
+lastmod: 2026-10-22
 ---
 
 **Price the journey from your accommodation to the actual attraction, then back again.** A cheap train ticket can leave out the local bus, taxi, ferry queue or long wait that makes a day trip difficult. The last connection often determines how much time you really get at the destination.
@@ -35,6 +35,24 @@ The mainland wharf is at **1024 Bukhangangbyeon-ro, Gapyeong-eup**. A ticket to 
 Two regular ferry-and-entry tickets therefore total **₩38,000 before mainland transport and food**. That is a useful fixed component, not a complete couple's day-trip budget.
 
 For a relaxed outing, make the island the main stop. A tour combining the island with other attractions may fit someone who wants variety, but compare actual time on the island and transfers. More named stops can mean less time at each one.
+
+### Nami ferry or zip-wire: avoid buying admission twice
+
+**A Skyline zip-wire ticket already includes Nami Island admission and the ferry back.** You do not need to add a regular ₩19,000 entry ticket for that same visit. The [zip-wire operator's inclusion rules](https://zipwire.co.kr/guide) and the island's [entry-price table](https://namisum-en.imweb.me/163) give these standard per-person choices, checked **October 22, 2026**:
+
+| Entry product and standard price | Included journey |
+|---|---|
+| **Ferry: ₩19,000** | Island admission, ferry in and ferry out |
+| **Motorboat: ₩29,000** | Island admission, motorboat in and ferry out |
+| **Family Course zip-wire: ₩55,000** | Zip-wire directly to Nami, island admission and ferry out |
+
+The island's [motorboat schedule](https://namisum-en.imweb.me/165) limits that service to **April–November**, with **at least two and no more than five passengers** per boat. Check operation for your date before choosing it.
+
+**What does the zip-wire add to the budget?** Compared with two regular ferry tickets at ₩38,000, two standard Family Course tickets total **₩110,000: an extra ₩72,000 for the zip-wire arrival**. These are entry-product totals; travel from Seoul and food remain separate. The island confirms that [zip-wire is an inbound ride only](https://namisum-en.imweb.me/157); everyone using it returns by ferry.
+
+Use the [official Skyline reservation page](https://zipwire.co.kr/web) to check the course and available visit options. The [Family Course requirements](https://zipwire.co.kr/course) list **140–200 cm height and 45–120 kg weight**; weather can adjust the weight limit, and the operator's other rider conditions still apply. The “Family” name does not mean every child can ride. The separately advertised Adventure Course goes via **Jaraseom and a speedboat**, so check the course name before comparing tickets.
+
+If one person takes the ferry and another chooses zip-wire, agree on a meeting place on the island and leave time for different boarding queues. A zip-wire booking does not establish that both people arrive together. If your Seoul tour already includes ferry admission, ask how a zip-wire upgrade is charged; do not assume the tour will deduct the standalone ferry price. Confirm the group's return meeting time before adding the activity.
 
 ## Jeonju: a village visit is not a single all-inclusive ticket
 
