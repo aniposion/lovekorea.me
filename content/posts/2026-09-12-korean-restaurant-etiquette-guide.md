@@ -17,7 +17,7 @@ monetize:
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-04
+lastmod: 2026-10-22
 ---
 ![Two travelers sharing a Korean meal with banchan in a Seoul restaurant](/images/korean-restaurant-etiquette-guide-cover.webp)
 
@@ -61,7 +61,21 @@ If language is the main worry, save our [Korean restaurant phrases guide](/posts
 
 At the entrance, stop long enough to identify the system. Look for a host, a tablet or kiosk, a paper list, numbered tickets, or a line. If other guests are waiting outside while empty tables are visible, do not assume those tables are available. They may be reserved, waiting to be cleaned, or assigned through a queue.
 
-Popular restaurants increasingly use reservation and remote-waitlist tools. Korea Tourism Organization's [June 2026 guide to CATCHTABLE GLOBAL](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590988) describes both remote and on-site waitlisting and advises visitors to check current details. A reservation does not always mean immediate seating: arrive on time, keep the booking name or confirmation ready, and follow the venue's grace-period policy.
+**No Korean phone number? Check CATCHTABLE Global first.** Korea Tourism Organization's [June 2026 service guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590988) says the Global version supports Google, Apple or email registration without a Korean number, and overseas-issued cards for reservation deposits. This applies to participating restaurants; it is not a promise about every restaurant or booking app.
+
+Open the [official CATCHTABLE Global restaurant search](https://www.catchtable.net/) and find the **exact branch**. Its available booking mode determines your next step:
+
+| What you see | Your next step |
+|---|---|
+| **Reserve** | Select an available time, confirm the date and party size, and save the booking confirmation. |
+| **Join Remote Waitlist** | Join the queue and follow its progress by app or email. Return for your turn; a queue number is not a reserved dining time. |
+| **On-site waitlist only** | Register at the restaurant after arrival. If the tablet's phone field blocks you, ask staff how visitors can join. |
+
+KTO distinguishes reservation deposits from deposit-free waitlists. Before paying a deposit, read the restaurant's cancellation cutoff, refund handling and late-arrival rule. Follow that venue's instructions rather than assuming a universal grace period.
+
+**Planning example:** if dinner must fit before a timed performance, look for a confirmed reservation and allow time for the meal and onward travel. Joining a remote queue alone does not establish when you will be seated.
+
+*Reservation guidance checked October 22, 2026.*
 
 Once seated, take a quick inventory before calling anyone. Many tables have a shallow drawer holding metal chopsticks, spoons, and napkins. Water may arrive automatically, sit in a bottle on the table, or come from a self-service station. A call bell may be on the wall or tabletop. None of these features is guaranteed, but looking first avoids asking staff for something already within reach.
 
