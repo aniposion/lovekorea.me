@@ -72,6 +72,8 @@ The one-day ticket lets you transfer between the three loop lines. It is most va
 4. Keep your QR ticket or wristband available for each boarding. Bring proof if claiming a child or other eligible fare.
 5. If changing lines at Songdo, check which side of the road your next bus uses; the official route notes a stop change across the street.
 
+Combining the bus with other paid attractions? Our [Visit Busan Pass comparison](/posts/visit-busan-pass-big3-vs-24-hours/) explains BIG3 group limits and compares the same three-stop plan across time-based passes and separate tickets.
+
 ## Plan individual stops
 
 For related plans, see our [Seoul–Busan KTX versus express bus guide](/posts/seoul-busan-ktx-vs-express-bus/), [Busan Songdo Cable Car guide](/posts/busan-songdo-cable-car-tickets-prices/), and [Gamcheon Culture Village guide](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/). These explain separate tickets and the final connection beyond the sightseeing-bus stop.
