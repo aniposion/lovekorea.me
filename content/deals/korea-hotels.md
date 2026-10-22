@@ -5,7 +5,7 @@ slug: "korea-hotels"
 type: "deals"
 layout: "single"
 weight: 20
-lastmod: 2026-10-04
+lastmod: 2026-10-22
 TocOpen: false
 deal_label: "Hotels & stays"
 deal_focus: ["Seoul areas", "Busan areas", "Trip-cost calculator"]
@@ -17,7 +17,7 @@ cover:
 
 **Choose the neighborhood around the places you will return to each day, then compare the full cost of the stay.** Start with central Seoul for a palace-and-shopping itinerary, Hongdae for Hongdae evenings, or Samseong for repeated COEX visits. In Busan, compare Nampo for old-town markets, Seomyeon for a mixed itinerary, and the beach you actually want to spend time at.
 
-Use this guide in three steps: [pick a Seoul area](#seoul) or [pick a Busan area](#busan), [check the arrival journey](#arrival), then [compare two hotel quotes](#compare-costs). These are our planning judgments based on the locations and official sources below, not hotel inspections or a ranking of room quality.
+Use this guide in three steps: [pick a Seoul area](#seoul) or [pick a Busan area](#busan), [check the arrival journey](#arrival), then [compare two hotel quotes](#compare-costs). These are our planning judgments based on the locations and official sources below, not hotel inspections or a ranking of room quality. Arriving before dawn? [Check which hotel date to book](#after-midnight) before choosing a rate.
 
 ## Seoul: choose the part of the city you will use {#seoul}
 
@@ -66,6 +66,30 @@ For each candidate, save this chain: **arrival terminal → train or bus → tra
 | **Gimhae Airport → Busan by rail** | [Busan City's directions](https://www.busan.go.kr/eng/bsorganiz02) describe the airport light rail to Sasang, a change to Line 2, and a further change at Seomyeon for Line 1. Map only the parts your hotel needs; do not assume every area has a direct airport train. |
 | **Late arrival or early departure** | Check service hours, the hotel's check-in arrangements and a backup journey for the actual time. A daytime route is not proof that the same connection works overnight. |
 
+### Arriving at 03:00? Check which date to book {#after-midnight}
+
+**A Friday reservation with a 15:00 check-in does not promise a room at 03:00 on Friday.** If you need to sleep as soon as you arrive, ask the hotel about booking the preceding night and arranging your actual arrival time before paying.
+
+For a concrete example, [Holiday Inn Express Seoul Hongdae's official FAQ](https://www.ihg.com/holidayinnexpress/hotels/us/en/seoul/seohg/hoteldetail) lists check-in from **15:00** and check-out at **12:00**, and directs guests to contact the hotel about early check-in options. **Checked October 22, 2026.** These are that property's published times; check your own hotel and selected rate.
+
+**Illustrative dates, all in Korea Standard Time:** you expect to reach the hotel at **03:00 on Friday, November 6, 2026**, and leave on **Monday, November 9**.
+
+| When you need the room | Dates to discuss with the hotel | Nights in this example |
+|---|---|---:|
+| As soon as you arrive at 03:00 Friday | Check-in date **Thursday, November 5**, with the Friday early-hours arrival specifically confirmed; check-out Monday, November 9 | **4** |
+| You can wait until Friday's normal afternoon check-in | Check-in date **Friday, November 6**; check-out Monday, November 9. Early room access is not included unless separately confirmed. | **3** |
+
+This is date arithmetic, not a room-availability or price quote. An extra night only solves the arrival problem if the property confirms that it will keep the room for you and let you enter at that time. Include the confirmed extra night or early-access charge in your trip budget, then compare quotes for the same booked dates.
+
+Before booking, get clear answers to these questions:
+
+- **Which check-in date should the reservation show?** Give the full hotel-arrival date and time in KST, not just the flight's landing time or “Friday night.”
+- **How do I enter at that hour?** Confirm reception hours or the exact self-check-in procedure, plus a contact for an access problem.
+- **Will the room be held through my arrival?** Ask how a delay affects the reservation and any no-show rules. Save the property's confirmation; a late-arrival request alone is not confirmation.
+- **What is the total charge and checkout time?** Confirm any extra night or early-access fee, and whether luggage storage is available if you choose to wait instead.
+
+Use the [Incheon night-bus guide](/posts/incheon-night-bus-late-arrival/) to estimate the transport part of the plan and find a message template for your hotel. If you will leave bags before room access, compare the hotel's confirmed storage arrangement with our [Seoul luggage-storage guide](/posts/seoul-luggage-storage-guide/).
+
 ## Compare the whole-stay cost {#compare-costs}
 
 Get quotes for the **same dates, guests and ages, room count, bed setup and cancellation conditions**. Use one currency. For the calculator, convert both quotes to KRW on the same basis and include any applicable payment conversion fee in your own comparison.
@@ -98,4 +122,4 @@ Search your chosen area using your actual dates and guest count, and compare the
 
 {{< offer slot="KOREA_HOTEL_DEALS" pos="bottom" >}}
 
-*Updated October 4, 2026. Location references were checked against official tourism, city and hotel information. We have not stayed at or independently inspected the properties mentioned. No live room prices or guaranteed travel times are presented. See our [editorial method](/editorial-policy/) for how we use sources.*
+*Arrival-date guidance updated October 22, 2026. Location references were checked October 4, 2026 against official tourism, city and hotel information. We have not stayed at or independently inspected the properties mentioned. No live room prices or guaranteed travel times are presented. See our [editorial method](/editorial-policy/) for how we use sources.*
