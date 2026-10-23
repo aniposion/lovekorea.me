@@ -74,3 +74,5 @@ Build the budget from the actual ticket and selected extras. A lightstick, membe
 For casual chat, see [texting abbreviations and apologies](/posts/2026-korean-texting-slang-guide/). For event-day travel, use [subway and bus phrases](/posts/korean-subway-bus-phrases/) and the [honorifics guide](/posts/korean-honorifics-banmal-guide/).
 
 Dictionary and official fanchant example checked October 3, 2026.
+
+Going to an event by subway? If you enter the wrong platform gates, our [Seoul subway re-entry guide](/posts/seoul-subway-wrong-gate-reentry/) explains the 15-minute rule, participating services and the question to show station staff before tapping out.
