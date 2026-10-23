@@ -61,6 +61,8 @@ There is no reliable universal “book X days ahead” rule. Check open slots as
 
 Bring swimwear, a towel, dry clothes, water, and sun protection. Ask about wetsuit sizing when you reserve. Arrive at the meeting point stated by the instructor rather than assuming the beach entrance is the check-in point. Follow the instructor's directions on where to enter the water and whether conditions are suitable for beginners. If the operator recommends canceling or moving a class because of the sea, settle the refund or rescheduling terms before the original slot.
 
+For a longer stay with several beach days, plan how you will wash and dry your everyday clothes. Our [hotel laundry and guest-washer checklist](/posts/korea-hotel-laundry-guest-washer/) helps confirm the accommodation's machines, supplies and charges before you pack light. Ask the surf school separately about caring for or returning its equipment.
+
 If you are staying in Seogwipo, Jungmun may fit naturally into your route. If you are staying near Hamdeok, compare the actual travel time to a **confirmed** lesson at Jungmun or Woljeongri before paying for accommodation or transport around a presumed Hamdeok class.
 
 ## Quick answers
