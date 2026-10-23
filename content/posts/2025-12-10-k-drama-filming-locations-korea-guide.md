@@ -70,3 +70,5 @@ Do not buy a tour expecting access to actors, current filming or private propert
 Choose one essential scene location and one nearby activity you would enjoy independently. That could be a walk on Nami Island, a meal in the Gangneung area or a [Busan neighbourhood and food visit](/posts/top-beaches-seafood-busan-tours/). For a Seoul café stop, our [branch-checking guide](/posts/top-5-korean-cafes-2025/) helps you avoid travelling to a different branch from the one in a saved photograph.
 
 If the exact filming site cannot be verified, keep it off the must-see list. A shorter route with a documented connection is more useful than a long list of guesses.
+
+Planning a regional filming trip by bus? Our [Korea bus booking guide for foreign cards](/posts/korea-bus-tickets-foreign-card/) compares visitor booking services and terminal counters, with a checklist for confirming the right terminal and an issued ticket before you travel.
