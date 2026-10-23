@@ -61,3 +61,5 @@ For a tour, compare the same performance and return time. A bundle that leaves b
 For outdoor shows, leave room for weather and crowd management. For workshops, protect the booked session and avoid a tight onward train. For winter activities, do not infer operating conditions from last year's photographs. Use a confirmed current notice before paying for equipment or a distant hotel.
 
 If the schedule or return journey is still unresolved, choose a refundable arrangement or a different activity. Our [day-trip comparison](/posts/korean-day-trips-guide-2024/) helps with transfers, while [cultural experiences](/posts/korean-traditional-cultural-experiences-guide/) offer alternatives outside a festival's short date window. For a craft-focused regional visit, use the [Jeonju planning guide](/posts/jeonju-hanok-village-experience/) to check the session and return train together.
+
+If your festival return uses KTX, keep the ticketed arrival time as well as the departure time in your travel note. Our [missed-KTX refund guide](/posts/missed-ktx-train-refund/) explains the refund deadline, the short app exception and how a replacement ticket changes the total cost.
