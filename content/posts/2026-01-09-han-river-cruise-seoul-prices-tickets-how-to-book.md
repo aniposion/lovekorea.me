@@ -78,3 +78,5 @@ A Banpo fountain view also depends on the route and the fountain's operation. Th
 Add sailing duration, disembarkation and the walk out of the park before checking your last convenient transit connection. For accessibility needs, ask the operator about the specific vessel and boarding method before purchase; “family-friendly” is not an accessibility specification.
 
 For an alternative without a fixed sailing time, compare [Seoul night-view plans](/posts/seoul-night-view-tours-booking-top-10/). Our [Han River activity guide](/posts/han-river-activities-guide/) covers land-based choices, and the [rain guide](/posts/korea-summer-rain-travel-guide/) helps when conditions require a different day.
+
+Combining a river visit with Discover Seoul Pass attractions? Read our [AREX activation guide](/posts/discover-seoul-pass-arex-activation/) before generating your included train code. It explains when the pass clock starts and why a running pass is different from a confirmed attraction booking.
