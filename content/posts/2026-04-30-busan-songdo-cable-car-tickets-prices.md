@@ -1,7 +1,7 @@
 ---
 title: "Busan Songdo Cable Car 2026: Official Fares, Booking Rules & Route"
 date: 2026-04-30T07:54:32.918531
-lastmod: 2026-09-24
+lastmod: 2026-10-22
 slug: "busan-songdo-cable-car-tickets-prices"
 description: "Compare current Air Cruise and Crystal Cruise fares, learn the next-day online ticket rule, and plan your Songdo cable car visit."
 categories: ["k-travel"]
@@ -38,6 +38,24 @@ The [official fare page](https://en.busanaircruise.co.kr/info/price?rank=1) defi
 **Choose a round trip** if you want to return by cable car to your starting station. An adult Air Cruise round trip costs ₩4,000 more than its one-way ticket; the Crystal difference is ₩5,000. You must **get off at the other station and reboard** for the return, and you should keep your ticket for that boarding. These rules are in the operator's [use guide](https://en.busanaircruise.co.kr/info/use?rank=3).
 
 **Choose one way** if you have already planned another way to leave the far station. The cheaper ticket does not include your bus, taxi, or walk back. For the sea view alone, Air Cruise is the lower-cost choice; pay the Crystal difference only if looking through the floor is part of what you want.
+
+## Have a Visit Busan Pass? Crystal round trip is included
+
+**Pass terms checked October 22, 2026.** The [official Songdo benefit page](https://visitbusanpass.com/attractions/_detail?id=GO0000000267) includes a **Crystal Cruise round-trip ticket**, with its transparent floor, and says no reservation is required. If your pass is valid for this visit, check that benefit before paying for a separate cable-car ticket.
+
+| Your situation | What to check first |
+|---|---|
+| Already have a 24H or 48H pass | Confirm the remaining time and collect the included ticket before expiry. |
+| Have BIG3 or BIG5 | Songdo is **Group B**. You need an unused B choice; BIG3 allows two B choices and BIG5 allows three. |
+| Only want to visit Songdo | A separate adult Crystal round trip is **₩24,000**. The cheapest pass, BIG3, is **₩45,000**: **₩21,000 more** for this one stop. |
+
+The [official pass catalog](https://visitbusanpass.com/pass/) restricts the pass to non-Koreans and allows each attraction once. The Songdo-only comparison uses published adult prices, not a discounted checkout quote. A pass can make sense with other included places you actually want; compare the complete route in our [BIG3 versus 24-hour pass guide](/posts/visit-busan-pass-big3-vs-24-hours/).
+
+**Exchange the pass at the ticket office.** The [official use instructions](https://visitbusanpass.com/visitBusanPass/use) require the physical card or the mobile QR code in the app where you bought the pass. A screenshot, printout or PDF is not accepted for mobile redemption. Collect the attraction ticket before heading to boarding.
+
+For a 24H/48H pass, **issuing the first attraction ticket starts the clock**. If Songdo is your first stop, plan the following attractions before collecting it. Keep the cable-car ticket for the return boarding. The listed benefit is a Crystal round trip; do not assume it grants Speedy boarding or a private Premium cabin.
+
+This is the **pass exchange route**. The next-day rule below concerns the cable-car operator's separately purchased online tickets. Weather and operating notices still apply.
 
 ## Buying a ticket without a date mistake
 
