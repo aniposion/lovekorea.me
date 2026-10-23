@@ -15,7 +15,7 @@ monetize:
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-03
+lastmod: 2026-10-22
 ---
 
 **Free admission does not guarantee that the gallery or children's session you want is available.** Choose the museum for its subject and location, then check the specific room, program and date. That matters especially during the current gallery renovations in Seoul.
@@ -39,6 +39,18 @@ The museum's [current visitor information](https://www.museum.go.kr/ENG/contents
 Permanent galleries are free; particular special exhibitions may be charged. The Children's Museum uses reservations. Do not transfer the main museum's hours or entry rules to a children's session.
 
 **Current gallery restriction:** the [renovation notice](https://www.museum.go.kr/ENG/contents/E0606010000.do?arcId=23711&catCustomType=united&catId=128&schM=view) identifies closures in parts of the calligraphy/painting and sculpture/crafts sections through January 28, 2027. Other galleries remain open. Look up the exact room if a particular object or collection is the reason for your visit; the museum being open is not enough.
+
+### Children's Museum: reserve every person, including babies
+
+**Reservation steps checked October 22, 2026.** The National Museum of Korea's Children's Museum in Yongsan is free, but **you need an online reservation and a mobile ticket**. There is no on-site ticketing. Start with the [official English reservation page](https://www.museum.go.kr/ENG/contents/E0103010000.do).
+
+1. **Check account access before booking day.** The page requires login. Individual reservations open at **00:00, 14 days before the visit**, with up to five people per booking and one reservation per day. Check the calendar for the session you need.
+2. **Count the whole family.** Adults and children need places, including babies under 36 months. For example, two adults, a four-year-old and a baby require **four places**. This is a planning example, not a checked availability result.
+3. **Save the mobile ticket and arrive for the session start.** Cancel before the session starts if you cannot attend. The rules specify automatic cancellation after 30 minutes without entry and a **60-day reservation restriction for a no-show**.
+
+The [Children's Museum FAQ](https://www.museum.go.kr/CHILDENG/contents/CE105000000.do?catCustomType=post&catId=1&cp=1) says you can reduce the party size on the mobile ticket. Changing the date or session, or adding people, requires cancelling and making a new reservation. Check your plan carefully before giving up an existing slot.
+
+If you cannot complete the booking, ask the museum at **+82-2-2077-9647** about your specific problem; it does not accept telephone reservations. Without a confirmed children's session, build your day around the open main galleries. The National Folk Museum below is a separate institution with its own children's admission procedure.
 
 ## National Folk Museum: the late night is Wednesday
 
