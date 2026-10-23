@@ -58,6 +58,8 @@ Useful menu terms include **탁주** (takju, a cloudy style), **약주** (yakju,
 
 If you obtain a suitable gallery reservation, place it between nearby sightseeing and a meal instead of adding a second distant tasting venue. Check the session address on the confirmation. Let the confirmed appointment shape the day, while leaving time to eat and return by transit or taxi.
 
+Keep the taxi receipt or app trip record for your return journey. If a phone is missing after the ride, our [Seoul lost-phone guide](/posts/lost-phone-seoul-taxi-subway/) helps you identify the operator, search the current police portal and confirm the holding desk before making another trip.
+
 For a mixed group, ask whether non-drinkers can join the explanation and what they would pay. Do not promise non-alcoholic substitutes without confirmation. If the purpose is a souvenir, check storage and your airline/destination rules before buying a bottle, especially if it needs refrigeration.
 
 You do not need to drink to take part in Korean culture. Our [traditional experience guide](/posts/korean-traditional-cultural-experiences-guide/) covers other formats, while [café planning](/posts/top-5-korean-cafes-2025/) offers a different kind of neighbourhood break. For a social bar route, see the separate [pub-crawl comparison](/posts/itaewon-hongdae-pub-crawl-tours-how-to-book-prices/).
