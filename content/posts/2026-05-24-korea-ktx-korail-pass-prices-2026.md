@@ -78,3 +78,5 @@ If you are buying transport, mobile data and sightseeing together, run through o
 If you will stay in Seoul between train journeys, our [hotel guide by neighborhood](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) can help you compare access to your departure station.
 
 **Sources and scope:** This guide uses KORAIL's own [pass page](https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass), the Korea Tourism Organization's [rail overview](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140656) and its [Pass+ explainer](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1563646). No sample city-to-city fare is presented as a current quote; search your exact journey on the official booking site.
+
+Planning a Gapyeong or Nami Island day trip between longer rail journeys? Our [ITX versus Gyeongchun subway guide](/posts/itx-nami-island-tmoney-ticket/) explains which service needs a separate ticket, how the transit-card transfer works, and how to compare the full journey from your hotel.
