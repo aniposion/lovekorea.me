@@ -90,6 +90,8 @@ Ask when and how to wash, what styling is needed and which product precautions a
 
 Keep the itemized receipt, agreed service and branch contact. A clear record helps if the result or charge differs from what was discussed.
 
+If you plan to maintain the style with your own hair dryer or styler, check its input label before packing. Our [Korea plug-adapter and hair-dryer voltage guide](/posts/korea-plug-adapter-hair-dryer-voltage/) explains the 120V-only mismatch and why the exact model matters.
+
 For adjacent planning, compare [personal color sessions](/posts/seoul-personal-color-analysis-guide/), [beauty-shopping districts](/posts/myeongdong-hongdae-gangnam-kbeauty-shopping/) and [mobile-data setup](/posts/korea-esim-sim-incheon-airport-price-guide/) for appointment messages. Leave a time buffer after a major service rather than booking a fixed departure immediately afterward.
 
 *The site’s beauty illustrations are not photographs documenting a salon visit or product test.*
