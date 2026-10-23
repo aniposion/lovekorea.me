@@ -42,6 +42,8 @@ Check the stop and bus route on your travel day. The hillside has steps and slop
 
 For a simple self-guided visit, start at the entrance information center and small museum to learn the village's history. Follow the marked public lanes to the viewpoints and art, then return by the same transit route. Visit Busan says a stamp map can be purchased at the information center; it is optional, not an admission ticket. Bring shoes with grip and leave room for residents to pass at photo spots.
 
+Keep your phone charged for the return-bus directions, and save the route before the walk. If you pack a power bank for photos and navigation, check our [Korean Air power-bank count and packing guide](/posts/korean-air-power-bank-limit/) before your flight.
+
 **Cost:** Village entry is free. Budget separately for your bus fare, food, souvenirs, optional map or activities, and parking if you drive. There is no reason to buy a “Gamcheon entry ticket” for a normal walk.
 
 ## When a paid guide makes sense
