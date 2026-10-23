@@ -88,3 +88,5 @@ For a new formula, avoiding a large unsuitable bundle can matter more than a sma
 Choose the product only after those checks. No filter type, texture or popularity label establishes that it is the best sunscreen for everyone.
 
 If you are comparing other calming skincare at the same time, use the [cica label-reading guide](/posts/cica-panthenol-madecassoside-sensitive-skin/) to keep cosmetic ingredient claims separate from treatment claims.
+
+Taking skincare to Jeju before flying home? Our [domestic versus international liquid-packing guide](/posts/jeju-domestic-flight-liquids/) explains why an ordinary bottle can pass the domestic leg but exceed the next flight's cabin limit. Check container capacity before buying a larger set.
