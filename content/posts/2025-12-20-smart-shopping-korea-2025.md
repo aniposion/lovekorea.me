@@ -62,3 +62,5 @@ For each purchase, write **item + quantity + paid amount + confirmed refund + de
 Set the basket before browsing. If an offer makes you buy an extra product, ask whether the total would be lower without it. There is no minimum $300–$500 shopping spend needed to enjoy Korea.
 
 For specific follow-ups, see the [cushion/foundation quantity comparison](/posts/cushion-vs-foundation-korean-makeup/), [Busan Nampo-dong guide](/posts/busan-nampo-dong-shopping-where-to-buy-prices/) and [café-area planner](/posts/top-5-korean-cafes-2025/).
+
+Using WOWPASS for your shopping budget? Its shopping and Tmoney balances are separate. Our [WOWPASS balance guide](/posts/wowpass-tmoney-separate-balances/) shows how moving money for transport changes what remains available for a store payment.
