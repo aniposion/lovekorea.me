@@ -181,6 +181,8 @@ Start with the recipient, not the shelf trend. A useful mixed selection might in
 
 Choose bags rather than cups, keep ingredient panels visible, and avoid removing individual packets from labeled outer packaging if allergies matter. Place the noodle blocks inside a rigid box or between soft clothes. Check your destination’s customs rules for products containing meat or animal-derived ingredients; entry rules vary by country and can change.
 
+Returning to the United States? Use the [Korean snacks and U.S. food declaration checklist](/posts/korean-snacks-us-customs/) before buying multipacks. It explains why sealed packaging does not remove the need to declare food and what to check in noodle seasoning.
+
 If space is limited, buy two or three distinctive servings rather than a giant multipack available at home. Photograph the Korean cooking directions before packing, or save the manufacturer’s official product page. The best souvenir is one the recipient can prepare correctly.
 
 ## What to Do Next
