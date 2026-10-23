@@ -1,7 +1,7 @@
 ---
 title: "SEA LIFE Busan Tickets 2026: Prices, Hours & How to Book"
 date: 2026-01-27T08:37:36.990589
-lastmod: 2026-10-04
+lastmod: 2026-10-22
 slug: "sea-life-busan-aquarium-tickets-how-to-book-prices"
 description: "Check current SEA LIFE Busan ticket prices, age rules, opening hours, booking changes, and parking before a Haeundae visit."
 categories: ["k-travel"]
@@ -22,6 +22,8 @@ monetize:
 
 The aquarium is beside Haeundae Beach, about a ten-minute walk from Haeundae Station exits 3 or 5. It works well as an indoor stop when beach weather changes. Here is what to check before buying.
 
+Already have a sightseeing pass? [Check the Visit Busan Pass discount against a separate ticket](#busan-pass) before paying.
+
 ## Which ticket should you buy?
 
 | Visitor | Official age rule | What to check |
@@ -35,6 +37,25 @@ These age brackets and the dated-ticket rules come from SEA LIFE's [Korean booki
 **For the best price:** compare the official checkout with any reseller you already use for the *same date, age category, and ticket type*. Check the final amount and refund terms; a cheaper headline price may have different conditions. The official site is a useful baseline because it shows the venue's own rules. We have not verified a current reseller price or coupon, so there is no blanket “cheapest platform” claim here.
 
 Some older guides quote a ₩17,000 “Happy Time” price or fixed couple and family bundle totals. Those amounts are **not listed on the current main ticket page**, so do not budget around them. The aquarium's [help center](https://www.visitsealife.com/busan/plan-your-visit/information/help-center/) describes Happy Time as entry **before 11:00 or after 17:00**, but first check whether that ticket is actually offered for *your* date and what it costs.
+
+## Have a Visit Busan Pass? Compare the remaining ticket cost {#busan-pass}
+
+**SEA LIFE Busan is a discount facility, so the pass does not make admission free.** The [official aquarium benefit page](https://visitbusanpass.com/attractions/_detail?id=GO0000001147), checked **October 22, 2026**, lists **30% off admission** and says a reservation is not required for this benefit.
+
+Here is the calculation from that page's published admission rates, assuming you already own an eligible pass:
+
+| Visitor | Listed admission | Calculated cost after 30% off |
+|---|---:|---:|
+| Adult | ₩32,000 | **₩22,400** |
+| Child | ₩27,500 | **₩19,250** |
+
+These are calculations, not checkout quotes; the pass purchase price is excluded. Confirm the amount at the ticket office before buying.
+
+**A pass is not automatically the cheapest choice for a child.** The aquarium's [official online ticket page](https://www.visitsealife.com/busan/en/tickets-passes/), also checked October 22, advertises child admission **from ₩19,000**. If that rate is available for your date, it is **₩250 below** the calculated pass-discount price. Check the actual date and age category. The [pass FAQ](https://visitbusanpass.com/service/faq) says its discount cannot be combined with other discounts.
+
+- **Already have the pass:** follow the [official pass instructions](https://visitbusanpass.com/visitBusanPass/use) to present it at the ticket office, then compare the amount due with the online quote before paying.
+- **Buying only an aquarium ticket:** compare the direct online quote with the ticket-office price. If you are considering a new pass too, include its purchase cost and your other planned stops using our [Visit Busan Pass comparison](/posts/visit-busan-pass-big3-vs-24-hours/).
+
 
 ## Book and use an official online ticket
 
