@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Require visible article images for new posts, after the production Hugo build.
+"""Require visible article images for new and opted-in older posts after the build.
 
 This checks delivery and metadata. Photographic quality still needs visual review.
 Only the standard library is used so the same check runs on the deploy host.
@@ -101,10 +101,10 @@ def audit(public: Path) -> tuple[int, list[str]]:
     errors = []
     checked = 0
     for post in load_published_posts():
-        if post.date.date() < REQUIRED_FROM:
+        cover = post.cover
+        if post.date.date() < REQUIRED_FROM and cover.get("showInArticle") is not True:
             continue
         checked += 1
-        cover = post.cover
         issues = []
         if cover.get("style") != "photorealistic":
             issues.append("missing photorealistic cover style; review the actual image")

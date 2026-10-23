@@ -8,9 +8,14 @@ topic_pillar: "k-food"
 target_intent: "info"
 tags: ["korean convenience store", "k-food", "cup ramen", "samgak gimbap", "korean snacks", "korea food", "travel food"]
 cover:
-  image: "images/korean-convenience-store-food-combos-cover.webp"
-  alt: "Korean Convenience Store Meals: Choose the Equipment Before the Combo"
+  image: "/images/korean-convenience-store-food-combos-cover.webp"
+  alt: "Cup noodles, a triangular rice ball, rice cakes, cheese and bottled tea on a convenience-store counter"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/korean-convenience-store-food-combos-cover-480.webp"
+  medium: "/images/korean-convenience-store-food-combos-cover-960.webp"
+  caption: "Editorial meal illustration; not a photograph documenting a specific store or purchase."
 monetize:
   intent: "info"
   verticals: []
