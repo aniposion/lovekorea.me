@@ -6,10 +6,14 @@ description: "Ttareungi's ₩1,000 day pass allows repeat rentals, but each ride
 categories: ["k-travel"]
 tags: ["Seoul Bike", "Ttareungi", "bike rental", "Han River", "Seoul travel"]
 cover:
-  image: "/images/seoul-bike-day-pass-cover.png"
-  alt: "Seoul Bike: ₩1,000 day pass, 60 minutes per ride; return and rent again"
+  image: "/images/seoul-bike-day-pass-editorial.webp"
+  alt: "Green and white shared bicycles beside a Seoul riverside path."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoul-bike-day-pass-editorial-480.webp"
+  medium: "/images/seoul-bike-day-pass-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: ["tour"]

@@ -6,10 +6,14 @@ description: "WOWPASS shopping money and Tmoney transit money are separate. Chec
 categories: ["k-travel"]
 tags: ["WOWPASS", "Tmoney", "Korea transport", "travel money", "shopping", "Seoul"]
 cover:
-  image: "/images/wowpass-tmoney-separate-balances-cover.png"
-  alt: "Illustrative WOWPASS card balances: ₩50,000 for shopping and ₩0 in Tmoney; one card, two balances"
+  image: "/images/wowpass-tmoney-separate-balances-editorial.webp"
+  alt: "A travel payment card beside a phone and an everyday wallet."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/wowpass-tmoney-separate-balances-editorial-480.webp"
+  medium: "/images/wowpass-tmoney-separate-balances-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

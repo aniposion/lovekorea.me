@@ -6,10 +6,14 @@ description: "A regular 200ml lotion can travel on a Korean domestic flight but 
 categories: ["k-travel"]
 tags: ["Jeju flights", "carry-on liquids", "domestic flights", "Korea packing", "airport security"]
 cover:
-  image: "/images/jeju-domestic-flight-liquids-cover.png"
-  alt: "Regular 200ml lotion example: can go on a Jeju domestic flight but is too large for the ordinary international carry-on liquid rule"
+  image: "/images/jeju-domestic-flight-liquids-editorial.webp"
+  alt: "Travel-size toiletries and a larger bottle beside a clear liquids bag."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/jeju-domestic-flight-liquids-editorial-480.webp"
+  medium: "/images/jeju-domestic-flight-liquids-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

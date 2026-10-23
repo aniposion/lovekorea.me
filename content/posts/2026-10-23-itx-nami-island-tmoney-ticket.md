@@ -6,10 +6,14 @@ description: "Taking ITX-Cheongchun to Gapyeong? Buy a separate train ticket, se
 categories: ["k-travel"]
 tags: ["ITX-Cheongchun", "Nami Island", "Gapyeong", "Tmoney", "Gyeongchun Line", "Seoul day trips"]
 cover:
-  image: "/images/itx-nami-island-tmoney-ticket-cover.png"
-  alt: "Nami Island train choice: Gyeongchun subway uses a transit-card tap; ITX needs a separate train ticket"
+  image: "/images/itx-nami-island-tmoney-ticket-editorial.webp"
+  alt: "A regional train and a traveler waiting on the platform."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/itx-nami-island-tmoney-ticket-editorial-480.webp"
+  medium: "/images/itx-nami-island-tmoney-ticket-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

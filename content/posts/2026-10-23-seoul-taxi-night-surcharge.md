@@ -6,10 +6,14 @@ description: "Seoul's regular taxi starts at ₩5,800 at 10 p.m. and ₩6,700 at
 categories: ["k-travel"]
 tags: ["Seoul taxi fares", "night surcharge", "Seoul nightlife", "Korea transport", "taxi budget"]
 cover:
-  image: "/images/seoul-taxi-night-surcharge-cover.png"
-  alt: "Seoul regular taxi base fares for the first 1.6km: 10 to 11 p.m. 5,800 won; 11 p.m. to 2 a.m. 6,700 won"
+  image: "/images/seoul-taxi-night-surcharge-editorial.webp"
+  alt: "A Seoul-style taxi at a city curb after dark."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoul-taxi-night-surcharge-editorial-480.webp"
+  medium: "/images/seoul-taxi-night-surcharge-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

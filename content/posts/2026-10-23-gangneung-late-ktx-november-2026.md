@@ -6,10 +6,14 @@ description: "Gangneung KTX 826 and 828 end at Cheongnyangni on November 16, 23 
 categories: ["k-travel"]
 tags: ["Gangneung", "KTX", "Cheongnyangni", "Seoul Station", "Korea train travel"]
 cover:
-  image: "/images/gangneung-late-ktx-november-2026-cover.png"
-  alt: "Gangneung KTX trains 826 and 828 end at Cheongnyangni on November 16, 23 and 30, 2026, skipping Seoul Station"
+  image: "/images/gangneung-late-ktx-november-2026-editorial.webp"
+  alt: "A high-speed train waiting at a station after dark."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/gangneung-late-ktx-november-2026-editorial-480.webp"
+  medium: "/images/gangneung-late-ktx-november-2026-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

@@ -6,10 +6,14 @@ description: "A missed KTX can still have refund value. Check the arrival deadli
 categories: ["k-travel"]
 tags: ["KTX", "KORAIL", "train tickets", "refunds", "Korea transport"]
 cover:
-  image: "/images/missed-ktx-train-refund-cover.png"
-  alt: "Missed your KTX? Request a refund before the arrival time printed on your ticket"
+  image: "/images/missed-ktx-train-refund-editorial.webp"
+  alt: "A traveler checking a phone on a station concourse."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/missed-ktx-train-refund-editorial-480.webp"
+  medium: "/images/missed-ktx-train-refund-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

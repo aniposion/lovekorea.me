@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["Incheon Airport", "Gimpo Airport", "Jeju flights", "airport transfer", "AREX", "luggage"]
 cover:
-  image: "/images/incheon-to-gimpo-jeju-transfer-cover.png"
-  alt: "Original airport-transfer diagram: ICN to GMP, take your bags too"
+  image: "/images/incheon-to-gimpo-jeju-transfer-editorial.webp"
+  alt: "A traveler rolling luggage between airport and ground transport."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/incheon-to-gimpo-jeju-transfer-editorial-480.webp"
+  medium: "/images/incheon-to-gimpo-jeju-transfer-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan your Jeju arrival"
 related_guides:
   - "/posts/2026-01-14-jeju-rental-car-booking-insurance-license-price-comparison"
@@ -23,7 +28,7 @@ related_guides:
 
 For the rail leg, use the **AREX All-Stop Train**, which serves Gimpo. The Express runs to Seoul Station without a Gimpo stop. Before buying the Jeju flight, work backward from the airline's airport-arrival guidance and check-in deadline, then add your arrival procedures and the complete ground transfer.
 
-**Official information checked October 22, 2026.** The example below is a planning calculation, not a measured journey or a guaranteed connection. The cover is an original explanatory diagram.
+**Official information checked October 22, 2026.** The example below is a planning calculation, not a measured journey or a guaranteed connection.
 
 ## 1. Read both airport codes before choosing a flight
 

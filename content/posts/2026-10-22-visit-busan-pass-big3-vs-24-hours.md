@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "comparison"
 tags: ["Busan", "Visit Busan Pass", "BIG3", "BIG5", "attraction tickets", "travel budget"]
 cover:
-  image: "/images/visit-busan-pass-big3-cover.png"
-  alt: "Original ticket diagram: BIG3 means one purple Group A attraction and two blue Group B attractions"
+  image: "/images/visit-busan-pass-big3-vs-24-hours-editorial.webp"
+  alt: "A traveler planning a Busan day beside a coastal city view."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/visit-busan-pass-big3-vs-24-hours-editorial-480.webp"
+  medium: "/images/visit-busan-pass-big3-vs-24-hours-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan your Busan stops"
 related_guides:
   - "/posts/2026-03-16-busan-city-tour-bus-pass-prices-route-comparison"
@@ -23,7 +28,7 @@ related_guides:
 
 Start with your actual places, then choose the pass. Below, a three-stop adult example totals **₩71,000 separately**, compared with **₩55,000 on a 24-hour pass** if the visits fit its time limit. A different pace or a skipped stop changes the answer.
 
-**Official information checked October 22, 2026.** Prices are published standard rates, not promotional checkout quotes. The [official pass catalog](https://visitbusanpass.com/pass/) restricts this product to non-Koreans; Korean citizens cannot purchase or use it. The cover is an original explanatory diagram.
+**Official information checked October 22, 2026.** Prices are published standard rates, not promotional checkout quotes. The [official pass catalog](https://visitbusanpass.com/pass/) restricts this product to non-Koreans; Korean citizens cannot purchase or use it.
 
 ## The four options, with the limits that matter
 

@@ -1,5 +1,5 @@
 [build]
-  command = "python tools/lint_monetization.py && hugo --cleanDestinationDir --environment production --minify && python tools/audit_indexing_policy.py && python tools/audit_social_images.py && npx pagefind --site public --output-path public/pagefind"
+  command = "python tools/lint_monetization.py && hugo --cleanDestinationDir --environment production --minify && python tools/audit_indexing_policy.py && python tools/audit_social_images.py && python tools/audit_article_images.py && npx pagefind --site public --output-path public/pagefind"
   publish = "public"
 
 [build.environment]

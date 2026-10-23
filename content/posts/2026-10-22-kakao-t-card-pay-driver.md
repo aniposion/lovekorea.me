@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["Kakao T", "Korea taxis", "foreign credit cards", "k.ride", "travel apps"]
 cover:
-  image: "/images/kakao-t-card-pay-driver-cover.png"
-  alt: "Original illustration of a card error beside a taxi, asking Card rejected? Pay the driver?"
+  image: "/images/kakao-t-card-pay-driver-editorial.webp"
+  alt: "A passenger with a phone and card in a taxi."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/kakao-t-card-pay-driver-editorial-480.webp"
+  medium: "/images/kakao-t-card-pay-driver-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Get your arrival essentials ready"
 related_guides:
   - "/posts/2026-01-12-korea-esim-sim-incheon-airport-price-guide"
@@ -20,7 +25,7 @@ related_guides:
 
 **If you can use Kakao T but its card payment fails, check a general taxi call with payment directly to the driver.** Kakao Mobility's [official payment FAQ](https://service.kakaomobility.com/cs/faqs/content/?category=15) allows this without registering a card. Automatic-payment-only taxi options still require a registered payment method. This choice does not fix a blocked login or account-verification screen.
 
-**Official guidance checked October 22, 2026.** The cover is an original illustration, not a screenshot of the app. Follow the payment wording shown for your selected ride; menus can change.
+**Official guidance checked October 22, 2026.** Follow the payment wording shown for your selected ride; menus can change.
 
 ## Find the step that is actually failing
 

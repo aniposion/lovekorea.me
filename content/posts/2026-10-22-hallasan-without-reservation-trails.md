@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["Jeju", "Hallasan", "Hallasan reservation", "Yeongsil", "Eorimok", "hiking"]
 cover:
-  image: "/images/hallasan-without-reservation-trails-cover.png"
-  alt: "Original Hallasan illustration: no summit slot, five other trails below Baengnokdam"
+  image: "/images/hallasan-without-reservation-trails-editorial.webp"
+  alt: "An autumn walking trail through volcanic mountain woodland."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/hallasan-without-reservation-trails-editorial-480.webp"
+  medium: "/images/hallasan-without-reservation-trails-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative mountain trail, not a route or conditions photo."
 related_heading: "Plan the rest of your Jeju visit"
 related_guides:
   - "/posts/2025-12-25-jeju-best-driving-routes-guide"
@@ -21,7 +26,7 @@ related_guides:
 
 **Missing a Hallasan summit reservation still leaves five other trails to consider—but none reaches Baengnokdam, the summit crater.** Eorimok, Yeongsil, Donnaeko, Eoseungsaengak and Seokguram do not require the summit booking. Choose between a shorter walk and a substantial mountain day, then check whether that particular route is open.
 
-**Official information checked October 22, 2026.** The park's [reservation-zone notice](https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice&seq=1284) identifies these five trails as reservation-free. That rule does not override weather closures or entry cutoffs. The cover is an original illustration, not a trail map or a photograph of a visit.
+**Official information checked October 22, 2026.** The park's [reservation-zone notice](https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice&seq=1284) identifies these five trails as reservation-free. That rule does not override weather closures or entry cutoffs.
 
 ## Which of the five fits your day?
 

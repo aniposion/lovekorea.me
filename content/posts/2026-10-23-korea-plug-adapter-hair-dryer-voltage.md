@@ -6,9 +6,14 @@ description: "Read the input label before packing a hair dryer or charger for Ko
 categories: ["k-lifestyle"]
 tags: ["Korea plug adapter", "Korea voltage", "travel hair dryer", "Korea packing", "phone charger"]
 cover:
-  image: "/images/korea-plug-adapter-hair-dryer-voltage-cover.png"
-  alt: "Illustrated mismatch between a 120V-only appliance and Korea's 220V supply, with a reminder that a plug adapter does not convert voltage"
+  image: "/images/korea-plug-adapter-hair-dryer-voltage-editorial.webp"
+  alt: "A hair dryer, separate round-pin travel adapter and charger beside an open suitcase."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/korea-plug-adapter-hair-dryer-voltage-editorial-480.webp"
+  medium: "/images/korea-plug-adapter-hair-dryer-voltage-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 ---
 
 **A plug adapter does not make a 120V-only hair dryer compatible with South Korea’s normal 220V supply.** Before packing, read the appliance’s **input voltage and frequency**, then its exact-model instructions. A plug that fits the wall is only one part of the decision.
@@ -75,4 +80,4 @@ Korea Tourism Organization suggests asking the hotel front desk about borrowing 
 
 If you are planning a salon appointment instead, use the [Seoul hair salon consultation guide](/posts/seoul-hair-salon-guide/) to agree on the service and ask how to maintain it afterward. If you are flying Korean Air, check the separate [Korean Air power-bank rules](/posts/korean-air-power-bank-limit/); battery carriage and mains compatibility are different packing decisions.
 
-*The cover is an explanatory illustration. This guide does not describe personal appliance tests or certify an individual electrical setup.*
+*This guide does not describe personal appliance tests or certify an individual electrical setup.*

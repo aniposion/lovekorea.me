@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["KTX luggage", "KORAIL", "suitcase", "Seoul to Busan", "packing", "train travel"]
 cover:
-  image: "/images/ktx-luggage-two-bag-rule-cover.png"
-  alt: "Original packing diagram: two suitcases plus a backpack, with the question 2 + 1? and Check the rule."
+  image: "/images/ktx-luggage-two-bag-rule-editorial.webp"
+  alt: "Two suitcases and a small backpack beside a train platform bench."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/ktx-luggage-two-bag-rule-editorial-480.webp"
+  medium: "/images/ktx-luggage-two-bag-rule-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan the rest of your train journey"
 related_guides:
   - "/posts/2026-09-01-seoul-busan-ktx-vs-express-bus"
@@ -21,7 +26,7 @@ related_guides:
 
 **Do not assume that two suitcases plus a backpack are automatically allowed on KTX.** KORAIL's English carry-on guide says an individual passenger may bring **no more than two luggage pieces**, must be able to carry them independently, and must keep seats and aisles clear. It does not state a separate airline-style personal-item allowance. Consolidate your packing or confirm your exact combination with KORAIL before travel.
 
-**Official guidance checked October 22, 2026.** This guide concerns ordinary personal luggage. The cover is an original planning illustration, not a photograph of a train or its storage space.
+**Official guidance checked October 22, 2026.** This guide concerns ordinary personal luggage.
 
 ## Start with the bags you will carry separately
 

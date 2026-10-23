@@ -6,10 +6,14 @@ description: "Use Korea's free official e-Arrival Card site, check whether you n
 categories: ["k-travel"]
 tags: ["Korea e-Arrival Card", "K-ETA", "Korea arrival", "Incheon Airport", "Korea travel planning"]
 cover:
-  image: "/images/korea-e-arrival-card-free-cover.png"
-  alt: "Korea e-Arrival Card: free on the official e-arrivalcard.go.kr website"
+  image: "/images/korea-e-arrival-card-free-editorial.webp"
+  alt: "Travel documents and a phone ready for an airport arrival."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/korea-e-arrival-card-free-editorial-480.webp"
+  medium: "/images/korea-e-arrival-card-free-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

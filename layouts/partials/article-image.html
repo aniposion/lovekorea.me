@@ -1,0 +1,14 @@
+{{- with .Params.cover -}}
+{{- $src := printf "/%s" (strings.TrimPrefix "/" .image) -}}
+{{- $dimensions := imageConfig (printf "static%s" $src) -}}
+<figure class="lk-article-image" data-article-image>
+  <img src="{{ $src | relURL }}"
+    {{- if and .small .medium }}
+    srcset="{{ .small | relURL }} 480w, {{ .medium | relURL }} 960w, {{ $src | relURL }} {{ $dimensions.Width }}w"
+    sizes="(max-width: 768px) calc(100vw - 32px), 860px"
+    {{- end }}
+    width="{{ $dimensions.Width }}" height="{{ $dimensions.Height }}"
+    alt="{{ .alt }}" loading="eager" decoding="async" fetchpriority="high">
+  {{- with .caption }}<figcaption>{{ . }}</figcaption>{{- end }}
+</figure>
+{{- end -}}

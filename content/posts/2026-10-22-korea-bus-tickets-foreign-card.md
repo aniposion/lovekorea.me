@@ -6,10 +6,14 @@ description: "Korea bus payment failed? Compare Klook, visitor-focused GoHanpass
 categories: ["k-travel"]
 tags: ["Korea bus tickets", "foreign credit card", "intercity bus", "express bus", "Klook", "GoHanpass", "Korea travel"]
 cover:
-  image: "/images/korea-bus-foreign-card-cover.png"
-  alt: "Three booking routes after a bus payment problem: Klook, GoHanpass and the terminal counter"
+  image: "/images/korea-bus-tickets-foreign-card-editorial.webp"
+  alt: "A traveler checking a card at a bus-terminal ticket counter."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/korea-bus-tickets-foreign-card-editorial-480.webp"
+  medium: "/images/korea-bus-tickets-foreign-card-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "booking"
   verticals: ["tour"]

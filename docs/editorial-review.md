@@ -19,12 +19,32 @@ The active operating workflow prepares and reviews individual changes.
 - Keep original publication dates. Change `lastmod` for substantive revisions.
 - Link relevant follow-up guides and explain affiliate relationships near links.
 
+## Required article images
+
+- The owner's October 23, 2026 instruction requires natural, photorealistic
+  images with each new article. Use the built-in image generation tool; do not
+  replace the requested photographic asset with a code-drawn text card or diagram.
+- Save each final image in the repository and set its cover image, descriptive
+  alt text, `style: photorealistic`, and `showInArticle: true`. A social preview
+  image or homepage thumbnail alone does not satisfy the article-image requirement.
+- Include optimized 480px and 960px variants in `cover.small` and `cover.medium`.
+  Review the full image and its actual mobile crop for coherent subjects, natural
+  texture, legible composition, malformed anatomy, invented signs and misleading
+  product or location details. A text overlay is optional, never a replacement
+  for the photographic scene.
+- Label generated scenes briefly as AI-generated editorial images. Do not present
+  them as photographs documenting a visit, an official screen, a product test,
+  a verified facility layout or current availability.
+- If image generation is unavailable, keep the article in preparation and record
+  the missing asset. Do not silently publish a text-only article or use a paid
+  API fallback without the owner's authorization.
+
 ## Review and deploy
 
 1. Read the current operating record and inspect the diff.
 2. Run monetization lint, internal-link audit, relevant content/cover checks,
    production Hugo build, indexing audit, `python tools/audit_social_images.py`,
-   and Pagefind. Static covers under `/images/` use `cover.relative: false`;
+   `python tools/audit_article_images.py`, and Pagefind. Static covers under `/images/` use `cover.relative: false`;
    the social-image audit checks rendered Open Graph, Twitter and article schema
    against image files in the build.
 3. Check the actual rendered page, including mobile when layout changes.

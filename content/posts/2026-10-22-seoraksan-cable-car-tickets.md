@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["Seoraksan", "cable car", "Sokcho", "day trip", "Gwongeumseong", "tickets"]
 cover:
-  image: "/images/seoraksan-cable-car-tickets-cover.png"
-  alt: "Original ticket-planning diagram: Seoraksan cable car, book ahead? No. Buy on site, same day."
+  image: "/images/seoraksan-cable-car-tickets-editorial.webp"
+  alt: "A mountain cable car above a Korean autumn forest."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoraksan-cable-car-tickets-editorial-480.webp"
+  medium: "/images/seoraksan-cable-car-tickets-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative mountain cable car, not a route or conditions photo."
 related_heading: "Choose your next outdoor trip"
 related_guides:
   - "/posts/2025-12-17-korean-day-trips-guide-2024"
@@ -21,7 +26,7 @@ related_guides:
 
 **You cannot reserve Seoraksan cable-car tickets ahead: the operator sells them on site, and the standard adult round trip costs ₩16,000.** If you are visiting on a day tour, compare the departure offered at the counter with your group's return meeting time before paying. A three-hour park stop can leave surprisingly little time at the top.
 
-**Official information checked October 22, 2026.** This guide covers the [Seorak Cable Car from Sogongwon to Gwongeumseong](https://www.sorakcablecar.co.kr/about), in Sokcho. The cover is an original diagram, and the time budget below is an illustrative planning example.
+**Official information checked October 22, 2026.** This guide covers the [Seorak Cable Car from Sogongwon to Gwongeumseong](https://www.sorakcablecar.co.kr/about), in Sokcho. The time budget below is an illustrative planning example.
 
 ## What you can arrange before the trip
 

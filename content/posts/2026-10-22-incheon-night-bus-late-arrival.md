@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["Incheon Airport", "night bus", "late arrival", "Myeongdong", "airport transfer", "Seoul"]
 cover:
-  image: "/images/incheon-night-bus-late-arrival-cover.png"
-  alt: "Original timetable diagram: N6701 from Terminal 1, missed 01:40, next departure 03:45"
+  image: "/images/incheon-night-bus-late-arrival-editorial.webp"
+  alt: "An airport coach waiting under curbside lights at night."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/incheon-night-bus-late-arrival-editorial-480.webp"
+  medium: "/images/incheon-night-bus-late-arrival-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan the rest of your airport transfer"
 related_guides:
   - "/posts/2026-10-10-incheon-airport-to-myeongdong-bus-arex"
@@ -21,7 +26,7 @@ related_guides:
 
 **Incheon's N6701 night bus has a 2-hour-5-minute gap between its 01:40 and 03:45 departures from Terminal 1.** At Terminal 2, the same gap runs from **01:20 to 03:25**. For a hotel near Seoul Station, Euljiro or Dongdaemun, choose the departure you can actually reach after collecting your bags. Missing that T1 bus by five minutes can leave a two-hour wait.
 
-**Official schedules and fares checked October 22, 2026.** All times below are local Korean time. The cover is an original timetable diagram; the worked example is hypothetical. Recheck your travel date on the official pages before relying on a departure.
+**Official schedules and fares checked October 22, 2026.** All times below are local Korean time. The worked example is hypothetical. Recheck your travel date on the official pages before relying on a departure.
 
 ## The N6701 gap: use your own terminal's column
 

@@ -6,10 +6,14 @@ description: "A CATCHTABLE deposit may come back separately from your restaurant
 categories: ["k-food"]
 tags: ["CATCHTABLE deposit", "CATCHTABLE refund", "restaurant reservations", "Korea travel", "Seoul dining"]
 cover:
-  image: "/images/catchtable-deposit-cover.png"
-  alt: "CATCHTABLE deposit: still pay in full? Check how the booking deposit comes back when paying the restaurant bill"
+  image: "/images/catchtable-deposit-refund-editorial.webp"
+  alt: "A restaurant table with a phone, receipt and a place setting."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/catchtable-deposit-refund-editorial-480.webp"
+  medium: "/images/catchtable-deposit-refund-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: ["tour"]

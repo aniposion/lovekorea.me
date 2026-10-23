@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "booking"
 tags: ["Busan", "Haeundae", "Sky Capsule", "Blueline Park", "Beach Train", "Busan tickets"]
 cover:
-  image: "/images/busan-sky-capsule-tickets-cover.png"
-  alt: "Original fare diagram: Busan Sky Capsule costs 50,000 won for two people one way; plan the return separately"
+  image: "/images/busan-sky-capsule-tickets-price-return-trip-editorial.webp"
+  alt: "Small coastal rail capsules above a seaside walkway."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/busan-sky-capsule-tickets-price-return-trip-editorial-480.webp"
+  medium: "/images/busan-sky-capsule-tickets-price-return-trip-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative coastal rail, not a location photo."
 related_heading: "Build a manageable Busan day"
 related_guides:
   - "/posts/2025-12-14-top-beaches-seafood-busan-tours"
@@ -21,7 +26,7 @@ related_guides:
 
 **₩50,000 buys one Sky Capsule for two people, traveling one way between Mipo and Cheongsapo.** Your return needs a separate plan. For two adults riding from Mipo and returning directly by Beach Train, the published standard fares add up to **₩66,000**, compared with **₩73,000 for the two-person package**. Choose according to the train rides you will actually use.
 
-**Official information checked October 22, 2026.** Prices below use Blueline Park's current [fare table](https://main.bluelinepark.com/eng/fare.do) and [May 1, 2026 fare-change notice](https://main.bluelinepark.com/eng/noticeView.do?idx=1617). Calculations assume standard adult fares without local-resident or other concessions. The cover is an original fare illustration.
+**Official information checked October 22, 2026.** Prices below use Blueline Park's current [fare table](https://main.bluelinepark.com/eng/fare.do) and [May 1, 2026 fare-change notice](https://main.bluelinepark.com/eng/noticeView.do?idx=1617). Calculations assume standard adult fares without local-resident or other concessions.
 
 ## First choose the experience
 

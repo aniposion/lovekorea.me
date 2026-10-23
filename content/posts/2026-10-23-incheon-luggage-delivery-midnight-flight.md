@@ -8,10 +8,14 @@ topic_pillar: "k-travel"
 target_intent: "info"
 tags: ["Incheon Airport", "luggage delivery", "T-Luggage", "midnight flight", "Seoul itinerary"]
 cover:
-  image: "images/incheon-luggage-delivery-midnight-flight-cover.png"
-  alt: "T-Luggage at Incheon: collect a bag before 21:00 the evening before an illustrative 00:10 flight."
+  image: "/images/incheon-luggage-delivery-midnight-flight-editorial.webp"
+  alt: "A suitcase waiting at a quiet airport concourse in the evening."
   relative: false
-  fit: "contain"
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/incheon-luggage-delivery-midnight-flight-editorial-480.webp"
+  medium: "/images/incheon-luggage-delivery-midnight-flight-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "info"
   verticals: []

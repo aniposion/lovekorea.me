@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "booking"
 tags: ["Changdeokgung", "Secret Garden", "Huwon", "Seoul palaces", "palace tickets", "Seoul itinerary"]
 cover:
-  image: "/images/changdeokgung-secret-garden-tickets-cover.png"
-  alt: "Original ticket diagram highlighting 50 on-site Secret Garden tickets per session, first come with no guaranteed availability"
+  image: "/images/changdeokgung-secret-garden-tickets-sold-out-editorial.webp"
+  alt: "A traditional Korean garden pavilion beside a quiet pond."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/changdeokgung-secret-garden-tickets-sold-out-editorial-480.webp"
+  medium: "/images/changdeokgung-secret-garden-tickets-sold-out-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative Korean garden, not a location photo."
 related_heading: "Plan the rest of your palace day"
 related_guides:
   - "/posts/2025-12-24-korea-historic-palaces-guide"

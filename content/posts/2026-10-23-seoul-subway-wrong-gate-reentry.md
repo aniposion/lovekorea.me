@@ -8,10 +8,14 @@ topic_pillar: "k-travel"
 target_intent: "info"
 tags: ["Seoul subway", "T-money", "subway re-entry", "wrong platform", "Korea transport"]
 cover:
-  image: "images/seoul-subway-wrong-gate-reentry-cover.png"
-  alt: "Wrong gate? Re-enter within 15 minutes at the same station and line; eligible services and cards only."
+  image: "/images/seoul-subway-wrong-gate-reentry-editorial.webp"
+  alt: "A traveler pausing with a transit card near a subway gate."
   relative: false
-  fit: "contain"
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoul-subway-wrong-gate-reentry-editorial-480.webp"
+  medium: "/images/seoul-subway-wrong-gate-reentry-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "info"
   verticals: []

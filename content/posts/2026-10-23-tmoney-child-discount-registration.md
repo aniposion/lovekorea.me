@@ -6,10 +6,14 @@ description: "A child's T-money needs birthday registration. Compare Seoul's ₩
 categories: ["k-travel"]
 tags: ["T-money for kids", "child discount", "Tmoney registration", "Seoul subway", "family travel", "Korea travel"]
 cover:
-  image: "/images/tmoney-child-discount-cover.png"
-  alt: "Register first: Seoul subway ordinary card base fare is ₩550 for children and ₩1,550 for adults"
+  image: "/images/tmoney-child-discount-registration-editorial.webp"
+  alt: "A parent and child preparing their own transit cards."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/tmoney-child-discount-registration-editorial-480.webp"
+  medium: "/images/tmoney-child-discount-registration-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: ["tour"]

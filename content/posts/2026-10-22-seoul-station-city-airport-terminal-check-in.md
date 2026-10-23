@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "booking"
 tags: ["Seoul Station", "City Airport Terminal", "AREX", "airport check-in", "luggage storage", "Incheon Airport"]
 cover:
-  image: "/images/seoul-station-city-airport-terminal-check-in-cover.png"
-  alt: "Seoul Station bag-drop decision graphic: check your airline, deadline and Express ticket before buying"
+  image: "/images/seoul-station-city-airport-terminal-check-in-editorial.webp"
+  alt: "A traveler with luggage at an urban airport check-in counter."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoul-station-city-airport-terminal-check-in-editorial-480.webp"
+  medium: "/images/seoul-station-city-airport-terminal-check-in-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan the rest of your departure day"
 related_guides:
   - "/posts/2026-08-28-incheon-airport-arex-guide"

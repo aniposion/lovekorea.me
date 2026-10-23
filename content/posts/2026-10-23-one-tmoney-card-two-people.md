@@ -6,10 +6,14 @@ description: "Two travelers can ask a Seoul city-bus driver for group payment, b
 categories: ["k-travel"]
 tags: ["T-money", "Seoul buses", "Seoul subway", "transport cards", "family travel", "Korea travel"]
 cover:
-  image: "/images/one-tmoney-card-two-people-cover.png"
-  alt: "Two riders in Seoul: separate subway cards or tickets; ask the city-bus driver before group payment"
+  image: "/images/one-tmoney-card-two-people-editorial.webp"
+  alt: "Two travelers preparing separate transit cards near subway gates."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/one-tmoney-card-two-people-editorial-480.webp"
+  medium: "/images/one-tmoney-card-two-people-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: ["tour"]

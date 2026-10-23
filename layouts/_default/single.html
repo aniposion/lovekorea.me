@@ -37,6 +37,10 @@
     {{- end }}
   </header>
 
+  {{- if and (eq .Section "posts") .Params.cover.showInArticle }}
+  {{- partial "article-image.html" . }}
+  {{- end }}
+
   {{- if (.Param "ShowToc") }}
   {{- partial "toc.html" . }}
   {{- end }}

@@ -54,7 +54,7 @@
   <article class="lk-editorial-card{{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }} lk-editorial-card--feature{{ end }}">
     <a class="lk-editorial-card__media{{ if eq .Params.cover.fit "contain" }} lk-editorial-card__media--contain{{ end }}" href="{{ .RelPermalink }}" aria-label="Read {{ .Title | plainify }}">
       {{- with .Params.cover.image }}
-        <img src="{{ . | relURL }}" alt="{{ $page.Title | plainify }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}" decoding="async">
+        <img src="{{ $page.Params.cover.medium | default . | relURL }}"{{ if and $page.Params.cover.small $page.Params.cover.medium }} srcset="{{ $page.Params.cover.small | relURL }} 480w, {{ $page.Params.cover.medium | relURL }} 960w" sizes="(max-width: 700px) 100vw, 50vw"{{ end }} alt="{{ $page.Params.cover.alt | default $page.Title | plainify }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}" decoding="async">
       {{- else }}
         <span class="lk-editorial-card__fallback">LoveKorea</span>
       {{- end }}

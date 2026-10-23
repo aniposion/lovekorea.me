@@ -6,9 +6,14 @@ description: "Choose KRW or home currency at a Korean card terminal, compare a D
 categories: ["k-lifestyle"]
 tags: ["Korea card payments", "KRW or USD", "dynamic currency conversion", "Korea shopping", "travel money"]
 cover:
-  image: "/images/pay-won-or-dollars-korea-cover.png"
-  alt: "Illustrated currency choice for a Korean purchase: KRW through the card provider or home currency through the terminal provider"
+  image: "/images/pay-won-or-dollars-korea-editorial.webp"
+  alt: "A card terminal and an unbranded payment card at a small Korean cafe counter."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/pay-won-or-dollars-korea-editorial-480.webp"
+  medium: "/images/pay-won-or-dollars-korea-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 ---
 
 **For a purchase priced in Korean won, choose KRW if you want to avoid the card terminal's currency conversion.** The familiar dollar amount can include a markup called **dynamic currency conversion (DCC)**. [Visa recommends declining that conversion and paying in local currency to avoid its markup](https://www.visa.co.uk/visa-abroad.html). Your own card's conversion terms and fees still matter, so KRW does not mean a fee-free purchase.

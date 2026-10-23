@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["Everland", "Seoul day trip", "shuttle bus", "EverLine", "theme park", "return transport"]
 cover:
-  image: "/images/everland-shuttle-return-time-cover.png"
-  alt: "Original planning diagram: Everland return bus, 18:30? Check first."
+  image: "/images/everland-shuttle-return-time-editorial.webp"
+  alt: "A coach ready for departing theme-park visitors at dusk."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/everland-shuttle-return-time-editorial-480.webp"
+  medium: "/images/everland-shuttle-return-time-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative shuttle pickup, not an Everland location photo."
 related_heading: "Plan your theme-park day"
 related_guides:
   - "/posts/2026-01-28-lotte-world-tickets-online-vs-onsite"
@@ -21,7 +26,7 @@ related_guides:
 
 **Check the return departure before buying an Everland shuttle ticket.** Daesung Tour's English guide lists **18:30 as its basic return**, which may be earlier than you want to leave. A convenient ride from Seoul is only useful if its trip back fits your park plans.
 
-**Official information checked October 22, 2026. All times are Korea Standard Time.** The 18:30 departure is one operator's published service, not the last bus from Everland or a rule for every package. The cover is an original diagram; the time budget below uses stated assumptions.
+**Official information checked October 22, 2026. All times are Korea Standard Time.** The 18:30 departure is one operator's published service, not the last bus from Everland or a rule for every package. The time budget below uses stated assumptions.
 
 ## First, separate the two kinds of shuttle
 

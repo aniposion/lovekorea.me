@@ -6,10 +6,14 @@ description: "An airport room can be on the wrong side of immigration. Compare I
 categories: ["k-travel"]
 tags: ["Incheon Airport", "transit hotel", "Darakhyu", "early flight", "airport hotel", "layover"]
 cover:
-  image: "/images/incheon-transit-hotel-vs-darakhyu-cover.png"
-  alt: "Original comparison diagram: Transit Hotel is airside; Darakhyu is landside; check access before price"
+  image: "/images/incheon-transit-hotel-vs-darakhyu-editorial.webp"
+  alt: "A quiet compact airport-style room prepared for a short rest."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/incheon-transit-hotel-vs-darakhyu-editorial-480.webp"
+  medium: "/images/incheon-transit-hotel-vs-darakhyu-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative room, not a photo of either hotel."
 monetize:
   intent: "planning"
   verticals: ["hotel"]

@@ -8,10 +8,14 @@ topic_pillar: "k-travel"
 target_intent: "info"
 tags: ["Incheon Airport", "terminal transfer", "AREX", "airport shuttle", "Korea transport"]
 cover:
-  image: "images/incheon-t1-t2-transfer-bus-train-cover.png"
-  alt: "Incheon T1 to T2: free public-area shuttle bus or a train costing ₩1,200 with an adult transit card."
+  image: "/images/incheon-t1-t2-transfer-bus-train-editorial.webp"
+  alt: "A traveler with luggage beside an airport shuttle bus."
   relative: false
-  fit: "contain"
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/incheon-t1-t2-transfer-bus-train-editorial-480.webp"
+  medium: "/images/incheon-t1-t2-transfer-bus-train-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "info"
   verticals: []

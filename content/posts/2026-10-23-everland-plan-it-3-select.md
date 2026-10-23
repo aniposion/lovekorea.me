@@ -6,10 +6,14 @@ description: "Everland Plan-it 3 Select starts at ₩27,000 but excludes Safari 
 categories: ["k-travel"]
 tags: ["Everland", "Plan-it", "Q-Pass", "Safari World", "Korea theme parks"]
 cover:
-  image: "/images/everland-plan-it-3-select-cover.png"
-  alt: "Everland Plan-it 3 Select starts at 27,000 won; Safari World is not included and park admission is separate"
+  image: "/images/everland-plan-it-3-select-editorial.webp"
+  alt: "Visitors choosing their next attraction at a theme park."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/everland-plan-it-3-select-editorial-480.webp"
+  medium: "/images/everland-plan-it-3-select-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative theme park, not an Everland location photo."
 monetize:
   intent: "planning"
   verticals: []

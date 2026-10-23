@@ -6,10 +6,14 @@ description: "Issuing an AREX code activates Discover Seoul Pass before you boar
 categories: ["k-travel"]
 tags: ["Discover Seoul Pass", "AREX", "Seoul sightseeing", "airport transfer", "travel passes"]
 cover:
-  image: "/images/discover-seoul-pass-arex-activation-cover.png"
-  alt: "Discover Seoul Pass 72-hour clock starts when an AREX code is issued, before boarding the train"
+  image: "/images/discover-seoul-pass-arex-activation-editorial.webp"
+  alt: "A phone and travel pass near an airport train platform."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/discover-seoul-pass-arex-activation-editorial-480.webp"
+  medium: "/images/discover-seoul-pass-arex-activation-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []

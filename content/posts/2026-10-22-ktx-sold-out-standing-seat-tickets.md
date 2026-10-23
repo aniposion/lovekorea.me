@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["KTX sold out", "KTX standing ticket", "KORAIL", "train seats", "Korea train tickets"]
 cover:
-  image: "/images/ktx-standing-seat-cover.png"
-  alt: "Original ticket-choice diagram showing a standing segment and a seated segment, asking how much of the KTX trip has a seat."
+  image: "/images/ktx-sold-out-standing-seat-tickets-editorial.webp"
+  alt: "Train seats and a passenger waiting near the vestibule."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/ktx-sold-out-standing-seat-tickets-editorial-480.webp"
+  medium: "/images/ktx-sold-out-standing-seat-tickets-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan the rest of your train journey"
 related_guides:
   - "/posts/2026-10-01-ktx-booking-two-months-ahead"

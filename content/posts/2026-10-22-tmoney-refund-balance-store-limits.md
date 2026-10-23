@@ -9,10 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["T-money refund", "Tmoney", "Korea transport", "convenience stores", "airport departure", "Seoul"]
 cover:
-  image: "/images/tmoney-refund-store-limits-cover.png"
-  alt: "Original comparison diagram: a 25,000-won balance is within CU and emart24's 30,000-won refund ceiling, but above GS25's limit of less than 20,000 won."
+  image: "/images/tmoney-refund-balance-store-limits-editorial.webp"
+  alt: "A transit card beside a convenience-store checkout."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/tmoney-refund-balance-store-limits-editorial-480.webp"
+  medium: "/images/tmoney-refund-balance-store-limits-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan the rest of your airport journey"
 related_guides:
   - "/posts/2026-08-28-incheon-airport-arex-guide"

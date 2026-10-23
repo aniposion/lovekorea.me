@@ -67,7 +67,7 @@
   <ol class="lk-related__grid">
     {{- range $related -}}
     {{- $cover := .Params.cover | default dict -}}
-    {{- $image := $cover.image | default "" -}}
+    {{- $image := $cover.small | default $cover.image | default "" -}}
     {{- $alt := $cover.alt | default .Title -}}
     <li class="lk-related__card">
       <a class="lk-related__link" href="{{ .RelPermalink }}" title="{{ .Title }}">

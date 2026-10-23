@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "booking"
 tags: ["KTX", "KORAIL", "KTX infant ticket", "KTX child fare", "family travel", "Korea train tickets"]
 cover:
-  image: "/images/ktx-child-fare-cover.png"
-  alt: "Original fare comparison: an under-six infant seat costs 25% of the fare after discount, while the age-six-to-twelve child fare is 50%."
+  image: "/images/ktx-toddler-infant-child-seat-fare-editorial.webp"
+  alt: "A parent and young child seated together on a passenger train."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/ktx-toddler-infant-child-seat-fare-editorial-480.webp"
+  medium: "/images/ktx-toddler-infant-child-seat-fare-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Plan your family's train journey"
 related_guides:
   - "/posts/2026-10-01-ktx-booking-two-months-ahead"

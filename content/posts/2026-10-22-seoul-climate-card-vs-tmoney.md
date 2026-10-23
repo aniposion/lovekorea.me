@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "planning"
 tags: ["Climate Card", "T-money", "Seoul transport", "Seoul subway", "transit costs", "Incheon Airport"]
 cover:
-  image: "/images/seoul-climate-card-vs-tmoney-cover.png"
-  alt: "Cost diagram showing a ₩20,000 seven-day Climate Card pass plus a ₩3,000 physical card, totaling ₩23,000 before payment fees"
+  image: "/images/seoul-climate-card-vs-tmoney-editorial.webp"
+  alt: "Two different plain transit cards beside a subway entrance."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoul-climate-card-vs-tmoney-editorial-480.webp"
+  medium: "/images/seoul-climate-card-vs-tmoney-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 related_heading: "Choose the rest of your Seoul transport"
 related_guides:
   - "/posts/2026-08-28-incheon-airport-arex-guide"
@@ -103,5 +108,3 @@ The resident-focused monthly transition caused confusion, but Seoul's [August 20
 - **Considering a sightseeing bus:** compare its experience and route using our [city tour bus versus subway guide](/posts/seoul-city-tour-bus-vs-subway/). An attraction-style tour ticket solves a different travel decision.
 
 Choose the pass when it suits both the route and the final cost. A small expected saving is not a reason to reorganize a holiday around extra train rides.
-
-*The cover is an original editorial cost diagram, not an official card design or a purchase receipt.*

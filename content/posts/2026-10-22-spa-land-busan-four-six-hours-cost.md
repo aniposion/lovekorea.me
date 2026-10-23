@@ -9,9 +9,14 @@ topic_pillar: "k-travel"
 target_intent: "comparison"
 tags: ["Busan", "Spa Land", "Centum City", "jjimjilbang", "spa tickets", "luggage storage"]
 cover:
-  image: "/images/spa-land-busan-four-six-hours-cover.png"
-  alt: "Original cost diagram: Spa Land base visit is four hours; qualifying spending of ₩10,000 inside extends the allowance to six hours, excluding entry"
+  image: "/images/spa-land-busan-four-six-hours-cost-editorial.webp"
+  alt: "Folded towels and a locker key in a warm spa lounge."
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/spa-land-busan-four-six-hours-cost-editorial-480.webp"
+  medium: "/images/spa-land-busan-four-six-hours-cost-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative spa setting, not a Spa Land facility photo."
 related_heading: "Plan the rest of your Busan day"
 related_guides:
   - "/posts/2026-08-27-korean-jjimjilbang-guide"
@@ -23,7 +28,7 @@ related_guides:
 
 Here is the useful comparison: at the posted rates, **six hours with no purchases costs ₩36,000**, including overtime. Six hours with exactly ₩10,000 of qualifying purchases also totals **₩36,000**. The second option buys you something as well as the extra time; neither is a free six-hour admission ticket.
 
-**Official information checked October 22, 2026.** These are calculations from published standard rates, not a checkout quote or a visit we tested. The cover is an original explanatory diagram.
+**Official information checked October 22, 2026.** These are calculations from published standard rates, not a checkout quote or a visit we tested.
 
 ## Four hours, five hours or six: compare the total
 

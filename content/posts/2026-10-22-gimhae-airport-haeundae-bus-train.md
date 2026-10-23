@@ -7,10 +7,14 @@ description: "Compare the ₩9,500 Gimhae Airport limousine with a train change 
 categories: ["k-travel"]
 tags: ["busan", "gimhae airport", "haeundae", "airport transfer", "airport bus", "subway"]
 cover:
-  image: "/images/gimhae-haeundae-bus-train-cover.png"
-  alt: "Gimhae Airport to Haeundae: rail with one change at Sasang versus a direct airport bus costing 9,500 won per adult"
+  image: "/images/gimhae-airport-haeundae-bus-train-editorial.webp"
+  alt: "Airport ground transport and luggage on a bright overcast day."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/gimhae-airport-haeundae-bus-train-editorial-480.webp"
+  medium: "/images/gimhae-airport-haeundae-bus-train-editorial-960.webp"
+  caption: "AI-generated editorial scene; illustrative airport transport, not a Gimhae location photo."
 monetize:
   intent: "planning"
   verticals: ["transport", "hotel"]
@@ -21,7 +25,7 @@ monetize:
 
 **The ₩9,500 Gimhae Airport bus is most useful when its stop is close to your Haeundae hotel and you want to avoid moving luggage between trains.** Rail needs just **one change at Sasang**: airport light rail, then Metro Line 2 toward Jangsan. Choose by the walk at the hotel end and the next departure, rather than assuming the direct bus will arrive first. For an early flight home, check the return timetable separately—the first beach departure does not reach the airport before 06:00.
 
-*Official fares, routes and timetable checked October 22, 2026. This guide covers Gimhae Airport (PUS), not Gimpo Airport (GMP) in Seoul. The cover is an original route comparison, not a photograph.*
+*Official fares, routes and timetable checked October 22, 2026. This guide covers Gimhae Airport (PUS), not Gimpo Airport (GMP) in Seoul.*
 
 ## Choose by your hotel and luggage
 

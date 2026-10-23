@@ -6,10 +6,14 @@ description: "Korean Air allows two power banks per person. Compare the separate
 categories: ["k-travel"]
 tags: ["Korean Air", "power bank", "Korea packing", "Incheon Airport", "carry-on baggage"]
 cover:
-  image: "/images/korean-air-power-bank-limit-cover.png"
-  alt: "Original packing diagram showing two power banks within Korean Air's quantity limit and a third exceeding it, even when each is small."
+  image: "/images/korean-air-power-bank-limit-editorial.webp"
+  alt: "Two portable batteries individually packed beside a cabin bag."
   relative: false
-  fit: contain
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/korean-air-power-bank-limit-editorial-480.webp"
+  medium: "/images/korean-air-power-bank-limit-editorial-960.webp"
+  caption: "AI-generated editorial scene."
 monetize:
   intent: "planning"
   verticals: []
