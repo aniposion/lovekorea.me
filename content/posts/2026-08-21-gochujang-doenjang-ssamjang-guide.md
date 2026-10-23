@@ -8,8 +8,13 @@ topic_pillar: "k-food"
 target_intent: "shopping"
 tags: ["gochujang", "doenjang", "ssamjang", "korean sauces", "korean pantry", "fermented paste", "korean cooking", "grocery guide"]
 cover:
-  image: "images/gochujang-doenjang-ssamjang-guide-cover.webp"
-  alt: "Gochujang, Doenjang or Ssamjang? Buy the Tub Your Next Meal Needs"
+  image: "/images/gochujang-doenjang-ssamjang-guide-editorial.webp"
+  small: "/images/gochujang-doenjang-ssamjang-guide-editorial-480.webp"
+  medium: "/images/gochujang-doenjang-ssamjang-guide-editorial-960.webp"
+  alt: "Three small bowls of red chili paste, coarse soybean paste and seasoned dipping paste"
+  caption: "AI-generated food illustration; not a photograph of a tested recipe or a specific branded product."
+  style: photorealistic
+  showInArticle: true
   relative: false
 lastmod: 2026-10-03
 ---

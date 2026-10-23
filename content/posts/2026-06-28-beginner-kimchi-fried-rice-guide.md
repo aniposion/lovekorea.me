@@ -8,8 +8,13 @@ topic_pillar: "k-food"
 target_intent: "info"
 tags: ["kimchi", "fried rice", "korean food", "easy recipe", "beginner cooking", "home cooking", "k food", "comfort food"]
 cover:
-  image: "images/beginner-kimchi-fried-rice-guide-cover.webp"
-  alt: "Kimchi Fried Rice: Control the Liquid Before Adding More Sauce"
+  image: "/images/beginner-kimchi-fried-rice-guide-editorial.webp"
+  small: "/images/beginner-kimchi-fried-rice-guide-editorial-480.webp"
+  medium: "/images/beginner-kimchi-fried-rice-guide-editorial-960.webp"
+  alt: "A modest serving of kimchi fried rice with visible rice grains, chopped cabbage and scallion"
+  caption: "AI-generated food illustration; not a photograph of a recipe cooked or tested by LoveKorea."
+  style: photorealistic
+  showInArticle: true
   relative: false
 lastmod: 2026-10-03
 ---
