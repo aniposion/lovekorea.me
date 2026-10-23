@@ -113,6 +113,8 @@ For that last option, KTO's March 2026 gift guide lists **MU:DS at the National 
 
 If you are traveling across the city first, choose something that tolerates the journey. Ask the seller whether a chilled dessert will remain suitable until you arrive. A delicate box balanced on top of luggage is an avoidable complication. Plan the purchase near the end of your route, and tell the host if something needs attention immediately.
 
+If gifts add another bag or fragile box to your Seoul–Incheon airport trip, include them in the vehicle request. Our [taxi passenger and luggage comparison](/posts/incheon-taxi-four-people-luggage/) explains why a Deluxe upgrade may still have the same published capacity as a smaller service option.
+
 For a broader view of shopping areas, see our [Korea shopping guide](/posts/smart-shopping-korea-2025/). If you are considering cooking ingredients for a friend who enjoys Korean food, our [sesame oil versus perilla oil guide](/posts/korean-sesame-oil-vs-perilla-oil/) explains why those bottles serve different tastes and uses. Buy ingredients because the recipient wants them, rather than treating every Korean food product as an interchangeable souvenir.
 
 ## Common Mistakes to Avoid
