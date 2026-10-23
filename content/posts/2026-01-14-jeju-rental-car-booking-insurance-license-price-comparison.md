@@ -1,7 +1,7 @@
 ---
 title: "Jeju Rental Car 2026: IDP, Insurance, Airport Shuttle & Price Check"
 date: 2026-01-14T12:10:52.889267
-lastmod: 2026-10-04
+lastmod: 2026-10-23
 slug: "jeju-rental-car-booking-insurance-license-price-comparison"
 description: "Renting a car in Jeju? Check the original IDP and license rules, what zero-excess CDW does and does not cover, airport shuttle hours, and how to compare the final price."
 categories: ["k-travel"]
@@ -51,7 +51,9 @@ Separate **liability coverage for people or property** from damage to **the rent
 | Zero-excess / 완전자차 | Is the deductible zero for every covered incident? Which damage or drivers are excluded? |
 | Loss-of-use / 휴차보상료 | If the car needs repair, do you pay for the days it cannot be rented? |
 
-[LOTTE's detailed insurance terms](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) show why the last row matters: its CDW deductible and a compensation fee for an unusable vehicle are separate concepts. Its terms describe a **Jeju exception for domestic vehicles other than Hyundai Solati** when Zero Excess CDW is selected. [LOTTE's Jeju Auto House page](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) describes that branch's Full Exemption CDW benefits, including tire and wheel damage. Those are **LOTTE product terms**, not a promise about every Jeju rental company or vehicle. Read the exact quote and agreement, especially for a foreign-brand car, unlisted driver, single-car incident or damage that was not promptly reported.
+[LOTTE's current CDW terms](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do), rechecked **October 23, 2026**, list **Zero Excess for both Korean-brand and foreign-brand vehicles in Jeju** and state that CDW is mandatory. The same page says the **compensation fee for an unusable vehicle is waived for both domestic and imported vehicles at the Jeju location when the renter has Zero Excess CDW**. A zero deductible and a loss-of-use waiver address different charges, so check both in your quote.
+
+[LOTTE's Jeju Auto House page](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) also describes Full Exemption CDW benefits including tire and wheel damage. These are **LOTTE product terms**. Check your specific vehicle's quote and agreement for exclusions, named drivers and accident-reporting duties; other rental companies can use different conditions.
 
 If a quote only says “완전자차,” ask for its **deductible, maximum cover, exclusions and loss-of-use rule in writing**. Do not buy an expensive option solely because its name sounds comprehensive; compare what the additional charge actually changes.
 
@@ -95,4 +97,4 @@ If your route is mostly between a few places served by buses, compare the actual
 - [Jeju driving route ideas](/posts/jeju-best-driving-routes-guide/)
 - [Jeju Tour Pass prices and booking options](/posts/jeju-tour-pass-prices-2026-best-spots/)
 
-*Official tourism and operator pages checked September 24, 2026. Rental quotes, branch schedules and contract terms can change; confirm your vehicle and dates with the supplier before payment.*
+*Official tourism and operator pages checked September 24, 2026; LOTTE CDW and loss-of-use terms rechecked October 23, 2026. Rental quotes, branch schedules and contract terms can change; confirm your vehicle and dates with the supplier before payment.*
