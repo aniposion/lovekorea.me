@@ -86,6 +86,8 @@ Listen to word pronunciations in the [National Institute of Korean Language's Ko
 
 ## Save the guide that matches the next leg
 
+For an intercity train, ticket labels matter too: **입석** means standing, while a combined ticket (**병합승차권**) can involve standing or changing seats partway through. Our [KTX sold-out ticket guide](/posts/ktx-sold-out-standing-seat-tickets/) explains those labels and includes Korean questions for checking which part of a journey has a seat.
+
 For an airport arrival, compare [AREX Express and All-Stop trains](/posts/incheon-airport-arex-guide/) before buying a ticket. For a day carrying bags, check the [Seoul luggage-storage options](/posts/seoul-luggage-storage-guide/). Once you reach your stop, the [restaurant phrase table](/posts/korean-restaurant-phrases-guide/) covers ordering and payment.
 
 *The image is an editorial illustration, not a photograph of a documented journey.*
