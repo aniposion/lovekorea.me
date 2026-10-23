@@ -76,3 +76,5 @@ The operator's actual refund can be lower because of its applicable calculation,
 Plan the [airport train or bus](/posts/incheon-airport-arex-guide/) around your airline's check-in deadline plus refund processing time. If you use [luggage delivery](/posts/seoul-luggage-storage-guide/), make sure you can retrieve refund goods before they are needed for inspection.
 
 *The image is an editorial illustration, not a photograph of a documented purchase or claim.*
+
+Building a travel-document checklist before flying to Korea? Check the [free official e-Arrival Card guide](/posts/korea-e-arrival-card-free/) for who needs the entry form and which Korean arrival dates determine the submission window. Keep the arrival submission record and the shopping refund vouchers in separate parts of your trip folder.
