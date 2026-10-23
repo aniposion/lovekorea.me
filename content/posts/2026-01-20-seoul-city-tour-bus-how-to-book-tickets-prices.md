@@ -71,3 +71,6 @@ For a cost comparison with ordinary transit and the short-term Climate Card, see
 Before paying, read the [operator's cancellation FAQ](https://www.seoulcitybus.com/en/support/faq). Its refund depends on how close the departure is, and the night course has a same-day cutoff. Check the policy shown at your own checkout and the [current notices](https://www.seoulcitybus.com/en/notices) again shortly before riding.
 
 For the stops themselves, use the [palace admission and closure guide](/posts/korea-historic-palaces-guide/). For a separate evening, compare [Seoul night-view plans](/posts/seoul-night-view-tours-booking-top-10/) before buying another sightseeing ticket.
+
+
+Taking ordinary buses or the subway with children before or after the sightseeing tour? Our [T-money child-discount registration guide](/posts/tmoney-child-discount-registration/) explains birthday registration, borrowed-card delays and local-transit fares. Registering a transit card does not change the sightseeing tour's ticket category.
