@@ -49,6 +49,8 @@ Choose **Myeongdong** if your list includes several categories—cleanser, sunsc
 
 Your hotel location matters as much as product selection. From an Airport Railroad hotel around Hongik University, Hongdae may save an hour of transit. From City Hall or Jongno, Myeongdong is easy to combine with sightseeing. If you are already booked for a salon or [personal color analysis](/posts/seoul-personal-color-analysis-guide/) south of the river, Gangnam prevents a cross-city detour.
 
+If your hotel, salon or store branch does not appear in search, our [Korean-address checks for NAVER Map](/posts/naver-map-hotel-address-search/) show how to find the building and match the specific business before you travel.
+
 ## Myeongdong: Best for a One-Stop K-Beauty Haul
 
 ![Traveler comparing skincare products inside a large Myeongdong beauty store](/images/myeongdong-hongdae-gangnam-kbeauty-shopping-h2-1.webp)
