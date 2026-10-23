@@ -71,6 +71,8 @@ That distinction matters when you are planning a tight connection. Learning it a
 
 **Before paying:** identify the operator, bus number and direction. Follow that service's airport ticket instructions. See the [airport bus ticket and T-money comparison](/posts/incheon-airport-limousine-bus-ticket-vs-tmoney-guide/).
 
+For ordinary Seoul transport after the airport journey, check how many cards your party needs. Our [one T-money card for two people guide](/posts/one-tmoney-card-two-people/) explains city-bus group payment, the subway exception and what happens when the group changes.
+
 ## 6. Treating a discounted ticket as a flexible ticket
 
 Read the actual cancellation terms beside the price. The [Klook AREX Express listing](https://www.klook.com/activity/1163-airport-to-seoul-city-center-arex-train-incheon/) currently says bookings cannot be cancelled, refunded or changed. Its FAQ also says tickets activated through Klook cannot be used at a different terminal from the selected one.
