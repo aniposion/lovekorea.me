@@ -266,3 +266,5 @@ If you make an overly casual mistake, correct the sentence and continue: **죄�
 Your simplest working rule is strong: **start with 해요체, address people by an appropriate name or title, and wait for a clear social cue before using 반말**. Add formal **-습니다** expressions for official moments and common honorific verbs as your listening improves.
 
 Save the comparison tables, practice one service dialogue and one friend dialogue aloud, then choose your next real-world set from our [Learn Korean guides](/categories/learn-korean/). The fastest progress comes when you connect each ending to a person and setting—not when you memorize it in isolation.
+
+For a polite direction question to practice with airport staff, our [Incheon terminal-transfer guide](/posts/incheon-t1-t2-transfer-bus-train/) pairs a Korean shuttle-bus question ending in **어디인가요?** with the terminal, floor and transport details to confirm before moving.
