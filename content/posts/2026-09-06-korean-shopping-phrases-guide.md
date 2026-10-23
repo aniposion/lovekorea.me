@@ -233,3 +233,5 @@ Finally, rehearse one complete exchange:
 7. Request **영수증 주세요** and check that any required refund voucher was also issued.
 
 If your shopping day includes long subway transfers, save the [Korean subway and bus phrase guide](/posts/korean-subway-bus-phrases/) too. For food stops between stores, the [Korean restaurant phrase guide](/posts/korean-restaurant-phrases-guide/) covers ordering, allergies, takeout, and payment.
+
+For unused transit-card credit, our [T-money balance refund guide](/posts/tmoney-refund-balance-store-limits/) compares store limits and includes a Korean request to show the cashier. A transit-card balance refund is a separate process from the shopping tax refund discussed above.

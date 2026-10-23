@@ -1,0 +1,12 @@
+/* Optional fit for diagrams whose labels must remain visible. */
+.lk-editorial-card__media.lk-editorial-card__media--contain {
+  background: #12324a;
+}
+
+.lk-editorial-card__media.lk-editorial-card__media--contain img {
+  object-fit: contain;
+}
+
+.lk-editorial-card:hover .lk-editorial-card__media.lk-editorial-card__media--contain img {
+  transform: none;
+}

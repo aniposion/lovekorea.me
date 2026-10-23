@@ -52,7 +52,7 @@
   {{- with .Params.monetize.intent }}{{- $intent = . }}{{- end }}
 
   <article class="lk-editorial-card{{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }} lk-editorial-card--feature{{ end }}">
-    <a class="lk-editorial-card__media" href="{{ .RelPermalink }}" aria-label="Read {{ .Title | plainify }}">
+    <a class="lk-editorial-card__media{{ if eq .Params.cover.fit "contain" }} lk-editorial-card__media--contain{{ end }}" href="{{ .RelPermalink }}" aria-label="Read {{ .Title | plainify }}">
       {{- with .Params.cover.image }}
         <img src="{{ . | relURL }}" alt="{{ $page.Title | plainify }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}" decoding="async">
       {{- else }}
