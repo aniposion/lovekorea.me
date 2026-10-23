@@ -76,3 +76,5 @@ On transit, close the umbrella before boarding, keep it clear of other passenger
 Read the cancellation policy and contact the seller through its stated channel. Save the operator's closure notice and your booking details. Weather discomfort, an official closure and a traveller cancelling voluntarily may have different refund terms; do not assume a refund just because rain appears in the forecast.
 
 Use the [museum comparison](/posts/must-visit-museums-korea-guide-2025/) to pick a different indoor subject, the [district guide](/posts/seoul-famous-districts-guide/) to limit travel, and the [café sign guide](/posts/2026-korean-cafe-etiquette-guide/) when choosing a break.
+
+If a flight disruption leaves you needing an airport room, check which side of immigration you can access before booking. Our [Incheon Transit Hotel vs Darakhyu guide](/posts/incheon-transit-hotel-vs-darakhyu/) compares the two hotel types, terminal locations and overnight room periods.
