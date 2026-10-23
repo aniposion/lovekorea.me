@@ -65,6 +65,8 @@ If you need the item immediately, compare stock you can collect with deliveries 
 
 Ask staff **“본품과 같은 제품의 증정품인가요?”**—“Is the bonus the same product as the main item?” For a price conditional on membership, ask **“회원 할인가인가요?”**—“Is this a member price?” Keep the receipt and the displayed offer conditions.
 
+At a Korean store checkout, a choice between won and your home currency can change the conversion cost. Use our [KRW-versus-dollar card-payment guide](/posts/pay-won-or-dollars-korea/) to compare the terminal quote with your card's terms before confirming.
+
 ## About sale dates and rankings
 
 An old quarterly sale pattern is not a confirmed calendar for your travel dates. Check the dated promotion on the [official Korean store](https://www.oliveyoung.co.kr/) or [official global store](https://global.oliveyoung.com/) for the channel you will use. The highest advertised discount does not apply to every product.
