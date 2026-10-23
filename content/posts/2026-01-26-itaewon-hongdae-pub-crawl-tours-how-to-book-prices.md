@@ -60,3 +60,5 @@ Agree on an independent return plan and keep enough phone battery to use it. A h
 ## Pick a different evening when it fits better
 
 For a cultural tasting, use the [traditional-liquor planning guide](/posts/seoul-traditional-liquor-tours-guide/). For an evening centred on scenery, compare [Seoul night-view plans](/posts/seoul-night-view-tours-booking-top-10/). If you are still choosing a base, the [hotel-area comparison](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) helps you think about the return journey before booking activities.
+
+Estimating the ride home after the final venue? Our [Seoul taxi night-fare guide](/posts/seoul-taxi-night-surcharge/) compares the 10 p.m., 11 p.m. and 2 a.m. bands, and explains how to avoid adding the surcharge twice when checking a quote.
