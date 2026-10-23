@@ -240,3 +240,5 @@ For the same point-and-confirm method on buses and subways, save our [Korean tra
 ## Practice Before Your Next Meal
 
 Choose five phrases from the table: one for attention, one for quantity, one for spice or ingredients, one for payment, and one backup question. Save the Hangul, say each phrase aloud three times, and keep the page offline. That small routine is enough to turn your first restaurant order from a guessing game into a clear, polite exchange.
+
+Already paid a restaurant reservation deposit? Before settling the meal, use our [CATCHTABLE deposit and refund guide](/posts/catchtable-deposit-refund/) to check whether the deposit is credited to the bill or returned separately, with a worked payment example and a question to show the staff.
