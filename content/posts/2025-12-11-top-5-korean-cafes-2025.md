@@ -59,3 +59,5 @@ Before choosing, consider seating style, stairs, toilets, luggage, noise and whe
 Keep entrances and residential lanes clear while waiting. Photograph your own order and surroundings without intruding on other customers. Our [Korean café etiquette guide](/posts/2026-korean-cafe-etiquette-guide/) explains common signs and how to ask about seats and time limits.
 
 For the rest of the outing, choose a [museum](/posts/must-visit-museums-korea-guide-2025/) or [palace](/posts/korea-historic-palaces-guide/) that fits the same area. A café break works best when it improves the day you already wanted to have.
+
+Planning a final café stop before a midnight flight? If you send your suitcase ahead, our [Incheon luggage-delivery pickup guide](/posts/incheon-luggage-delivery-midnight-flight/) shows why the collection deadline can bring your Seoul afternoon to an earlier end than the flight time suggests.
