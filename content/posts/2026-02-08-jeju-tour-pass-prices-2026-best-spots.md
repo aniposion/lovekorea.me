@@ -6,9 +6,14 @@ description: "An attraction pass is not automatically a rental-car package. Comp
 categories: ["k-travel"]
 tags: ["jeju", "jeju pass", "tour pass", "tickets", "prices", "car rental", "attractions", "discount", "itinerary"]
 cover:
-  image: "images/jeju-tour-pass-prices-2026-best-spots-cover.webp"
-  alt: "Jeju Tour Pass: Do the Break-Even Math Before Chasing Free Stops"
+  image: "/images/jeju-tour-pass-prices-2026-best-spots-editorial.webp"
+  alt: "Coffee and a travel notebook beside a daypack at a cafe overlooking a basalt-lined coast"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/jeju-tour-pass-prices-2026-best-spots-editorial-480.webp"
+  medium: "/images/jeju-tour-pass-prices-2026-best-spots-editorial-960.webp"
+  caption: "AI-generated coastal cafe illustration; not a photograph of a venue included in a tour pass."
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]

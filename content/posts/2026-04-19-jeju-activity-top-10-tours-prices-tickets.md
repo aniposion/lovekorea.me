@@ -6,9 +6,14 @@ description: "Choose snorkeling, a surf lesson or the Udo submarine by condition
 categories: ["k-travel"]
 tags: ["jeju", "jeju tours", "snorkeling", "surfing", "submarine tour", "udo", "beach activities", "tickets", "prices"]
 cover:
-  image: "images/jeju-activity-top-10-tours-prices-tickets-cover.webp"
-  alt: "Jeju Sea Activities: A Submarine Is Not a Bad-Weather Backup"
+  image: "/images/jeju-activity-top-10-tours-prices-tickets-editorial.webp"
+  alt: "A small passenger boat moored beside a coastal quay under an overcast sky"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/jeju-activity-top-10-tours-prices-tickets-editorial-480.webp"
+  medium: "/images/jeju-activity-top-10-tours-prices-tickets-editorial-960.webp"
+  caption: "AI-generated coastal travel illustration; not a photograph of a named operator or current sea conditions."
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
