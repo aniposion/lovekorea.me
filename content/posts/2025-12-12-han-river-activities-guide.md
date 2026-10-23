@@ -68,3 +68,5 @@ For a short stay, one paid activity plus unstructured time is often easier to fi
 Use our [Seoul hotel-area comparison](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) to consider the journey back, the [rain travel guide](/posts/korea-summer-rain-travel-guide/) for an indoor fallback, and [restaurant phrases](/posts/korean-restaurant-phrases-guide/) if you finish the outing with a meal.
 
 *Updated October 3, 2026: corrected park bicycle prices and return assumptions; removed unsupported personal stories, water-sport prices, and discount promises.*
+
+Choosing public bike share for your riverside outing? Our [Seoul Bike day-pass guide](/posts/seoul-bike-day-pass/) explains the separate pass and ride clocks, compares a 90-minute rental, and shows what to check when returning a Ttareungi bike.
