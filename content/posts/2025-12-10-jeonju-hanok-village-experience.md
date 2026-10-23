@@ -9,7 +9,7 @@ cover:
   image: "/images/jeonju-hanok-village-experience-cover.webp"
   alt: "Jeonju Hanok Village: A Craft Class Can Change Your Return-Train Plan"
   relative: false
-lastmod: 2026-10-03
+lastmod: 2026-10-22
 ---
 
 **Book the craft session before fixing a tight return journey.** The class may finish later than expected, and the object you make may need drying, firing or later collection. The most useful souvenir is one you can actually receive and carry home.
@@ -54,6 +54,8 @@ Gyeonggijeon, a performance or another cultural venue can have its own admission
 Suppose, as a planning example, your return train leaves at **18:00**, you allow **45 minutes to reach the station** and a **30-minute station buffer**. You need to leave the village by **16:45**. A class ending at 16:30 leaves only 15 minutes for packing and any delay; a 16:00 finish gives more room.
 
 Those are sample times, not a published bus schedule. Replace the transfer estimate with a current route from the workshop address. If the activity you want does not fit, choose an earlier class, a later return or an overnight stay.
+
+Traveling to Jeonju by KTX with a child under six? The [infant seat-fare guide](/posts/ktx-toddler-infant-child-seat-fare/) compares free travel with a separate seat and explains what to check if the English booking page does not show an infant category.
 
 ## Hanok stay or hotel: check the room, not the label
 
