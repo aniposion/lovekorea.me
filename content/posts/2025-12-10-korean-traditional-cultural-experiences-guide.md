@@ -66,3 +66,5 @@ Use our [dedicated jjimjilbang guide](/posts/korean-jjimjilbang-guide/) for the 
 > We are a group of [number], visiting on [date]. Does this session include hands-on participation and instruction in [language]? What is the total price, what can we take home, and what happens if we arrive late or cancel?
 
 Add children's ages, mobility needs or relevant dietary requirements when they affect the activity. Once those answers are clear, reserve the experience first and leave the surrounding day flexible enough to enjoy it.
+
+Adding a theme-park day alongside your cultural activities? Our [Everland Plan-it comparison](/posts/everland-plan-it-3-select/) separates park admission from priority ride upgrades and shows which attractions the different packages cover.
