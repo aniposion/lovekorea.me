@@ -15,7 +15,7 @@ monetize:
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-03
+lastmod: 2026-10-22
 ---
 
 **Choose Seoul Sky for the view you can actually see, then choose the ticket.** The standard price page does not establish a separate sunset surcharge. A sunset visit, a Fast Pass and an aquarium bundle are different decisions; paying for one does not automatically secure the others.
@@ -58,6 +58,18 @@ For a view-focused visit, keep the observatory as the anchor and leave the adjac
 Jamsil Station serves Lines 2 and 8. Follow signs for Lotte World Tower and Seoul Sky, then the ticket instructions for the entrance. Someone waiting at the Adventure entrance is at a different attraction.
 
 For drivers, verify the current parking discount and validation procedure with the operator. **Do not budget on the assumption that admission includes two free parking hours.** Parking, food and optional purchases belong outside your ticket subtotal.
+
+## Bring the issued ticket, not just a screenshot
+
+**A screenshot alone is not a valid Seoul Sky admission ticket.** The [operator's entry guidance](https://seoulsky.lotteworld.com/price/info/ticket), checked **October 22, 2026**, rejects ticket copies and screenshots and gives web tickets and issued paper tickets the same validity.
+
+Before leaving for Jamsil:
+
+1. **Open the original issued ticket and its entry instructions.** If your seller requires voucher exchange, complete that step as directed. Saving a booking confirmation is useful for reference, but does not replace the admission ticket. Do not delete a mobile ticket after taking a screenshot; the operator warns that customer-deleted tickets cannot be refunded or reissued.
+2. **Keep age proof ready for a free infant visit.** Children under 36 months enter free with a guardian, but proof of age is required. Check what document will be accepted before relying on that category.
+3. **Check any specified entry time.** The operator asks timed-ticket holders to reach the observatory by that time. Leave room for finding the entrance and any required exchange.
+
+For the **official Seoul Sky–aquarium package**, plan both visits for the same day. After using one attraction, the operator does not allow a partial refund for the unused part. A third-party purchase can also have seller-specific cancellation and redemption terms; read those before committing to the bundle.
 
 ## Before paying
 
