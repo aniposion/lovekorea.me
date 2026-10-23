@@ -17,7 +17,7 @@ monetize:
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-03
+lastmod: 2026-10-23
 ---
 
 **An empty table and a power outlet do not tell you a cafe's seating rules.** Before settling in, look for purchase, time-limit or laptop notices. A short question to staff is more useful than a supposed rule for every cafe in Korea.
@@ -47,6 +47,25 @@ The two-hour sign is an example translation, not a national time limit. Follow t
 **After payment:** keep the receipt or order number. If given a pager, follow the pickup instructions and return it when collecting your order. Leave room at the register for the next customer.
 
 **Before leaving:** locate the return station. If service is at the table or you cannot see one, ask **“쟁반은 어디에 두면 될까요?”** (“Where should I put the tray?”). Follow the marked liquid and waste bins instead of pouring drinks into a general bin.
+
+## Can you sit inside with a takeaway cup?
+
+**Choose dine-in when you order if you want to sit inside. If you ordered takeaway and then find a seat, ask staff about changing to a dine-in cup before taking the table.** A takeaway cup may not be the cup the cafe uses for seated customers.
+
+For a concrete example, [Starbucks Korea's reusable-cup policy](https://www.starbucks.co.kr/responsibility/no_disposable_cup.do) says serving drinks in mugs is its standard for customers drinking inside. This is the operator's service policy; follow the instructions at the cafe you visit. Source checked October 23, 2026.
+
+| Your plan | What to do at the counter |
+|---|---|
+| Sit inside from the start | Select **매장 이용** (dine-in) if shown on the kiosk, or say **매장에서 마실게요**. Ask about seating before paying if the cafe is full. |
+| You ordered takeaway, but now want a table | Show staff your drink and ask whether they can change the cup for dine-in. Wait for their answer before settling in. |
+| You are leaving with a drink still in the cafe's mug | Ask whether the remaining drink can be packed to go. Leave the cafe's mug with staff. |
+
+Two requests to show staff:
+
+- **“매장에서 마시고 싶은데, 컵을 바꿔 주실 수 있나요?”** — “I'd like to drink it here. Could you change the cup?”
+- **“남은 음료를 포장해 주실 수 있나요?”** — “Could you put the rest of my drink in a takeaway cup?”
+
+These are requests: confirm that the change is possible and let staff handle it. A cup change does not reserve a table or override a posted purchase requirement or time limit. If no seat is available, choose takeaway or another cafe before committing to a sit-down break.
 
 ## An ordering card to save
 
