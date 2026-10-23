@@ -67,3 +67,5 @@ Two adults taking Diamond Bay's published daytime public tour would pay **₩60,
 - [Busan City Tour Bus routes and prices](/posts/busan-city-tour-bus-pass-prices-route-comparison/)
 - [Busan Songdo Cable Car tickets and prices](/posts/busan-songdo-cable-car-tickets-prices/)
 - [Busan Gamcheon Culture Village tours](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/)
+
+Flying into Busan before your tour? Compare the [Gimhae Airport to Haeundae bus and rail routes](/posts/gimhae-airport-haeundae-bus-train/) against your exact dock, luggage and arrival time before choosing a sailing.
