@@ -1,6 +1,7 @@
 import * as params from '@params';
+import { createGuideSearch } from './guide-search.js';
 
-let fuse; // holds our search engine
+let findGuides;
 let resList = document.getElementById('searchResults');
 let sInput = document.getElementById('searchInput');
 let first, last;
@@ -30,20 +31,7 @@ window.addEventListener('load', function () {
         try {
             const data = JSON.parse(xhr.responseText);
             if (!Array.isArray(data)) throw new Error('Invalid search index');
-            const configured = params.fuseOpts || {};
-            fuse = new Fuse(data, {
-                isCaseSensitive: configured.iscasesensitive ?? false,
-                includeScore: configured.includescore ?? false,
-                includeMatches: configured.includematches ?? false,
-                minMatchCharLength: configured.minmatchcharlength ?? 1,
-                shouldSort: configured.shouldsort ?? true,
-                findAllMatches: configured.findallmatches ?? false,
-                keys: configured.keys ?? ['title', 'permalink', 'summary', 'content'],
-                location: configured.location ?? 0,
-                threshold: configured.threshold ?? 0.4,
-                distance: configured.distance ?? 100,
-                ignoreLocation: configured.ignorelocation ?? true
-            });
+            findGuides = createGuideSearch(data, Fuse, params.fuseOpts || {});
             resList.setAttribute('aria-busy', 'false');
             searchGuides();
         } catch (error) {
@@ -77,9 +65,9 @@ function reset() {
 }
 
 function searchGuides() {
-    if (!fuse) return;
+    if (!findGuides) return;
     const query = sInput.value.trim();
-    const results = query ? fuse.search(query, {limit: params.fuseOpts?.limit}) : [];
+    const { results, approximate } = findGuides(query);
     const fragment = document.createDocumentFragment();
 
     for (const {item} of results) {
@@ -103,6 +91,8 @@ function searchGuides() {
         searchStatus.textContent = 'Type a destination or topic to find a guide.';
     } else if (!resultsAvailable) {
         searchStatus.textContent = `No guides found for “${query}”. Try a shorter term, such as Jeju or AREX.`;
+    } else if (approximate) {
+        searchStatus.textContent = `No exact matches for “${query}”. Showing ${results.length} similar ${results.length === 1 ? 'title' : 'titles'}.`;
     } else {
         searchStatus.textContent = `${results.length} ${results.length === 1 ? 'result' : 'results'} for “${query}”.`;
     }
