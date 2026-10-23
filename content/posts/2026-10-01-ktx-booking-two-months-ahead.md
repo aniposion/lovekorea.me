@@ -10,9 +10,14 @@ target_intent: "booking"
 tags: ["KTX booking", "KORAIL", "Korea train tickets", "advance booking", "Seoul to Busan", "Korea travel planning"]
 TocOpen: false
 cover:
-  image: "images/korail-pass-prices-how-to-book-cover.webp"
-  alt: "Korea rail travel and ticket booking illustration"
+  image: "/images/ktx-booking-two-months-ahead-editorial.webp"
+  alt: "A small travel bag on one of two empty blue fabric seats beside a passenger-train window"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/ktx-booking-two-months-ahead-editorial-480.webp"
+  medium: "/images/ktx-booking-two-months-ahead-editorial-960.webp"
+  caption: "AI-generated editorial image illustrating rail travel; not a photograph of a specific KTX train."
 monetize:
   intent: "booking"
   verticals: ["tour"]
