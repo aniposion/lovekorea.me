@@ -8,9 +8,14 @@ topic_pillar: "k-beauty"
 target_intent: "shopping"
 tags: ["k-beauty", "acne care", "salicylic acid", "tea tree", "cica", "olive young", "skincare", "bha"]
 cover:
-  image: "images/k-beauty-acne-routine-products-cover.webp"
-  alt: "K-Beauty for Acne: Check the Treatment Before Buying the Routine"
+  image: "/images/k-beauty-acne-routine-products-editorial.webp"
+  alt: "A skincare pouch and two containers beside unopened cosmetic cartons"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/k-beauty-acne-routine-products-editorial-480.webp"
+  medium: "/images/k-beauty-acne-routine-products-editorial-960.webp"
+  caption: "AI-generated skincare illustration; generic products, not a treatment recommendation."
 monetize:
   intent: "shopping"
   verticals: ["amazon"]
