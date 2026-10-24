@@ -22,7 +22,7 @@ cover:
 
 **A bigger suite can still allow fewer guests.** LOTTE CITY HOTEL DAEJEON lists a **57.1 m² Superior Suite Family Twin for up to 3 guests**, but a **27.7 m² Standard Double Double for up to 4**. Before paying for more space, check whether the exact room permits your whole party. [See the hotel's official room list](https://app.lottehotel.com/daejeon-city/en/rooms).
 
-For families, three details need separate answers: **how many people may stay, which beds they will use, and what the selected rate includes**. A child sharing your bed does not, by itself, answer the first question. Official room pages below were checked on **October 23, 2026 (America/Chicago)**; these are published examples, not availability checks or hotel inspections.
+For families, three details need separate answers: **how many people may stay (maximum occupancy), which beds they will use, and what the selected rate includes**. A child sharing your bed does not, by itself, answer the first question. Official room pages below were checked on **October 23, 2026 (America/Chicago)**; these are published examples, not availability checks or hotel inspections.
 
 ## What room area and the word “family” leave out
 
