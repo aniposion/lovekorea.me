@@ -79,7 +79,7 @@ These are suggested structures, not measured walking-time promises.
 
 **Jamsil:** Finish the daytime visit locally, take a meal break, then enter Seoul Sky at the time permitted by your ticket. If visibility is poor, reassess before buying a non-refundable ticket; a mall visit can stand on its own.
 
-**River evening:** Choose either a Yeouido cruise or a Banpo walk as the anchor. For a cruise, plan around the pier and check-in. For Banpo, consult the [city's park and fountain information](https://hangang.seoul.go.kr/www/contents/663.do?mid=463); the fountain is seasonal, with the published operating season generally April–October. A schedule is not a guarantee against weather or maintenance changes.
+**River evening:** Choose either a Yeouido cruise or a Banpo walk as the anchor. For a cruise, plan around the pier and check-in. For Banpo, consult the [city's fountain operating schedule](https://hangang.seoul.go.kr/www/contents/856.do?mid=849); the published regular season is March 15–October (operator schedule checked October 24, 2026). A schedule is not a guarantee against weather or maintenance changes.
 
 Do not attach Namsan to a late cruise unless you have checked the full transfer and final-admission window. “Both are in Seoul” is not enough route planning.
 
