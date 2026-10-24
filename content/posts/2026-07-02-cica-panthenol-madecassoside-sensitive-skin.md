@@ -8,9 +8,14 @@ topic_pillar: "k-beauty"
 target_intent: "shopping"
 tags: ["cica", "panthenol", "madecassoside", "sensitive skin", "k beauty", "skin barrier", "olive young", "soothing care"]
 cover:
-  image: "images/cica-panthenol-madecassoside-sensitive-skin-cover.webp"
-  alt: "Cica Cream Shopping: A High Percentage Is Not a Safety Guarantee"
+  image: "/images/cica-panthenol-madecassoside-sensitive-skin-editorial.webp"
+  alt: "A small cream tube and a larger cream tube beside a closed skincare jar on a dressing table"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/cica-panthenol-madecassoside-sensitive-skin-editorial-480.webp"
+  medium: "/images/cica-panthenol-madecassoside-sensitive-skin-editorial-960.webp"
+  caption: "AI-generated skincare illustration; not a photograph of a tested or recommended product."
 monetize:
   intent: "shopping"
   verticals: ["amazon"]

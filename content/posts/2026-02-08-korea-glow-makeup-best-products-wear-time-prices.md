@@ -6,9 +6,14 @@ description: "Troubleshoot a dewy base with a simple wear log, distinguish setti
 categories: ["k-beauty"]
 tags: ["glow makeup", "k-beauty", "dewy skin", "setting spray", "fixer", "highlighter", "olive young", "duty free", "makeup tips"]
 cover:
-  image: "images/korea-glow-makeup-best-products-wear-time-prices-cover.webp"
-  alt: "Glow Makeup That Turns Patchy: Check These Layers Before Buying More"
+  image: "/images/korea-glow-makeup-best-products-wear-time-prices-editorial.webp"
+  alt: "A foundation bottle, makeup compact and setting-mist bottle on a softly lit dressing table"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/korea-glow-makeup-best-products-wear-time-prices-editorial-480.webp"
+  medium: "/images/korea-glow-makeup-best-products-wear-time-prices-editorial-960.webp"
+  caption: "AI-generated makeup illustration; not a product test or a photograph of wear results."
 monetize:
   intent: "shopping"
   verticals: ["amazon"]
