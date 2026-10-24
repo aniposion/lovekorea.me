@@ -6,9 +6,14 @@ description: "Compare HERA cushion sets, refills and bottled foundation using ch
 categories: ["k-beauty"]
 tags: ["k-beauty", "korean makeup", "cushion", "foundation", "base makeup", "olive young", "skin type", "coverage", "glowy", "matte"]
 cover:
-  image: "images/cushion-vs-foundation-korean-makeup-cover.webp"
-  alt: "Cushion vs Foundation: Compare the Refill, Not Just the Price Tag"
+  image: "/images/cushion-vs-foundation-korean-makeup-editorial.webp"
+  alt: "An open cushion compact, a separate refill cartridge and a foundation bottle on a wooden vanity"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/cushion-vs-foundation-korean-makeup-editorial-480.webp"
+  medium: "/images/cushion-vs-foundation-korean-makeup-editorial-960.webp"
+  caption: "AI-generated comparison image; generic products, not the HERA items discussed below."
 monetize:
   intent: "shopping"
   verticals: ["amazon"]

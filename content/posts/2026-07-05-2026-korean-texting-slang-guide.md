@@ -8,9 +8,14 @@ topic_pillar: "learn-korean"
 target_intent: "info"
 tags: ["korean slang", "texting korean", "hangul", "kakaotalk", "korean tips", "learn korean", "internet slang", "korean chat"]
 cover:
-  image: "images/2026-korean-texting-slang-guide-cover.webp"
-  alt: "Korean Texting: Why ㅈㅅ Is a Risky Way to Say Sorry"
+  image: "/images/2026-korean-texting-slang-guide-editorial.webp"
+  alt: "A woman pausing to read her phone beside a cafe window, with the screen turned away"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/2026-korean-texting-slang-guide-editorial-480.webp"
+  medium: "/images/2026-korean-texting-slang-guide-editorial-960.webp"
+  caption: "AI-generated messaging illustration; no real conversation is shown."
 lastmod: 2026-10-03
 ---
 
