@@ -6,9 +6,14 @@ description: "Choose Haeundae, Gwangalli, Songjeong or a Nampo–Jagalchi day wi
 categories: ["k-travel"]
 tags: ["busan travel", "beach guide", "seafood spots", "travel tips", "korean food", "budget travel", "tour booking"]
 cover:
-  image: "/images/top-beaches-seafood-busan-tours-cover.webp"
-  alt: "Busan Beach and Seafood Day: Pick the Area, Then Confirm the Whole Bill"
+  image: "/images/top-beaches-seafood-busan-tours-editorial.webp"
+  alt: "A shared grilled-fish meal with rice and side dishes beside a coastal restaurant window"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/top-beaches-seafood-busan-tours-editorial-480.webp"
+  medium: "/images/top-beaches-seafood-busan-tours-editorial-960.webp"
+  caption: "AI-generated coastal-dining illustration; not a photograph of a named restaurant, market or meal offer."
 lastmod: 2026-10-03
 ---
 
