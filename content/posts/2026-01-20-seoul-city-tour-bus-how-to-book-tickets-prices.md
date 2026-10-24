@@ -1,15 +1,20 @@
 ---
 title: "Seoul City Tour Bus 2026: Tickets, Prices, Routes & Booking"
 date: 2026-01-20T08:48:12.728096
-lastmod: 2026-10-04
+lastmod: 2026-10-24
 slug: "seoul-city-tour-bus-how-to-book-tickets-prices"
 description: "Compare the official Seoul City Tour Bus daytime and night routes, current starting prices, same-day ticket rules, boarding, and which pass to choose."
 categories: ["k-travel"]
 tags: ["seoul", "city tour bus", "hop on hop off", "seoul tickets", "gwanghwamun", "night tour"]
 cover:
   image: "/images/seoul-city-tour-bus-how-to-book-tickets-prices-cover.webp"
-  alt: "Seoul City Tour Bus ticket and route guide"
+  alt: "Travelers checking a phone beside a red sightseeing bus"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoul-city-tour-bus-how-to-book-tickets-prices-cover-480.webp"
+  medium: "/images/seoul-city-tour-bus-how-to-book-tickets-prices-cover-960.webp"
+  caption: "AI-generated editorial image; not an operator photograph or a guarantee of bus type."
 monetize:
   intent: "booking"
   verticals: ["tour"]
