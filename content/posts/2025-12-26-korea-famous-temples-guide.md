@@ -6,9 +6,14 @@ description: "Compare Bulguksa, Haeinsa, Songgwangsa and Daeheungsa by location 
 categories: ["k-travel"]
 tags: ["korea travel", "temple visit", "buddhist temple", "gyeongju", "hapcheon", "suncheon", "haenam", "temple stay", "travel tips"]
 cover:
-  image: "/images/korea-famous-temples-guide-cover.webp"
-  alt: "Korean Temple Visits: Choose the Region Before Booking a Templestay"
+  image: "/images/korea-famous-temples-guide-editorial.webp"
+  alt: "A stone approach beside a traditional Korean temple hall with a forested hillside behind it"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/korea-famous-temples-guide-editorial-480.webp"
+  medium: "/images/korea-famous-temples-guide-editorial-960.webp"
+  caption: "AI-generated temple illustration; not a photograph of the temples or programs described here."
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
