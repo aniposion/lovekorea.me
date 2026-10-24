@@ -1,15 +1,20 @@
 ---
 title: "Korea Ski Tickets 2026/27: Do Not Budget From Last Winter’s Prices"
 date: 2026-01-24T11:52:12.857674
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 slug: "2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi"
 description: "Vivaldi's ₩370,000 starting price is for resort members; its D-members Smart lift pass is ₩440,000. Compare season-pass scope and day-ticket status."
 categories: ["k-travel"]
 tags: ["korea ski", "lift ticket", "yongpyong", "phoenix park", "vivaldi park", "2026/27 ski season", "rental gear"]
 cover:
   image: "/images/2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi-h2-0.webp"
-  alt: "Illustration for a guide to Korea ski lift tickets"
+  alt: "Three travelers checking tickets and a phone beside ski equipment in the snow"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi-h2-0-480.webp"
+  medium: "/images/2026-korea-ski-lift-ticket-price-comparison-yongpyong-phoenix-vivaldi-h2-0-960.webp"
+  caption: "AI-generated editorial scene; not a photograph of a named resort or current slope conditions."
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
