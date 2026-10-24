@@ -120,6 +120,8 @@ After confirmation, save a screenshot of the reservation, receipt, branch name, 
 
 Book the appointment near the beginning of your Seoul stay if you want to shop with the results. Leave a buffer before and after; a session can run long when interpretation or makeup testing is included. Avoid placing it between two fixed tickets on opposite sides of the city.
 
+Taking the subway to a timed appointment? Set up your fare payment before leaving. If you plan to use an iPhone, our [T-money foreign-card top-up guide](/posts/iphone-tmoney-foreign-card-top-up/) explains the different Wallet and MobileTmoney funding routes and a physical-card backup, so a rejected top-up does not consume your arrival buffer.
+
 ## How to Prepare Before Your Appointment
 
 Preparation should reveal your normal coloring without making the day uncomfortable. Follow the studio's instructions first, because requirements vary.
