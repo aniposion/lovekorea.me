@@ -6,16 +6,21 @@ description: "Choose a Seoul hotel area around your itinerary, compare verified 
 categories: ["k-travel"]
 tags: ["seoul hotels", "myeongdong", "hongdae", "gangnam", "hotel guide", "where to stay", "subway tips", "budget travel", "korea itinerary"]
 cover:
-  image: "/images/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide-h2-0.webp"
-  alt: "Seoul Hotel Areas: Myeongdong, Hongdae or Gangnam? — illustrative cover"
+  image: "/images/seoul-hotel-areas-editorial.webp"
+  alt: "A traveler checking a phone beside a suitcase on a city sidewalk"
   relative: false
+  style: "photorealistic"
+  showInArticle: true
+  small: "/images/seoul-hotel-areas-editorial-480.webp"
+  medium: "/images/seoul-hotel-areas-editorial-960.webp"
+  caption: "AI-generated editorial scene; not a photograph of a named hotel or neighborhood."
 monetize:
   intent: "booking"
   verticals: ["hotel", "tour", "amazon"]
   slots:
     top: []
     bottom: []
-lastmod: 2026-10-03
+lastmod: 2026-10-24
 TocOpen: false
 ---
 
