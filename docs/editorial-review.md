@@ -48,6 +48,13 @@ The active operating workflow prepares and reviews individual changes.
    the social-image audit checks rendered Open Graph, Twitter and article schema
    against image files in the build.
 3. Check the actual rendered page, including mobile when layout changes.
+   Start each operator browser tab with `?lk_qa=1` (or `&lk_qa=1` when a query
+   already exists). This skips GA4 initialization for that tab session, including
+   later internal navigation. If browser session storage is unavailable, retain
+   the flag on every checked URL. Close the tab when finished; do not share marked
+   URLs with readers. Local and noncanonical-host previews do not load GA4.
+   Verify normal reader measurement with the isolated analytics tests, not by
+   clicking live ads or affiliate links. This does not remove older QA records.
 4. Stage only the reviewed files, commit, push, and confirm the public result.
 5. Record source evidence, corrections, limitations, and the remaining review queue
    in the private operating record, never in reader-facing pages.

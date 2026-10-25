@@ -25,13 +25,7 @@
 
 {{- /* Keep the disclosure page readable without analytics, ad or consent-message tags. */}}
 {{- if not $isPrivacyPage }}
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2RHGK56598"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date()); 
-  gtag('config', 'G-2RHGK56598');
-</script>
+<script data-lk-analytics-bootstrap>{{ readFile "static/js/analytics-bootstrap.js" | safeJS }}</script>
 <script defer src="/js/affiliate-tracking.js?v={{ readFile "static/js/affiliate-tracking.js" | sha256 }}"></script>
 {{- end }}
 
