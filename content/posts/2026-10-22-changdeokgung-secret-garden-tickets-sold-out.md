@@ -26,7 +26,7 @@ related_guides:
 
 **Changdeokgung Secret Garden tickets showing sold out online do not mean every place has been sold.** The [Royal Palaces and Tombs Center's FAQ](https://royal.khs.go.kr/ROYAL/contents/R404000000.do) lists **50 online places and 50 same-day, on-site places per session**, with the ticket office selling the latter from **9 a.m.** That is a second opportunity, not a guarantee that tickets will remain when you arrive.
 
-**Official booking information checked October 22, 2026.** This guide concerns ordinary Secret Garden admission, also called Huwon, rather than a special evening event. The cover illustrates the published allocation, not live inventory.
+**Official booking information checked October 22, 2026.** This guide concerns ordinary Secret Garden admission, also called Huwon, rather than a special evening event.
 
 ## Choose your next step
 
