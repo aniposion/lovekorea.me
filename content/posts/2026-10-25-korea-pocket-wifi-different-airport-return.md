@@ -28,7 +28,7 @@ related_guides:
 
 **Official pages checked October 25, 2026.** This is LG U+'s published policy. For another operator or a reseller voucher, confirm the return conditions attached to that particular rental.
 
-## Choose the return airport when booking
+## Book pocket WiFi with separate pickup and return airports
 
 The [LG U+ pocket Wi-Fi booking page](https://www.lguplus.com/korea-sim/eng/pc/product/pocket-wifi?tab=pocket-wifi) has separate pickup and return location fields, plus an option to use the same location. For this itinerary, enter them separately:
 
