@@ -2,7 +2,7 @@
 title: "Work with LoveKorea"
 description: "English travel content, sponsored guides and relevant affiliate partnerships for businesses helping international visitors plan a trip to Korea."
 date: 2026-09-28
-lastmod: 2026-09-28
+lastmod: 2026-10-28
 draft: false
 showToc: false
 disableComments: true
@@ -25,7 +25,35 @@ A typical brief includes:
 - Clear explanations of inclusions, exclusions, access and booking steps.
 - A draft for factual review and one agreed revision round.
 
-Send your website, topic, intended audience, deadline and budget to [request a content quote](mailto:admin@yoonisoft.com?subject=LoveKorea%20content%20project).
+### Choose a useful first project
+
+- **Hotels and guesthouses:** an arrival guide that connects the airport route to your entrance, explains late check-in and luggage storage, and tells guests which details to confirm before travel.
+- **Tour and activity operators:** a booking FAQ covering the meeting point, inclusions, exclusions, age or access restrictions, weather changes and cancellation steps.
+- **Travel services:** a comparison page that helps customers choose the right option, with a clear total-cost example and a checklist of compatibility or booking requirements.
+
+These are possible deliverables for your own website. Publication or promotion on LoveKorea is a separate scope, agreed before work begins.
+
+### See how we explain travel decisions
+
+These published LoveKorea guides show our editorial approach. They are writing samples, not paid-client case studies or endorsements by the businesses mentioned.
+
+- [AREX Express or All-Stop](/posts/incheon-airport-arex-guide/): compares the travel choices, then explains tickets, luggage and onward connections.
+- [Choosing a hotel area in Seoul or Busan](/deals/korea-hotels/): starts with the traveler's itinerary and compares the whole-stay cost, including an explicitly hypothetical calculation.
+- [Korea eSIM or airport SIM](/posts/korea-esim-sim-incheon-airport-price-guide/): turns device compatibility, calls and texts, pickup and setup into a pre-purchase checklist.
+
+### Send a short project brief
+
+Tell us what your customer needs to decide. You can copy these prompts into an email:
+
+- Business website and the page or product to explain:
+- Audience and their main question:
+- Requested deliverable and where you plan to use it:
+- Official product details, prices and policies we should verify:
+- Desired delivery date and budget range, if known:
+
+[Start a content project email](mailto:admin@yoonisoft.com?subject=LoveKorea%20content%20project&body=Business%20website%20and%20page/product%3A%0AAudience%20and%20main%20question%3A%0ARequested%20deliverable%20and%20intended%20use%3A%0AOfficial%20product%20information%3A%0ADesired%20delivery%20date%3A%0ABudget%20range%20%28if%20known%29%3A%0A).
+
+This opens your email app with a blank brief; nothing is sent automatically. Do not include customer records, payment details or login credentials. We review the brief before proposing a scope and quote.
 
 ## Sponsored guides and placements
 
