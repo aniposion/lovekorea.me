@@ -49,6 +49,8 @@ Choose by what requires inspection, not by a blanket “cheapest district” ran
 
 A distant outlet can make sense for a planned basket. It is less compelling for one small discount after transport and time. For an unfamiliar online store, confirm visitor payment support, delivery date, receiving address and return arrangements before ordering to a hotel.
 
+Planning a grocery or snack stop at Seoul Station? Check the [Lotte Mart Seoul Station hours and closure guide](/posts/lotte-mart-seoul-station-hours-closed-days/) before fitting the shop into your train journey.
+
 ## Check the year on a sale banner
 
 The [official Korea Grand Sale page](https://en.koreagrandsale.co.kr/kgs) lists the next event as **December 23, 2026–February 13, 2027**, while retaining an archive for December 17, 2025–February 22, 2026. Those are different editions. Neither gives every traveller a guaranteed percentage reduction on their entire trip.
