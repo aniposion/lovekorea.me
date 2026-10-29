@@ -1,7 +1,7 @@
 ---
 title: "Jeju Airport to Seogwipo Bus 2026: 600 vs 800/801, Fares & Stops"
 date: 2026-01-13T08:24:34.185586
-lastmod: 2026-10-04
+lastmod: 2026-10-29
 slug: "jeju-airport-seogwipo-airport-bus-tickets-routes"
 description: "Jeju Airport to Seogwipo or ICC JEJU: choose bus 600, 800 or 801. Official stop, fare, travel-time and boarding checks for 2026."
 categories: ["k-travel"]
@@ -67,6 +67,22 @@ The [Korea Airports Corporation's Jeju Airport page](https://www.airport.co.kr/j
 **Verify the timetable on your travel day.** Official pages currently disagree on 600's first departure: the airport's [Korean page](https://www.airport.co.kr/jeju/cms/frCon/index.do?CONTENTS_NO=2&MENU_ID=100) lists **06:30**, while the [Jeju Bus 600/601 timetable](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=1532), marked effective August 1, 2024, lists **06:00**. Both list a 22:20 last airport departure. The airport's English page differs again, so treat all fixed times as provisional. Check the [current Jeju Bus schedules](https://bus.jeju.go.kr/mobile/schedule/listSchedule) and the airport display before planning an early or late connection. For 800 and 801, use their [route-specific timetable](https://bus.jeju.go.kr/mobile/schedule/detailScheduleNew?scheduleId=2352); terminal departure times are **not** necessarily airport boarding times.
 
 If your flight lands near the last service, leave time for baggage claim, reaching the stop and waiting for the next bus. Have a fallback plan such as an airport taxi or a night near the airport. Travel time depends on your stop and traffic; do not book a timed tour immediately after landing based on an on-bus estimate alone.
+
+## Seogwipo to Jeju Airport: use the return timetable
+
+**For the trip back, choose the airport-bound timetable and your actual boarding stop.** An airport-to-Seogwipo departure time is not a departure from your hotel area. The return sheets also show why 600, 800 and 801 are not interchangeable:
+
+| Where you are starting | Return route to check | Official airport-bound timetable |
+| --- | --- | --- |
+| Seogwipo KAL Hotel, Seogwipo Harbor or the southern coastal hotel corridor | **600**, via Jungmun; choose your own stop's column | [600/601: Seogwipo KAL Hotel → Jungmun → airport](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=1533) |
+| Seogwipo Bus Terminal in the newer western part of the city | **800** | [800/801: Seogwipo → airport → Jeju Bus Terminal](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2353) |
+| Seogwipo Transfer Stop / Registry Office (서귀포환승정류장·서귀포등기소) | **801** | [800/801: Seogwipo → airport → Jeju Bus Terminal](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2353) |
+
+In the 800/801 sheet, **국제공항 means the airport**; **제주터미널 means Jeju Bus Terminal**, a later stop. Read across one row from your boarding stop to the airport column. For example, the displayed sheet shows an **801 departure from the Registry Office at 06:10 and arrival at the airport at 07:22**. That is a scheduled airport arrival, not a safe flight-departure time: allow for traffic and your airline's check-in and baggage deadlines.
+
+The 600/601 sheet needs a second check: its **601 rows start at the convention center**, with **X** in the KAL Hotel and other earlier-stop columns. Do not wait for one of those trips at an unserved stop. Also read **비고 (remarks)**: the final 600/601 rows are marked **썬호텔 종료 (ends at Sun Hotel)**, so they do not complete the trip to the airport. Confirm the airport-bound stop location and next departure in the [official Jeju Bus system](https://bus.jeju.go.kr/mobile/schedule/listSchedule); do not assume your arrival-side stop is the correct return boarding point.
+
+*Return tables checked October 29, 2026. The displayed 800/801 sheet is effective February 12, 2026; the 600/601 sheet is effective August 1, 2024. These are published schedules, not live predictions. Recheck the current sheet and stop display before travel, especially for an early flight.*
 
 ## A two-minute check before you leave the terminal
 
