@@ -20,7 +20,7 @@ related_guides:
   - "/posts/2026-02-05-seoul-sky-lotte-tower-tickets-prices-time-slots"
   - "/posts/2026-01-09-han-river-cruise-seoul-prices-tickets-how-to-book"
   - "/posts/2026-01-20-seoul-city-tour-bus-how-to-book-tickets-prices"
-lastmod: 2026-10-22
+lastmod: 2026-10-29
 ---
 
 **For one evening in Seoul, choose a main view and keep dinner nearby.** A cruise, N Seoul Tower and Seoul Sky can each fill the interesting part of a night. Combining all three adds transfers and entry deadlines while buying several versions of the same skyline.
@@ -31,13 +31,15 @@ The comparison below is an editorial planning aid, not a popularity ranking or a
 
 | Main choice | What you are choosing | Best fit for this plan | Main limitation |
 |---|---|---|---|
-| N Seoul Tower observatory | A central skyline from Namsan | A day already around central Seoul | You still need to reach the tower; visibility matters |
+| N Seoul Tower observatory | A central skyline from Namsan | A day already around central Seoul | Closed January–March 2027 for renovation; confirm reopening |
 | Seoul Sky | A high indoor observatory in Jamsil | A Jamsil day with a meal or mall visit | Indoor shelter does not guarantee a visible skyline |
 | Han River cruise | Moving river-level views | A reserved departure with a nearby meal | Pier, check-in and sailing time are fixed |
 | Banpo riverside | A flexible walk and fountain when operating | A lower-cost evening without another admission | Outdoor conditions and fountain operation |
 | Tiger Bus night course | A guided-by-route city overview | You want a defined loop with limited walking | You cannot turn every passing landmark into a stop |
 
 The [N Seoul Tower admission page](https://www.nseoultower.co.kr/eng/visit/use2.asp) lists adult observatory admission at **₩29,000**, with child/senior categories at ₩23,000. Getting up Namsan, including any cable-car ticket you choose, is a separate cost unless expressly included in your package.
+
+**Planning a January–March 2027 visit?** N Seoul Tower has announced a temporary observatory closure for renovation during **January–March 2027**. Its [official closure notice](https://www.nseoultower.co.kr/eng/images/main/observatory_closed.png), checked **October 29, 2026**, says the reopening schedule will be announced later. Do not treat an observatory ticket listing as confirmation of access during that period. This notice concerns the observatory; it does not establish that the separate cable car is closed.
 
 The [Seoul Sky admission page](https://seoulsky.lotteworld.com/price/info/ticket) lists standard adult entry at **₩33,000**. Our [Seoul Sky guide](/posts/seoul-sky-lotte-tower-tickets-prices-time-slots/) explains the conflicting older promotional page and the difference between standard, priority and aquarium products.
 
