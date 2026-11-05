@@ -20,7 +20,7 @@ monetize:
 
 **The choice:** Book an east-coast group tour if you want a guide and transport between mainland stops such as Seongsan Ilchulbong and Seopjikoji. Plan a separate Udo ferry day if the island is your priority. **Do not assume a tour called “Jeju East” includes Udo**: check the actual stop list before paying.
 
-*Affiliate disclosure: The optional Viator tour link below is tracked. LoveKorea may earn a commission if you book through it, at no extra cost to you. The official Jeju tourism links and do-it-yourself route are also here so you can compare.*
+*Affiliate disclosure: The optional Viator and Klook tour links below are tracked. LoveKorea may earn a commission if you book through them, at no extra cost to you. The official Jeju tourism links and do-it-yourself route are also here so you can compare.*
 
 ## Can you visit Seongsan, Seopjikoji and Udo in one day?
 
@@ -48,7 +48,9 @@ If you are still choosing a hotel, our [car-free Jeju accommodation guide](/post
 
 ## Comparing a hotel-pickup tour: check the extras
 
-Klook's [Jeju UNESCO tour with optional hotel pickup](https://www.klook.com/en-US/activity/185077-hotel-pick-up-jeju-unesco-day-tour/) offers separate East, southwest and western routes. Choose **East** when comparing it with this guide. The product link here is an ordinary comparison link, not a LoveKorea affiliate link.
+Klook's **Jeju UNESCO tour with optional hotel pickup** offers separate East, southwest and western routes. Choose **East** when comparing it with this guide.
+
+{{< offer slot="JEJU_EAST_HOTEL_PICKUP_KLOOK" pos="mid" >}}
 
 **Package details checked November 5, 2026:** the East option lists an English-speaking guide and shared transport. Its detailed exclusions matter more than a headline discount:
 

@@ -91,6 +91,16 @@ JEJU_EAST_GROUP_TOUR:
   disclaimer: "Confirm your date, meeting point, stop list, admissions, meal exclusions, accessibility and cancellation deadline before booking."
   mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
 
+JEJU_EAST_HOTEL_PICKUP_KLOOK:
+  active: true
+  affiliate: true
+  provider: klook
+  title: "Optional: Jeju East tour with hotel pickup"
+  url: "https://affiliate.klook.com/redirect?aid=137134&aff_adid=1549113&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F185077-hotel-pick-up-jeju-unesco-day-tour%2F"
+  cta: "Check East tour dates and total price"
+  disclaimer: "Select the East package and confirm pickup coverage for your hotel."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
 KOREA_TOUR_DEALS:
   active: true
   affiliate: false
