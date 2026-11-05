@@ -9,7 +9,7 @@ cover:
   image: "/images/korean-traditional-cultural-experiences-guide-cover.webp"
   alt: "Korean Cultural Experiences: Check What You Actually Get to Do"
   relative: false
-lastmod: 2026-10-03
+lastmod: 2026-11-05
 ---
 
 **Before paying for a cultural experience, ask what you will actually do.** A tea service may be a café order or a guided brewing lesson. A craft booking may be a demonstration or a class where you make an item. A hanbok rental supplies clothing; a guide, photographer and palace ticket are separate unless listed.
@@ -60,6 +60,10 @@ Ask about materials, tools, the size of the finished item and whether a beginner
 Check the bath and common-area access, clothing, locker arrangements, time limit and extra services. A massage or body scrub is not automatically included in admission. Photography rules and privacy matter especially in changing and bathing areas.
 
 Use our [dedicated jjimjilbang guide](/posts/korean-jjimjilbang-guide/) for the entry sequence and named official price examples. Choose a current operating facility and a ticket that suits your group rather than relying on an old anecdote about a venue.
+
+## An online starting point for Saju
+
+Curious about Korean birth-chart readings rather than a hands-on class? Obang House is a brand we also operate. Its [free English Saju preview](https://saju.obanghouse.com/) lets you explore a chart overview and a short reading excerpt before deciding whether to buy a full reading; no payment is needed for the preview. This is an online option you can explore without booking a visit in Korea. Treat Saju as cultural interpretation and a prompt for reflection, rather than a guarantee of future events.
 
 ## A message to send the provider
 
