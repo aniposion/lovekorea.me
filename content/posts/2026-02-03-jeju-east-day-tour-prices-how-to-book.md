@@ -1,7 +1,7 @@
 ---
 title: "Jeju East Day Tour or Udo Island? Routes, Costs & Booking (2026)"
 date: 2026-02-03T08:36:25.735473
-lastmod: 2026-09-25
+lastmod: 2026-11-05
 slug: "jeju-east-day-tour-prices-how-to-book"
 description: "Compare an East Jeju guided tour with a self-planned Udo ferry day. Check Seongsan and Seopjikoji stops, real cost components, and booking details."
 categories: ["k-travel"]
@@ -45,6 +45,22 @@ This option suits someone who prefers to spend the day on mainland Jeju and does
 **Before booking:** Confirm your meeting point and travel time from your accommodation, the guide language, what meals or drinks cost separately, the current attraction list, and the cancellation rules. A hotel pickup is not promised by this listing.
 
 If you are still choosing a hotel, our [car-free Jeju accommodation guide](/posts/jeju-without-car-where-to-stay/) compares Jeju City, central Seogwipo and Jungmun against the journey to your tour's meeting point.
+
+## Comparing a hotel-pickup tour: check the extras
+
+Klook's [Jeju UNESCO tour with optional hotel pickup](https://www.klook.com/en-US/activity/185077-hotel-pick-up-jeju-unesco-day-tour/) offers separate East, southwest and western routes. Choose **East** when comparing it with this guide. The product link here is an ordinary comparison link, not a LoveKorea affiliate link.
+
+**Package details checked November 5, 2026:** the East option lists an English-speaking guide and shared transport. Its detailed exclusions matter more than a headline discount:
+
+| Cost or condition | What to check |
+| --- | --- |
+| Hotel pickup | Confirm that your hotel is within downtown Jeju City. The listing quotes **KRW 25,000–60,000 for one-way pickup outside that area**; ask for your exact hotel and group quote. |
+| Optional Seongsan summit hike | **KRW 5,000 per adult**, paid separately. |
+| Seasonal tangerine picking | Listed from **November 11**, while the farm's supply lasts: **KRW 5,000 per person**; taking home 1 kg costs another KRW 5,000. |
+| Meals | Food and drinks are extra. |
+| Eligibility and cancellation | Ages **6+**, minimum **two participants**; the listing states a full refund with at least **24 hours' notice**, using destination local time. Check your selected booking's cutoff. |
+
+**Worked example:** two adults who both choose the summit hike and tangerine picking add **KRW 20,000** (2 × KRW 5,000 + 2 × KRW 5,000) to their tour tickets, before meals, any extra pickup charge or take-home fruit. This is an extras calculation, not a complete tour quote. Compare the final price for your date and package before paying; a displayed sale label does not establish that a separate coupon will also apply.
 
 ## Udo by ferry: the independent option
 
