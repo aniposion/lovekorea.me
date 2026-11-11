@@ -74,6 +74,10 @@ The one-day ticket lets you transfer between the three loop lines. It is most va
 
 Combining the bus with other paid attractions? Our [Visit Busan Pass comparison](/posts/visit-busan-pass-big3-vs-24-hours/) explains BIG3 group limits and compares the same three-stop plan across time-based passes and separate tickets.
 
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="VISIT_BUSAN_PASS_KLOOK" pos="pass-comparison" >}}
+
 ## Plan individual stops
 
 For related plans, see our [Seoul–Busan KTX versus express bus guide](/posts/seoul-busan-ktx-vs-express-bus/), [Busan Songdo Cable Car guide](/posts/busan-songdo-cable-car-tickets-prices/), and [Gamcheon Culture Village guide](/posts/busan-gamcheon-culture-village-tours-how-to-book-prices/). These explain separate tickets and the final connection beyond the sightseeing-bus stop.

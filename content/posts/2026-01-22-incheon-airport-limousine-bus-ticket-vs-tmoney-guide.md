@@ -94,6 +94,10 @@ Staying in Myeongdong? Our [Myeongdong bus vs AREX comparison](/posts/incheon-ai
 
 For a practical next step, save your chosen bus's official route page and the correct terminal's boarding guide before your flight. Keep one alternative route ready if your arrival time changes.
 
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="KOREA_AREX_EXPRESS_KLOOK" pos="bus-vs-arex" >}}
+
 ## Related guides
 
 - [AREX Express vs All-Stop Train from Incheon Airport](/posts/incheon-airport-arex-guide/)

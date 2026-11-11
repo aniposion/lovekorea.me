@@ -71,6 +71,10 @@ Planning to leave the road for a hike? Compare [five Hallasan trails that do not
 - **Traveling between Jeju City and Jungmun:** consider Route 1100 only if it is open and suitable for your vehicle and the weather.
 - **No suitable rental documents or no desire to drive:** compare the stops on a guided tour before booking. Our [Jeju activities guide](/posts/jeju-activity-top-10-tours-prices-tickets/) can help identify the kind of outing you want; the tour operator's current itinerary and terms control what you receive. For the separate airport-to-Seogwipo transfer, use the [Jeju airport bus guide](/posts/jeju-airport-seogwipo-airport-bus-tickets-routes/).
 
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="JEJU_EAST_GROUP_TOUR" pos="no-drive-option" >}}
+
 **Can you combine all three in one day?** You could cross the island, but the combined transfers, parking and walks defeat the point of these plans. Choose a route close to your base for a relaxed day, or use two separate days.
 
 **Are the viewpoints free?** A public road is not a ticketed attraction, but parking, managed sites and optional activities may charge separately. Check the current official listing for each stop. We do not quote a fixed “Jeju road-trip budget” because the rental vehicle, dates and chosen stops determine the total.

@@ -66,6 +66,10 @@ This is the **pass exchange route**. The next-day rule below concerns the cable-
 
 Buying online does not itself promise a private cabin or an immediate boarding time. If a shorter regular queue is important, compare the operator's separately priced Speedy Cruise before choosing.
 
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="BUSAN_SONGDO_CABLE_CAR_KLOOK" pos="booking-options" >}}
+
 ## Are Speedy, Premium or the free pass worth it?
 
 The [operator's current fare list](https://en.busanaircruise.co.kr/info/price?rank=1) gives these additional choices:

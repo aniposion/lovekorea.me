@@ -76,4 +76,8 @@ After setup, check which transit card is selected for **Express Mode**. Apple ex
 
 Tmoney says physical cards are sold at convenience stores and other designated outlets, and can be loaded at shops and subway stations. Keep Korean won available and ask the cashier to confirm the loaded balance. Local methods vary; do not assume a foreign card accepted by an app is accepted for the physical card’s reload. [Tmoney’s visitor guide](https://blog.tmoney.co.kr/en/tmoney-guide/tmoney-convenience-store-guide/) covers purchase and loading.
 
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+{{< offer slot="KOREA_TMONEY_CARD_KLOOK" pos="fallback" >}}
+
 For heavy Seoul sightseeing, compare a [short-term Climate Card with T-money](/posts/seoul-climate-card-vs-tmoney/) by your actual trips. Traveling together? Our [one card for two people guide](/posts/one-tmoney-card-two-people/) explains why each subway passenger needs their own usable fare medium. If using a WOWPASS card as a backup, check its [separate shopping and T-money balances](/posts/wowpass-tmoney-separate-balances/).
