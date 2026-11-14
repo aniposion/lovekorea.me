@@ -1,9 +1,9 @@
 ---
-title: "Incheon Airport to Myeongdong: Bus or AREX With Luggage?"
+title: "Incheon Airport to Myeongdong: Bus vs AREX Fares & Time"
 date: 2026-10-10T19:49:00-05:00
-lastmod: 2026-10-10
+lastmod: 2026-11-14
 slug: "incheon-airport-to-myeongdong-bus-arex"
-description: "Compare the airport bus with AREX for Myeongdong: the Express-plus-subway cost, 1/2/4-adult budgets, hotel-side stops, transfers and luggage limits."
+description: "Incheon Airport to Myeongdong: buses cost ₩17,000–₩18,000; compare AREX fares and minutes, the Line 4 transfer, hotel stops and late-night options."
 categories: ["k-travel"]
 topic_pillar: "k-travel"
 target_intent: "booking"
@@ -20,99 +20,71 @@ monetize:
     bottom: []
 ---
 
-**For a Myeongdong hotel near a bus stop, the airport bus is worth comparing before buying AREX Express.** At the fares checked below, bus 6015 costs **KRW 17,000 per adult**, while Express plus the subway to Myeongdong costs **KRW 14,550 with an existing transit card**. That is a **KRW 2,450 difference** to avoid changing trains with your bags. The cheaper AREX **All-Stop** is a separate option; choose it when saving money matters more than a reserved seat or avoiding the transfer.
+**From Incheon Airport to Myeongdong, take an airport limousine bus if its stop is near your hotel and you have luggage.** Choose AREX Express + Line 4 for a reserved airport-train seat and a route away from road traffic, especially for the Seoul Station / Hoehyeon side; choose AREX All-Stop + the same transfer to spend less. Late at night, take a taxi if no bus or complete rail connection works for your hotel.
 
-**Official information checked October 10, 2026.** The comparison covers travel **from Incheon Airport to Myeongdong**, followed by walking to your accommodation. Extra luggage charges, a new transit card, taxis and discounts are excluded. Sources: [6015 route and fare](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=47), [AREX Express fare](https://www.airportrailroad.com/train/express/introduce), [Seoul subway fares](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/).
+| Option / best fit | Adult one-way fare: T1 / T2 | Total to your Myeongdong hotel, including transfer | Transfers / stairs with luggage | First / last airport departure (Korea time) | Where to board / how to pay |
+|---|---|---|---|---|---|
+| **6015 bus** — hotels near Lotte / ibis, Royal Hotel or Myeongdong Station | **₩17,000 / ₩17,000** | **[check on the day](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=47)**: departure wait + traffic-dependent ride + hotel walk; no verified door-to-hotel minutes | No transfer; confirm coach access if stairs are difficult | Weekdays: **T1 05:39 / 23:19; T2 05:19 / 22:59**. Weekends/holidays: **T1 05:44 / 23:19; T2 05:24 / 22:59** | T1 **1F 5B-2**: cash/card/ticket; T2 **B1 bay 28**: buy ticket at booth/kiosk |
+| **6001 bus** — Hoehyeon or Myeongdong Station hotels | **₩17,000 / ₩17,000** | **[check on the day](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=4)**: wait + road journey + hotel walk | No transfer; confirm coach access if stairs are difficult | **T1 05:29 / 23:09; T2 05:39 / 22:49** | T1 **1F 5B-4**: cash/card/ticket; T2 **B1 bay 29**: buy airport ticket |
+| **6701 bus** — Lotte, Aloft or Le Meridien side | **₩18,000 / ₩18,000** | **[check on the day](https://klimousine.com/EN/bus/limousine.php)**: wait + road journey + hotel walk | No transfer; confirm coach access if stairs are difficult | **T1 05:35 / 22:25; T2 05:15 / 22:05** | Buy at airport ticket counter/kiosk; exact bay: **[check on the day](https://klimousine.com/EN/bus/Incheon.php)** |
+| **AREX Express + Line 4** — reserved seat; avoid road traffic | **₩14,550 / ₩14,550** with an existing transit card: AREX-listed **₩13,000 + ₩1,550** subway fare | **[check on the day](https://www.seoulmetro.co.kr/en/cyberStation.do?menuIdx=337)** for the total: **43 min from T1 / 51 min from T2** to Seoul Station, then transfer, Line 4 and hotel walk; add departure waits | **1 transfer**; AREX platforms at **B7** with lifts and corridors; stair-free hotel exit: **check on the day** in the linked station information | **T1 05:24 / 22:48; T2 05:16 / 22:40**, weekdays/holidays; onward Line 4 connection: **[check on the day](https://www.seoulmetro.co.kr/en/cyberStation.do?menuIdx=337)** | Both terminals: Transportation Center **B1** ticketing; separate Express ticket (cash/card or online), then subway transit card |
+| **AREX All-Stop + Line 4** — lower rail fare | **₩4,750 / ₩5,350** with a transit card through to Myeongdong via Seoul Station, per Seoul Metro's fare query | **[check on the day](https://www.seoulmetro.co.kr/en/cyberStation.do?menuIdx=337)** for the total: AREX lists **59 / 66 min** to Seoul Station, some trains **2–6 min longer**; add waits, transfer, Line 4 and hotel walk | **1 transfer**; carry bags through the same station connection; stair-free exit: **check on the day** | First/last train that completes the Myeongdong connection: **check on the day** in [T1](https://www.airportrailroad.com/train/normal/info/100), [T2](https://www.airportrailroad.com/train/normal/info/110) and [Metro](https://www.seoulmetro.co.kr/en/cyberStation.do?menuIdx=337) timetables | Transportation Center **B1**; transit card or single ticket issued to Myeongdong |
+| **Taxi** — late arrival or bags you cannot manage on transit | T1/T2 whole-car total: **[check on the day](https://www.airport.kr/ap_en/1515/subview.do)**, including tolls and applicable night surcharge | **[check on the day](https://www.airport.kr/ap_en/1515/subview.do)**: queue + road journey to your address | No transfer; ask for a vehicle that fits everyone and their bags | On demand; availability: **[check on the day](https://www.airport.kr/ap_en/1515/subview.do)** | Use designated taxi stands; payment method: **check on the day** with the driver before boarding |
 
-## Which option fits your arrival?
+**Most travelers with luggage staying near a bus stop should take the bus and skip Express.** Book Express if the Seoul Station / Hoehyeon side suits your hotel or you want to avoid rush-hour road traffic and can manage the transfer; its live Klook price could not be confirmed, so **check on the day** using the button and compare the final total with AREX's own ₩13,000 fare before paying.
 
-| Your situation | Start with | The tradeoff to check |
-|---|---|---|
-| Heavy bags; hotel entrance close to a 6015 or 6001 stop | Airport bus | Road traffic and the walk from that exact stop |
-| Manageable luggage; lowest rail cost is the priority | AREX All-Stop, then subway | No reserved seat; you still handle the transfer |
-| You want an assigned seat on the airport train | AREX Express, then Line 4 | Express ends at Seoul Station, before Myeongdong |
-| Hotel on the Lotte / Euljiro side of the district | Compare the named 6015 stops below | Myeongdong Station may leave a longer final walk |
-| Several large cases, limited mobility or a late arrival | Check an accessible or appropriately sized transfer separately | Neither a standard coach nor a subway itinerary guarantees a suitable journey |
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
 
-Our recommendation is to compare **two actual walking routes**: your bus stop to the hotel entrance, and your subway exit to that same entrance. A hotel marketed as “Myeongdong” does not tell you which will be easier. Use the [Seoul hotel-area guide](/posts/seoul-hotels-top-10-myeongdong-hongdae-gangnam-guide/) if you are still choosing where to stay.
+{{< offer slot="KOREA_AREX_EXPRESS_KLOOK" pos="mid" >}}
 
-## The cost for one, two or four adults
+## Choose the bus stop nearest your hotel
 
-The following is an **illustrative fare calculation**, not a group discount. It uses the displayed KRW 13,000 Express fare from either airport terminal, plus a separate KRW 1,550 adult transit-card subway ride from Seoul Station to Myeongdong. Each traveler already has a suitable card. For the bus, it uses the published KRW 17,000 adult fare. Everyone walks from the arrival stop or station to the hotel.
+Open the operator's route in the **To Downtown** direction before choosing a bus:
 
-| One-way journey | 1 adult | 2 adults | 4 adults |
-|---|---:|---:|---:|
-| 6015 or 6001 bus to a Myeongdong stop | KRW 17,000 | KRW 34,000 | KRW 68,000 |
-| AREX Express + Line 4 | KRW 14,550 | KRW 29,100 | KRW 58,200 |
-| Additional cost of the bus | **KRW 2,450** | **KRW 4,900** | **KRW 9,800** |
+- **6015:** Lotte Hotel / IBIS Myeong-dong; Royal Hotel (Euljiro 1-ga); Euljiro 2(i)-ga (Pine Avenue); and Myeong-dong Station (L7 Myeong-dong / Sejong Hotel).
+- **6001:** Hoehyeon Station (Namdaemun Market), then Myeong-dong Station.
+- **6701:** Euljiro 1(il)-ga Station (THE GRAND LOTTE SEOUL) and Myeongdong (Aloft Seoul, Le Meridien).
 
-Sources: [6015](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=47), [6001](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=4), [Express](https://www.airportrailroad.com/train/express/introduce) and [Seoul subway fare rules](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/). Express promotions or seller-specific tickets can change the difference. A subway single-ride ticket has a higher fare and a refundable deposit; buying a new transit card also adds an initial expense.
+Match the exact stop to your hotel's entrance, including the road crossing and final walk. The three buses take different city routes; choose the next useful departure and drop-off, rather than the route number alone. If coach steps or oversized bags are a concern, **check on the day** with the relevant [Airport Limousine](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=47) or [K Airport Limousine](https://klimousine.com/EN/center/faq.php) staff before buying.
 
-**What this means:** two adults can ask whether avoiding the rail transfer is worth KRW 4,900 for their party. Four adults should compare any suitable vehicle quote with the **whole-party** bus or rail cost, including tolls and enough luggage space. This table does not establish a taxi price or guarantee that four people and their bags fit one standard taxi.
+## Buy bus tickets at the correct terminal
 
-### What about the cheaper All-Stop train?
+**At T1**, Incheon Airport lists indoor ticket booths beside exits **4 and 9**, plus outdoor booths near exits **4, 6, 7, 8, 11 and 13**. Airport Limousine also lists self-service machines on **1F**. Its T1 notice allows first-come, first-served boarding with cash/card/ticket on **6001 and 6015**; the notice does not establish that every overseas bank card works onboard, so **check on the day** or buy a ticket at the counter.
 
-AREX's [adult transit-card fare table](https://www.airportrailroad.com/train/normal/fare) lists **KRW 4,750 from T1 to Seoul Station** and **KRW 5,350 from T2 to Seoul Station**. Those are airport-to-Seoul-Station prices, **not a quoted total to Myeongdong**. Enter Myeongdong as your final destination when checking the through journey; the integrated fare depends on the route and fare product. Do not automatically add a second full subway base fare to the All-Stop fare.
+**At T2**, buy at the bus terminal in the **B1 Transportation Center**. The operator requires tickets for 6001 and 6015 here. For 6701, use the airport counter/kiosk and follow the bay printed on your ticket.
 
-Use our [AREX Express vs All-Stop guide](/posts/incheon-airport-arex-guide/) for the train-ticket choices and the optional Express booking route. If your goal is the lowest rail outlay, compare All-Stop first rather than treating Express as the only train.
+Use our [airport limousine bus ticket vs T-money guide](/posts/incheon-airport-limousine-bus-ticket-vs-tmoney-guide/) when deciding how to pay. Show the staff your chosen route and hotel-side stop before purchasing.
 
-## Choose the Myeongdong stop before the bus number
+## Make the Seoul Station transfer to Line 4
 
-The operator's **inbound 6015 route** includes several different stops around the district. Match the stop name to the hotel's actual address:
+Follow **Incheon Airport → AREX to Seoul Station → Line 4 toward Hoehyeon → Myeongdong → hotel**. Hoehyeon is the next stop after Seoul Station, followed by Myeongdong; get off at Hoehyeon if that gives you the better hotel walk.
 
-| Where your hotel is | Stop to inspect on the 6015 route |
-|---|---|
-| Lotte / ibis side | **Lotte Hotel / IBIS Myeong-dong** |
-| Royal Hotel / Euljiro 1-ga side | **Royal Hotel (Euljiro 1-ga)** |
-| Euljiro 2-ga / Pine Avenue side | **Euljiro 2(i)-ga (Pine Avenue)** |
-| L7 / Sejong / Myeongdong Station side | **Myeong-dong stn (L7 Myeong-dong / Sejong Hotel)** |
+AREX's Seoul Station map places both train platforms at **B7** and marks elevators and the connection to Lines 1/4. Follow the Line 4 signs and elevator signs with your bags. A reserved Express seat does not remove this transfer, and an exit near the hotel is not automatically a stair-free exit: **check on the day** in [Seoul Metro's station information](https://www.seoulmetro.co.kr/en/cyberStation.do?menuIdx=337).
 
-Open the [official 6015 route](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=47), select **To Downtown**, then select the stop. Its Myeongdong Station drop-off description places it near **Exit 8**, by L7 and Sejong hotels, opposite Prince Hotel and in front of Kookmin Bank. This identifies the bus stop; it is not a promise of a step-free subway exit.
+The **₩14,550 Express total** is calculated from AREX's displayed **₩13,000 selling fare** and Metro's **₩1,550 adult transit-card fare** from Seoul Station to Myeongdong. A new transit card costs extra; card purchase price is **check on the day** at the seller. All-Stop can be ticketed through to Myeongdong, so do not add another full subway base fare to its through fare. Our [AREX Express vs All-Stop guide](/posts/incheon-airport-arex-guide/) explains the two ticket types.
 
-**6001 is another option for the Myeongdong Station side.** Its [inbound route](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=4) reaches Myeongdong Station after Seoul Station and Hoehyeon, then continues toward Chungmuro. It follows a different city route from 6015. Compare the next departure and your precise drop-off, rather than assuming the two buses take identical journeys.
+Metro's Seoul Station–Myeongdong query shows about **3 minutes on Line 4**, but that excludes the walk from AREX and the hotel walk. Start your comparison when you are ready to leave arrivals, then include the walk to boarding, departure wait, ride, station transfer, onward wait and final walk. A verified total for that full journey was unavailable today; **check on the day** for your hotel and departure rather than treating 43 minutes as a Myeongdong arrival time.
 
-Save the hotel entrance and the stop as separate map pins. Check the side of the road, crossings and walking route with your bags. The stop's hotel label does not mean every nearby property has doorstep service.
+## If you arrive after the daytime services
 
-## What the AREX transfer actually involves
+Check the entire connection after immigration and baggage claim. The last Express is only a departure to Seoul Station; it is not a promise that you can still reach your hotel by subway.
 
-For a hotel near Myeongdong Station, the rail sequence is:
+For a night bus, Incheon Airport lists **N6701** calling at **Euljiro Entrance**, with an adult fare of **₩18,000** from either terminal. Check the [T1 night-bus timetable](https://www.airport.kr/ap_en/1507/subview.do) or [T2 night-bus timetable](https://www.airport.kr/ap_en/1510/subview.do) and the walk to your hotel before choosing it.
 
-**Incheon T1 or T2 → AREX to Seoul Station → Line 4 to Myeongdong → hotel walk.**
+If that does not work, use the airport's designated taxi stand and show your hotel address. Confirm the whole-car cost basis, tolls, night surcharge and payment method before boarding; a verified T1/T2-to-hotel total was unavailable today, so **check on the day** using the [airport taxi guide](https://www.airport.kr/ap_en/1515/subview.do).
 
-At Seoul Station, follow the Line 4 signs and take the direction serving **Hoehyeon, then Myeongdong**. Keep the luggage with you throughout the transfer. The Express ticket covers the airport train; prepare the separate subway fare. If using All-Stop, follow the signed subway transfer route with your fare card or through ticket.
+## Sources and checks
 
-The [Express service page](https://www.airportrailroad.com/train/express/introduce) lists **43 minutes for T1–Seoul Station** and **51 minutes for T2–Seoul Station**. The [All-Stop page](https://www.airportrailroad.com/train/normal/introduce) lists **59 and 66 minutes**, with some trains taking another 2–6 minutes. These are train segments. Add waiting, the station transfer, the Line 4 ride and the hotel walk before comparing with a bus arrival estimate.
+Checked on **November 14, 2026**. Public-transport fares above are adult, one way; departure times are local Korea time. Rail card totals assume you already have a usable transit card.
 
-A useful planning formula is:
+- [Airport Limousine 6015](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=47) and [6001](https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=4): inbound stops, ₩17,000 fares, terminal-specific boarding bays and first/last departures. Select each terminal to see its timetable. The 6015 T1 notice covers cash/card/ticket boarding for both routes; T2 notices require tickets.
+- [K Airport Limousine 6701](https://klimousine.com/EN/bus/limousine.php): Myeongdong-area stops, ₩18,000 fare and T1/T2 first/last departures; [airport ticketing guide](https://klimousine.com/EN/bus/Incheon.php): counters and kiosks.
+- Incheon Airport [T1 bus guide](https://www.airport.kr/ap_en/1502/subview.do) and [T2 bus guide](https://www.airport.kr/ap_en/1503/subview.do): ticket-office locations; [Airport Limousine ticket facilities](https://www.airportlimousine.co.kr/en/sub/sub02_02.php): T1 1F machines.
+- [AREX Express service](https://www.airportrailroad.com/train/express/introduce): ₩13,000 listed selling fare, assigned seats and 43/51-minute rides; [Express timetable](https://www.airportrailroad.com/train/express/info): first/last departures; [Express ticket guide](https://www.airportrailroad.com/train/express/guide): separate tickets, online/station purchase and cash/card payment.
+- [AREX All-Stop service](https://www.airportrailroad.com/train/normal/introduce): 59/66-minute rides and possible 2–6-minute additions; [ticket guide](https://www.airportrailroad.com/train/normal/ticket): transit cards and single tickets covering onward metro travel; [fare table](https://www.airportrailroad.com/train/normal/fare): ₩4,750/₩5,350 card fares to Seoul Station.
+- Seoul Metro's [route planner](https://www.seoulmetro.co.kr/en/cyberStation.do?menuIdx=337), queried to Myeongdong via Seoul Station: **₩4,750 from T1 / ₩5,350 from T2**, and **₩1,550 / about 3 minutes** for Seoul Station–Myeongdong alone. Its [T1 fare result](https://www.seoulmetro.co.kr/en/getRouteSearchResult.do?departureId=4213&arrivalId=0424&stopId=0150&sKind=2&sTime=1200&weekTag=2&isArrivalTimeSearch=), [T2 fare result](https://www.seoulmetro.co.kr/en/getRouteSearchResult.do?departureId=4215&arrivalId=0424&stopId=0150&sKind=2&sTime=1200&weekTag=2&isArrivalTimeSearch=) and [Line 4 result](https://www.seoulmetro.co.kr/en/getRouteSearchResult.do?departureId=0150&arrivalId=0424&stopId=&sKind=2&sTime=1200&weekTag=2&isArrivalTimeSearch=) were read today. Airport journey times conflicted with AREX's published durations and are not used as hotel-arrival estimates.
+- [Incheon Airport rail guide](https://www.airport.kr/ap_en/1512/subview.do): both terminals' Transportation Center B1 ticketing; [AREX Seoul Station map](https://www.airportrailroad.com/static/file/emergency_seoul.pdf): B7 platforms, elevators and Lines 1/4 connection.
+- Incheon Airport [T1 night buses](https://www.airport.kr/ap_en/1507/subview.do), [T2 night buses](https://www.airport.kr/ap_en/1510/subview.do) and [taxi guide](https://www.airport.kr/ap_en/1515/subview.do): N6701's Euljiro Entrance stop and ₩18,000 fare; designated taxi stands and applicable night surcharges.
+- [Klook AREX product](https://www.klook.com/activity/1163-airport-to-seoul-city-center-arex-train-incheon/): live package price could not be confirmed; **check on the day** through the booking button. No discount is assumed.
 
-**Airport-ready time + departure wait + ride + transfer + final walk = hotel arrival.**
-
-Use the departures available after baggage claim, not your flight's landing time. For example, a longer wait for Express can use up its onboard time advantage. Road congestion can change the bus result in the other direction. Neither the 43-minute train figure nor a bus map estimate is a guaranteed hotel arrival time.
-
-## Luggage: check the limits, not just the storage space
-
-Airport Limousine's [baggage notice](https://www.airportlimousine.co.kr/sub/sub03_01.php?boardid=notice&mode=view&idx=55) allows up to two pieces per person **including carry-on luggage**. It describes each as under 28 inches and under 20 kg, with combined dimensions no more than 158 cm; it separately says only one piece weighing 20 kg or more is allowed per person. Large backpacks and similar carry-ons count too.
-
-**The operator's pages differ:** its [English transport terms](https://www.airportlimousine.co.kr/en/sub/sub02_03.php) use a 20 kg-and-under limit and a combined size below 160 cm. For a bag around these limits, oversized luggage or extra pieces, confirm acceptance and the charge with the operator or counter before buying. Do not assume your airline's baggage allowance also applies to the bus.
-
-AREX also has limits. [Article 50 of its transport rules](https://www.airportrailroad.com/policy/transport) generally excludes items weighing **32 kg or more**, or measuring **158 cm or more** in combined dimensions, and limits passengers to two items. Listed exceptions include some sporting equipment, wheelchairs, strollers in use and certain items approved by staff for same-day airline passengers. An exception requiring approval should be checked before boarding.
-
-Even when the bag is allowed, ask whether you can move it through gates, corridors and the final walk. A luggage rack on the airport train does not remove the Seoul Station transfer. Travelers who need step-free access should verify station elevators and the coach's accessibility for their particular journey.
-
-## Boarding at T1 or T2
-
-- **Bus from T1:** use the first-floor ticket facilities. The airport lists indoor booths next to exits 4 and 9, plus outdoor booths. Confirm the route, destination stop and bay on your ticket. [T1 guide](https://www.airport.kr/ap_en/1502/subview.do).
-- **Bus from T2:** ticketing and Seoul-bound buses are at the **B1 Transportation Center**. The route pages list bay 28 for 6015 and bay 29 for 6001 at this check; follow the current ticket and signs. [T2 guide](https://www.airport.kr/ap_en/1503/subview.do).
-- **AREX:** follow the Airport Railroad signs to the B1 Transportation Center at your terminal, then the correct Express or All-Stop entrance. The Express service has its own ticket and assigned seat.
-
-For bus payment details, use our [Incheon Airport bus tickets and T-money guide](/posts/incheon-airport-limousine-bus-ticket-vs-tmoney-guide/). For these bus services, buy the required airport ticket before boarding.
-
-**Arriving late?** Check a departure you can reach after immigration and baggage, plus the onward subway connection if using rail. Use the airport's separate [T1 night-bus guide](https://www.airport.kr/ap_en/1507/subview.do) or [T2 night-bus guide](https://www.airport.kr/ap_en/1510/subview.do) if daytime services no longer fit. A night bus can have a different destination and stop.
-
-For the return trip, select **To Incheon Airport** and confirm your boarding stop and departure terminal again. Keep that return route separate from the arrival screenshot.
-
-## A practical choice before you buy
-
-Choose the bus when its stop leaves a manageable hotel walk and avoiding the transfer is worth the extra fare to you. Choose All-Stop when price matters most and you can comfortably manage the bags. Choose Express when an assigned airport-train seat and a well-timed departure justify its premium, while allowing for the onward subway ride.
-
-Before paying, save **your terminal, selected service, exact destination stop, hotel entrance and one backup route**. Those details are more useful after a flight than choosing transport on the advertised train time alone.
+**Not confirmed today — check on the day:** full door-to-hotel durations; the last All-Stop/Line 4 connection for your arrival; 6701's exact boarding bay; current stair-free access and coach accessibility; overseas-card acceptance on the buses; a new transit card's price; your taxi's total, wait and payment method; and Klook's live price.
