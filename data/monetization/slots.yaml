@@ -137,13 +137,35 @@ JEJU_EAST_HOTEL_PICKUP_KLOOK:
   disclaimer: "Select the East package and confirm pickup coverage for your hotel."
   mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
 
+JEJU_CAR_RENTAL_KLOOK:
+  active: true
+  affiliate: true
+  provider: klook
+  title: "Compare Jeju rental cars on Klook"
+  subtitle: "Compare suppliers for your dates, then check driver eligibility, coverage and pickup details."
+  url: "https://affiliate.klook.com/redirect?aid=137134&aff_adid=1568255&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fcar-rentals%2F%3Fdest_id%3D18"
+  cta: "Check Jeju rental cars and total price"
+  disclaimer: "Confirm original IDP and license requirements, insurance exclusions, shuttle hours and cancellation terms before paying."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
+KOREA_ESIM_SKT_KLOOK:
+  active: true
+  affiliate: true
+  provider: klook
+  title: "Check Korea SKT eSIM options on Klook"
+  subtitle: "Review device compatibility, data allowance and validity for your trip."
+  url: "https://affiliate.klook.com/redirect?aid=137134&aff_adid=1568257&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F109354-south-korea-esim-high-speed-internet-qr-code-voucher%2F"
+  cta: "Check SKT eSIM plans and terms"
+  disclaimer: "Confirm supported devices, activation instructions, plan inclusions and refund terms before paying."
+  mini_disclosure: "Paid affiliate link. LoveKorea may earn a commission at no extra cost to you."
+
 KOREA_TOUR_DEALS:
   active: true
   affiliate: false
   provider: klook
   title: "Korea Tours & Day Trips"
   subtitle: "Compare popular Korea tours, passes, and day trips."
-  url: "https://www.klook.com/en-US/search/result/?keyword=korea"
+  url: "https://www.klook.com/en-US/search/result/?query=korea"
   cta: "Compare Tours"
   disclaimer: "Prices vary by date and availability."
 
@@ -153,7 +175,7 @@ KOREA_DMZ_TOUR:
   provider: klook
   title: "Compare DMZ day trips"
   subtitle: "Check whether your selected route includes the Third Tunnel and Dora Observatory."
-  url: "https://www.klook.com/en-US/search/result/?keyword=dmz+tour"
+  url: "https://www.klook.com/en-US/search/result/?query=dmz+tour"
   cta: "Check DMZ Tours"
 
 KOREA_PALACE_TOUR:
@@ -162,7 +184,7 @@ KOREA_PALACE_TOUR:
   provider: klook
   title: "Seoul Palace Tours"
   subtitle: "Gyeongbokgung, Changdeokgung, hanbok, and guided history walks."
-  url: "https://www.klook.com/en-US/search/result/?keyword=seoul+palace"
+  url: "https://www.klook.com/en-US/search/result/?query=seoul+palace"
   cta: "See Palace Tours"
 
 KOREA_KPOP_TOUR:
@@ -171,7 +193,7 @@ KOREA_KPOP_TOUR:
   provider: klook
   title: "K-Pop Experiences"
   subtitle: "Dance classes, studio tours, fan activities, and themed walks."
-  url: "https://www.klook.com/en-US/search/result/?keyword=kpop+korea"
+  url: "https://www.klook.com/en-US/search/result/?query=kpop+korea"
   cta: "Explore K-Pop Tours"
 
 KOREA_DAYTRIP:
@@ -180,7 +202,7 @@ KOREA_DAYTRIP:
   provider: klook
   title: "Day Trips from Seoul"
   subtitle: "Nami Island, Jeonju, Suwon, Busan, and other easy add-ons."
-  url: "https://www.klook.com/en-US/search/result/?keyword=seoul+day+trip"
+  url: "https://www.klook.com/en-US/search/result/?query=seoul+day+trip"
   cta: "Browse Day Trips"
 
 KOREA_FOOD_TOUR:
@@ -189,7 +211,7 @@ KOREA_FOOD_TOUR:
   provider: klook
   title: "Korean Food Tours"
   subtitle: "Street food walks, cooking classes, and market tours."
-  url: "https://www.klook.com/en-US/search/result/?keyword=korea+food+tour"
+  url: "https://www.klook.com/en-US/search/result/?query=korea+food+tour"
   cta: "Find Food Tours"
 
 # Hotel deals

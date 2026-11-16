@@ -1,9 +1,10 @@
 ---
-title: "Jeju Rental Car 2026: IDP, Insurance, Airport Shuttle & Price Check"
+title: "Jeju car rental: IDP rules and zero-excess insurance"
 date: 2026-01-14T12:10:52.889267
-lastmod: 2026-10-23
+lastmod: 2026-11-16
+ShowToc: false
 slug: "jeju-rental-car-booking-insurance-license-price-comparison"
-description: "Renting a car in Jeju? Check the original IDP and license rules, what zero-excess CDW does and does not cover, airport shuttle hours, and how to compare the final price."
+description: "U.S. visitors can rent a car in Jeju with a valid IDP and home license; compare booking options, insurance exclusions and airport pickup before paying."
 categories: ["k-travel"]
 tags: ["jeju", "jeju car rental", "rental car insurance", "korea travel", "driving in korea", "price comparison", "airport pickup", "international driving permit"]
 cover:
@@ -18,83 +19,76 @@ monetize:
     bottom: []
 ---
 
-**Before paying for a Jeju rental car, check whether every named driver can collect it.** An overseas visitor will generally need an **original, valid International Driving Permit (IDP)**, a **home-country driver's license**, a **passport** and a payment card accepted by the chosen operator. A photo, PDF or privately sold “international driver's license” is not a substitute for the original IDP at operators such as [LOTTE](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) and [SK Rent-a-Car](https://homepage.skdirect.co.kr/en/useGuide/shortRental/rentalQualification). A valid Korean license or another specifically accepted permit may follow a different rule; confirm your own case before booking.
+A U.S. license holder can rent a car in Jeju, provided they meet the supplier's age and document rules: bring a **valid, original International Driving Permit (IDP) together with your original home license and passport**. An English-language U.S. license alone does not replace the IDP. Before paying, decide whether your itinerary needs a car, which supplier and damage waiver to choose, and whether its airport shuttle fits your flight.
 
-Then compare the **final checkout price** for the same pickup time, car class and coverage. The cheapest displayed daily rate may exclude a vehicle-damage waiver, and a “zero excess” label does not answer every question about a damaged car. [Korea Tourism Organization's driving guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=480&vcontsId=140664) says rental prices vary by season, vehicle and company and advises checking the insurance scope and total with options.
+| Booking option | What it suits | License / IDP requirement | Insurance choice | Payment / English support | Airport pickup |
+| --- | --- | --- | --- | --- | --- |
+| Klook aggregator | Comparing suppliers in an English search | IDP plus home license; check the selected supplier's rules | Selected supplier/package: check on the day | English listings; accepted cards and counter support: check on the day | Supplier shuttle to depot; exact bay and hours: check on the day |
+| LOTTE direct | Choosing LOTTE and dealing with its own booking service | Original IDP and passport; carry home license too | Mandatory CDW; Jeju lists Zero Excess | Debit/credit card; English booking and customer support | Shuttle to Jeju Auto House, Zone 1, No. 4 |
+| SK direct | Choosing SK and checking its requirements directly | Paper IDP, home license and passport | check on the day | Credit card in driver's name; English requirements page; counter support: check on the day | Exact shuttle bay and hours: check on the day |
+| No rental: bus, taxi or day tour | Travelling as a passenger; city stays or a planned sightseeing route | No driving permit needed as a passenger | Rental CDW not applicable; tour inclusions: check on the day | Payment methods and English service: check on the day | Airport bus/taxi facilities; tour meeting point: check on the day |
 
-| Check before paying | What to verify |
-| --- | --- |
-| Driver | Original IDP category and validity, original home license, passport, age and experience rules for **this vehicle** |
-| Price | Same dates and hours, vehicle class, discounts, CDW charge, extra-driver/child-seat fees and cancellation terms |
-| Damage | Deductible, coverage limit, excluded damage and the separate charge for days the vehicle cannot be rented |
-| Airport | Actual shuttle stop, last shuttle, branch closing time and time needed to return to the terminal |
-| Return | Fuel or EV charge level, late-return rules and accident-reporting contact |
+*Paid affiliate link: LoveKorea may earn a commission at no extra cost to you.*
 
-![Jeju car rental planning illustration](/images/jeju-rental-car-booking-insurance-license-price-comparison-h2-0.webp)
+Book through Klook if you have the required originals and want to compare suppliers in English; skip it if you lack a valid IDP with your home license, or your stay fits the [Jeju Airport–Seogwipo bus](/posts/jeju-airport-seogwipo-airport-bus-tickets-routes/) and a [Jeju without a car itinerary](/posts/jeju-without-car-where-to-stay/).
 
-## Documents and age rules for international drivers
+{{< offer slot="JEJU_CAR_RENTAL_KLOOK" pos="decision" >}}
 
-The [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=480&vcontsId=140664) says short-term visitors using an IDP must be **over 21**, be within **one year of entering Korea**, and show a passport or alien registration card. It advises carrying the home-country license too. Operators can apply more specific rules. For example, [SK's English rental requirements](https://homepage.skdirect.co.kr/en/useGuide/shortRental/rentalQualification) list age **21+** for cars with up to nine seats and **26+** for its listed larger vehicles; SK also asks for the original home license to verify driving history. Do not assume an SUV automatically has the larger-vehicle age rule: check the seat count and that model's booking terms.
+## Decide whether the car earns its place in your trip
 
-For an IDP booking, bring the **paper booklet**, not a phone image or printout. Check that its vehicle category covers your chosen car and that the name matches your passport. [LOTTE's rental information](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) explicitly rejects IDP photocopies, PDFs and pictures. [SK](https://homepage.skdirect.co.kr/en/useGuide/shortRental/rentalQualification) distinguishes an official IDP from an “International Driving License” or an English translation of a local license.
+Start with your overnight bases and the stops you actually want to visit. Use the [Jeju driving routes guide](/posts/jeju-best-driving-routes-guide/) to sketch a driving day before choosing a vehicle. If you prefer to travel as a passenger, Jeju Airport lists bus and taxi transport, and the Jeju City Tour operator offers a sightseeing bus route.
 
-**Payment rules differ by operator.** SK asks for a credit card in the driver's name. LOTTE's [published document list](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) describes a debit or credit card issued to the renter, driver or companion. The tourism guide gives the more conservative general advice of a credit card under the driver's name. If you plan to use a debit card or someone else's card, get written confirmation from your exact pickup branch before you commit to a nonrefundable booking. Keep all required originals in hand luggage.
+**Price: check on the day.** No date-specific, all-in rental quote could be verified for this update. Klook's Jeju listings warn that displayed rates may differ from the supplier's latest price. Do not treat a headline daily rate as your checkout total.
 
-## Insurance: what does “full coverage” mean in Jeju?
+Compare the same pickup/return times, car size, named drivers and coverage in each booking flow. Record the total including required CDW and any extras you need, the deposit, cancellation deadline and no-show terms. Check the currency before comparing a dollar total with one in Korean won (₩). A quote is only useful if the driver can collect the car.
 
-Separate **liability coverage for people or property** from damage to **the rental car itself**. The [tourism guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=480&vcontsId=140664) says the former is typically included while cover for the rented vehicle may be included or added. The contract, rather than the words “full coverage,” decides what you owe.
+## Confirm the driver qualifies before booking
 
-| Term on a quote | Question to ask |
-| --- | --- |
-| Basic insurance | Does it cover damage to **this rental car**, or only injury and third-party property? |
-| CDW / 자차 | What is the deductible (면책금), damage limit and claim procedure? |
-| Zero-excess / 완전자차 | Is the deductible zero for every covered incident? Which damage or drivers are excluded? |
-| Loss-of-use / 휴차보상료 | If the car needs repair, do you pay for the days it cannot be rented? |
+[KoROAD's IDP guidance](https://www.safedriving.or.kr/diGuide/selectDiGuide10.do) accepts valid permits from Geneva and Vienna Convention countries for up to one year after entry into Korea. These are the **1949 Geneva** and **1968 Vienna** conventions, identified in Korea's [official legal guidance](https://m.easylaw.go.kr/MOM/SubCsmOvRetrieve.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=2332&langCd=700101). The permit must remain valid for your rental; a privately sold “International Driving License” is not the recognized IDP. LOTTE explicitly accepts AAA-issued IDPs for U.S. visitors.
 
-[LOTTE's current CDW terms](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do), rechecked **October 23, 2026**, list **Zero Excess for both Korean-brand and foreign-brand vehicles in Jeju** and state that CDW is mandatory. The same page says the **compensation fee for an unusable vehicle is waived for both domestic and imported vehicles at the Jeju location when the renter has Zero Excess CDW**. A zero deductible and a loss-of-use waiver address different charges, so check both in your quote.
+Pack these in hand luggage:
 
-[LOTTE's Jeju Auto House page](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) also describes Full Exemption CDW benefits including tire and wheel damage. These are **LOTTE product terms**. Check your specific vehicle's quote and agreement for exclusions, named drivers and accident-reporting duties; other rental companies can use different conditions.
+- **Original paper IDP:** LOTTE rejects photocopies, PDFs and phone pictures; choose a vehicle covered by its category stamp.
+- **Original home license and passport:** SK requires the home license to establish driving experience and matching English names on the passport and IDP.
+- **Credit card in the driver's name:** this is SK's rule. LOTTE's general document list allows a debit or credit card belonging to the renter, driver or companion, but its Jeju pickup instructions specify a credit card; confirm any alternative with the branch.
+- **Korean accommodation address and contact number:** LOTTE lists both among its requirements.
 
-If a quote only says “완전자차,” ask for its **deductible, maximum cover, exclusions and loss-of-use rule in writing**. Do not buy an expensive option solely because its name sounds comprehensive; compare what the additional charge actually changes.
+[SK's requirements](https://homepage.skdirect.co.kr/en/useGuide/shortRental/rentalQualification) specify **age 21+ and category B for cars with up to nine seats**, and **26+ and category D for its listed vehicles with ten or more seats**. Its home-license guidance requires **at least one year of driving experience**. These are SK's conditions, not island-wide age limits.
 
-![Comparing rental car insurance terms before checkout](/images/jeju-rental-car-booking-insurance-license-price-comparison-h2-1.webp)
+[LOTTE's rental information](https://lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) lists **ages 21–79 at pickup** for its IDP rental categories. Its one-year license-holding wording addresses Korean licenses; an equivalent home-license experience threshold for IDP renters was not confirmed. Ask about your exact vehicle and license history before paying, especially for a larger van.
 
-## How to compare Jeju rental car prices
+## Choose coverage by exclusions, not the word “full”
 
-There is no honest island-wide “typical 2026 price” without a travel date, vehicle and coverage choice. As one **published list-rate example**, [LOTTE's English rental-rate table](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) lists a Spark or Morning at **₩115,000 per day for a 1–3 day rental**. That is **not a live checkout quote or the cheapest available Jeju rate**. LOTTE itself labels the table as reference rates; membership discounts, availability, pickup hours, CDW and add-ons can change what a traveler actually pays.
+LOTTE's [insurance FAQ](https://lotterentacar.net/hp/eng/info/engFaqList.do) separates included liability/personal-injury protection from CDW for the rented car. CDW carries an additional charge. Its rental information makes CDW mandatory and lists **Zero Excess for both Korean-brand and imported vehicles in Jeju**.
 
-For a useful comparison, open at least two real booking flows, such as [LOTTE's Jeju reservation page](https://www.lotterentacar.net/hp/eng/reservation/index.do) and [SK's English booking page](https://en.skdirect.co.kr/). These are direct links to the operators. Enter the **same** pickup/return dates and times, passenger/luggage needs and driver ages. Then record:
+For LOTTE's Jeju Full Exemption CDW, the [Jeju Auto House page](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) states no deductible or compensation charge for an unusable vehicle, and includes tire/wheel damage. Its general FAQ nevertheless lists interior damage, vehicle substitution and post-accident contract renewal among exclusions; it also lists flat tires, conflicting with that Jeju-specific benefit. Have the branch confirm the Jeju terms in your agreement.
 
-1. Vehicle class and whether a specific model is guaranteed.
-2. Rental price **after** taxes or required fees, plus the CDW option you intend to use.
-3. Deductible, damage exclusions and loss-of-use treatment.
-4. Additional-driver, child-seat and other needed charges.
-5. Cancellation deadline, no-show rule, fuel/charge policy and airport shuttle hours.
+LOTTE excludes unregistered drivers from its insurance and warns that traffic violations can reduce or remove benefits. Do not transfer LOTTE's terms to SK or a different Klook supplier. Ask for the deductible (면책금), damage limit, excluded damage and loss-of-use charge (휴차보상료) in writing. SK's current CDW terms and individual Klook packages were not confirmed for this update: **check on the day**, before payment.
 
-Compare those **final totals and conditions**, not a banner discount percentage. If an aggregator is cheaper, check which company supplies the car and use that supplier's current rules for documents, shuttle and insurance. A lower quote is only useful if the driver can collect the vehicle and the pickup time fits the flight.
+## Match airport pickup to your arrival
 
-Connecting through Incheon and Gimpo before flying to Jeju? Use the [airport-change planning guide](/posts/incheon-to-gimpo-jeju-transfer/) to allow for collecting and rechecking bags before choosing the flight that determines your car-pickup time.
+[Jeju Airport's rental-car directions](https://www.airport.co.kr/jejueng/cms/frCon/index.do?MENU_ID=100) say to head toward Gates **3 and 5**, cross the road and follow the covered path to the Rental Car House for the supplier's shuttle. Collection is at the rental depot after the shuttle ride.
 
-## Jeju Airport pickup: the shuttle is part of the trip
+For **LOTTE only**, the desk is near **domestic arrivals Gate 2**, the shuttle boards at **Zone 1, No. 4**, shuttle hours are **06:00–22:40**, and Jeju Auto House hours are **06:00–23:00**. These are local times, not a schedule for every rental company. Confirm your supplier's last pickup before booking a late arrival.
 
-Rental cars are often collected at a company lot after a shuttle, not at the airport curb. For one concrete example, [LOTTE Jeju Auto House](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) directs arrivals to its desk near **domestic arrivals Gate 2**, then to **rental-car shuttle Zone 1, No. 4**. Its page lists the branch as **06:00–23:00** and shuttle service as **06:00–22:40**, with frequency varying by time of day. Those are LOTTE's published details, **not** a universal airport shuttle schedule; verify them again with the operator before a late flight.
+Allow for baggage, the walk, shuttle wait and document checks. At the depot, photograph existing damage and the dashboard fuel/charge level, register every driver, and save the supplier's accident-reporting contact before leaving.
 
-Allow time for baggage, walking to the shuttle, the ride to the lot, document checks and the vehicle inspection. On departure day, allow the reverse trip before airline check-in. If your plane lands after the final pickup service, ask the company what happens to the reservation rather than assuming an after-hours counter or unattended pickup.
+## Choose petrol or EV with the return in mind
 
-Before leaving the lot, photograph existing damage and the fuel/charge display, confirm every driver is named in the contract, and save the accident-reporting number. [LOTTE's published fuel rule](https://www.lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) is full-to-full for petrol cars; its [Jeju Auto House page](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) says its EVs need not be returned fully charged. Follow **your specific contract**, not a blanket fuel rule. Ask for an extension before the return time if plans change.
+LOTTE's FAQ specifies **full-to-full fuel**; its Jeju Auto House page says EVs **do not need to be returned fully charged**. That does not establish another supplier's policy or promise free charging. For an EV, confirm the charging card, compatible networks, billing and required return charge with the supplier; the [Jeju EV rental and charging-card guide](/posts/jeju-ev-rental-charging-card/) helps you plan those questions.
 
-![Checking the Jeju rental shuttle and return plan](/images/jeju-rental-car-booking-insurance-license-price-comparison-h2-2.webp)
+Return to the depot with time for inspection and the shuttle back to the terminal. LOTTE's Jeju process includes a vehicle/fuel check, settlement of any extra charges and a free airport shuttle. Request an extension before the agreed return time: LOTTE's FAQ warns that an unreported extension loses insurance and damage coverage for that period. Keep the return receipt and your pickup/return photos.
 
-## A final decision check
+## Sources
 
-If your route is mostly between a few places served by buses, compare the actual cost and convenience of a car with public transit. If you need several distant stops, a car may be more useful. For navigation, the [tourism guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=480&vcontsId=140664) points to Naver Map and KakaoMap for Korean driving directions.
+**Checked on 2026-11-16.** Company-specific rules above are not interchangeable. Unverified terms are marked “check on the day.”
 
-**Do not pay until you can answer three questions:** Can the named driver present every required original document? What is the final price with the coverage you chose? Can you reach the lot during its actual pickup hours? If any answer is unclear, contact the supplier before booking.
-
-## Related Jeju guides
-
-- [Jeju Airport to Seogwipo buses: routes, stops and fares](/posts/jeju-airport-seogwipo-airport-bus-tickets-routes/)
-- [Jeju driving route ideas](/posts/jeju-best-driving-routes-guide/)
-- [Jeju Tour Pass prices and booking options](/posts/jeju-tour-pass-prices-2026-best-spots/)
-
-*Official tourism and operator pages checked September 24, 2026; LOTTE CDW and loss-of-use terms rechecked October 23, 2026. Rental quotes, branch schedules and contract terms can change; confirm your vehicle and dates with the supplier before payment.*
+- [KoROAD: International Driving Permit guidance](https://www.safedriving.or.kr/diGuide/selectDiGuide10.do) — accepted conventions, entry-based validity and recognized permits.
+- [Korean government: Using a Foreign Driver's License](https://m.easylaw.go.kr/MOM/SubCsmOvRetrieve.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=2332&langCd=700101) — convention years and U.S. membership.
+- [SK: Rental requirements](https://homepage.skdirect.co.kr/en/useGuide/shortRental/rentalQualification) — documents, cardholder, age, permit categories and experience.
+- [LOTTE: Rental information](https://lotterentacar.net/hp/eng/reservation/shortInfo/pay.do) — IDP originals, AAA acceptance, age, address/contact and card rules, mandatory Jeju CDW and insurance restrictions.
+- [LOTTE: English FAQ](https://lotterentacar.net/hp/eng/info/engFaqList.do) — English booking/support, insurance scope and exclusions, fuel and extensions.
+- [LOTTE: Jeju Auto House](https://lotterentacar.net/hp/eng/carLife/jejuAuto.do) — Jeju CDW benefits, desk/shuttle location and hours, EV return and depot return process.
+- [Jeju Airport: Car rental](https://www.airport.co.kr/jejueng/cms/frCon/index.do?MENU_ID=100) — route to the rental shuttles; [public transport](https://www.airport.co.kr/jejueng/cms/frCon/index.do?MENU_ID=90) — bus/taxi alternatives.
+- [Jeju City Tour operator](https://www.jejucitybus.com/en/) — passenger sightseeing alternative.
+- [Klook: Jeju car-rental listings](https://www.klook.com/en-US/car-rentals/city/18-jeju-special-self-governing-province-car-rentals/) — English supplier comparison and displayed-rate caveat; no live checkout price, payment or package coverage verified. The destination search returned HTTP 403; it was not bypassed.
