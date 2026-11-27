@@ -1,6 +1,7 @@
 ---
 title: "One T-money Card for Two? Seoul's Subway Is the Catch"
 date: 2026-10-23T09:20:00-05:00
+lastmod: 2026-11-27
 slug: "one-tmoney-card-two-people"
 description: "Two travelers can ask a Seoul city-bus driver for group payment, but one T-money cannot admit both to the subway. Check the transfer before sharing."
 categories: ["k-travel"]
@@ -24,8 +25,6 @@ monetize:
 
 **Two fare-paying travelers cannot share one T-money card to enter Seoul's subway.** A Seoul city-bus driver can set up payment for multiple passengers on one card, but that group payment does **not** qualify for a subway transfer discount. If your route combines bus and subway, our practical recommendation is to give each traveler their own transport card before the first ride.
 
-These rules were checked **October 23, 2026**, against [Incheon Transit Corporation's metropolitan-subway FAQ](https://www.ictr.or.kr/main/bbs/bbsMsgDetail.do?bcd=faq&msg_seq=73&pgno=3) and [Seoul's city-bus guidance](https://english.seoul.go.kr/policy/transportation/modes-of-transport/bus/). This guide concerns ordinary physical T-money cards, Seoul city buses and metropolitan subway journeys. Airport coaches, intercity services and unlimited passes need their own rules.
-
 ## Decide from the whole route
 
 | Your plan | What to prepare |
@@ -36,11 +35,21 @@ These rules were checked **October 23, 2026**, against [Incheon Transit Corporat
 | City bus, then subway | Use individual cards from the first ride if relying on ordinary transfer discounts. |
 | Different destinations or someone joining later | Individual cards are the simpler plan; do not assume the original group transfer still applies. |
 
+**Affiliate disclosure:** The button below is a paid affiliate link. LoveKorea may earn a commission at no extra cost to you. [How our links work](/affiliate-disclosure/).
+
+Get a second card ahead if your route mixes bus and subway, or you will ride the subway together more than once or twice, and you would rather collect a card on arrival than buy one at a convenience store. Skip it if you already have one card each, only need one subway ride (buy a single-journey ticket at the station machine), or are happy to buy a second card at a convenience store after landing, which also works.
+
+{{< offer slot="KOREA_TMONEY_CARD_KLOOK" pos="second-card" >}}
+
+Check the price and pickup point for your date on the Klook page before booking; we do not quote a price here because it changes.
+
+This guide covers ordinary physical T-money cards on Seoul city buses and metropolitan subways; airport coaches, intercity services and passes have their own rules.
+
 The subway FAQ, originally published **September 10, 2019**, explicitly says the one-person-per-card system applies across metropolitan urban-rail operators. It distinguishes that system from a bus driver's ability to enter multiple passengers manually. This is an existing rule, not a newly announced 2026 restriction.
 
 ## On the bus, speak before you tap
 
-[Seoul's boarding instructions](https://english.seoul.go.kr/service/movement/public-transportation/) say to tell or show the driver the passenger count so they can set the reader. For two adults, you can say:
+Seoul's boarding instructions say to tell or show the driver the passenger count so they can set the reader. For two adults, you can say:
 
 > 성인 두 명이요.
 >
@@ -52,7 +61,7 @@ Tap the card at the exit reader when leaving. On the next eligible bus, tell the
 
 ## A group bus transfer only works while the group stays together
 
-[Seoul TOPIS](https://topis.seoul.go.kr/eng/page/transInfo_1_1.jsp) limits multiple-passenger transfer discounts to city buses and passengers traveling to the same destination. Seoul's detailed rules require matching boarding and alighting locations and passenger numbers. The usual transfer conditions still apply, including tapping out, the time limit and the exclusion for the same bus route.
+Seoul TOPIS limits multiple-passenger transfer discounts to city buses and passengers traveling to the same destination. Seoul's detailed rules require matching boarding and alighting locations and passenger numbers. The usual transfer conditions still apply, including tapping out, the time limit and the exclusion for the same bus route.
 
 **Illustrative examples:**
 
@@ -60,10 +69,20 @@ Tap the card at the exit reader when leaving. On the next eligible bus, tell the
 - **Two adults, then a third friend joins:** the passenger count changes. Do not budget on preserving the original two-person group transfer. Separate cards from the outset avoid that shared-payment complication.
 - **Two adults, bus then subway:** the bus's group transaction cannot serve as two subway entries. Plan individual cards for the connected journey.
 
-Before choosing a shared card, open the complete route in your map app. Check whether a train appears after the bus and whether everyone will stay together. That check matters more than how many cards fit in one wallet.
+Before choosing a shared card, check the complete route in your map app for trains after the bus and whether everyone will stay together.
 
 ## Already at the subway with one card?
 
-Arrange a valid fare medium for the second rider before entering. Seoul's public-transport guide lists **individual single-journey subway tickets** as an option available at station machines. You do not have to buy another reusable T-money just to make one subway journey. Ask station staff if you are unsure which ticket to buy; a bus group-payment setting cannot admit both people.
+Arrange a valid fare medium for the second rider before entering. Seoul's public-transport guide lists **individual single-journey subway tickets** as an option available at station machines. You do not have to buy another reusable T-money just to make one subway journey. Ask station staff if you are unsure which ticket to buy.
 
 For children, separately check [T-money birthday registration and fare categories](/posts/tmoney-child-discount-registration/), including the operator's free-accompaniment rules for young children. If your T-money is part of a WOWPASS card, our [two-balance guide](/posts/wowpass-tmoney-separate-balances/) explains which balance funds transport. More shopping credit does not turn the physical card into two separate subway tickets.
+
+## Sources
+
+- [Incheon Transit Corporation subway FAQ](https://www.ictr.or.kr/main/bbs/bbsMsgDetail.do?bcd=faq&msg_seq=73&pgno=3): one person per card across metropolitan urban rail, manual group payment on buses, and the September 10, 2019 publication date.
+- [Seoul city-bus guidance](https://english.seoul.go.kr/policy/transportation/modes-of-transport/bus/): tell drivers the passenger count before boarding and transferring; matching group boarding/alighting locations and passenger numbers; no group subway-transfer discount; tap-out, transfer-time and same-route restrictions; convenience-store card sales and age-based fares.
+- [Seoul boarding and public-transport guide](https://english.seoul.go.kr/service/movement/public-transportation/): tell or show the driver the group size, tap out, and buy individual single-journey subway tickets at station kiosks.
+- [Seoul TOPIS](https://topis.seoul.go.kr/eng/page/transInfo_1_1.jsp): multiple-passenger transfer discounts are limited to city buses and passengers traveling to the same destination.
+- [WOWPASS usage guide](https://www.wowpass.io/en/guide): separate shopping and Tmoney transport balances.
+
+Checked on 2026-11-27
